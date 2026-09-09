@@ -1,5 +1,5 @@
 # Fermi Podcast Companion — Evaluation Success Criteria
-# Written before case construction (Phase 3)
+
 
 ## What we are evaluating
 

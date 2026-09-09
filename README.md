@@ -49,21 +49,4 @@ python run_eval.py
 
 *(Note: The original 14-case suite is perfectly preserved as the first 14 items inside `eval/cases.json`. Running the command above guarantees you see both the original cases and the new scale-up cases.)*
 
----
 
-## 🎬 Demo Recording Guide
-
-If you are recording a walkthrough of the product, here is the ideal path to showcase the core capabilities:
-
-1. **Factual Grounding & Chunk-Level Citation:**
-   - **Ask:** *"What is Shannon entropy and what does the formula actually compute?"*
-   - **Highlight:** The system will answer accurately and provide inline citations `[1]`. Click the button below the answer to instantly seek the audio to the exact moment the speaker explains the concept.
-2. **Episode-Level Recommendations:**
-   - **Ask:** *"Which episode should I listen to if I want to learn about biology?"*
-   - **Highlight:** The system will recommend episodes 3, 8, and 13. Note how the citations cleanly render as static, non-interactive `📚 From: ...` labels instead of broken audio-seek buttons.
-3. **Far-Apart Cross-Episode Comparison:**
-   - **Ask:** *"Compare Watson and Crick's approach to discovering the structure of DNA with Mendeleev's approach to discovering the periodic table. How did both rely on finding patterns?"*
-   - **Highlight:** The system successfully retrieves evidence from Ep 03 and Ep 15, integrates them seamlessly, and cites both appropriately.
-4. **Adversarial Refusal (Zero Hallucination):**
-   - **Ask:** *"Which episode covers the discovery of the Higgs Boson?"*
-   - **Highlight:** The system cleanly refuses the question, acknowledging that no episodes cover this topic, and produces zero misleading citations.
