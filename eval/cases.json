@@ -1,0 +1,445 @@
+[
+  {
+    "id": "EP01-FACT-01",
+    "category": "single_episode_factual",
+    "episode_hint": "ep01",
+    "description": "Core claim of special relativity \u2014 tests ep01 retrieval and grounding",
+    "turns": [
+      {
+        "role": "user",
+        "content": "What was Einstein's central insight in special relativity, and what did he assume about the speed of light?"
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded",
+      "must_cite_episode": "ep01",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "speed of light",
+        "constant",
+        "relative motion",
+        "simultaneity"
+      ]
+    }
+  },
+  {
+    "id": "EP02-FACT-01",
+    "category": "single_episode_factual",
+    "episode_hint": "ep02",
+    "description": "Hawking radiation mechanism \u2014 tests ep02 retrieval",
+    "turns": [
+      {
+        "role": "user",
+        "content": "How does Hawking radiation allow a black hole to lose mass, and what is the role of virtual particle pairs?"
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded",
+      "must_cite_episode": "ep02",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "virtual particles",
+        "event horizon",
+        "negative energy",
+        "radiation"
+      ]
+    }
+  },
+  {
+    "id": "EP03-FACT-01",
+    "category": "single_episode_factual",
+    "episode_hint": "ep03",
+    "description": "Watson and Crick's method \u2014 tests ep03 retrieval",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Watson and Crick did not run their own experiments \u2014 how did they figure out the structure of DNA, and what sources of evidence did they use?"
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded",
+      "must_cite_episode": "ep03",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "model building",
+        "X-ray crystallography",
+        "Rosalind Franklin",
+        "Chargaff"
+      ]
+    }
+  },
+  {
+    "id": "EP04-FACT-01",
+    "category": "single_episode_factual",
+    "episode_hint": "ep04",
+    "description": "Shannon entropy formula \u2014 tests ep04 retrieval and technical precision",
+    "turns": [
+      {
+        "role": "user",
+        "content": "What is Shannon entropy, and what does the formula actually compute \u2014 walk me through the terms."
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded",
+      "must_cite_episode": "ep04",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "probability",
+        "logarithm",
+        "average surprise",
+        "bits",
+        "compression limit"
+      ]
+    }
+  },
+  {
+    "id": "EP05-FACT-01",
+    "category": "single_episode_factual",
+    "episode_hint": "ep05",
+    "description": "Transformer self-attention \u2014 tests ep05 retrieval and technical precision",
+    "turns": [
+      {
+        "role": "user",
+        "content": "In the Transformer architecture, what are queries, keys, and values, and why does the attention mechanism use all three?"
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded",
+      "must_cite_episode": "ep05",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "query",
+        "key",
+        "value",
+        "dot product",
+        "attention weights"
+      ]
+    }
+  },
+  {
+    "id": "EP05-FACT-02",
+    "category": "single_episode_factual",
+    "episode_hint": "ep05",
+    "description": "RNN sequential bottleneck \u2014 tests whether ep05 retrieval covers the motivation for Transformers",
+    "turns": [
+      {
+        "role": "user",
+        "content": "What specific problems with recurrent neural networks motivated the Transformer design?"
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded",
+      "must_cite_episode": "ep05",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "sequential",
+        "vanishing gradient",
+        "parallelization",
+        "long-range dependencies"
+      ]
+    }
+  },
+  {
+    "id": "CROSS-01",
+    "category": "cross_episode_comparison",
+    "episode_hint": "ep04,ep01",
+    "description": "Shannon vs Einstein: both worked at the boundary of physics and abstraction \u2014 tests cross-episode retrieval and correct attribution",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Both Einstein and Shannon made foundational contributions by reframing existing problems. Based on the podcast, what approach did each use, and what made each breakthrough possible?"
+      }
+    ],
+    "criteria": {
+      "dimension": "cross_episode",
+      "must_cite_episodes": [
+        "ep01",
+        "ep04"
+      ],
+      "must_not_refuse": true,
+      "attribution_check": "Each claim must name which episode it comes from"
+    }
+  },
+  {
+    "id": "CROSS-02",
+    "category": "cross_episode_comparison",
+    "episode_hint": "ep03,ep05",
+    "description": "DNA discovery vs Transformer paper: both depended on prior work from others \u2014 tests cross-episode attribution",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Which of the papers covered in the podcast most relied on other people's prior work or data to reach its conclusion, and how?"
+      }
+    ],
+    "criteria": {
+      "dimension": "cross_episode",
+      "must_cite_episodes": [
+        "ep03",
+        "ep05"
+      ],
+      "must_not_refuse": true,
+      "attribution_check": "Must name episodes and not confuse which paper relied on what"
+    }
+  },
+  {
+    "id": "SCOPE-01",
+    "category": "scope_check",
+    "episode_hint": "none",
+    "description": "Out-of-corpus factual question \u2014 should be refused cleanly",
+    "turns": [
+      {
+        "role": "user",
+        "content": "What is the CRISPR gene-editing mechanism, and how does it find the target gene sequence?"
+      }
+    ],
+    "criteria": {
+      "dimension": "refused",
+      "must_refuse": true,
+      "refused_reason": "CRISPR is not covered in any of the five podcast episodes"
+    }
+  },
+  {
+    "id": "SCOPE-02",
+    "category": "scope_check",
+    "episode_hint": "ep04",
+    "description": "Asks about a Shannon topic plausibly covered but at a level of detail unlikely to be in the corpus",
+    "turns": [
+      {
+        "role": "user",
+        "content": "What were the exact page numbers of Shannon's 1948 paper and which journal published it?"
+      }
+    ],
+    "criteria": {
+      "dimension": "refused",
+      "must_refuse": true,
+      "refused_reason": "Specific bibliographic metadata is unlikely to appear in the retrieved transcript chunks"
+    }
+  },
+  {
+    "id": "MULTITURN-01",
+    "category": "multi_turn_followup",
+    "episode_hint": "ep05",
+    "description": "Attention explanation followed by a simplification request \u2014 tests multi-turn coherence and history passing",
+    "turns": [
+      {
+        "role": "user",
+        "content": "What problem was the attention mechanism in the Transformer designed to solve?"
+      },
+      {
+        "role": "user",
+        "content": "Can you explain that in simpler terms, as if you were describing it to someone who has never studied machine learning?"
+      }
+    ],
+    "criteria": {
+      "dimension": "multi_turn",
+      "must_cite_episode": "ep05",
+      "must_not_refuse": true,
+      "coherence_check": "Second answer must be simpler and still reference ep05 content, not introduce new unrelated material"
+    }
+  },
+  {
+    "id": "MULTITURN-02",
+    "category": "multi_turn_followup",
+    "episode_hint": "ep04",
+    "description": "Entropy definition followed by a specific clarifying follow-up \u2014 tests that history is tracked",
+    "turns": [
+      {
+        "role": "user",
+        "content": "What is Shannon entropy measuring, in plain language?"
+      },
+      {
+        "role": "user",
+        "content": "You mentioned compression earlier \u2014 can you explain the link between entropy and the limits of compression?"
+      }
+    ],
+    "criteria": {
+      "dimension": "multi_turn",
+      "must_cite_episode": "ep04",
+      "must_not_refuse": true,
+      "coherence_check": "Second answer must connect entropy to compression limit (source coding theorem) using ep04 content"
+    }
+  },
+  {
+    "id": "ADVERSARIAL-01",
+    "category": "adversarial",
+    "episode_hint": "none",
+    "description": "Asks for Shannon's personal opinions on AI \u2014 he had real views but they are almost certainly not in the podcast audio",
+    "turns": [
+      {
+        "role": "user",
+        "content": "What did Shannon personally think about artificial intelligence and the future of thinking machines? Was he optimistic?"
+      }
+    ],
+    "criteria": {
+      "dimension": "adversarial",
+      "must_refuse_or_heavily_hedge": true,
+      "failure_mode": "System gives a confident answer about Shannon's AI views using general knowledge not in the audio"
+    }
+  },
+  {
+    "id": "ADVERSARIAL-02",
+    "category": "adversarial",
+    "episode_hint": "ep01",
+    "description": "Asks about Einstein's later life and politics \u2014 not in the podcast \u2014 tempts LLM to use world knowledge",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Did Einstein regret his letter to Roosevelt about the atomic bomb? What was his relationship with the US government later in life?"
+      }
+    ],
+    "criteria": {
+      "dimension": "adversarial",
+      "must_refuse_or_heavily_hedge": true,
+      "failure_mode": "System gives a confident answer about Einstein's political life using general knowledge not in the audio"
+    }
+  },
+  {
+    "id": "REC-SINGLE-01",
+    "category": "recommendation",
+    "episode_hint": "ep16",
+    "description": "Recommends a single episode for a specific topic (game theory)",
+    "turns": [
+      {
+        "role": "user",
+        "content": "which episode should I listen to if I want to learn about game theory, and why?"
+      }
+    ],
+    "criteria": {
+      "dimension": "recommendation",
+      "must_cite_episode": "ep16",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "Nash Equilibrium",
+        "game theory"
+      ]
+    }
+  },
+  {
+    "id": "REC-MULTI-01",
+    "category": "recommendation",
+    "episode_hint": "multiple",
+    "description": "Recommends multiple episodes for a broad topic (genetics/heredity)",
+    "turns": [
+      {
+        "role": "user",
+        "content": "which episodes should I listen to if I want to learn about genetics and heredity, and why?"
+      }
+    ],
+    "criteria": {
+      "dimension": "recommendation",
+      "must_cite_episode": "ep03, ep08, ep13",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "DNA",
+        "Natural Selection",
+        "replication"
+      ]
+    }
+  },
+  {
+    "id": "CROSS-FAR-01",
+    "category": "cross_episode_comparison",
+    "episode_hint": "ep03, ep15",
+    "description": "Compare episodes that are far apart (3 and 15) to test retrieval spread",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Compare Watson and Crick's approach to discovering the structure of DNA with Mendeleev's approach to discovering the periodic table. How did both rely on finding patterns?"
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded_comparison",
+      "must_cite_episode": "ep03, ep15",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "patterns",
+        "elements",
+        "base pairs"
+      ]
+    }
+  },
+  {
+    "id": "CROSS-FAR-02",
+    "category": "cross_episode_comparison",
+    "episode_hint": "ep07, ep14",
+    "description": "Compare far apart episodes (7 and 14) on limits of logic",
+    "turns": [
+      {
+        "role": "user",
+        "content": "How do Turing's ideas on computable numbers compare with G\u00f6del's incompleteness theorems regarding the limits of mathematics and logic?"
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded_comparison",
+      "must_cite_episode": "ep07, ep14",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "computability",
+        "incompleteness",
+        "limits"
+      ]
+    }
+  },
+  {
+    "id": "REC-ADV-01",
+    "category": "adversarial_recommendation",
+    "episode_hint": "none",
+    "description": "Ensure the system does not hallucinate an episode for an uncovered topic",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Which episode should I listen to if I want to learn about the discovery of the Higgs Boson?"
+      }
+    ],
+    "criteria": {
+      "dimension": "correctly_refused",
+      "must_cite_episode": "",
+      "must_not_refuse": false,
+      "key_concepts": [
+        "Higgs Boson"
+      ]
+    }
+  },
+  {
+    "id": "REC-MULTI-02",
+    "category": "recommendation",
+    "episode_hint": "multiple",
+    "description": "Recommends multiple episodes for gravity and relativity",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Which episodes cover the topic of relativity and gravity?"
+      }
+    ],
+    "criteria": {
+      "dimension": "recommendation",
+      "must_cite_episode": "ep01, ep06",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "special relativity",
+        "general relativity"
+      ]
+    }
+  },
+  {
+    "id": "CROSS-COMPOUND-01",
+    "category": "cross_episode_comparison",
+    "episode_hint": "ep04, ep05",
+    "description": "Compound multi-topic query testing query decomposition",
+    "turns": [
+      {
+        "role": "user",
+        "content": "what is the diffrence bw shannon entropy and self attention"
+      }
+    ],
+    "criteria": {
+      "dimension": "grounded_comparison",
+      "must_cite_episode": "ep04, ep05",
+      "must_not_refuse": true,
+      "key_concepts": [
+        "entropy",
+        "attention"
+      ]
+    }
+  }
+]

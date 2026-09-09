@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Generated artifacts — all are reproducible, do not commit
+data/
+
+# Eval results — raw outputs, large, not committed
+eval/results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Raw audio files
+podcasts/
+
+# Scratch/throwaway
+scratch/
