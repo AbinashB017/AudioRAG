@@ -1,0 +1,39 @@
+{
+  "episode_id": "ep04",
+  "episode_title": "Shannon and the Birth of Information, 1948",
+  "topics": [
+    "Information Theory",
+    "Communication Engineering",
+    "Data Compression",
+    "Error Correction",
+    "Cryptography",
+    "Thermodynamics and Information"
+  ],
+  "concepts": [
+    "bit",
+    "entropy",
+    "Shannon entropy",
+    "channel capacity",
+    "source coding theorem",
+    "noisy channel coding theorem",
+    "Shannon-Hartley formula",
+    "error-correcting codes",
+    "Huffman coding",
+    "Hamming code",
+    "parity bit",
+    "signal-to-noise ratio",
+    "bandwidth",
+    "data compression",
+    "redundancy",
+    "Landauer's principle",
+    "Maxwell's demon",
+    "one-time pad",
+    "Reed-Solomon codes",
+    "turbo codes",
+    "low-density parity check codes",
+    "polar codes",
+    "Morse code",
+    "Boolean algebra"
+  ],
+  "description": "This episode explores Claude Shannon's 1948 paper 'A Mathematical Theory of Communication,' which transformed information from an abstract concept into a measurable physical quantity with fundamental limits. It covers how Shannon defined the bit, established entropy as a measure of information content, proved the limits of data compression and reliable communication through noisy channels, and laid the mathematical foundation for all digital technology. Essential for anyone interested in computer science, telecommunications, cryptography, or the theoretical underpinnings of the digital age."
+}

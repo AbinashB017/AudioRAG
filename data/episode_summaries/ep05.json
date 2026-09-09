@@ -1,0 +1,30 @@
+{
+  "episode_id": "ep05",
+  "episode_title": "Attention Is All You Need, 2017",
+  "topics": [
+    "Machine Learning Architecture",
+    "Natural Language Processing",
+    "Neural Networks",
+    "Artificial Intelligence",
+    "Deep Learning"
+  ],
+  "concepts": [
+    "Transformer architecture",
+    "Attention mechanism",
+    "Recurrent neural networks",
+    "Sequence modeling",
+    "Query-key-value system",
+    "Multi-head attention",
+    "Positional encoding",
+    "Embeddings",
+    "Parallel computation",
+    "Long-range dependencies",
+    "GPT (Generative Pre-trained Transformer)",
+    "BERT",
+    "Encoder-decoder architecture",
+    "Next word prediction",
+    "Context window",
+    "Scalability"
+  ],
+  "description": "This episode dissects the 2017 'Attention Is All You Need' paper that introduced the transformer architecture, explaining how it replaced sequential recurrent neural networks with a parallelizable attention mechanism that allows every word to directly attend to every other word. The discussion covers why this architectural choice solved both the long-range dependency problem and enabled massive scaling, ultimately becoming the foundation for modern large language models like GPT and BERT. Essential for anyone wanting to understand the technical foundations of contemporary AI systems and why transformers became the dominant architecture in machine learning."
+}

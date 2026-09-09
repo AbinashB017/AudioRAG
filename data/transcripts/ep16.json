@@ -1,0 +1,1960 @@
+{
+  "episode_id": "ep16",
+  "audio_path": "podcasts\\Great Papers 16 - Nash Equilibrium and Game Theory, 1950.mp3",
+  "duration_sec": 1951.92,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 390,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.5600000000000005,
+      "text": "Think about how much of life is not you against nature, but you against other people who are also thinking."
+    },
+    {
+      "start": 7.35,
+      "end": 10.73,
+      "text": "A business setting a price while its rivals set theirs."
+    },
+    {
+      "start": 11.37,
+      "end": 14.309999999999999,
+      "text": "Two countries deciding whether to build weapons."
+    },
+    {
+      "start": 14.43,
+      "end": 16.67,
+      "text": "Drivers all picking a route."
+    },
+    {
+      "start": 16.86,
+      "end": 30.42,
+      "text": "a poker table, even asking someone out. In all of these, the best thing for you to do depends on what  everyone else chooses to do, and they're reasoning about you at the same time you're reasoning about  them."
+    },
+    {
+      "start": 31.26,
+      "end": 49.1,
+      "text": "George, our last paper in this batch, is by a mathematician named John Nash in 1950,  and I'm told that in a paper barely a page long, written when he was around 21,  he gave a single idea that lets you analyse every one of those situations."
+    },
+    {
+      "start": 49.89,
+      "end": 54.77,
+      "text": "That sounds too broad to be real. What's the idea? It is that broad."
+    },
+    {
+      "start": 54.78,
+      "end": 56.78,
+      "text": "and it's a fitting way to close the batch."
+    },
+    {
+      "start": 57.12,
+      "end": 60.18,
+      "text": "because it has the same shape as almost everything else we've done."
+    },
+    {
+      "start": 60.99,
+      "end": 64.55,
+      "text": "One deceptively simple idea with staggering reach"
+    },
+    {
+      "start": 64.77,
+      "end": 66.67,
+      "text": "and like several of our papers,"
+    },
+    {
+      "start": 66.69,
+      "end": 68.67,
+      "text": "a hidden sting in its tail."
+    },
+    {
+      "start": 69.48,
+      "end": 70.94,
+      "text": "So here's the path."
+    },
+    {
+      "start": 71.22,
+      "end": 79.14,
+      "text": "First, what game theory even is, and why, before Nash, it could only handle a narrow slice of these situations."
+    },
+    {
+      "start": 79.8,
+      "end": 88.7,
+      "text": "Then Nash's idea, the equilibrium, stated plainly, and why it's the natural notion of a solution when everyone is strategizing at once,"
+    },
+    {
+      "start": 89.28,
+      "end": 91.62,
+      "text": "then the theorem that made it universal,"
+    },
+    {
+      "start": 91.8,
+      "end": 94.25999999999999,
+      "text": "that such a solution always exists."
+    },
+    {
+      "start": 94.8,
+      "end": 98.44,
+      "text": "then the single most famous example in all of social science,"
+    },
+    {
+      "start": 98.49,
+      "end": 100.17,
+      "text": "The Prisoner's Dilemma."
+    },
+    {
+      "start": 100.02,
+      "end": 101.67999999999999,
+      "text": "which contains the sting."
+    },
+    {
+      "start": 101.97,
+      "end": 107.33,
+      "text": "a case where everyone behaving perfectly rationally leads everyone to a worse place."
+    },
+    {
+      "start": 107.88,
+      "end": 113.33999999999999,
+      "text": "And finally, the astonishing reach of this one concept, from economics to evolution,"
+    },
+    {
+      "start": 113.37,
+      "end": 118.11,
+      "text": "and the deep, uncomfortable lesson it leaves us with.  Let's start with game theory."
+    },
+    {
+      "start": 118.32,
+      "end": 127.28,
+      "text": "What was it before Nash and why was it limited?  The field had been founded, magnificently, in the 1940s by John von Neumann,"
+    },
+    {
+      "start": 127.71,
+      "end": 132.98999999999998,
+      "text": "Yes, the same von Neumann who understood G\u00f6del and who shaped the modern computer,"
+    },
+    {
+      "start": 133.32,
+      "end": 135.95999999999998,
+      "text": "together with the economist Oscar Morgenstern."
+    },
+    {
+      "start": 136.86,
+      "end": 142.74,
+      "text": "They wrote the founding book, and they gave a beautiful, complete theory of a particular kind of situation,"
+    },
+    {
+      "start": 143.1,
+      "end": 145.34,
+      "text": "two-player, zero-sum games."
+    },
+    {
+      "start": 146.34,
+      "end": 150.66,
+      "text": "Zero sum means what one player wins, the other exactly loses."
+    },
+    {
+      "start": 151.08,
+      "end": 154.44000000000003,
+      "text": "pure competition like dividing a fixed pie"
+    },
+    {
+      "start": 154.47,
+      "end": 156.45,
+      "text": "or a game of matching pennies."
+    },
+    {
+      "start": 156.96,
+      "end": 159.42000000000002,
+      "text": "For that clean case, they nailed it."
+    },
+    {
+      "start": 159.93,
+      "end": 164.89000000000001,
+      "text": "But look back at my opening list: rival businesses, countries, drivers."
+    },
+    {
+      "start": 165.51,
+      "end": 167.79,
+      "text": "Almost none of those are zero sum."
+    },
+    {
+      "start": 168.21,
+      "end": 172.61,
+      "text": "When two companies compete, they might both prosper or both suffer."
+    },
+    {
+      "start": 172.95,
+      "end": 174.57,
+      "text": "The pie isn't fixed."
+    },
+    {
+      "start": 174.84,
+      "end": 177.48,
+      "text": "and there are often many players, not two."
+    },
+    {
+      "start": 177.81,
+      "end": 182.21,
+      "text": "and crucially, they usually can't make binding enforceable agreements."
+    },
+    {
+      "start": 182.43,
+      "end": 184.19,
+      "text": "Each acts on its own."
+    },
+    {
+      "start": 184.77,
+      "end": 187.65,
+      "text": "This is what's called a non-cooperative game."
+    },
+    {
+      "start": 187.71,
+      "end": 191.83,
+      "text": "Many players, not zero sum, no binding deals."
+    },
+    {
+      "start": 191.97,
+      "end": 194.55,
+      "text": "and for that vast, realistic category,"
+    },
+    {
+      "start": 194.61,
+      "end": 199.11,
+      "text": "There simply was no agreed idea of what a 'solution' would even mean."
+    },
+    {
+      "start": 199.71,
+      "end": 222.21,
+      "text": "What does it mean to solve a situation where five self-interested parties are each doing whatever's best for themselves?  Right, in the zero-sum two-player case maybe there's an obvious correct play. But with many players and mixed motives, what would you even be looking for? What counts as the answer?  That's exactly the conceptual hole Nash filled."
+    },
+    {
+      "start": 222.27,
+      "end": 223.91,
+      "text": "and his answer is elegant."
+    },
+    {
+      "start": 224.37,
+      "end": 224.87,
+      "text": "He said,"
+    },
+    {
+      "start": 225.33,
+      "end": 228.15,
+      "text": "A solution should be a stable resting point."
+    },
+    {
+      "start": 228.27,
+      "end": 230.13000000000002,
+      "text": "a combination of strategies,"
+    },
+    {
+      "start": 230.16,
+      "end": 233.6,
+      "text": "one chosen by each player with a special property."
+    },
+    {
+      "start": 234.12,
+      "end": 235.56,
+      "text": "The property is this:"
+    },
+    {
+      "start": 235.89,
+      "end": 242.89,
+      "text": "Given what everyone else is doing, no single player can make themselves better off by changing their own strategy alone."
+    },
+    {
+      "start": 243.75,
+      "end": 249.59,
+      "text": "every player is already doing the best they possibly can in response to everyone else's choices."
+    },
+    {
+      "start": 250.05,
+      "end": 253.01000000000002,
+      "text": "so nobody has any private incentive to move."
+    },
+    {
+      "start": 253.5,
+      "end": 260.54,
+      "text": "that configuration where each person's choice is a best response to all the other's choices simultaneously,"
+    },
+    {
+      "start": 260.61,
+      "end": 263.43,
+      "text": "is what we now call a Nash equilibrium."
+    },
+    {
+      "start": 263.82,
+      "end": 265.58,
+      "text": "It's a no-regret state."
+    },
+    {
+      "start": 265.89,
+      "end": 284.69,
+      "text": "Once you're there, no individual, looking only at their own situation, wishes they'd done otherwise, holding everyone else fixed.  How does this relate to von Neumann's earlier result, the zero-sum theory you said, was already solved?  It contains it and then vastly overshoots it, which is the neat part."
+    },
+    {
+      "start": 285.69,
+      "end": 291.45,
+      "text": "Von Neumann's great earlier achievement was the minimax theorem for two-player zero-sum games."
+    },
+    {
+      "start": 292.05,
+      "end": 295.77000000000004,
+      "text": "There, since one player's gain is exactly the other's loss,"
+    },
+    {
+      "start": 295.83,
+      "end": 300.03,
+      "text": "The sensible play is for each to minimise their maximum possible loss."
+    },
+    {
+      "start": 300.45,
+      "end": 303.31,
+      "text": "to protect against the worst the opponent can do."
+    },
+    {
+      "start": 303.54,
+      "end": 308.02000000000004,
+      "text": "and von Neumann proved there's always a definite optimal value they'll settle on."
+    },
+    {
+      "start": 308.61,
+      "end": 312.77000000000004,
+      "text": "It's clean and complete, but only for that one pure competition corner."
+    },
+    {
+      "start": 313.77,
+      "end": 319.28999999999996,
+      "text": "Nash's Equilibrium takes that idea and generalises it to the entire universe of games."
+    },
+    {
+      "start": 319.65,
+      "end": 326.04999999999995,
+      "text": "any number of players, any mix of competition and common interest, no binding deals required."
+    },
+    {
+      "start": 326.58,
+      "end": 334.58,
+      "text": "and in the special case of a two-player zero-sum game, Nash's equilibrium is precisely von Neumann's minimax solution."
+    },
+    {
+      "start": 334.59,
+      "end": 335.71,
+      "text": "They agree exactly."
+    },
+    {
+      "start": 336.66,
+      "end": 339.16,
+      "text": "So Nash didn't overturn von Neumann,"
+    },
+    {
+      "start": 339.33,
+      "end": 347.57,
+      "text": "He took a beautiful result that worked in one clean corner and extended it to the whole messy, realistic landscape of strategic life."
+    },
+    {
+      "start": 348.15,
+      "end": 350.60999999999996,
+      "text": "That's often how the biggest advances look."
+    },
+    {
+      "start": 350.79,
+      "end": 360.01000000000005,
+      "text": "Not a demolition, but a generalisation that suddenly covers everything.  Let me test my understanding with the simplest case. Everyone driving on the same side of"
+    },
+    {
+      "start": 360.0,
+      "end": 364.4,
+      "text": "The road. If we're all driving on the right, do I want to switch to the left?"
+    },
+    {
+      "start": 364.58,
+      "end": 368.639999,
+      "text": "Perfect example. And no, obviously not. You'd crash."
+    },
+    {
+      "start": 369.66,
+      "end": 374.719999,
+      "text": "Given that everyone else is driving on the right, your best response is also to drive on the right."
+    },
+    {
+      "start": 375.58,
+      "end": 377.699999,
+      "text": "Nobody gains by unilaterally switching."
+    },
+    {
+      "start": 378.74,
+      "end": 385.32,
+      "text": "So, everyone drives on the right is a Nash equilibrium, a stable convention nobody wants to break alone."
+    },
+    {
+      "start": 385.82,
+      "end": 388.66,
+      "text": "But here's something that example already reveals."
+    },
+    {
+      "start": 389.44,
+      "end": 394.4,
+      "text": "Everyone drives on the left is also a Nash equilibrium, equally stable."
+    },
+    {
+      "start": 395.3,
+      "end": 398.26,
+      "text": "There can be more than one equilibrium, and that's realistic."
+    },
+    {
+      "start": 399.22,
+      "end": 401.92,
+      "text": "Some countries settled on one, some on the other,"
+    },
+    {
+      "start": 402.36,
+      "end": 404.88,
+      "text": "and once a country is in one, it stays there,"
+    },
+    {
+      "start": 405.36,
+      "end": 407.84000000000003,
+      "text": "because no single driver can afford to deviate."
+    },
+    {
+      "start": 408.82,
+      "end": 412.3,
+      "text": "So the concept immediately captures something true about the world."
+    },
+    {
+      "start": 413.04,
+      "end": 417.02,
+      "text": "Stable conventions, and the fact that which convention you land in"
+    },
+    {
+      "start": 417.02,
+      "end": 419.420002,
+      "text": "can be a matter of history, not logic."
+    },
+    {
+      "start": 419.54,
+      "end": 421.74,
+      "text": "If there can be several equilibria,"
+    },
+    {
+      "start": 422.32,
+      "end": 425.04,
+      "text": "drive left and drive right, both stable,"
+    },
+    {
+      "start": 425.58,
+      "end": 427.94,
+      "text": "how do people know which one to land on"
+    },
+    {
+      "start": 427.94,
+      "end": 430.06,
+      "text": "when there's no law to pick for them?"
+    },
+    {
+      "start": 430.2,
+      "end": 432.8,
+      "text": "Great question, and it points to a real gap"
+    },
+    {
+      "start": 432.8,
+      "end": 434.34000000000003,
+      "text": "the pure theory leaves open."
+    },
+    {
+      "start": 435.14,
+      "end": 438.56,
+      "text": "A gap the economist Thomas Schelling filled with a lovely idea"
+    },
+    {
+      "start": 438.56,
+      "end": 442.28,
+      "text": "called the focal point, sometimes just the Schelling point."
+    },
+    {
+      "start": 443.34000000000003,
+      "end": 456.63837,
+      "text": "When a game has many equilibria and no rule to select among them people often coordinate on the one that stands out for reasons outside the mathematics Something salient culturally shared an obvious landmark"
+    },
+    {
+      "start": 457.81837,
+      "end": 459.19836399999997,
+      "text": "His famous thought experiment."
+    },
+    {
+      "start": 459.918365,
+      "end": 463.45837,
+      "text": "Suppose you have to meet a stranger in New York City on a particular day,"
+    },
+    {
+      "start": 463.81837,
+      "end": 466.49837,
+      "text": "but you can't communicate at all about where or when."
+    },
+    {
+      "start": 467.13837,
+      "end": 467.89837,
+      "text": "Where do you go?"
+    },
+    {
+      "start": 468.93837,
+      "end": 471.29837,
+      "text": "Astonishingly, many people answer the same way."
+    },
+    {
+      "start": 471.97836,
+      "end": 473.95837,
+      "text": "Some obvious spot at noon."
+    },
+    {
+      "start": 473.95837,
+      "end": 477.51837,
+      "text": "a place everyone expects everyone else to think of too."
+    },
+    {
+      "start": 478.39836,
+      "end": 482.278366,
+      "text": "It's not that that meeting spot is mathematically better than any other"
+    },
+    {
+      "start": 482.278366,
+      "end": 486.63837,
+      "text": "it's that it's the obvious choice everyone expects everyone else to choose"
+    },
+    {
+      "start": 486.63837,
+      "end": 489.03836,
+      "text": "so expectations converge on it."
+    },
+    {
+      "start": 489.91837,
+      "end": 490.95837,
+      "text": "That's a focal point."
+    },
+    {
+      "start": 491.63837,
+      "end": 497.63837,
+      "text": "It shows that real coordination runs partly on shared expectations, culture and salience"
+    },
+    {
+      "start": 497.63837,
+      "end": 501.97836,
+      "text": "a whole human layer sitting on top of Nash's clean mathematics"
+    },
+    {
+      "start": 501.97836,
+      "end": 506.11836,
+      "text": "doing the job of picking which equilibrium we actually land in."
+    },
+    {
+      "start": 506.25836000000004,
+      "end": 510.75836000000004,
+      "text": "OK, so an equilibrium is a no-one-wants-to-move configuration."
+    },
+    {
+      "start": 511.41837,
+      "end": 513.71837,
+      "text": "But how do you know one always exists?"
+    },
+    {
+      "start": 514.15836,
+      "end": 517.83836,
+      "text": "Maybe some tangled game just doesn't have such a stable point."
+    },
+    {
+      "start": 517.83836,
+      "end": 519.21837,
+      "text": "That's the deep question."
+    },
+    {
+      "start": 519.8783599999999,
+      "end": 525.55836,
+      "text": "And answering it is what turned Nash's definition from a nice idea into a foundational tool."
+    },
+    {
+      "start": 526.6783800000001,
+      "end": 530.9783600000001,
+      "text": "Because a solution concept is only useful if solutions reliably exist."
+    },
+    {
+      "start": 530.9783600000001,
+      "end": 550.19673,
+      "text": "If half the games you care about had no equilibrium the idea would be a curiosity Nash proved a theorem Every finite game meaning finitely many players each with finitely many choices has at least one Nash equilibrium Always Guaranteed"
+    },
+    {
+      "start": 551.05673,
+      "end": 555.73674,
+      "text": "There's a catch in the fine print we'll get to, about what kind of strategy it might be,"
+    },
+    {
+      "start": 555.73674,
+      "end": 562.69673,
+      "text": "but the headline is unconditional. A stable point always exists. And the way he proved it"
+    },
+    {
+      "start": 562.69673,
+      "end": 569.17673,
+      "text": "is lovely. He used what's called a fixed-point theorem, a result from topology that says,"
+    },
+    {
+      "start": 569.47673,
+      "end": 574.47673,
+      "text": "roughly, that certain kinds of continuous transformations must always leave at least"
+    },
+    {
+      "start": 574.47673,
+      "end": 580.55673,
+      "text": "one point unmoved. He showed that finding an equilibrium is equivalent to finding such"
+    },
+    {
+      "start": 580.55673,
+      "end": 587.7567300000001,
+      "text": "an unmoved point, which is guaranteed to exist. So the existence of a no-one-wants-to-move"
+    },
+    {
+      "start": 587.7567300000001,
+      "end": 592.65674,
+      "text": "configuration follows from a deep fact about the geometry of continuous maps."
+    },
+    {
+      "start": 593.69673,
+      "end": 600.63673,
+      "text": "That universality, a solution always exists, is what let this one idea spread across every field"
+    },
+    {
+      "start": 600.63673,
+      "end": 606.13673,
+      "text": "that deals with strategy. Did the mathematical world immediately see how big this was?"
+    },
+    {
+      "start": 606.73672,
+      "end": 612.97673,
+      "text": "Did von Neumann, the founder, embrace it? Famously, no, and it's a wonderful cautionary tale."
+    },
+    {
+      "start": 612.97673,
+      "end": 634.79507,
+      "text": "The story goes that when the young Nash brought his equilibrium idea to von Neumann by then a towering figure the same von Neumann who grasped G instantly and helped invent the computer von Neumann brushed it off He reportedly called it trivial just an application of a known fixed theorem a minor mathematical step"
+    },
+    {
+      "start": 635.79507,
+      "end": 638.45508,
+      "text": "Having proved the deep minimax theorem himself,"
+    },
+    {
+      "start": 638.8751,
+      "end": 641.6951,
+      "text": "he may have seen the generalization as a small footnote."
+    },
+    {
+      "start": 641.6951,
+      "end": 645.17508,
+      "text": "And he was, on the significance, completely wrong."
+    },
+    {
+      "start": 646.01508,
+      "end": 649.7151,
+      "text": "That trivial idea became the foundation of modern economics"
+    },
+    {
+      "start": 649.7151,
+      "end": 653.8550700000001,
+      "text": "and spread into biology, political science and computer science."
+    },
+    {
+      "start": 653.8550700000001,
+      "end": 657.4350999999999,
+      "text": "It's a recurring theme across these episodes, actually."
+    },
+    {
+      "start": 658.01508,
+      "end": 662.4150999999999,
+      "text": "Planck disowning his own quantum, von Neumann shrugging at Nash's equilibrium."
+    },
+    {
+      "start": 663.4951,
+      "end": 667.29507,
+      "text": "Even the greatest minds can fail to see the importance of a simple idea,"
+    },
+    {
+      "start": 667.8751,
+      "end": 670.3550700000001,
+      "text": "sometimes precisely because it looks too simple."
+    },
+    {
+      "start": 671.2751000000001,
+      "end": 674.9350999999999,
+      "text": "The depth of Nash's contribution wasn't the mathematics of the proof."
+    },
+    {
+      "start": 675.45508,
+      "end": 681.57507,
+      "text": "It was recognising that this stable point was the right definition of a solution for all of strategic life."
+    },
+    {
+      "start": 681.57507,
+      "end": 688.45508,
+      "text": "Alright, you've been promising a sting, a dark side. Hit me with the prisoner's dilemma."
+    },
+    {
+      "start": 688.7151,
+      "end": 694.0951,
+      "text": "The prisoner's dilemma, and it is genuinely one of the most important ideas in social science"
+    },
+    {
+      "start": 694.0951,
+      "end": 700.2151,
+      "text": "because it shows that a Nash equilibrium, a perfectly stable, rational outcome, can be"
+    },
+    {
+      "start": 700.2151,
+      "end": 706.29507,
+      "text": "collectively terrible. Here's the setup. Two suspects are arrested and held separately,"
+    },
+    {
+      "start": 706.29507,
+      "end": 713.01508,
+      "text": "unable to communicate. Each is offered the same deal. If you betray your partner and they stay"
+    },
+    {
+      "start": 713.01508,
+      "end": 719.9751,
+      "text": "silent, you go free and they take the heavy sentence. If you both stay silent, the police can only pin"
+    },
+    {
+      "start": 720.0,
+      "end": 721.9,
+      "text": "a minor charge on each of you."
+    },
+    {
+      "start": 722.19,
+      "end": 723.85,
+      "text": "A light sentence for both."
+    },
+    {
+      "start": 724.41,
+      "end": 726.27,
+      "text": "But if you both betray each other,"
+    },
+    {
+      "start": 726.33,
+      "end": 728.71,
+      "text": "You both get a moderately heavy sentence."
+    },
+    {
+      "start": 729.39,
+      "end": 743.31,
+      "text": "Now reason it through as one prisoner, coldly, in your own interest.  So, I'm sitting there. I don't know what my partner will do.  Let me think about my options depending on theirs.  Do exactly that. Consider both cases."
+    },
+    {
+      "start": 743.85,
+      "end": 746.05,
+      "text": "Suppose your partner stays silent,"
+    },
+    {
+      "start": 746.58,
+      "end": 751.74,
+      "text": "then you can stay silent too for a light sentence, or betray them and go completely free."
+    },
+    {
+      "start": 752.73,
+      "end": 754.73,
+      "text": "Free is better."
+    },
+    {
+      "start": 754.17,
+      "end": 756.73,
+      "text": "so if they're silent, you should betray."
+    },
+    {
+      "start": 757.44,
+      "end": 760.2,
+      "text": "Now suppose instead your partner betrays you."
+    },
+    {
+      "start": 760.71,
+      "end": 764.31,
+      "text": "Then you can stay silent and take the heavy sentence alone."
+    },
+    {
+      "start": 764.49,
+      "end": 767.55,
+      "text": "or also betray and get the moderate sentence."
+    },
+    {
+      "start": 768.18,
+      "end": 769.96,
+      "text": "Moderate is better than heavy."
+    },
+    {
+      "start": 770.16,
+      "end": 772.62,
+      "text": "So if they betray, you should also betray."
+    },
+    {
+      "start": 773.76,
+      "end": 775.28,
+      "text": "Look at what just happened."
+    },
+    {
+      "start": 775.38,
+      "end": 778.9,
+      "text": "No matter what your partner does, silent or betray,"
+    },
+    {
+      "start": 779.01,
+      "end": 781.17,
+      "text": "Your best move is to betray."
+    },
+    {
+      "start": 781.56,
+      "end": 784.64,
+      "text": "betraying beats staying silent in both cases."
+    },
+    {
+      "start": 785.04,
+      "end": 788.32,
+      "text": "so a rational, self-interested prisoner betrays,"
+    },
+    {
+      "start": 788.8199999999999,
+      "end": 790.28,
+      "text": "And here's the gut punch."
+    },
+    {
+      "start": 790.5,
+      "end": 796.28,
+      "text": "Your partner, reasoning identically, reaches the identical conclusion and also betrays."
+    },
+    {
+      "start": 797.0699999999999,
+      "end": 806.67,
+      "text": "So you both betray and you both get the moderately heavy sentence.  But wait! If we'd both just stayed silent, we'd both have gotten the light sentence."
+    },
+    {
+      "start": 806.8199999999999,
+      "end": 814.8199999999999,
+      "text": "We both did the rational thing, and we both ended up worse off than if we'd cooperated.  That is the entire devastating point."
+    },
+    {
+      "start": 815.37,
+      "end": 817.99,
+      "text": "Both betray is the Nash equilibrium."
+    },
+    {
+      "start": 818.31,
+      "end": 825.61,
+      "text": "It's stable because given that your partner is betraying, you'd be a fool to switch to silent and take the heavy sentence alone."
+    },
+    {
+      "start": 826.2,
+      "end": 829.48,
+      "text": "Neither of you can improve by unilaterally changing."
+    },
+    {
+      "start": 829.86,
+      "end": 834.56,
+      "text": "So it's a genuine equilibrium the outcome rational players are driven to."
+    },
+    {
+      "start": 834.96,
+      "end": 838.3199999999999,
+      "text": "And yet, both silent would have been better for both of you,"
+    },
+    {
+      "start": 838.86,
+      "end": 841.46,
+      "text": "The equilibrium is not the best outcome."
+    },
+    {
+      "start": 841.5,
+      "end": 843.0,
+      "text": "It's not even close."
+    },
+    {
+      "start": 843.5699999999999,
+      "end": 845.65,
+      "text": "rational individual choice,"
+    },
+    {
+      "start": 845.7,
+      "end": 852.34,
+      "text": "each step of it impeccable, marches both players straight into a worse result than they could have achieved together."
+    },
+    {
+      "start": 852.84,
+      "end": 855.6,
+      "text": "stability and optimality come apart,"
+    },
+    {
+      "start": 856.08,
+      "end": 859.1600000000001,
+      "text": "and once you see that pattern, you start seeing it everywhere."
+    },
+    {
+      "start": 859.92,
+      "end": 863.8399999999999,
+      "text": "situations where everyone acting in their own rational interest"
+    },
+    {
+      "start": 863.85,
+      "end": 876.17,
+      "text": "produces an outcome that's bad for everyone.  One worry before the examples: does reaching a Nash equilibrium require every player to be a perfect, all-knowing, rational calculator?"
+    },
+    {
+      "start": 876.27,
+      "end": 881.37,
+      "text": "Because real people, and certainly animals, aren't.  That's a really important worry."
+    },
+    {
+      "start": 881.76,
+      "end": 883.96,
+      "text": "and the reassuring answer is no."
+    },
+    {
+      "start": 884.0699999999999,
+      "end": 886.65,
+      "text": "Nobody has to consciously compute anything."
+    },
+    {
+      "start": 887.01,
+      "end": 889.17,
+      "text": "and equilibrium is a resting point."
+    },
+    {
+      "start": 889.2,
+      "end": 891.78,
+      "text": "and there are several different roads that lead to it."
+    },
+    {
+      "start": 892.35,
+      "end": 895.63,
+      "text": "Perfect rational calculation is one road sure."
+    },
+    {
+      "start": 896.13,
+      "end": 898.09,
+      "text": "but another is plain trial and error."
+    },
+    {
+      "start": 898.71,
+      "end": 906.01,
+      "text": "Each player, over time, just drifts toward whatever has been working better for them, against what everyone else seems to be doing."
+    },
+    {
+      "start": 906.33,
+      "end": 909.65,
+      "text": "adjusting, learning, imitating success,"
+    },
+    {
+      "start": 909.9,
+      "end": 917.1,
+      "text": "and a system of such adapting players can settle into a Nash equilibrium without any single one of them ever doing the math,"
+    },
+    {
+      "start": 917.13,
+      "end": 919.51,
+      "text": "or even knowing the concept exists."
+    },
+    {
+      "start": 920.0699999999999,
+      "end": 924.31,
+      "text": "And the most striking road of all, which we're about to get to, is evolution."
+    },
+    {
+      "start": 925.29,
+      "end": 931.75,
+      "text": "Natural selection can drive a whole population to an equilibrium with literally zero thinking involved."
+    },
+    {
+      "start": 931.86,
+      "end": 933.78,
+      "text": "just differential survival."
+    },
+    {
+      "start": 934.38,
+      "end": 939.34,
+      "text": "So, assume rational players is the cleanest way to introduce the idea,"
+    },
+    {
+      "start": 939.54,
+      "end": 942.0,
+      "text": "but it's not a requirement for it to apply."
+    },
+    {
+      "start": 942.48,
+      "end": 950.38,
+      "text": "Equilibria are the states that adaptive processes \u2013 reasoning, learning or selection \u2013 tend to fall into and stay in."
+    },
+    {
+      "start": 950.79,
+      "end": 965.97,
+      "text": "That's exactly why the same concept describes chess masters, stock markets, ant colonies and bacteria alike.  Give me a real one, because this can't just be about two prisoners.  It's the skeleton of some of our hardest collective problems."
+    },
+    {
+      "start": 967.11,
+      "end": 970.99,
+      "text": "Consider overuse of a shared resource, a fishery say."
+    },
+    {
+      "start": 971.46,
+      "end": 975.74,
+      "text": "Each fishing boat, acting rationally, catches as much as it can,"
+    },
+    {
+      "start": 975.99,
+      "end": 978.23,
+      "text": "That's each one's best response."
+    },
+    {
+      "start": 978.5699999999999,
+      "end": 983.3499999999999,
+      "text": "But if every boat does that, the fishery collapses and everyone loses their livelihood."
+    },
+    {
+      "start": 984.48,
+      "end": 989.2,
+      "text": "Each individual's rational choice, fish hard, is like betray."
+    },
+    {
+      "start": 989.28,
+      "end": 991.38,
+      "text": "and the collective result is ruin,"
+    },
+    {
+      "start": 991.44,
+      "end": 995.52,
+      "text": "even though everyone would be better off if all restrained themselves."
+    },
+    {
+      "start": 996.0899999999999,
+      "end": 998.6099999999999,
+      "text": "That's the famous tragedy of the commons,"
+    },
+    {
+      "start": 998.64,
+      "end": 1001.4,
+      "text": "and it's a prisoner's dilemma with many players."
+    },
+    {
+      "start": 1002.03,
+      "end": 1003.3499999999999,
+      "text": "or an arms race."
+    },
+    {
+      "start": 1003.6800000000001,
+      "end": 1007.76,
+      "text": "Each nation, rationally, builds weapons for its own security."
+    },
+    {
+      "start": 1008.03,
+      "end": 1012.17,
+      "text": "But when all do, everyone is poorer and no more secure than before."
+    },
+    {
+      "start": 1013.0699999999999,
+      "end": 1015.0699999999999,
+      "text": "or carbon emissions and climate."
+    },
+    {
+      "start": 1015.38,
+      "end": 1018.36,
+      "text": "Each actor gains by burning cheap fuel,"
+    },
+    {
+      "start": 1018.4100000000001,
+      "end": 1020.6300000000001,
+      "text": "but the shared result harms all."
+    },
+    {
+      "start": 1021.14,
+      "end": 1023.66,
+      "text": "In every case, the trap is the same."
+    },
+    {
+      "start": 1023.9300000000001,
+      "end": 1029.63,
+      "text": "the stable equilibrium of rational self-interest is collectively worse than cooperation,"
+    },
+    {
+      "start": 1029.84,
+      "end": 1034.48,
+      "text": "and cooperation is hard precisely because it isn't a stable equilibrium."
+    },
+    {
+      "start": 1034.97,
+      "end": 1048.33,
+      "text": "Anyone can gain by defecting from it.  You keep saying the equilibrium is worse than the optimum.  Can you actually measure how much worse?  Put a number on the damage?  You can, and there's even a name for it."
+    },
+    {
+      "start": 1048.56,
+      "end": 1050.1,
+      "text": "The price of anarchy."
+    },
+    {
+      "start": 1050.42,
+      "end": 1054.54,
+      "text": "a measure of the gap between the outcome of everyone acting selfishly"
+    },
+    {
+      "start": 1054.62,
+      "end": 1057.5,
+      "text": "and the best outcome a coordinator could arrange."
+    },
+    {
+      "start": 1058.07,
+      "end": 1061.19,
+      "text": "and there's a startling example from traffic that I love,"
+    },
+    {
+      "start": 1061.22,
+      "end": 1063.06,
+      "text": "called Brace's paradox."
+    },
+    {
+      "start": 1063.71,
+      "end": 1068.51,
+      "text": "Take a road network that's congested and ADD a brand new road to it,"
+    },
+    {
+      "start": 1068.66,
+      "end": 1071.78,
+      "text": "More capacity, which surely can only help, right?"
+    },
+    {
+      "start": 1072.29,
+      "end": 1077.85,
+      "text": "but because every driver selfishly reroutes onto whatever path is now fastest for them,"
+    },
+    {
+      "start": 1077.93,
+      "end": 1079.97,
+      "text": "The new equilibrium can leave everyone"
+    },
+    {
+      "start": 1080.0,
+      "end": 1083.08,
+      "text": "with a longer commute than before the road was built."
+    },
+    {
+      "start": 1084.06,
+      "end": 1086.08,
+      "text": "Adding a road makes the traffic worse."
+    },
+    {
+      "start": 1086.8199997,
+      "end": 1088.04,
+      "text": "It's not a trick of arithmetic."
+    },
+    {
+      "start": 1088.72,
+      "end": 1090.42,
+      "text": "It's been observed in real cities,"
+    },
+    {
+      "start": 1090.76,
+      "end": 1093.36,
+      "text": "where closing a road has sometimes improved the flow."
+    },
+    {
+      "start": 1094.2,
+      "end": 1096.859999,
+      "text": "It's the prisoner's dilemma in an asphalt costume."
+    },
+    {
+      "start": 1097.76,
+      "end": 1101.22,
+      "text": "Each driver's individually rational choice of the fastest route,"
+    },
+    {
+      "start": 1101.619999,
+      "end": 1104.82,
+      "text": "added together, producing a jam that's collectively worse."
+    },
+    {
+      "start": 1105.58,
+      "end": 1107.92,
+      "text": "So the price of anarchy isn't abstract."
+    },
+    {
+      "start": 1107.92,
+      "end": 1118.56,
+      "text": "You can sit in it on your commute, and measuring it tells planners exactly how much a little coordination, a toll, a smarter design could be worth."
+    },
+    {
+      "start": 1118.7,
+      "end": 1124.84,
+      "text": "That's genuinely bleak. Is there any escape, or does the math just condemn us to these traps?"
+    },
+    {
+      "start": 1125.2,
+      "end": 1133.1,
+      "text": "The math doesn't condemn us. It diagnoses the trap precisely, and precise diagnosis is what lets you design your way out."
+    },
+    {
+      "start": 1133.1,
+      "end": 1136.14,
+      "text": "because notice why the dilemma bites."
+    },
+    {
+      "start": 1136.94,
+      "end": 1138.92,
+      "text": "The players can't make binding agreements"
+    },
+    {
+      "start": 1138.92,
+      "end": 1141.699997,
+      "text": "and they interact only once in isolation."
+    },
+    {
+      "start": 1142.84,
+      "end": 1145.259995,
+      "text": "Change those conditions and the trap can loosen."
+    },
+    {
+      "start": 1146.36,
+      "end": 1148.42,
+      "text": "If the game is repeated over and over,"
+    },
+    {
+      "start": 1148.799995,
+      "end": 1151.18,
+      "text": "if you'll face the same partner again and again,"
+    },
+    {
+      "start": 1151.7,
+      "end": 1153.58,
+      "text": "then cooperation can become rational"
+    },
+    {
+      "start": 1153.58,
+      "end": 1156.38,
+      "text": "because betrayal today can be punished tomorrow"
+    },
+    {
+      "start": 1156.38,
+      "end": 1158.04,
+      "text": "and reputations matter."
+    },
+    {
+      "start": 1158.68,
+      "end": 1162.079994,
+      "text": "If you can build institutions that enforce agreements,"
+    },
+    {
+      "start": 1162.08,
+      "end": 1177.71837,
+      "text": "treaties with teeth fishing quotas with penalties contracts You effectively change the payoffs and can make cooperation the stable choice So understanding the equilibrium isn a council of despair it the blueprint for the"
+    },
+    {
+      "start": 1177.71837,
+      "end": 1184.698364,
+      "text": "escape. You can't fix a trap you can't see. Nash's framework shows you exactly where the trap is"
+    },
+    {
+      "start": 1184.698364,
+      "end": 1190.238365,
+      "text": "and what levers, repetition, enforcement, changing the payoffs, might spring it."
+    },
+    {
+      "start": 1190.238365,
+      "end": 1199.17837,
+      "text": "You said repetition can rescue cooperation. Is there actual evidence for what works when you play the same game over and over?"
+    },
+    {
+      "start": 1199.17837,
+      "end": 1205.61836,
+      "text": "There's a famous and delightful line of work by the political scientist Robert Axelrod, who did something clever."
+    },
+    {
+      "start": 1206.49837,
+      "end": 1217.23837,
+      "text": "He invited experts to submit computer strategies for playing the prisoner's dilemma repeatedly against each other, over and over, in a tournament, and let them battle it out."
+    },
+    {
+      "start": 1217.23837,
+      "end": 1227.33836,
+      "text": "People sent in elaborate cunning schemes and the winner, the strategy that racked up the best total score, was almost embarrassingly simple"
+    },
+    {
+      "start": 1227.33836,
+      "end": 1231.29837,
+      "text": "It's called tit for tat and it's three rules"
+    },
+    {
+      "start": 1231.29837,
+      "end": 1233.55836,
+      "text": "Co-operate on the first move"
+    },
+    {
+      "start": 1233.55836,
+      "end": 1237.75836,
+      "text": "After that, just do whatever your opponent did to you last time"
+    },
+    {
+      "start": 1237.75836,
+      "end": 1241.83836,
+      "text": "And forgive instantly the moment they go back to cooperating"
+    },
+    {
+      "start": 1241.83836,
+      "end": 1246.81836,
+      "text": "It's nice, it's provocable, it punishes betrayal immediately"
+    },
+    {
+      "start": 1246.81836,
+      "end": 1248.81836,
+      "text": "but it holds no grudges."
+    },
+    {
+      "start": 1248.81836,
+      "end": 1253.81836,
+      "text": "That simple reciprocal strategy beat all the sophisticated ones,"
+    },
+    {
+      "start": 1253.81836,
+      "end": 1267.75673,
+      "text": "and it a genuine mathematical hint about how cooperation can emerge and stabilize among purely self players with no authority forcing it You just need repeated interaction and a willingness to"
+    },
+    {
+      "start": 1267.75673,
+      "end": 1274.57674,
+      "text": "reciprocate, reward for reward, punishment for punishment. And it echoes straight back to biology,"
+    },
+    {
+      "start": 1275.25673,
+      "end": 1280.31674,
+      "text": "reciprocal cooperation in animals, grooming and sharing among creatures who'll meet again,"
+    },
+    {
+      "start": 1280.31674,
+      "end": 1287.01674,
+      "text": "looks a great deal like tit for tat. Repetition turns the dilemma's trap into an opportunity."
+    },
+    {
+      "start": 1287.35674,
+      "end": 1293.25673,
+      "text": "Let's go back to a piece of fine print you flagged, that the equilibrium might be a strange"
+    },
+    {
+      "start": 1293.25673,
+      "end": 1297.9567299999999,
+      "text": "kind of strategy. What did you mean? This is the idea of mixed strategies,"
+    },
+    {
+      "start": 1298.49673,
+      "end": 1304.91673,
+      "text": "and it's needed for a whole class of games. Think about rock, paper, scissors. Is there a stable"
+    },
+    {
+      "start": 1304.91673,
+      "end": 1312.11673,
+      "text": "best move? No single choice can be it. If I always throw rock, you'll always throw paper and clobber"
+    },
+    {
+      "start": 1312.11673,
+      "end": 1318.99673,
+      "text": "me. Any predictable choice can be exploited. So what's the equilibrium? It's to randomise,"
+    },
+    {
+      "start": 1319.41673,
+      "end": 1326.41673,
+      "text": "to throw rock, paper and scissors each a third of the time, unpredictably. That's a mixed strategy,"
+    },
+    {
+      "start": 1327.07672,
+      "end": 1333.89673,
+      "text": "not a fixed choice, but a probability recipe over your choices. And once you allow mixed strategies,"
+    },
+    {
+      "start": 1333.89673,
+      "end": 1336.89673,
+      "text": "Nash's existence guarantee always holds."
+    },
+    {
+      "start": 1336.89673,
+      "end": 1339.89673,
+      "text": "It shows up in the real world constantly."
+    },
+    {
+      "start": 1339.89673,
+      "end": 1341.89673,
+      "text": "A penalty kick in soccer."
+    },
+    {
+      "start": 1341.89673,
+      "end": 1343.89673,
+      "text": "If the kicker always aimed left,"
+    },
+    {
+      "start": 1343.89673,
+      "end": 1355.8151,
+      "text": "the goalie would always dive left So the equilibrium is for the kicker to mix and the goalie to mix in specific proportions And studies of real penalty kicks"
+    },
+    {
+      "start": 1355.8151,
+      "end": 1358.6551,
+      "text": "show players randomising remarkably close"
+    },
+    {
+      "start": 1358.6551,
+      "end": 1360.2950700000001,
+      "text": "to the game-theoretic prediction."
+    },
+    {
+      "start": 1361.63507,
+      "end": 1363.5951,
+      "text": "Bluffing in poker is the same idea."
+    },
+    {
+      "start": 1364.39508,
+      "end": 1366.83508,
+      "text": "You must bluff sometimes, unpredictably,"
+    },
+    {
+      "start": 1367.13507,
+      "end": 1368.2151,
+      "text": "or you become readable."
+    },
+    {
+      "start": 1369.33508,
+      "end": 1372.2151,
+      "text": "Randomness, it turns out, is the rational strategy"
+    },
+    {
+      "start": 1372.2151,
+      "end": 1375.17508,
+      "text": "whenever being predictable can be used against you."
+    },
+    {
+      "start": 1375.2950700000001,
+      "end": 1376.6951,
+      "text": "Big caveat, surely."
+    },
+    {
+      "start": 1377.3151,
+      "end": 1380.4951,
+      "text": "Do real humans actually play these equilibria?"
+    },
+    {
+      "start": 1381.2151,
+      "end": 1383.8751,
+      "text": "We're not perfectly rational calculating machines."
+    },
+    {
+      "start": 1384.23508,
+      "end": 1386.7551,
+      "text": "Crucial caveat, and the truthful answer is"
+    },
+    {
+      "start": 1386.7551,
+      "end": 1388.5750699999999,
+      "text": "often but not always,"
+    },
+    {
+      "start": 1389.0951,
+      "end": 1391.3551,
+      "text": "and the exceptions are as interesting as the rule."
+    },
+    {
+      "start": 1392.3751,
+      "end": 1394.17508,
+      "text": "In plenty of well-studied settings,"
+    },
+    {
+      "start": 1394.17508,
+      "end": 1397.61508,
+      "text": "people do converge remarkably close to the Nash prediction."
+    },
+    {
+      "start": 1398.45508,
+      "end": 1401.95508,
+      "text": "The penalty kick randomising we just discussed is a real example."
+    },
+    {
+      "start": 1402.2151,
+      "end": 1408.9151,
+      "text": "But in others, people deviate systematically, and almost always in the same direction, toward"
+    },
+    {
+      "start": 1408.9151,
+      "end": 1414.23508,
+      "text": "more cooperation and fairness than cold self-interest would predict."
+    },
+    {
+      "start": 1414.23508,
+      "end": 1417.7151,
+      "text": "The classic demonstration is the ultimatum game."
+    },
+    {
+      "start": 1417.7151,
+      "end": 1422.83508,
+      "text": "One person proposes how to split a sum of money, and the other can either accept, in"
+    },
+    {
+      "start": 1422.83508,
+      "end": 1429.0951,
+      "text": "which case they split as proposed, or reject, in which case both get nothing."
+    },
+    {
+      "start": 1429.0951,
+      "end": 1434.4151,
+      "text": "rationality says the second person should accept any offer above zero."
+    },
+    {
+      "start": 1434.4151,
+      "end": 1439.9751,
+      "text": "Something beats nothing. But real people routinely reject offers they find insulting"
+    },
+    {
+      "start": 1440.0,
+      "end": 1445.72,
+      "text": "unfair, choosing to get nothing rather than let the other walk away with a lopsided share."
+    },
+    {
+      "start": 1446.7,
+      "end": 1453.179999,
+      "text": "They'll pay, out of their own pocket, to punish greed. So humans clearly carry norms of fairness"
+    },
+    {
+      "start": 1453.179999,
+      "end": 1460.42,
+      "text": "and reciprocity that the bare model leaves out. This launched a whole field, behavioral game theory,"
+    },
+    {
+      "start": 1460.939999,
+      "end": 1466.359999,
+      "text": "and the key point is that it doesn't refute Nash, it refines it. It says,"
+    },
+    {
+      "start": 1466.359999,
+      "end": 1470.22,
+      "text": "To predict real behaviour, you have to get the real payoffs right."
+    },
+    {
+      "start": 1470.779999,
+      "end": 1475.019997,
+      "text": "And for humans, those payoffs include feelings about fairness, not just money."
+    },
+    {
+      "start": 1475.94,
+      "end": 1479.5,
+      "text": "Once you include those, the equilibrium framework still works."
+    },
+    {
+      "start": 1479.78,
+      "end": 1485.039997,
+      "text": "So we've got the concept, the existence guarantee, the trap and the randomising."
+    },
+    {
+      "start": 1485.519997,
+      "end": 1489.039997,
+      "text": "Let's talk reach. You said this went far beyond math."
+    },
+    {
+      "start": 1489.359997,
+      "end": 1494.76,
+      "text": "Its reach is genuinely staggering and it starts with economics, which it simply transformed."
+    },
+    {
+      "start": 1494.76,
+      "end": 1501.66,
+      "text": "Before Nash, economics struggled to model competition among a few firms, or bargaining,"
+    },
+    {
+      "start": 1501.66,
+      "end": 1505.479996,
+      "text": "or any situation with a handful of strategic actors."
+    },
+    {
+      "start": 1505.479996,
+      "end": 1512.42,
+      "text": "Nash Equilibrium became the central tool for analysing how competing firms set prices,"
+    },
+    {
+      "start": 1512.42,
+      "end": 1517.04,
+      "text": "how buyers and sellers bargain, how oligopolies behave."
+    },
+    {
+      "start": 1517.04,
+      "end": 1519.72,
+      "text": "And it became intensely practical."
+    },
+    {
+      "start": 1519.72,
+      "end": 1522.939995,
+      "text": "Modern auctions are designed using this theory."
+    },
+    {
+      "start": 1522.939995,
+      "end": 1536.6449,
+      "text": "When governments auction off radio spectrum for cell networks sales worth enormous sums the rules of the auction are engineered by game theorists so that the equilibrium behaviour of bidders produces an efficient outcome"
+    },
+    {
+      "start": 1537.564896,
+      "end": 1543.9049,
+      "text": "That's Nash's idea, literally designing multi-billion dollar markets. It reshaped political"
+    },
+    {
+      "start": 1543.9049,
+      "end": 1550.1849,
+      "text": "science, the study of voting and coalitions and international relations. And Nash himself"
+    },
+    {
+      "start": 1550.1849,
+      "end": 1557.0249,
+      "text": "received the Nobel Prize in Economics for it in 1994, more than four decades after that barely"
+    },
+    {
+      "start": 1557.0249,
+      "end": 1562.3849,
+      "text": "a page paper. Designing the auction rules so the equilibrium comes out the way you want,"
+    },
+    {
+      "start": 1562.8049,
+      "end": 1568.2849,
+      "text": "that flips the whole thing around, doesn't it? It completely flips it, and it's one of the most"
+    },
+    {
+      "start": 1568.2849,
+      "end": 1575.3049,
+      "text": "powerful ideas to grow out of Nash. It's called mechanism design, sometimes reverse game theory."
+    },
+    {
+      "start": 1575.3049,
+      "end": 1580.82489,
+      "text": "Ordinary game theory takes a game as given and asks what its equilibrium is."
+    },
+    {
+      "start": 1581.7449,
+      "end": 1583.9249,
+      "text": "Mechanism design runs the arrow backward."
+    },
+    {
+      "start": 1584.6849,
+      "end": 1591.5649,
+      "text": "You start with the outcome you want, say, an auction that reliably sells the item to whoever values it most,"
+    },
+    {
+      "start": 1591.8649,
+      "end": 1595.8449,
+      "text": "at a fair price, with nobody able to profit by lying or gaming it."
+    },
+    {
+      "start": 1596.0849,
+      "end": 1602.38489,
+      "text": "And then you design the rules of the game so that when self-interested players each chase their own advantage,"
+    },
+    {
+      "start": 1602.38489,
+      "end": 1606.38489,
+      "text": "the equilibrium they're driven to is exactly the outcome you wanted."
+    },
+    {
+      "start": 1606.38489,
+      "end": 1613.38489,
+      "text": "You engineer the incentives so that rational selfishness ends up doing the right thing on its own."
+    },
+    {
+      "start": 1613.38489,
+      "end": 1626.98979,
+      "text": "And this is intensely practical It runs the real auctions governments use to sell radio spectrum for billions the systems that match medical graduates to hospital residences students to public schools"
+    },
+    {
+      "start": 1627.5098,
+      "end": 1633.4498,
+      "text": "even kidney donor exchanges that save lives. Several Nobel Prizes have gone to it,"
+    },
+    {
+      "start": 1634.0298,
+      "end": 1637.5098,
+      "text": "and it's the hopeful, constructive flip side of the prisoner's dilemma."
+    },
+    {
+      "start": 1638.5698,
+      "end": 1643.0098,
+      "text": "Game theory doesn't only diagnose the traps that self-interest walks us into,"
+    },
+    {
+      "start": 1643.0098,
+      "end": 1647.7098,
+      "text": "It lets us build games whose equilibria are outcomes we actually want,"
+    },
+    {
+      "start": 1648.40979,
+      "end": 1652.96979,
+      "text": "designing the incentives so that cooperation itself becomes the stable choice."
+    },
+    {
+      "start": 1653.1698000000001,
+      "end": 1656.1098,
+      "text": "And you hinted it reaches all the way into biology."
+    },
+    {
+      "start": 1656.76979,
+      "end": 1658.2898,
+      "text": "Back to our Darwin episode."
+    },
+    {
+      "start": 1658.8098,
+      "end": 1661.1098,
+      "text": "How does game theory touch evolution?"
+    },
+    {
+      "start": 1661.3898,
+      "end": 1664.9298,
+      "text": "This is my favourite piece of the reach, and it's a direct callback."
+    },
+    {
+      "start": 1665.5498,
+      "end": 1668.9298,
+      "text": "In evolution, there's no rational calculation at all."
+    },
+    {
+      "start": 1668.9298,
+      "end": 1676.6498,
+      "text": "but there's still strategy in a sense because how successful a trait is depends on what everyone else in the population is doing."
+    },
+    {
+      "start": 1677.76979,
+      "end": 1679.8698,
+      "text": "Think of animals competing for a resource."
+    },
+    {
+      "start": 1680.58978,
+      "end": 1684.96979,
+      "text": "A strategy of always fighting aggressively does well if everyone else is meek"
+    },
+    {
+      "start": 1684.96979,
+      "end": 1689.4298,
+      "text": "but terribly if everyone else is also aggressive and you keep getting injured."
+    },
+    {
+      "start": 1690.02979,
+      "end": 1694.4498,
+      "text": "So the success of a behaviour depends on the mix of behaviours around it."
+    },
+    {
+      "start": 1695.1698000000001,
+      "end": 1696.9098,
+      "text": "Exactly the structure of a game."
+    },
+    {
+      "start": 1696.9098,
+      "end": 1718.7747,
+      "text": "Biologists led by John Maynard Smith adapted Nash idea into what called an evolutionarily stable strategy A mix of behaviours in a population that natural selection can invade No rare mutant strategy can do better and spread And it essentially a Nash equilibrium reached"
+    },
+    {
+      "start": 1718.7747,
+      "end": 1725.1147,
+      "text": "not by reasoning but by selection. It explains why populations settle into stable proportions"
+    },
+    {
+      "start": 1725.1147,
+      "end": 1730.9146700000001,
+      "text": "of, say, aggressive and cautious individuals, and it connects to things we discussed in"
+    },
+    {
+      "start": 1730.9146700000001,
+      "end": 1738.4347,
+      "text": "Darwin episode. Why certain traits, even seemingly wasteful ones, persist, because they're the stable"
+    },
+    {
+      "start": 1738.4347,
+      "end": 1744.97467,
+      "text": "strategy given what everyone else is doing. Nature plays Nash's game without a single player ever"
+    },
+    {
+      "start": 1744.97467,
+      "end": 1751.13467,
+      "text": "doing arithmetic. That's a beautiful bridge, the same equilibrium reached by thinking in humans"
+    },
+    {
+      "start": 1751.13467,
+      "end": 1757.5547000000001,
+      "text": "and by dying in animals. Before we close, we should say a word about Nash himself,"
+    },
+    {
+      "start": 1757.5547000000001,
+      "end": 1761.37466,
+      "text": "because his is a famous and difficult story."
+    },
+    {
+      "start": 1761.71466,
+      "end": 1767.23468,
+      "text": "It is, and it deserves to be told simply and with dignity, without turning it into a fable."
+    },
+    {
+      "start": 1768.4347,
+      "end": 1774.0547000000001,
+      "text": "Nash did this foundational work extraordinarily young, and then, in his thirties, he was struck"
+    },
+    {
+      "start": 1774.0547000000001,
+      "end": 1779.9947,
+      "text": "by severe schizophrenia, decades of profound illness that derailed his career and his life"
+    },
+    {
+      "start": 1779.9947,
+      "end": 1786.25467,
+      "text": "for a very long time. And then, remarkably, in his later years, he experienced a substantial"
+    },
+    {
+      "start": 1786.25467,
+      "end": 1791.4347,
+      "text": "remission, returned to mathematics and lived to receive the Nobel Prize for the work of"
+    },
+    {
+      "start": 1791.4347,
+      "end": 1799.9947,
+      "text": "his youth. That arc, landmark early work, long illness, recovery, recognition, became"
+    },
+    {
+      "start": 1800.0,
+      "end": 1803.8,
+      "text": "widely known through the book and film called A Beautiful Mind."
+    },
+    {
+      "start": 1804.7599998,
+      "end": 1809.54,
+      "text": "I'll just say, it's a real human being's hard life, not a tidy parable,"
+    },
+    {
+      "start": 1810.0,
+      "end": 1812.74,
+      "text": "and the mathematics stands entirely on its own regardless."
+    },
+    {
+      "start": 1813.759999,
+      "end": 1817.68,
+      "text": "But there's something poignant in the fact that a mind that struggled so much"
+    },
+    {
+      "start": 1817.68,
+      "end": 1820.34,
+      "text": "with the boundary between reality and unreality"
+    },
+    {
+      "start": 1820.34,
+      "end": 1826.14,
+      "text": "gave us one of our sharpest tools for understanding how rational agents actually behave."
+    },
+    {
+      "start": 1826.14,
+      "end": 1829.74,
+      "text": "So as the last paper in this batch, pull the thread for me."
+    },
+    {
+      "start": 1830.0,
+      "end": 1833.04,
+      "text": "What's the lasting lesson of Nash's equilibrium?"
+    },
+    {
+      "start": 1833.54,
+      "end": 1838.78,
+      "text": "The lasting lesson is a double edge, and it's a fitting note to end a batch of great papers on."
+    },
+    {
+      "start": 1839.46,
+      "end": 1842.78,
+      "text": "On one side, Nash gave us a universal lens."
+    },
+    {
+      "start": 1842.78,
+      "end": 1848.42,
+      "text": "For any situation where the outcome depends on the choices of multiple strategising parties,"
+    },
+    {
+      "start": 1849.14,
+      "end": 1855.94,
+      "text": "markets, elections, wars, ecosystems, traffic, treaties, there's a stable solution."
+    },
+    {
+      "start": 1856.54,
+      "end": 1859.96,
+      "text": "It always exists, and we can find it and reason about it."
+    },
+    {
+      "start": 1860.0,
+      "end": 1866.44,
+      "text": "That's an extraordinary intellectual gift and it's why game theory now underpins economics,"
+    },
+    {
+      "start": 1866.44,
+      "end": 1884.13102,
+      "text": "biology political science and computer science But on the other side is the sting we kept circling that stable does not mean good Nash showed with mathematical certainty that rational individuals each doing exactly what best for themselves"
+    },
+    {
+      "start": 1884.63102,
+      "end": 1888.15102,
+      "text": "can collectively walk into an outcome that's worse for all of them,"
+    },
+    {
+      "start": 1888.65102,
+      "end": 1893.59102,
+      "text": "and that this bad outcome is stable, self-enforcing, hard to escape."
+    },
+    {
+      "start": 1894.071014,
+      "end": 1898.77102,
+      "text": "It's the mathematics of why cooperation is so hard and so precious,"
+    },
+    {
+      "start": 1898.77102,
+      "end": 1902.27102,
+      "text": "Why we build institutions and treaties and laws"
+    },
+    {
+      "start": 1902.27102,
+      "end": 1907.65102,
+      "text": "Because without them, the equilibrium of pure self-interest can trap us all"
+    },
+    {
+      "start": 1907.65102,
+      "end": 1913.37102,
+      "text": "From two prisoners in separate rooms to the whole planet negotiating over carbon"
+    },
+    {
+      "start": 1913.37102,
+      "end": 1919.23102,
+      "text": "It's the same little proof, warning us that being individually rational is not enough"
+    },
+    {
+      "start": 1919.23102,
+      "end": 1923.83102,
+      "text": "That's a large thing to fall out of a paper barely a page long"
+    },
+    {
+      "start": 1923.83102,
+      "end": 1926.31102,
+      "text": "Written by someone barely out of his teens"
+    },
+    {
+      "start": 1926.31102,
+      "end": 1931.45102,
+      "text": "Every situation where your fate depends on other minds has a stable solution."
+    },
+    {
+      "start": 1932.21103,
+      "end": 1940.7710299999999,
+      "text": "And its deepest lesson is that all of us being perfectly rational can still steer all of us into a trap that cooperation would have avoided."
+    },
+    {
+      "start": 1941.69101,
+      "end": 1947.33102,
+      "text": "A fitting close. Thank you, George. And thank you for this whole run of great papers."
+    },
+    {
+      "start": 1947.69101,
+      "end": 1949.55103,
+      "text": "A real pleasure start to finish."
+    },
+    {
+      "start": 1950.67102,
+      "end": 1951.75102,
+      "text": "Mind the Equilibria"
+    }
+  ]
+}

@@ -1,0 +1,1800 @@
+{
+  "episode_id": "ep11",
+  "audio_path": "podcasts\\Great Papers 11 - The Birth of the Quantum, Planck 1900.mp3",
+  "duration_sec": 1983.032,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 358,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.92,
+      "text": "Here is a fact so ordinary you've never thought to question it. Everything glows. Not just light"
+    },
+    {
+      "start": 6.92,
+      "end": 14.48,
+      "text": "bulbs and stars. Everything, all the time, including you. A cooling iron bar glows red,"
+    },
+    {
+      "start": 14.48,
+      "end": 21.199999,
+      "text": "then orange, then white as it heats. And it turns out that trying to explain the exact"
+    },
+    {
+      "start": 21.199999,
+      "end": 28.939999,
+      "text": "colour of that glow, a completely mundane kitchen and forge kind of question, broke physics so badly"
+    },
+    {
+      "start": 28.939999,
+      "end": 36.359997,
+      "text": "that fixing it required inventing an entirely new theory of reality. George, the paper is from"
+    },
+    {
+      "start": 36.359997,
+      "end": 44.66,
+      "text": "the very last days of 1800s, December of 1900, by a cautious, conservative German physicist"
+    },
+    {
+      "start": 44.66,
+      "end": 52.0,
+      "text": "named Max Planck. And I've heard it called the accidental birth of quantum mechanics."
+    },
+    {
+      "start": 53.079998,
+      "end": 54.3,
+      "text": "Accidental how?"
+    },
+    {
+      "start": 54.3,
+      "end": 59.94,
+      "text": "Accidental in the sense that the man who did it spent the rest of his life wishing he hadn't"
+    },
+    {
+      "start": 59.94,
+      "end": 65.299995,
+      "text": "and never really believed what he'd found. That's what makes this story different from"
+    },
+    {
+      "start": 65.299995,
+      "end": 71.24,
+      "text": "all the others in this series. It's the one revolution that its own author tried to take back."
+    },
+    {
+      "start": 72.159996,
+      "end": 77.56,
+      "text": "So here's the whole path today. We start with that glow and specifically with a beautiful,"
+    },
+    {
+      "start": 77.56,
+      "end": 83.1,
+      "text": "precise measurement that classical physics could not explain, could not even come close."
+    },
+    {
+      "start": 83.1,
+      "end": 94.9049,
+      "text": "Then we watch Planck almost by accident write down a formula that fits it perfectly Then comes the fateful part He tries to explain why his formula works"
+    },
+    {
+      "start": 95.3049,
+      "end": 100.1849,
+      "text": "and the only way he can make it come out is to assume something he finds almost embarrassing,"
+    },
+    {
+      "start": 100.8049,
+      "end": 104.7649,
+      "text": "that energy comes in discrete lumps, not a smooth flow."
+    },
+    {
+      "start": 105.704895,
+      "end": 110.1049,
+      "text": "And that one reluctant assumption is the first crack of the quantum age,"
+    },
+    {
+      "start": 110.1049,
+      "end": 115.4649,
+      "text": "the thing that everything we've talked about in our quantum episodes ultimately rests on."
+    },
+    {
+      "start": 116.3649,
+      "end": 119.3049,
+      "text": "Everything today comes off that one glowing object."
+    },
+    {
+      "start": 119.564896,
+      "end": 124.204895,
+      "text": "Let's start with the glow then. What exactly are physicists measuring?"
+    },
+    {
+      "start": 124.62489,
+      "end": 127.5249,
+      "text": "They're measuring something called black body radiation."
+    },
+    {
+      "start": 128.4449,
+      "end": 132.2849,
+      "text": "And let me unpack that name because it sounds more forbidding than it is."
+    },
+    {
+      "start": 133.2249,
+      "end": 137.6449,
+      "text": "Take any object and heat it up. It glows. It gives off light."
+    },
+    {
+      "start": 138.4449,
+      "end": 143.0049,
+      "text": "Now here's the remarkable regularity that had been discovered over the 1800s."
+    },
+    {
+      "start": 143.1649,
+      "end": 146.0649,
+      "text": "The exact spread of colours in that glow."
+    },
+    {
+      "start": 146.8849,
+      "end": 150.1449,
+      "text": "How much red, how much yellow, how much blue,"
+    },
+    {
+      "start": 150.8449,
+      "end": 153.5849,
+      "text": "how much invisible infrared and ultraviolet,"
+    },
+    {
+      "start": 154.2449,
+      "end": 157.7249,
+      "text": "depends almost entirely on one thing and one thing only."
+    },
+    {
+      "start": 158.4049,
+      "end": 159.0049,
+      "text": "The temperature."
+    },
+    {
+      "start": 160.04489,
+      "end": 161.6849,
+      "text": "Not what the object is made of."
+    },
+    {
+      "start": 162.4049,
+      "end": 165.6849,
+      "text": "Not iron versus ceramic versus a lump of coal."
+    },
+    {
+      "start": 166.3649,
+      "end": 167.54489,
+      "text": "Just how hot it is."
+    },
+    {
+      "start": 167.6449,
+      "end": 185.5698,
+      "text": "A perfect version of such an object one that absorbs all light falling on it is called a black body and its glow is the purest case So the colour really is a thermometer That why we say things are red hot versus white hot Precisely"
+    },
+    {
+      "start": 186.04979,
+      "end": 188.4298,
+      "text": "And you can read the temperature of a star that way,"
+    },
+    {
+      "start": 188.8698,
+      "end": 190.62979,
+      "text": "from thousands of light years off."
+    },
+    {
+      "start": 191.3898,
+      "end": 194.7898,
+      "text": "A red star is cooler, a blue-white star is hotter,"
+    },
+    {
+      "start": 195.3498,
+      "end": 197.4298,
+      "text": "and the exact tint tells you the number."
+    },
+    {
+      "start": 198.2098,
+      "end": 201.0298,
+      "text": "Same principle for the heating element on your stove,"
+    },
+    {
+      "start": 201.3898,
+      "end": 203.5298,
+      "text": "going from dull red to bright orange."
+    },
+    {
+      "start": 204.48979,
+      "end": 208.5698,
+      "text": "So by the end of the 1800s, experimenters had done something wonderful."
+    },
+    {
+      "start": 209.4498,
+      "end": 213.3698,
+      "text": "They had measured this glow with real precision and plotted it as a curve."
+    },
+    {
+      "start": 214.3098,
+      "end": 219.8498,
+      "text": "On the graph you put the colour, really the frequency, or equivalently the wavelength of the light,"
+    },
+    {
+      "start": 220.2298,
+      "end": 224.3298,
+      "text": "along the bottom and how much energy comes out at each colour up the side."
+    },
+    {
+      "start": 224.3298,
+      "end": 230.3698,
+      "text": "And you get a very particular hump-shaped curve, rising up from the low-frequency end,"
+    },
+    {
+      "start": 230.3698,
+      "end": 233.1698,
+      "text": "peaking at some colour that depends on temperature,"
+    },
+    {
+      "start": 233.7498,
+      "end": 236.5698,
+      "text": "then falling back down toward the high-frequency end."
+    },
+    {
+      "start": 237.5698,
+      "end": 239.8498,
+      "text": "A specific, smooth, measured shape."
+    },
+    {
+      "start": 240.5098,
+      "end": 243.1698,
+      "text": "And the challenge to the theorists was simple to state."
+    },
+    {
+      "start": 243.9498,
+      "end": 245.02979,
+      "text": "Derive this curve."
+    },
+    {
+      "start": 245.6498,
+      "end": 248.24979,
+      "text": "Explain its shape from the known laws of physics."
+    },
+    {
+      "start": 248.24979,
+      "end": 253.24979,
+      "text": "And the peak, the colour it glows brightest, that moves as it heats."
+    },
+    {
+      "start": 254.0098,
+      "end": 257.1098,
+      "text": "A dull red ember versus a blue-white star."
+    },
+    {
+      "start": 257.3098,
+      "end": 259.1698,
+      "text": "That's the most visible part of the law,"
+    },
+    {
+      "start": 259.1698,
+      "end": 261.1698,
+      "text": "and it has its own name,"
+    },
+    {
+      "start": 261.1698,
+      "end": 263.1698,
+      "text": "Ween's displacement law,"
+    },
+    {
+      "start": 263.1698,
+      "end": 279.19467,
+      "text": "worked out before Planck full formula As you raise the temperature the whole curve grows but its peak also slides toward higher frequency toward the blue Cool object the peak sits down in the infrared invisible and you only"
+    },
+    {
+      "start": 279.19467,
+      "end": 287.0547,
+      "text": "catch the low tail as a dull red. Hotter, the peak marches up through red, orange, yellow, into white"
+    },
+    {
+      "start": 287.0547,
+      "end": 294.1147,
+      "text": "and beyond. A blue-white star has its peak up in the ultraviolet. Our suns sits in the visible,"
+    },
+    {
+      "start": 294.1147,
+      "end": 298.45468,
+      "text": "which is almost certainly no accident given our eyes evolved under it."
+    },
+    {
+      "start": 299.39468,
+      "end": 301.5547,
+      "text": "So the shifting peak is a precise thermometer."
+    },
+    {
+      "start": 302.63467,
+      "end": 306.5547,
+      "text": "Measure the colour where an object glows brightest and you read its temperature,"
+    },
+    {
+      "start": 307.1147,
+      "end": 309.19467,
+      "text": "whether it's a kiln or a distant sun."
+    },
+    {
+      "start": 310.1147,
+      "end": 312.31467,
+      "text": "That regularity was known and measured."
+    },
+    {
+      "start": 313.01468,
+      "end": 317.01468,
+      "text": "What nobody could do was explain the shape of the whole curve underneath it."
+    },
+    {
+      "start": 317.13467,
+      "end": 320.7747,
+      "text": "And I'm guessing the known laws of physics did not cooperate."
+    },
+    {
+      "start": 320.7747,
+      "end": 325.21466,
+      "text": "They failed, and they failed in the most spectacular way imaginable."
+    },
+    {
+      "start": 326.13467,
+      "end": 330.1147,
+      "text": "Not a little off, but catastrophically, infinitely wrong."
+    },
+    {
+      "start": 331.19467,
+      "end": 332.59467,
+      "text": "Let me walk you through why."
+    },
+    {
+      "start": 333.19467,
+      "end": 336.25467,
+      "text": "Because the failure is the whole reason the quantum had to exist."
+    },
+    {
+      "start": 337.3347,
+      "end": 342.4347,
+      "text": "Classical physics pictured the glowing walls of a cavity as full of tiny oscillators."
+    },
+    {
+      "start": 343.23468,
+      "end": 348.53467,
+      "text": "Think of them as microscopic charges that can jiggle, and jiggling charges radiate light."
+    },
+    {
+      "start": 348.53467,
+      "end": 353.57468,
+      "text": "Each possible frequency of light corresponds to a way the field can"
+    },
+    {
+      "start": 353.57468,
+      "end": 359.97467,
+      "text": "vibrate, a mode, like the possible notes on a string. Now classical physics"
+    },
+    {
+      "start": 360.0,
+      "end": 365.72,
+      "text": "a rock-solid rule about how energy gets shared out among all the modes when things settle into"
+    },
+    {
+      "start": 365.72,
+      "end": 373.719999,
+      "text": "equilibrium, a principle called equipartition. It says, at a given temperature, every mode gets,"
+    },
+    {
+      "start": 373.88,
+      "end": 380.88,
+      "text": "on average, the same equal share of energy. Fair and square, energy spread evenly across all the"
+    },
+    {
+      "start": 380.88,
+      "end": 387.439999,
+      "text": "modes. That sounds reasonable. Everybody gets an equal slice. Where's the disaster? The disaster"
+    },
+    {
+      "start": 387.439999,
+      "end": 393.28,
+      "text": "is in counting the modes. How many modes are there at low frequencies versus high frequencies?"
+    },
+    {
+      "start": 394.239998,
+      "end": 399.12,
+      "text": "It turns out there are very few ways to make a low frequency, long wavelength vibration,"
+    },
+    {
+      "start": 399.76,
+      "end": 405.76,
+      "text": "but more and more ways to make higher frequency, shorter wavelength ones. The number of available"
+    },
+    {
+      "start": 405.76,
+      "end": 412.559998,
+      "text": "modes keeps growing as you go up in frequency without limit. And now combine that with equipartition."
+    },
+    {
+      "start": 413.499996,
+      "end": 415.699997,
+      "text": "Every mode gets an equal share of energy,"
+    },
+    {
+      "start": 416.139996,
+      "end": 419.62,
+      "text": "and there are endlessly many modes as you climb toward high frequency."
+    },
+    {
+      "start": 420.62,
+      "end": 425.939995,
+      "text": "So the total energy radiated at high frequencies should grow and grow and never stop."
+    },
+    {
+      "start": 426.79999499999997,
+      "end": 431.18,
+      "text": "The theory predicts that a warm object should pour out an infinite amount of energy"
+    },
+    {
+      "start": 431.18,
+      "end": 433.439995,
+      "text": "at the ultraviolet end and beyond."
+    },
+    {
+      "start": 433.68,
+      "end": 438.759995,
+      "text": "Infinite, as in, opening your oven door should blast you with x-rays."
+    },
+    {
+      "start": 438.759995,
+      "end": 458.99837,
+      "text": "That is exactly the absurdity and it earned a wonderfully dramatic name the ultraviolet catastrophe Classical physics predicts that every warm object the oven the campfire your own body should be a lethal fountain of ultraviolet and X dumping unlimited energy into the high frequencies"
+    },
+    {
+      "start": 458.99837,
+      "end": 471.99837,
+      "text": "Obviously that doesn't happen. You can stand next to a fire. The measured curve does the sensible thing. It rises, peaks, and then comes back down at high frequencies, falling to nothing."
+    },
+    {
+      "start": 471.99837,
+      "end": 475.13837,
+      "text": "But classical theory says it should shoot up to infinity."
+    },
+    {
+      "start": 476.278366,
+      "end": 479.21837,
+      "text": "The prediction and reality don't just disagree at the edges,"
+    },
+    {
+      "start": 479.81837,
+      "end": 481.67837,
+      "text": "they disagree by an infinite amount."
+    },
+    {
+      "start": 482.53837,
+      "end": 483.93837,
+      "text": "This is not a small crack."
+    },
+    {
+      "start": 484.418365,
+      "end": 485.99837,
+      "text": "This is the flaw giving way."
+    },
+    {
+      "start": 486.11836,
+      "end": 487.37837,
+      "text": "Quick practical question."
+    },
+    {
+      "start": 487.95837,
+      "end": 492.55836,
+      "text": "How do you even build a perfect black body to measure this curve so precisely?"
+    },
+    {
+      "start": 493.17838,
+      "end": 495.23837000000003,
+      "text": "A lump of coal isn't perfect."
+    },
+    {
+      "start": 495.41837,
+      "end": 496.37837,
+      "text": "With a lovely trick."
+    },
+    {
+      "start": 496.83835999999997,
+      "end": 499.07837,
+      "text": "You don't use a solid object at all."
+    },
+    {
+      "start": 499.21837,
+      "end": 501.87837,
+      "text": "You use a hollow one with a tiny hole."
+    },
+    {
+      "start": 501.99837,
+      "end": 507.67838,
+      "text": "Picture a closed oven, a cavity, with just a small opening in one wall."
+    },
+    {
+      "start": 508.71837,
+      "end": 512.57837,
+      "text": "Any light that wanders in through that hole bounces around inside,"
+    },
+    {
+      "start": 513.13837,
+      "end": 517.79837,
+      "text": "getting absorbed a little on each bounce and essentially never finds its way back out."
+    },
+    {
+      "start": 518.69836,
+      "end": 522.35837,
+      "text": "So the hole is a near-perfect absorber, it swallows everything,"
+    },
+    {
+      "start": 522.9783600000001,
+      "end": 527.23837,
+      "text": "and by a deep principle, a perfect absorber is also a perfect emitter."
+    },
+    {
+      "start": 527.8783599999999,
+      "end": 531.81836,
+      "text": "So the glow coming out of that little hole, when you heat the cavity,"
+    },
+    {
+      "start": 531.99837,
+      "end": 534.75836,
+      "text": "is the ideal blackbody radiation,"
+    },
+    {
+      "start": 534.75836,
+      "end": 546.85674,
+      "text": "free of the quirks of any particular material That the normal spectrum in Planck title and this got measured with extraordinary precision in Germany at the National Physics Laboratory"
+    },
+    {
+      "start": 547.61673,
+      "end": 549.7567300000001,
+      "text": "partly because the electric lighting industry"
+    },
+    {
+      "start": 549.7567300000001,
+      "end": 552.59674,
+      "text": "badly wanted to understand how to make filaments"
+    },
+    {
+      "start": 552.59674,
+      "end": 555.69673,
+      "text": "that put out the most visible light for the least heat."
+    },
+    {
+      "start": 556.69673,
+      "end": 559.47673,
+      "text": "So there were superb, industry-driven measurements"
+    },
+    {
+      "start": 559.47673,
+      "end": 561.35674,
+      "text": "of this curve sitting on the table,"
+    },
+    {
+      "start": 562.05673,
+      "end": 564.65674,
+      "text": "which is exactly why a mere formula that fit them"
+    },
+    {
+      "start": 564.65674,
+      "end": 569.2567300000001,
+      "text": "was such a triumph, and why its failure to be explained was so glaring."
+    },
+    {
+      "start": 569.45673,
+      "end": 574.81674,
+      "text": "Was there anything that worked at all, or was it total failure across the board?"
+    },
+    {
+      "start": 575.09674,
+      "end": 578.81674,
+      "text": "There was a partial success, which actually made things more confusing."
+    },
+    {
+      "start": 579.91673,
+      "end": 583.9967300000001,
+      "text": "Another physicist, Wilhelm Wien, had come up with a different formula,"
+    },
+    {
+      "start": 584.65674,
+      "end": 590.91673,
+      "text": "more of an inspired guess, and Wien's formula fit the high-frequency end of the curve beautifully,"
+    },
+    {
+      "start": 590.91673,
+      "end": 594.61673,
+      "text": "the very end where classical theory catastrophised."
+    },
+    {
+      "start": 594.65674,
+      "end": 600.59674,
+      "text": "But Veen's formula then failed at the low frequency end, where it drooped away from the data."
+    },
+    {
+      "start": 601.61673,
+      "end": 605.01672,
+      "text": "So the situation Planck faced was genuinely maddening."
+    },
+    {
+      "start": 605.95673,
+      "end": 609.85674,
+      "text": "One approach nailed the low frequencies and exploded at the high."
+    },
+    {
+      "start": 610.65674,
+      "end": 613.97673,
+      "text": "Another nailed the high frequencies and sagged at the low."
+    },
+    {
+      "start": 615.01672,
+      "end": 619.5167200000001,
+      "text": "Nobody had a single formula that fit the whole measured curve from end to end."
+    },
+    {
+      "start": 620.41675,
+      "end": 622.97675,
+      "text": "Two half-answers that refused to join up."
+    },
+    {
+      "start": 622.97675,
+      "end": 640.9751,
+      "text": "So this is where Planck comes in and you said the first thing he did was almost a lucky guess It was closer to inspired curve than to deep theory and Planck was refreshingly frank about that later He knew Veen formula worked at high frequencies he knew the other"
+    },
+    {
+      "start": 640.9751,
+      "end": 646.61508,
+      "text": "behavior at low frequencies, and he essentially asked, is there a single simple mathematical"
+    },
+    {
+      "start": 646.61508,
+      "end": 652.6951,
+      "text": "expression that smoothly bridges these two, that reduces to Veen at the high end and to"
+    },
+    {
+      "start": 652.6951,
+      "end": 658.8751,
+      "text": "the correct behaviour at the low end. And he found one. He wrote down a formula, now"
+    },
+    {
+      "start": 658.8751,
+      "end": 664.9951,
+      "text": "called Planck's Law, that interpolated gracefully between the two regimes. And when he compared"
+    },
+    {
+      "start": 664.9951,
+      "end": 672.2151,
+      "text": "it to the experimental data across the entire curve, it fit. Not approximately. It fit essentially"
+    },
+    {
+      "start": 672.2151,
+      "end": 680.1551,
+      "text": "perfectly, at every frequency, at every temperature. He presented it in October of 1900, and within"
+    },
+    {
+      "start": 680.1551,
+      "end": 684.1951,
+      "text": "In days experimenters confirmed it matched their measurements exquisitely."
+    },
+    {
+      "start": 684.1951,
+      "end": 690.01508,
+      "text": "So, problem solved? He's got the formula that fits. Why isn't that the end of the story?"
+    },
+    {
+      "start": 690.39508,
+      "end": 695.2551000000001,
+      "text": "Because Planck was a serious physicist, and a formula that merely fits is not an explanation."
+    },
+    {
+      "start": 696.0351,
+      "end": 701.3751,
+      "text": "It's a clue. He had a curve that worked, but he had no idea why it worked,"
+    },
+    {
+      "start": 701.7751000000001,
+      "end": 706.11508,
+      "text": "no derivation from underlying principles, and this bothered him enormously."
+    },
+    {
+      "start": 706.11508,
+      "end": 711.61508,
+      "text": "So he spent the next two months in what he later described as the hardest work of his"
+    },
+    {
+      "start": 711.61508,
+      "end": 717.4951,
+      "text": "life, trying to derive his own formula from first principles, to find what assumption about"
+    },
+    {
+      "start": 717.4951,
+      "end": 719.9751,
+      "text": "the physics would force that exact curve to be."
+    },
+    {
+      "start": 720.0,
+      "end": 726.72,
+      "text": "come out. And he found it. But the assumption he was forced into was so strange, so contrary"
+    },
+    {
+      "start": 726.72,
+      "end": 731.099999,
+      "text": "to everything classical physics stood for, that he offered it almost with an apology."
+    },
+    {
+      "start": 731.38,
+      "end": 734.5199995,
+      "text": "OK, this is the moment. What was the assumption?"
+    },
+    {
+      "start": 735.0,
+      "end": 740.939999,
+      "text": "That energy is not continuous. That the oscillators in the walls, those little jiggling charges,"
+    },
+    {
+      "start": 741.48,
+      "end": 747.119999,
+      "text": "cannot emit or absorb energy in any amount they please. They can only exchange energy"
+    },
+    {
+      "start": 747.119999,
+      "end": 754.239998,
+      "text": "in discrete, indivisible packets. Little lumps. And the size of the lump is not the same for"
+    },
+    {
+      "start": 754.239998,
+      "end": 761.28,
+      "text": "every mode. It depends on the frequency. Specifically, the smallest possible packet of energy for"
+    },
+    {
+      "start": 761.28,
+      "end": 767.719997,
+      "text": "a given frequency is a new constant, which Planck called h, multiplied by that frequency."
+    },
+    {
+      "start": 768.82,
+      "end": 774.78,
+      "text": "Energy equals h times the frequency. High-frequency light comes in big packets."
+    },
+    {
+      "start": 775.539997,
+      "end": 777.8,
+      "text": "Low-frequency light comes in small packets."
+    },
+    {
+      "start": 778.8,
+      "end": 784.1800000000001,
+      "text": "And crucially, you can have one packet, or two, or three, but never half a packet."
+    },
+    {
+      "start": 784.84,
+      "end": 786.619995,
+      "text": "Never a smooth trickle in between."
+    },
+    {
+      "start": 787.76,
+      "end": 789.76,
+      "text": "Energy at this level is grainy."
+    },
+    {
+      "start": 789.92,
+      "end": 792.979996,
+      "text": "There's something strange lurking in that formula already."
+    },
+    {
+      "start": 793.479996,
+      "end": 796.1,
+      "text": "Energy equals h times the frequency."
+    },
+    {
+      "start": 796.1,
+      "end": 798.939995,
+      "text": "But frequency is a property of a wave."
+    },
+    {
+      "start": 799.28,
+      "end": 803.619995,
+      "text": "You've just tied a lump, a particle-like packet, to a wave property."
+    },
+    {
+      "start": 803.619995,
+      "end": 816.378365,
+      "text": "You spotted the deepest thing in the whole paper and it worth pausing on That little equation is the first bridge ever built between two pictures of light that were supposed to be completely separate Frequency"
+    },
+    {
+      "start": 816.85837,
+      "end": 823.49837,
+      "text": "colour, the number of wave crests per second, that is, a wave idea, through and through. Light"
+    },
+    {
+      "start": 823.49837,
+      "end": 829.99837,
+      "text": "had been understood as a wave for a century. Energy in a discrete packet, that's a particle idea,"
+    },
+    {
+      "start": 829.99837,
+      "end": 836.07837,
+      "text": "a lump you can count. And Planck's relation, energy equals h times the frequency,"
+    },
+    {
+      "start": 836.558365,
+      "end": 841.99837,
+      "text": "welds them together. It says the size of the particle-like packet is set by the wave's"
+    },
+    {
+      "start": 841.99837,
+      "end": 848.15837,
+      "text": "frequency, with Planck's constant as the glue between the two worlds. That is the seed of"
+    },
+    {
+      "start": 848.15837,
+      "end": 855.09836,
+      "text": "wave-particle duality, the idea that light, and later matter, is somehow both wave and particle"
+    },
+    {
+      "start": 855.09836,
+      "end": 860.41837,
+      "text": "at once, which we ran straight into in the wave function episode with the double slit."
+    },
+    {
+      "start": 861.05836,
+      "end": 867.21837,
+      "text": "The whole strange two-facedness of the quantum world is already implicit, in miniature, in"
+    },
+    {
+      "start": 867.21837,
+      "end": 869.91837,
+      "text": "that one little equation Planck was forced to write."
+    },
+    {
+      "start": 870.03836,
+      "end": 876.25836,
+      "text": "Let me make sure I feel how radical that is. In the classical world, energy is like water."
+    },
+    {
+      "start": 876.25836,
+      "end": 882.57837,
+      "text": "You can pour any amount, a drop, a trickle, whatever. Planck is saying it's like coins."
+    },
+    {
+      "start": 882.57837,
+      "end": 885.57837,
+      "text": "Coins is exactly right, and it's a perfect image."
+    },
+    {
+      "start": 885.57837,
+      "end": 891.57837,
+      "text": "Classically, energy is a fluid you can dole out in any quantity, down to nothing."
+    },
+    {
+      "start": 891.57837,
+      "end": 907.13673,
+      "text": "Planck is forced to say no for each frequency there a smallest coin of value h times the frequency and you can only ever pay in whole coins One coin two coins ten coins but never a coin and a half"
+    },
+    {
+      "start": 907.87674,
+      "end": 912.7567300000001,
+      "text": "That indivisible coin is the quantum, the word just means a discrete amount."
+    },
+    {
+      "start": 913.59674,
+      "end": 920.93674,
+      "text": "And that constant h, Planck's constant, is a brand new fundamental number of nature, and it is fantastically tiny."
+    },
+    {
+      "start": 920.93674,
+      "end": 925.61673,
+      "text": "That smallness is why we never notice the graininess in daily life."
+    },
+    {
+      "start": 926.45673,
+      "end": 930.53673,
+      "text": "The coins are so minuscule that ordinary energy looks perfectly smooth,"
+    },
+    {
+      "start": 931.05673,
+      "end": 935.43674,
+      "text": "the way a beach looks smooth until you get down to the individual grains of sand."
+    },
+    {
+      "start": 936.37674,
+      "end": 939.9967300000001,
+      "text": "But at the scale of atoms and light, the graininess is everything."
+    },
+    {
+      "start": 940.2567300000001,
+      "end": 945.71674,
+      "text": "So walk me through why this grainy coin idea actually cures the catastrophe."
+    },
+    {
+      "start": 945.71674,
+      "end": 951.3967299999999,
+      "text": "Why does making energy come in lumps stop the infinite ultraviolet blast?"
+    },
+    {
+      "start": 951.57674,
+      "end": 955.97673,
+      "text": "This is the beautiful part, and it's worth going slowly because it's the whole payoff."
+    },
+    {
+      "start": 957.07674,
+      "end": 959.63673,
+      "text": "Remember the catastrophe came from equipartition,"
+    },
+    {
+      "start": 960.31674,
+      "end": 962.7567300000001,
+      "text": "every mode getting an equal share of energy,"
+    },
+    {
+      "start": 963.27673,
+      "end": 967.47673,
+      "text": "and infinitely many high-frequency modes each demanding their share."
+    },
+    {
+      "start": 968.23672,
+      "end": 969.8967299999999,
+      "text": "Now introduce the coins."
+    },
+    {
+      "start": 970.69673,
+      "end": 973.53673,
+      "text": "For a high-frequency mode, the smallest coin,"
+    },
+    {
+      "start": 973.53674,
+      "end": 980.53674,
+      "text": "H times a big frequency is a large amount of energy. To get that mode excited at all,"
+    },
+    {
+      "start": 980.53674,
+      "end": 998.2151,
+      "text": "you have to hand it at least one whole large coin You can ease it gently into motion with a tiny trickle because there are no tiny coins at high frequency And here the key At a given temperature the thermal energy sloshing around has a typical size"
+    },
+    {
+      "start": 998.67508,
+      "end": 1003.6951,
+      "text": "and for the high frequency modes, one coin costs far more than that typical amount."
+    },
+    {
+      "start": 1004.05508,
+      "end": 1008.89508,
+      "text": "So there's almost never enough energy on hand to afford even a single coin."
+    },
+    {
+      "start": 1008.89508,
+      "end": 1015.9350999999999,
+      "text": "The high-frequency modes simply can't pay the entry fee. They stay dark, frozen out."
+    },
+    {
+      "start": 1016.07507,
+      "end": 1021.5951,
+      "text": "So it's not that the high-frequency modes are forbidden. They just can't afford to turn on."
+    },
+    {
+      "start": 1021.8151,
+      "end": 1027.6951,
+      "text": "Exactly. And that's the whole trick. Classically, every mode, however high its frequency,"
+    },
+    {
+      "start": 1028.1551,
+      "end": 1031.9751,
+      "text": "got its equal share, and the sheer number of them ran away to infinity."
+    },
+    {
+      "start": 1032.9751,
+      "end": 1036.2751,
+      "text": "With quantization, the high-frequency modes are priced out."
+    },
+    {
+      "start": 1036.83508,
+      "end": 1039.0351,
+      "text": "They demand coins too expensive to pay,"
+    },
+    {
+      "start": 1039.4951,
+      "end": 1043.0750699999999,
+      "text": "so their share of the energy plummets towards zero instead of growing."
+    },
+    {
+      "start": 1043.67508,
+      "end": 1047.5351,
+      "text": "The energy rises at low and middle frequencies, peaks,"
+    },
+    {
+      "start": 1047.89508,
+      "end": 1049.8151,
+      "text": "and then gets choked off at the high end,"
+    },
+    {
+      "start": 1050.11508,
+      "end": 1052.5951,
+      "text": "exactly because the coins get too big to afford."
+    },
+    {
+      "start": 1053.4951,
+      "end": 1056.0750699999999,
+      "text": "And when Planck did the mathematics with this assumption,"
+    },
+    {
+      "start": 1056.5750699999999,
+      "end": 1059.0951,
+      "text": "the curve that fell out was precisely his formula,"
+    },
+    {
+      "start": 1059.7751,
+      "end": 1061.5750699999999,
+      "text": "the one that fit the data perfectly."
+    },
+    {
+      "start": 1061.9751,
+      "end": 1068.23508,
+      "text": "The strange coin idea didn't just fix the catastrophe, it reproduced the exact measured"
+    },
+    {
+      "start": 1068.23508,
+      "end": 1074.83508,
+      "text": "shape at every frequency and every temperature with that one new constant H tuned to fit."
+    },
+    {
+      "start": 1074.83508,
+      "end": 1079.9751,
+      "text": "If energy is really grainy, why does the world look so smooth? I've never once"
+    },
+    {
+      "start": 1080.0,
+      "end": 1085.1,
+      "text": "noticed my energy coming in coins. Because your coins are unimaginably tiny,"
+    },
+    {
+      "start": 1085.72,
+      "end": 1092.54,
+      "text": "that's the whole reason the graininess stayed hidden until 1900. Planck's constant H is one"
+    },
+    {
+      "start": 1092.54,
+      "end": 1098.4,
+      "text": "of the smallest numbers in all of physics. So for any energy you deal with in ordinary life,"
+    },
+    {
+      "start": 1099.0,
+      "end": 1104.96,
+      "text": "lifting a cup, a beam of sunlight, the warmth of a fire, the number of coins involved isn't"
+    },
+    {
+      "start": 1104.96,
+      "end": 1111.06,
+      "text": "hundreds or millions, it's more like trillions upon trillions upon trillions. And when a quantity"
+    },
+    {
+      "start": 1111.06,
+      "end": 1116.68,
+      "text": "comes in that many pieces, adding or removing one makes no perceptible difference at all."
+    },
+    {
+      "start": 1117.34,
+      "end": 1123.16,
+      "text": "It looks perfectly continuous, exactly the way a beach looks like smooth sand from standing height,"
+    },
+    {
+      "start": 1123.62,
+      "end": 1129.399998,
+      "text": "even though it's really made of separate grains. You have to zoom all the way down to a single atom,"
+    },
+    {
+      "start": 1129.399998,
+      "end": 1135.519997,
+      "text": "a single packet of light, before the coin-sized steps become a big fraction of what's going on."
+    },
+    {
+      "start": 1136.42,
+      "end": 1139.359997,
+      "text": "That's why classical physics worked so well for centuries."
+    },
+    {
+      "start": 1140.12,
+      "end": 1146.259995,
+      "text": "It's the excellent approximation you get when the coins are so small you can pretend energy is a smooth fluid."
+    },
+    {
+      "start": 1147.34,
+      "end": 1151.28,
+      "text": "Physicists have a name for that idea, the correspondence principle."
+    },
+    {
+      "start": 1152.259995,
+      "end": 1155.82,
+      "text": "Quantum mechanics has to melt back into ordinary classical physics"
+    },
+    {
+      "start": 1155.82,
+      "end": 1158.88,
+      "text": "whenever the quantum coins are negligibly small."
+    },
+    {
+      "start": 1159.4,
+      "end": 1161.9,
+      "text": "which in daily life is essentially always."
+    },
+    {
+      "start": 1161.9,
+      "end": 1163.9,
+      "text": "That's a stunning success."
+    },
+    {
+      "start": 1163.9,
+      "end": 1176.058365,
+      "text": "So Plank must have been thrilled He cracked it And here the twist that makes this episode unlike any other in the series He was not thrilled He was deeply uneasy and he did"
+    },
+    {
+      "start": 1176.058365,
+      "end": 1181.49837,
+      "text": "not believe the quantum was real. To Planck, the assumption that energy comes in discrete"
+    },
+    {
+      "start": 1181.49837,
+      "end": 1187.15837,
+      "text": "packets was a mathematical device, a formal trick he'd been forced to use to get the answer"
+    },
+    {
+      "start": 1187.15837,
+      "end": 1193.95837,
+      "text": "out, not a true statement about how nature works. He called it later an act of desperation."
+    },
+    {
+      "start": 1193.95837,
+      "end": 1198.278366,
+      "text": "He was a conservative physicist steeped in the classical tradition,"
+    },
+    {
+      "start": 1198.918365,
+      "end": 1201.278366,
+      "text": "and he fully expected that someone, eventually,"
+    },
+    {
+      "start": 1201.75836,
+      "end": 1206.03836,
+      "text": "would find a way to derive his formula without the ugly quantum assumption"
+    },
+    {
+      "start": 1206.03836,
+      "end": 1210.99837,
+      "text": "and the graininess would dissolve back into good, continuous, classical physics."
+    },
+    {
+      "start": 1211.85837,
+      "end": 1214.45837,
+      "text": "He spent years, genuinely years,"
+    },
+    {
+      "start": 1214.97836,
+      "end": 1217.09836,
+      "text": "trying to make his own discovery go away,"
+    },
+    {
+      "start": 1217.57837,
+      "end": 1219.47836,
+      "text": "to reconcile it with the old physics."
+    },
+    {
+      "start": 1220.11836,
+      "end": 1221.43837,
+      "text": "He never managed it."
+    },
+    {
+      "start": 1222.1383700000001,
+      "end": 1223.09836,
+      "text": "Nobody ever has."
+    },
+    {
+      "start": 1223.09836,
+      "end": 1229.41837,
+      "text": "That's remarkable. He opens the door to the quantum and then spends years trying to shove it closed."
+    },
+    {
+      "start": 1230.17838,
+      "end": 1233.59836,
+      "text": "So who actually believed it? Who took the quantum seriously?"
+    },
+    {
+      "start": 1233.87836,
+      "end": 1239.21837,
+      "text": "Einstein. And this is the crucial handoff because it's easy to blur these two together,"
+    },
+    {
+      "start": 1239.61836,
+      "end": 1245.45837,
+      "text": "and they're really quite different. Planck had quantized the oscillators. The little charges in"
+    },
+    {
+      "start": 1245.45837,
+      "end": 1251.65836,
+      "text": "the walls could only exchange energy in lumps. But Planck still thought of light itself, once emitted,"
+    },
+    {
+      "start": 1251.65836,
+      "end": 1253.75836,
+      "text": "as a normal continuous wave."
+    },
+    {
+      "start": 1254.73837,
+      "end": 1267.97673,
+      "text": "Einstein in 1905 the same miracle year as the relativity paper we did took the radical step of saying no the light itself is made of quanta Light comes in indivisible packets of energy"
+    },
+    {
+      "start": 1268.51674,
+      "end": 1274.89673,
+      "text": "h times the frequency, that we now call photons. He used this to explain a completely different"
+    },
+    {
+      "start": 1274.89673,
+      "end": 1280.97673,
+      "text": "puzzle, the photoelectric effect, how light knocks electrons out of a metal, which made"
+    },
+    {
+      "start": 1280.97673,
+      "end": 1286.35674,
+      "text": "no sense as a continuous wave, but made perfect sense if light arrived as discrete packets."
+    },
+    {
+      "start": 1287.35674,
+      "end": 1292.27673,
+      "text": "So Planck introduced the quantum as a reluctant bookkeeping rule about energy exchange."
+    },
+    {
+      "start": 1293.15674,
+      "end": 1297.43674,
+      "text": "Einstein said the quantum is physically real and light is literally made of them."
+    },
+    {
+      "start": 1298.31674,
+      "end": 1301.57674,
+      "text": "Einstein believed it. Planck for a long time did not."
+    },
+    {
+      "start": 1302.27673,
+      "end": 1308.77673,
+      "text": "Tell me about that other puzzle, the photoelectric effect. Why couldn't a normal light wave explain it?"
+    },
+    {
+      "start": 1308.77673,
+      "end": 1311.17673,
+      "text": "It's a simple experiment with a stubborn result."
+    },
+    {
+      "start": 1312.21674,
+      "end": 1316.21674,
+      "text": "Shine light on a metal surface and it can knock electrons out of the metal."
+    },
+    {
+      "start": 1317.33673,
+      "end": 1322.85674,
+      "text": "Now, if light is a continuous wave, you'd expect that brighter light, more intense,"
+    },
+    {
+      "start": 1322.85674,
+      "end": 1328.05673,
+      "text": "carrying more energy, should kick the electrons out harder, with more energy each."
+    },
+    {
+      "start": 1328.85674,
+      "end": 1333.81674,
+      "text": "And you'd expect that any colour of light, if it's bright enough, should eventually do the job."
+    },
+    {
+      "start": 1334.6967300000001,
+      "end": 1336.21674,
+      "text": "But that is not what happens."
+    },
+    {
+      "start": 1336.21674,
+      "end": 1342.21674,
+      "text": "What experiment showed is that making the light brighter kicks out more electrons,"
+    },
+    {
+      "start": 1342.21674,
+      "end": 1361.2151,
+      "text": "but it does not give each one any more energy The energy of each ejected electron depends only on the frequency the colour of the light not its brightness And below a certain threshold frequency no electrons come out at all no matter how blindingly bright you make the light"
+    },
+    {
+      "start": 1362.2551,
+      "end": 1365.83508,
+      "text": "Dim blue light works, a dazzling red light does nothing."
+    },
+    {
+      "start": 1365.83508,
+      "end": 1372.17508,
+      "text": "None of that makes sense for a wave, but it makes perfect sense if light is a hail of packets,"
+    },
+    {
+      "start": 1372.6951,
+      "end": 1379.4951,
+      "text": "each carrying energy h times the frequency. One packet hits one electron and gives it exactly"
+    },
+    {
+      "start": 1379.4951,
+      "end": 1386.33508,
+      "text": "that much energy, so the energy depends on frequency, not brightness. Brighter just means"
+    },
+    {
+      "start": 1386.33508,
+      "end": 1392.5750699999999,
+      "text": "more packets, so more electrons, each with the same kick. And if a single packet doesn't carry"
+    },
+    {
+      "start": 1392.5750699999999,
+      "end": 1397.8151,
+      "text": "enough energy to free an electron below the threshold, then no number of such packets will"
+    },
+    {
+      "start": 1397.8151,
+      "end": 1403.9351,
+      "text": "do it. Einstein read the quantum right off that experiment and insisted the packets were real."
+    },
+    {
+      "start": 1404.11508,
+      "end": 1409.4151,
+      "text": "And that photon idea, that's the one that eventually gets Einstein his Nobel Prize,"
+    },
+    {
+      "start": 1409.55508,
+      "end": 1414.55508,
+      "text": "isn't it? Not relativity. That's right. The light quantum, the photon,"
+    },
+    {
+      "start": 1415.05508,
+      "end": 1420.8751,
+      "text": "is what the Nobel citation named years later, which tells you how seismic the quantum turned"
+    },
+    {
+      "start": 1420.8751,
+      "end": 1429.39508,
+      "text": "out to be. And from this seed the whole twentieth-century revolution grows. That constant H, Planck's"
+    },
+    {
+      "start": 1429.39508,
+      "end": 1434.2151,
+      "text": "constant, becomes the signature of the entire quantum world. It's in the wave function"
+    },
+    {
+      "start": 1434.2151,
+      "end": 1439.9751,
+      "text": "we did a whole episode on. It's in Heisenberg's uncertainty principle, the fundamental fundamental"
+    },
+    {
+      "start": 1440.0,
+      "end": 1447.12,
+      "text": "of the quantum world is measured in units of H. It's in the spin we explored, in the Bell correlations,"
+    },
+    {
+      "start": 1447.6,
+      "end": 1453.219999,
+      "text": "in every quantum phenomenon there is. If you see H in an equation, you're looking at quantum"
+    },
+    {
+      "start": 1453.219999,
+      "end": 1459.08,
+      "text": "mechanics. And H made its very first appearance here, in Planck's reluctant December paper,"
+    },
+    {
+      "start": 1459.46,
+      "end": 1464.439999,
+      "text": "about the colour of a glowing object. Was blackbody radiation the only place this"
+    },
+    {
+      "start": 1464.439999,
+      "end": 1469.239998,
+      "text": "quantum idea showed up, or did it start explaining other things too?"
+    },
+    {
+      "start": 1469.38,
+      "end": 1474.059998,
+      "text": "It very quickly started cropping up in places that had nothing obviously to do with glowing"
+    },
+    {
+      "start": 1474.059998,
+      "end": 1479.399998,
+      "text": "cavities, which is exactly how you know it's real physics and not a one-off fudge."
+    },
+    {
+      "start": 1480.3,
+      "end": 1486.14,
+      "text": "Here's a lovely example, the heat capacity of solids, how much energy it takes to warm"
+    },
+    {
+      "start": 1486.14,
+      "end": 1488.059998,
+      "text": "a chunk of material by one degree."
+    },
+    {
+      "start": 1489.199997,
+      "end": 1493.92,
+      "text": "Classical physics had a tidy rule saying this should be the same constant value for every"
+    },
+    {
+      "start": 1493.92,
+      "end": 1500.14,
+      "text": "solid. Equipartition again, every atom's vibrations getting their equal share of energy."
+    },
+    {
+      "start": 1501.039997,
+      "end": 1506.759995,
+      "text": "And near room temperature it roughly held. But experiments showed that as you cool a solid"
+    },
+    {
+      "start": 1506.759995,
+      "end": 1513.36,
+      "text": "toward very low temperatures, its heat capacity doesn't hold steady. It collapses toward zero,"
+    },
+    {
+      "start": 1513.88,
+      "end": 1520.96,
+      "text": "and classical physics had no idea why. Einstein, and later Peter Debye, applied Planck's coin."
+    },
+    {
+      "start": 1520.96,
+      "end": 1536.6449,
+      "text": "The vibrations of the atoms in a solid are quantised too They come in the same kind of energy packets And at low temperatures there isn enough thermal energy to afford even one packet for most of those vibrations so they freeze out"
+    },
+    {
+      "start": 1537.244896,
+      "end": 1542.3249,
+      "text": "The exact same entry-fee logic that tamed the ultraviolet catastrophe."
+    },
+    {
+      "start": 1543.4649,
+      "end": 1547.6449,
+      "text": "The heat capacity drops because the vibrations are being priced out of existence."
+    },
+    {
+      "start": 1548.9049,
+      "end": 1553.3649,
+      "text": "Same coin, a completely unrelated phenomenon, and it worked perfectly."
+    },
+    {
+      "start": 1553.3649,
+      "end": 1559.3249,
+      "text": "That's the moment quantization stopped looking like a trick for one curve and started looking"
+    },
+    {
+      "start": 1559.3249,
+      "end": 1560.8049,
+      "text": "like a law of nature."
+    },
+    {
+      "start": 1560.8049,
+      "end": 1565.8649,
+      "text": "Where does the quantum go next, after Planck and Einstein?"
+    },
+    {
+      "start": 1565.8649,
+      "end": 1571.0448900000001,
+      "text": "How do you get from energy comes in coins to the full quantum theory?"
+    },
+    {
+      "start": 1571.0448900000001,
+      "end": 1577.10489,
+      "text": "The next great step is inside the atom, and it ties straight to another episode of ours."
+    },
+    {
+      "start": 1577.10489,
+      "end": 1584.4249,
+      "text": "In 1913, Niels Bohr, the same Bohr who later duels Einstein over quantum reality in our"
+    },
+    {
+      "start": 1584.4249,
+      "end": 1590.7849,
+      "text": "Bell episode, applies the quantum to the atom. He proposes that the electrons in an atom"
+    },
+    {
+      "start": 1590.7849,
+      "end": 1596.2849,
+      "text": "can't orbit at just any distance with any energy. They're restricted to a discrete"
+    },
+    {
+      "start": 1596.2849,
+      "end": 1601.88489,
+      "text": "ladder of allowed energy levels, quantized just like Planck's energy came in steps."
+    },
+    {
+      "start": 1601.88489,
+      "end": 1608.82489,
+      "text": "An electron can sit on one rung or another, but not in between. And when an electron jumps"
+    },
+    {
+      "start": 1608.82489,
+      "end": 1614.7049,
+      "text": "down from a higher rung to a lower one, the atom spits out a single photon, carrying exactly"
+    },
+    {
+      "start": 1614.7049,
+      "end": 1628.90979,
+      "text": "the energy difference which by Planck relation means a photon of one exact frequency one exact colour That instantly explains something that had been a mystery for decades why each chemical"
+    },
+    {
+      "start": 1628.90979,
+      "end": 1634.8498,
+      "text": "element when heated emits only a few sharp, specific colours, its spectral fingerprint."
+    },
+    {
+      "start": 1635.8698,
+      "end": 1641.3098,
+      "text": "Those lines are electrons dropping between quantised rungs, and those discrete energy"
+    },
+    {
+      "start": 1641.3098,
+      "end": 1645.8698,
+      "text": "levels are exactly what we built up from the Schr\u00f6dinger equation in the wave function"
+    },
+    {
+      "start": 1645.8698,
+      "end": 1653.7098,
+      "text": "episode. So the ladder runs. Planck quantizes energy exchange, Einstein quantizes light,"
+    },
+    {
+      "start": 1654.5098,
+      "end": 1661.5898,
+      "text": "Bohr quantizes the atom, and by the mid-1920s it all crystallizes into the full quantum mechanics."
+    },
+    {
+      "start": 1662.62979,
+      "end": 1668.4298,
+      "text": "Every rung of that ladder starts from Planck's coin. So how long from Planck's reluctant coin"
+    },
+    {
+      "start": 1668.4298,
+      "end": 1675.8298,
+      "text": "to a real, complete quantum theory. About 25 years, and it was a messy patchwork quarter century."
+    },
+    {
+      "start": 1676.98979,
+      "end": 1681.7898,
+      "text": "Historians actually have a name for the stretch from Planck up to the mid-1920s,"
+    },
+    {
+      "start": 1682.4298,
+      "end": 1688.8498,
+      "text": "the old quantum theory. It was a grab bag of quantization rules bolted onto otherwise"
+    },
+    {
+      "start": 1688.8498,
+      "end": 1694.9298,
+      "text": "classical physics. Planck's quantized energy exchange, Einstein's light packets,"
+    },
+    {
+      "start": 1694.9298,
+      "end": 1703.9298,
+      "text": "Bohr's quantized atomic orbits. Each rule worked spectacularly in its own corner and nobody knew why they should be true."
+    },
+    {
+      "start": 1703.9298,
+      "end": 1719.47467,
+      "text": "There was no single coherent foundation underneath It was a theory held together with clever guesses and string And then in the mid it all came together at once Heisenberg Schrodinger and others"
+    },
+    {
+      "start": 1719.47467,
+      "end": 1726.1147,
+      "text": "built the real, self-consistent framework, quantum mechanics proper, with the wave function at its"
+    },
+    {
+      "start": 1726.1147,
+      "end": 1732.85468,
+      "text": "centre, the machinery we actually used in the wave function and spin episodes. So this paper"
+    },
+    {
+      "start": 1732.85468,
+      "end": 1738.51468,
+      "text": "isn't the finished theory, not remotely. It's the first clue in a mystery that took a full"
+    },
+    {
+      "start": 1738.51468,
+      "end": 1744.07468,
+      "text": "generation of physicists to solve, and Planck's coin is the clue that started the hunt."
+    },
+    {
+      "start": 1744.2747,
+      "end": 1749.7747,
+      "text": "I want to come back to the glow itself, because there's a connection to another episode we did,"
+    },
+    {
+      "start": 1750.1946699999999,
+      "end": 1756.45468,
+      "text": "the expanding universe, Hubble. You hinted the blackbody curve shows up there."
+    },
+    {
+      "start": 1756.45468,
+      "end": 1762.15466,
+      "text": "It shows up in the most spectacular possible way, and it's one of my favourite facts in physics."
+    },
+    {
+      "start": 1762.85468,
+      "end": 1769.47467,
+      "text": "Remember from the Hubble episode that the universe began hot and dense and left behind an afterglow,"
+    },
+    {
+      "start": 1769.9146700000001,
+      "end": 1774.65466,
+      "text": "the cosmic microwave background, the radiation filling all of space?"
+    },
+    {
+      "start": 1775.67468,
+      "end": 1778.4947,
+      "text": "Well, that afterglow is a blackbody glow."
+    },
+    {
+      "start": 1779.3346999999999,
+      "end": 1785.09467,
+      "text": "The entire universe is a glowing object, cooled now to just a few degrees above absolute zero,"
+    },
+    {
+      "start": 1785.09467,
+      "end": 1790.35468,
+      "text": "and when we measured the spectrum of that cosmic glow, it traces out Planck's law,"
+    },
+    {
+      "start": 1790.35468,
+      "end": 1796.65466,
+      "text": "the exact curve from this paper, more perfectly than any blackbody we can make in a laboratory."
+    },
+    {
+      "start": 1796.65466,
+      "end": 1799.97467,
+      "text": "The whole sky is glowing on Planck's curve."
+    },
+    {
+      "start": 1800.0,
+      "end": 1807.66,
+      "text": "So the formula a cautious German physicist wrote down in 1900 to explain a hot cavity"
+    },
+    {
+      "start": 1807.66,
+      "end": 1812.12,
+      "text": "turns out to be the shape of the light left over from the birth of the universe."
+    },
+    {
+      "start": 1812.799999,
+      "end": 1815.799999,
+      "text": "The same law, from a forge to the cosmos."
+    },
+    {
+      "start": 1815.799999,
+      "end": 1822.02,
+      "text": "So Planck's constant takes its place next to the other great constants we've met across this series."
+    },
+    {
+      "start": 1822.48,
+      "end": 1827.98,
+      "text": "It becomes one of the three that matter most, and they map almost perfectly onto episodes we've done."
+    },
+    {
+      "start": 1828.92,
+      "end": 1833.22,
+      "text": "There's C, the speed of light, the hero of the two relativity episodes,"
+    },
+    {
+      "start": 1833.88,
+      "end": 1836.12,
+      "text": "the constant that governs space and time."
+    },
+    {
+      "start": 1836.8,
+      "end": 1839.84,
+      "text": "There's G, Newton's gravitational constant,"
+    },
+    {
+      "start": 1840.46,
+      "end": 1844.239998,
+      "text": "the strength of gravity, the star of the general relativity episode."
+    },
+    {
+      "start": 1845.28,
+      "end": 1847.66,
+      "text": "And now there's H, Planck's constant,"
+    },
+    {
+      "start": 1848.3,
+      "end": 1851.52,
+      "text": "the grain size of the quantum world born in this paper."
+    },
+    {
+      "start": 1852.62,
+      "end": 1856.92,
+      "text": "Between them, those three constants stake out the deepest structure of physics."
+    },
+    {
+      "start": 1856.92,
+      "end": 1863.339996,
+      "text": "C rules the fast, G rules the massive, H rules the tiny."
+    },
+    {
+      "start": 1864.299995,
+      "end": 1866.88,
+      "text": "And here's the beautiful, unsettling capstone."
+    },
+    {
+      "start": 1867.7,
+      "end": 1872.5,
+      "text": "If you take all three and combine them in the right way, they hand you a length and a time."
+    },
+    {
+      "start": 1873.119995,
+      "end": 1877.579994,
+      "text": "The Planck length and the Planck time, almost inconceivably small,"
+    },
+    {
+      "start": 1877.579994,
+      "end": 1882.96,
+      "text": "the scale at which quantum mechanics and gravity would have to be described by a single theory."
+    },
+    {
+      "start": 1882.96,
+      "end": 1899.946945,
+      "text": "That the exact frontier we ended the general relativity episode on Quantum gravity the thing nobody has yet So Planck little constant doesn just open the quantum age it also helps name the deepest unsolved problem in all of"
+    },
+    {
+      "start": 1899.946945,
+      "end": 1907.24694,
+      "text": "physics. That gives me chills. So let's land it. What's the final word on Planck and his quantum?"
+    },
+    {
+      "start": 1907.52695,
+      "end": 1913.446945,
+      "text": "The final word is that this is the reluctant revolution. Planck didn't set out to overthrow"
+    },
+    {
+      "start": 1913.446945,
+      "end": 1919.3669399999999,
+      "text": "physics, he was trying to tidy up one stubborn curve, and he was as classical a physicist as"
+    },
+    {
+      "start": 1919.3669399999999,
+      "end": 1925.806946,
+      "text": "they came. He found the quantum because the mathematics left him no other choice. He introduced"
+    },
+    {
+      "start": 1925.806946,
+      "end": 1932.12694,
+      "text": "it as a formal trick, and he spent years hoping it would turn out to be unnecessary. It never did."
+    },
+    {
+      "start": 1933.08694,
+      "end": 1939.98694,
+      "text": "The graininess is real. Energy really does come in coins. The world really is quantised at its root."
+    },
+    {
+      "start": 1939.98694,
+      "end": 1945.54694,
+      "text": "He lit the fuse of the strangest, most successful theory in the history of science,"
+    },
+    {
+      "start": 1946.12694,
+      "end": 1950.44695,
+      "text": "almost against his own will, and then watched, with something like discomfort,"
+    },
+    {
+      "start": 1951.08694,
+      "end": 1958.12695,
+      "text": "as it detonated across the entire 20th century. Everything grainy and probabilistic and uncertain"
+    },
+    {
+      "start": 1958.12695,
+      "end": 1963.78694,
+      "text": "about the quantum world traces back to that one packet of energy, h times the frequency,"
+    },
+    {
+      "start": 1964.40695,
+      "end": 1969.68695,
+      "text": "that Planck offered the world with an apology. Everything glows, and explaining the glow"
+    },
+    {
+      "start": 1969.68695,
+      "end": 1976.08694,
+      "text": "forced energy to come in coins, the first grain of the quantum, handed over by a man who spent"
+    },
+    {
+      "start": 1976.08694,
+      "end": 1982.82693,
+      "text": "years wishing he could take it back. Thank you, George. A real pleasure. Mind the Coins."
+    }
+  ]
+}

@@ -1,0 +1,1800 @@
+{
+  "episode_id": "ep07",
+  "audio_path": "podcasts\\Great Papers 07 - On Computable Numbers, Turing 1936.mp3",
+  "duration_sec": 1982.3,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 358,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1599998,
+      "text": "We're changing scenery pretty dramatically today."
+    },
+    {
+      "start": 3.6999998,
+      "end": 8.62,
+      "text": "The last few times we've been out among stars and light and curved space-time."
+    },
+    {
+      "start": 9.36,
+      "end": 13.36,
+      "text": "Today there are no telescopes, no eclipses, no particles."
+    },
+    {
+      "start": 14.179999,
+      "end": 18.279999,
+      "text": "Today it's a young mathematician, a piece of imaginary tape,"
+    },
+    {
+      "start": 18.66,
+      "end": 21.3,
+      "text": "and a question that sounds almost like a riddle."
+    },
+    {
+      "start": 21.8,
+      "end": 23.92,
+      "text": "Can thinking be turned into a machine?"
+    },
+    {
+      "start": 24.68,
+      "end": 27.72,
+      "text": "George, the paper is from 1936."
+    },
+    {
+      "start": 27.72,
+      "end": 40.559998,
+      "text": "It's called On Computable Numbers, and I've heard the wild claim that this one paper basically invented the computer, years before anyone built one. Is that actually true?"
+    },
+    {
+      "start": 40.559998,
+      "end": 45.379997,
+      "text": "It's true, and it's stranger than that, because the computer is almost a side effect."
+    },
+    {
+      "start": 46.3,
+      "end": 48.679996,
+      "text": "Turing wasn't trying to invent a machine at all."
+    },
+    {
+      "start": 49.26,
+      "end": 54.559998,
+      "text": "He was trying to answer a deep question in pure logic, a question about the limits of mathematics."
+    },
+    {
+      "start": 55.339996,
+      "end": 61.1,
+      "text": "And to answer it, he had to first invent, on paper, the most general computing machine possible."
+    },
+    {
+      "start": 62.059998,
+      "end": 68.06,
+      "text": "And then, having invented it, he used it to prove that some things can never be computed by any machine ever."
+    },
+    {
+      "start": 68.06,
+      "end": 74.5,
+      "text": "So here's the whole journey for today. We start with a dream that the greatest mathematician"
+    },
+    {
+      "start": 74.5,
+      "end": 81.21999,
+      "text": "of the age had, the dream of putting all of mathematics on autopilot. We watch that dream"
+    },
+    {
+      "start": 81.21999,
+      "end": 96.3649,
+      "text": "get into trouble Then Turing builds his imaginary machine to settle it and in doing so hands us the blueprint for every computer that would ever exist And right at the end the same machine proves there a wall around what any machine can know"
+    },
+    {
+      "start": 97.384895,
+      "end": 99.8649,
+      "text": "Invention and limitation, in one paper."
+    },
+    {
+      "start": 100.064896,
+      "end": 104.2249,
+      "text": "Start with the dream, then. Whose was it, and what was it?"
+    },
+    {
+      "start": 104.7249,
+      "end": 111.6849,
+      "text": "The dreamer is David Hilbert, and around the 1920s, he was probably the most influential mathematician alive."
+    },
+    {
+      "start": 111.6849,
+      "end": 116.7249,
+      "text": "And Hilbert had a program, an actual agenda for the future of mathematics,"
+    },
+    {
+      "start": 117.1849,
+      "end": 119.2249,
+      "text": "and it was breathtakingly ambitious."
+    },
+    {
+      "start": 120.2449,
+      "end": 124.8049,
+      "text": "He wanted to put all of mathematics on completely secure mechanical foundations."
+    },
+    {
+      "start": 125.8849,
+      "end": 128.0049,
+      "text": "Concretely, he wanted three things."
+    },
+    {
+      "start": 128.8449,
+      "end": 130.6849,
+      "text": "He wanted mathematics to be complete,"
+    },
+    {
+      "start": 131.2649,
+      "end": 134.6449,
+      "text": "meaning every true statement could, in principle, be proved."
+    },
+    {
+      "start": 135.1849,
+      "end": 136.8049,
+      "text": "He wanted it to be consistent,"
+    },
+    {
+      "start": 137.5049,
+      "end": 139.5249,
+      "text": "meaning you could never prove a contradiction,"
+    },
+    {
+      "start": 139.5249,
+      "end": 145.5249,
+      "text": "never prove something and its opposite. And third, he wanted it to be decidable."
+    },
+    {
+      "start": 146.3849,
+      "end": 150.6649,
+      "text": "That last one is the star of today and it has a mouthful of a German name,"
+    },
+    {
+      "start": 151.1849,
+      "end": 155.0649,
+      "text": "the Entscheidungsproblem, which just means the decision problem."
+    },
+    {
+      "start": 155.2649,
+      "end": 160.3049,
+      "text": "Unpack decidable for me. What would it mean for mathematics to be decidable?"
+    },
+    {
+      "start": 160.4449,
+      "end": 164.4049,
+      "text": "It would mean this, that there exists a definite mechanical procedure,"
+    },
+    {
+      "start": 164.4049,
+      "end": 173.2049,
+      "text": "a recipe, a set of steps you could follow without any insight or creativity, that you could apply to any mathematical statement whatsoever,"
+    },
+    {
+      "start": 173.82489,
+      "end": 189.0298,
+      "text": "and it would tell you in a finite amount of time whether that statement is provable or not Feed it a conjecture Is there an infinity of twin primes Does this equation have a solution Turn the crank and out comes a yes"
+    },
+    {
+      "start": 189.0298,
+      "end": 197.2498,
+      "text": "or a no. No cleverness required, no flashes of insight, just follow the steps. Hilbert genuinely"
+    },
+    {
+      "start": 197.2498,
+      "end": 203.3098,
+      "text": "believed such a procedure might exist, that mathematics was, at bottom, a machine you could"
+    },
+    {
+      "start": 203.3098,
+      "end": 209.4298,
+      "text": "build. And you can hear why it's seductive. It would mean truth in mathematics is always,"
+    },
+    {
+      "start": 209.8098,
+      "end": 214.04979,
+      "text": "eventually, findable by grinding. That would kind of put mathematicians"
+    },
+    {
+      "start": 214.04979,
+      "end": 218.4298,
+      "text": "out of a job, wouldn't it? You'd just build the machine and walk away."
+    },
+    {
+      "start": 218.6498,
+      "end": 223.7298,
+      "text": "In principle, yes, and Hilbert was fine with that. He thought the certainty was worth it."
+    },
+    {
+      "start": 224.3698,
+      "end": 229.5698,
+      "text": "But the dream ran into trouble almost immediately, and the first blow came from a young logician"
+    },
+    {
+      "start": 229.5698,
+      "end": 236.0098,
+      "text": "named Kurt G\u00f6del. In 1931, G\u00f6del proved something that stunned the field."
+    },
+    {
+      "start": 236.82979,
+      "end": 242.4498,
+      "text": "Mathematics cannot be both complete and consistent. He showed that in any system,"
+    },
+    {
+      "start": 242.7898,
+      "end": 247.30978,
+      "text": "rich enough to do ordinary arithmetic, there are true statements that can never be proved"
+    },
+    {
+      "start": 247.30978,
+      "end": 251.96979,
+      "text": "within the system. There's always a true sentence that the rules can't reach."
+    },
+    {
+      "start": 252.9498,
+      "end": 258.1898,
+      "text": "This is G\u00f6del's incompleteness theorem, and it demolished the first two pillars of Hilbert's dream"
+    },
+    {
+      "start": 258.1898,
+      "end": 261.3898,
+      "text": "in one stroke. Completeness was gone."
+    },
+    {
+      "start": 261.3898,
+      "end": 279.9347,
+      "text": "How did Girdle even do that Proving there a true statement you can prove sounds like it shouldn be possible His trick is self again dressed up very cleverly G found a way to make arithmetic talk about itself He encoded statements about numbers"
+    },
+    {
+      "start": 279.9347,
+      "end": 285.47467,
+      "text": "as numbers so that a mathematical sentence could, in effect, refer to other sentences,"
+    },
+    {
+      "start": 286.0547,
+      "end": 291.67468,
+      "text": "including itself. And then he built one particular sentence that says, in coded form,"
+    },
+    {
+      "start": 291.67468,
+      "end": 299.35468,
+      "text": "this statement cannot be proved. Now sit with the bind that creates. If that sentence were provable,"
+    },
+    {
+      "start": 299.35468,
+      "end": 305.41467,
+      "text": "then your system has just proved something that declares itself unprovable. It's proved a falsehood,"
+    },
+    {
+      "start": 305.85468,
+      "end": 312.35468,
+      "text": "so the system is inconsistent, it's broken. But if your system is trustworthy and never proves"
+    },
+    {
+      "start": 312.35468,
+      "end": 317.89468,
+      "text": "falsehoods, then the sentence genuinely cannot be proved, which is exactly what the sentence"
+    },
+    {
+      "start": 317.89468,
+      "end": 326.4947,
+      "text": "asserts about itself, so the sentence is true. True and unprovable. There it sits, a correct"
+    },
+    {
+      "start": 326.4947,
+      "end": 332.5547,
+      "text": "statement your rules can never reach. That's incompleteness. And notice the shape of it,"
+    },
+    {
+      "start": 332.89468,
+      "end": 337.8347,
+      "text": "because Turing is about to pick up the same weapon, a sentence that talks about itself"
+    },
+    {
+      "start": 337.8347,
+      "end": 342.03467,
+      "text": "and arranges to do the opposite of whatever the system concludes about it."
+    },
+    {
+      "start": 342.03467,
+      "end": 347.73468,
+      "text": "So after Gerdel, is there anything left of the programme? It sounds like he already knocked it"
+    },
+    {
+      "start": 347.73468,
+      "end": 354.23468,
+      "text": "down. Two pillars down, but the third was still standing. And that's the crucial point."
+    },
+    {
+      "start": 354.23468,
+      "end": 359.17468,
+      "text": "G\u00f6del had shown some truths can't be proved, but the decision problem asked something a"
+    },
+    {
+      "start": 359.17468,
+      "end": 359.97467,
+      "text": "bit different."
+    },
+    {
+      "start": 360.0,
+      "end": 363.48,
+      "text": "Is there a mechanical procedure to decide provability?"
+    },
+    {
+      "start": 364.62,
+      "end": 372.0,
+      "text": "Even in an incomplete system, you could still imagine a machine that sorts statements into provable and not provable."
+    },
+    {
+      "start": 372.98,
+      "end": 374.48,
+      "text": "G\u00f6del hadn't ruled that out."
+    },
+    {
+      "start": 375.42,
+      "end": 377.88,
+      "text": "So the Entscheidungsproblem was the last hope."
+    },
+    {
+      "start": 378.56,
+      "end": 382.76,
+      "text": "Maybe mathematics isn't complete, but maybe it's at least mechanically decidable."
+    },
+    {
+      "start": 383.48,
+      "end": 388.14,
+      "text": "And that's the exact question Turing sits down to answer in 1936."
+    },
+    {
+      "start": 388.14,
+      "end": 394.82,
+      "text": "Is there, or is there not, a mechanical procedure that can decide any mathematical statement?"
+    },
+    {
+      "start": 395.079998,
+      "end": 399.28,
+      "text": "Okay, so how do you even begin to attack a question like that?"
+    },
+    {
+      "start": 399.719997,
+      "end": 401.579998,
+      "text": "Is there a mechanical procedure?"
+    },
+    {
+      "start": 402.18,
+      "end": 407.14,
+      "text": "That phrase is doing a lot of work and it sounds impossibly vague."
+    },
+    {
+      "start": 407.34000000000003,
+      "end": 411.32,
+      "text": "You've put your finger on the entire obstacle and on Turing's great move."
+    },
+    {
+      "start": 411.719997,
+      "end": 418.0,
+      "text": "To prove that no mechanical procedure exists, you have to know exactly what a mechanical procedure ire is."
+    },
+    {
+      "start": 418.14,
+      "end": 421.059998,
+      "text": "If you leave it vague, someone can always say,"
+    },
+    {
+      "start": 421.739998,
+      "end": 424.78,
+      "text": "well, maybe there's a clever kind of procedure you didn't think of."
+    },
+    {
+      "start": 425.46,
+      "end": 428.6,
+      "text": "You have to pin it down, define with total precision"
+    },
+    {
+      "start": 428.6,
+      "end": 433.479996,
+      "text": "what it means to compute something by rote, by following rules, without insight."
+    },
+    {
+      "start": 434.159996,
+      "end": 435.62,
+      "text": "And nobody had ever done that."
+    },
+    {
+      "start": 436.29999499999997,
+      "end": 438.24,
+      "text": "It had always been an intuitive notion."
+    },
+    {
+      "start": 439.28,
+      "end": 441.06,
+      "text": "Turing's stroke was to define it,"
+    },
+    {
+      "start": 441.36,
+      "end": 444.06,
+      "text": "and the way he defined it is the birth of the whole subject."
+    },
+    {
+      "start": 444.92,
+      "end": 456.85837,
+      "text": "He didn start with mathematics He started by watching a person A person Watching a person do what Doing a calculation Picture and this is Turing own framing"
+    },
+    {
+      "start": 457.39837,
+      "end": 461.238365,
+      "text": "a human being working out a long computation with pencil and paper."
+    },
+    {
+      "start": 462.29837,
+      "end": 465.558365,
+      "text": "Back then, by the way, the word computer meant a person,"
+    },
+    {
+      "start": 466.098366,
+      "end": 467.81837,
+      "text": "a clerk whose job was to compute."
+    },
+    {
+      "start": 468.25837,
+      "end": 469.79837,
+      "text": "So picture that clerk."
+    },
+    {
+      "start": 470.47836,
+      "end": 474.75837,
+      "text": "What are they actually doing, mechanically, if you strip away all the understanding?"
+    },
+    {
+      "start": 475.95837,
+      "end": 477.57837,
+      "text": "Turing looked hard at this and said,"
+    },
+    {
+      "start": 478.17837,
+      "end": 482.03837,
+      "text": "Really, at any moment, the person is looking at one symbol on the paper."
+    },
+    {
+      "start": 483.01837,
+      "end": 487.278366,
+      "text": "Based on that symbol and their current state of mind, where they are in the procedure,"
+    },
+    {
+      "start": 487.79837,
+      "end": 489.41837,
+      "text": "they do a small number of things."
+    },
+    {
+      "start": 489.91837,
+      "end": 492.07837,
+      "text": "They write a symbol or erase one."
+    },
+    {
+      "start": 492.45837,
+      "end": 495.79837,
+      "text": "They shift their attention to a neighbouring spot on the paper,"
+    },
+    {
+      "start": 496.23837000000003,
+      "end": 498.65837,
+      "text": "and they move into a new state of mind."
+    },
+    {
+      "start": 499.39836,
+      "end": 500.07837,
+      "text": "And that's it."
+    },
+    {
+      "start": 500.67838,
+      "end": 504.53836,
+      "text": "That's all computing ever is, no matter how complicated the sum."
+    },
+    {
+      "start": 504.99837,
+      "end": 507.65837,
+      "text": "A sequence of those tiny, dumb steps."
+    },
+    {
+      "start": 507.81836,
+      "end": 510.77837,
+      "text": "That feels reductive in a way I want to resist."
+    },
+    {
+      "start": 511.25836000000004,
+      "end": 515.77837,
+      "text": "Surely there's more to doing mathematics than reading one symbol and writing another."
+    },
+    {
+      "start": 516.19836,
+      "end": 518.75836,
+      "text": "To doing mathematics with insight, absolutely."
+    },
+    {
+      "start": 519.61838,
+      "end": 523.99837,
+      "text": "But to executing a mechanical procedure, the thing Hilbert's dream was about,"
+    },
+    {
+      "start": 524.69836,
+      "end": 527.57837,
+      "text": "Turing's claim is that no, there really isn't more."
+    },
+    {
+      "start": 528.01837,
+      "end": 530.81836,
+      "text": "And here's how he makes it concrete and undeniable."
+    },
+    {
+      "start": 530.81836,
+      "end": 547.83673,
+      "text": "He takes that stripped picture of the clerk and turns it into a machine the simplest object that can do those exact steps Let me build it with you because it has only a few parts First a tape an endlessly long strip divided into"
+    },
+    {
+      "start": 547.83673,
+      "end": 554.37674,
+      "text": "square cells running off to infinity in both directions. That's the paper, idealised so"
+    },
+    {
+      "start": 554.37674,
+      "end": 561.91673,
+      "text": "you never run out. Each cell holds one symbol or is blank. An infinite tape. Fine. What reads"
+    },
+    {
+      "start": 561.91673,
+      "end": 568.11673,
+      "text": "the tape. A head. Think of it as a little reading and writing eye that sits over exactly one cell at"
+    },
+    {
+      "start": 568.11673,
+      "end": 574.87674,
+      "text": "a time. The head can do three things and only three. It can read the symbol in the cell it's over."
+    },
+    {
+      "start": 575.65674,
+      "end": 581.93674,
+      "text": "It can write a symbol into that cell, erasing what was there. And it can move one cell to the left"
+    },
+    {
+      "start": 581.93674,
+      "end": 589.55673,
+      "text": "or one cell to the right. That's the head's entire repertoire. Then the third part. The machine has"
+    },
+    {
+      "start": 589.55673,
+      "end": 594.83673,
+      "text": "an internal state, the state of mind from the clerk, and there's only a finite list"
+    },
+    {
+      "start": 594.83673,
+      "end": 601.8967299999999,
+      "text": "of possible states. And finally, the heart of it, a fixed table of rules. The table says,"
+    },
+    {
+      "start": 602.45673,
+      "end": 607.47673,
+      "text": "if you are in such and such a state, and you read such and such a symbol, then write this,"
+    },
+    {
+      "start": 607.83673,
+      "end": 613.71674,
+      "text": "move that direction, and switch to this new state. That table of rules is the machine."
+    },
+    {
+      "start": 614.35674,
+      "end": 616.5167200000001,
+      "text": "Different table, different machine."
+    },
+    {
+      "start": 616.5167200000001,
+      "end": 640.61508,
+      "text": "So the machine is basically look at the current cell look up the rule for this symbol in this state do what it says repeat Forever or until it stops Exactly that Read look up the rule write move change state repeat It is almost insultingly simple You could act it out with a strip of paper and a"
+    },
+    {
+      "start": 640.61508,
+      "end": 646.6551,
+      "text": "checklist of if-then rules and a coin to mark where you are. And here is the claim that makes"
+    },
+    {
+      "start": 646.6551,
+      "end": 653.9350999999999,
+      "text": "it revolutionary. That simple gadget can compute anything that can be computed at all. Any calculation"
+    },
+    {
+      "start": 653.9350999999999,
+      "end": 660.11508,
+      "text": "a human clerk could do by following rules, any procedure whatsoever can be carried out by one"
+    },
+    {
+      "start": 660.11508,
+      "end": 667.2350799999999,
+      "text": "of these machines with the right table of rules. Long addition, multiplication, finding square roots,"
+    },
+    {
+      "start": 667.7151,
+      "end": 673.05508,
+      "text": "checking whether a number is prime. Each is just a particular table of if-then rules,"
+    },
+    {
+      "start": 673.4751,
+      "end": 678.8350800000001,
+      "text": "driving the head back and forth across the tape. Before we go further, make the machine really"
+    },
+    {
+      "start": 678.8350800000001,
+      "end": 686.11508,
+      "text": "concrete for me. One tiny, complete example, step by step, so it stops floating in the abstract."
+    },
+    {
+      "start": 686.4751,
+      "end": 692.4350999999999,
+      "text": "Here's a satisfying little one. A machine that decides whether a row of marks has an even or an"
+    },
+    {
+      "start": 692.4350999999999,
+      "end": 700.55508,
+      "text": "odd number of them. It has two states, and I'll just call them even so far and odd so far. It"
+    },
+    {
+      "start": 700.55508,
+      "end": 708.13507,
+      "text": "starts at the left end in the state even so far, because zero marks read so far is even. The rule"
+    },
+    {
+      "start": 708.13507,
+      "end": 713.89508,
+      "text": "table is tiny. If you're in even so far and you read a mark, step right and switch"
+    },
+    {
+      "start": 713.89508,
+      "end": 719.9751,
+      "text": "to odd so far. If you're in odd so far and you read a mark, step right and switch"
+    },
+    {
+      "start": 720.0,
+      "end": 726.66,
+      "text": "switch back to even so far. And if you read a blank, the end of the row, you halt and whichever"
+    },
+    {
+      "start": 726.66,
+      "end": 733.599999,
+      "text": "state you're in is your answer. So the head walks left to right, flipping between even and odd with"
+    },
+    {
+      "start": 733.599999,
+      "end": 739.359999,
+      "text": "each mark it passes, and the state it lands in when the marks run out is the parity of the row."
+    },
+    {
+      "start": 740.46,
+      "end": 746.32,
+      "text": "Notice what those two states are doing. They're the machine's entire memory. It doesn't remember"
+    },
+    {
+      "start": 746.32,
+      "end": 752.399998,
+      "text": "how many marks it has seen. It can't, it's far too small. It only remembers one bit,"
+    },
+    {
+      "start": 752.8,
+      "end": 758.739998,
+      "text": "even or odd, and that's enough for this job. That is the whole flavour of these machines,"
+    },
+    {
+      "start": 759.32,
+      "end": 765.2,
+      "text": "a finite handful of states, an endless tape for scratch, and out of that you assemble any"
+    },
+    {
+      "start": 765.2,
+      "end": 771.94,
+      "text": "computation at all. The infinite tape still bugs me a little. Isn't that cheating? Nothing real is"
+    },
+    {
+      "start": 771.94,
+      "end": 778.28,
+      "text": "actually infinite? Fair worry, and the answer is that infinite here only means never artificially"
+    },
+    {
+      "start": 778.28,
+      "end": 786.22,
+      "text": "runs out. No single computation uses infinitely much tape. Any calculation that halts has used"
+    },
+    {
+      "start": 786.22,
+      "end": 792.439995,
+      "text": "some finite amount. The tape is unbounded the way a notebook is unbounded. You can always grab"
+    },
+    {
+      "start": 792.439995,
+      "end": 798.979996,
+      "text": "another page if you need one, but any real calculation fills only finitely many. If Turing"
+    },
+    {
+      "start": 798.979996,
+      "end": 803.92,
+      "text": "had capped the tape at a fixed length, he'd be describing one particular gadget with one"
+    },
+    {
+      "start": 803.92,
+      "end": 815.83836,
+      "text": "particular memory size and the theory would be about that gadget accidental limits By letting the tape grow as needed he captures computation in principle free of any hardware ceiling"
+    },
+    {
+      "start": 816.89837,
+      "end": 819.75837,
+      "text": "Your laptop is the everyday version of exactly this."
+    },
+    {
+      "start": 820.4583700000001,
+      "end": 826.51837,
+      "text": "Finite memory, but you can always add more, and for the theory that is all infinite tape ever meant."
+    },
+    {
+      "start": 826.67837,
+      "end": 832.278366,
+      "text": "Let's connect it to the title, because the paper is called On Computable Numbers."
+    },
+    {
+      "start": 832.918365,
+      "end": 834.47836,
+      "text": "What's a computable number?"
+    },
+    {
+      "start": 834.47836,
+      "end": 836.918365,
+      "text": "It's the natural thing once you have the machine."
+    },
+    {
+      "start": 837.89836,
+      "end": 844.13837,
+      "text": "A computable number is a number whose digits one of these machines can print out, one after another, forever."
+    },
+    {
+      "start": 845.17837,
+      "end": 848.27837,
+      "text": "Set the machine going, and it writes the decimal expansion."
+    },
+    {
+      "start": 849.01837,
+      "end": 851.55836,
+      "text": "First digit, second digit, third."
+    },
+    {
+      "start": 852.15837,
+      "end": 854.09836,
+      "text": "And it never needs a spark of insight."
+    },
+    {
+      "start": 854.69836,
+      "end": 858.25836,
+      "text": "It just grinds out digit after digit according to its rules."
+    },
+    {
+      "start": 858.9583700000001,
+      "end": 861.81836,
+      "text": "And most of the numbers you care about are like this."
+    },
+    {
+      "start": 861.81836,
+      "end": 867.77837,
+      "text": "The number pi is computable. There are procedures that spit out its digits endlessly."
+    },
+    {
+      "start": 868.77837,
+      "end": 873.19836,
+      "text": "The number e is computable. The square root of two is computable."
+    },
+    {
+      "start": 873.99837,
+      "end": 878.23837,
+      "text": "Every fraction, obviously. All the familiar numbers are on the list."
+    },
+    {
+      "start": 879.09836,
+      "end": 882.6783800000001,
+      "text": "So far it sounds like computable means basically all numbers."
+    },
+    {
+      "start": 882.9783600000001,
+      "end": 887.29837,
+      "text": "I feel a but coming. Are there numbers that are not computable?"
+    },
+    {
+      "start": 887.29837,
+      "end": 891.89836,
+      "text": "There are, and it's the first shock of the paper, and it comes from pure counting."
+    },
+    {
+      "start": 892.91837,
+      "end": 906.59674,
+      "text": "Ask how many of these machines are there Well each machine is just a finite table of rules which you can write down as a finite string of symbols And the strings of symbols finite recipes can be lined up"
+    },
+    {
+      "start": 906.59674,
+      "end": 912.63673,
+      "text": "in a list, one after another. In the language of the subject, they're countable. You can"
+    },
+    {
+      "start": 912.63673,
+      "end": 919.93674,
+      "text": "number them, machine 1, machine 2, machine 3, and so on. But now, how many real numbers"
+    },
+    {
+      "start": 919.93674,
+      "end": 926.17673,
+      "text": "are there between zero and one? Here Turing borrows an argument from George Cantor, and"
+    },
+    {
+      "start": 926.17673,
+      "end": 931.3967299999999,
+      "text": "the answer is that the real numbers cannot be put on any such list. There are strictly,"
+    },
+    {
+      "start": 931.7567300000001,
+      "end": 938.09674,
+      "text": "provably, more of them than there are entries in any numbered list. The reals are uncountable."
+    },
+    {
+      "start": 938.23672,
+      "end": 944.21674,
+      "text": "Can you actually show me why the reals can't be listed? Uncountable gets asserted a lot,"
+    },
+    {
+      "start": 944.21674,
+      "end": 948.93674,
+      "text": "but I've never felt why it's true. It's one of the prettiest arguments in mathematics,"
+    },
+    {
+      "start": 948.93674,
+      "end": 952.15674,
+      "text": "and it fits in a paragraph, so here it is."
+    },
+    {
+      "start": 953.03673,
+      "end": 958.69673,
+      "text": "Suppose someone hands you a list that claims to contain every real number between 0 and 1."
+    },
+    {
+      "start": 959.41673,
+      "end": 964.51672,
+      "text": "First number, second number, third, on down, each written as an endless decimal."
+    },
+    {
+      "start": 965.45673,
+      "end": 968.45673,
+      "text": "I'm going to build a number that cannot be anywhere on your list."
+    },
+    {
+      "start": 968.71674,
+      "end": 970.21674,
+      "text": "I go down the diagonal."
+    },
+    {
+      "start": 971.09674,
+      "end": 974.97673,
+      "text": "I look at the first digit of the first number and I write down a different digit."
+    },
+    {
+      "start": 974.97673,
+      "end": 979.63672,
+      "text": "I look at the second digit of the second number and I write a different digit."
+    },
+    {
+      "start": 980.4967300000001,
+      "end": 983.09674,
+      "text": "Third digit of the third number, different again."
+    },
+    {
+      "start": 983.8967299999999,
+      "end": 996.4951,
+      "text": "All the way down the diagonal The number I built differs from your first number in its first digit from your second in its second digit from the nth number in its nth digit So it can equal"
+    },
+    {
+      "start": 996.4951,
+      "end": 1002.2350799999999,
+      "text": "any number on your list, it disagrees with each one somewhere. But it's a perfectly good"
+    },
+    {
+      "start": 1002.2350799999999,
+      "end": 1007.79507,
+      "text": "real number between zero and one. So your list was incomplete, and it didn't matter"
+    },
+    {
+      "start": 1007.79507,
+      "end": 1014.2751000000001,
+      "text": "what list you started with. No list can hold them all. That's Cantor's diagonal argument"
+    },
+    {
+      "start": 1014.2751000000001,
+      "end": 1019.8151,
+      "text": "and hold onto it. Turing runs the very same trick on the machines to get his impossibility"
+    },
+    {
+      "start": 1019.8151,
+      "end": 1025.7751,
+      "text": "result. Self-referenced down a diagonal is the engine humming under this entire paper."
+    },
+    {
+      "start": 1025.7751,
+      "end": 1029.17508,
+      "text": "So there are more numbers than there are machines to compute them."
+    },
+    {
+      "start": 1029.7551,
+      "end": 1036.0150800000001,
+      "text": "Vastly more. And that's the punchline. Since every computable number needs its own machine,"
+    },
+    {
+      "start": 1036.45508,
+      "end": 1042.7950700000001,
+      "text": "and the machines can be listed, but the reals cannot, almost every real number must be uncomputable."
+    },
+    {
+      "start": 1043.63507,
+      "end": 1048.1951,
+      "text": "Its digits cannot be generated by any machine, any procedure, ever."
+    },
+    {
+      "start": 1049.1551,
+      "end": 1051.63507,
+      "text": "The computable numbers, which felt like everything,"
+    },
+    {
+      "start": 1052.05508,
+      "end": 1055.2950700000001,
+      "text": "are actually a vanishingly thin sliver among the reals."
+    },
+    {
+      "start": 1056.2151,
+      "end": 1060.17508,
+      "text": "Most numbers are, in a precise sense, beyond all computation."
+    },
+    {
+      "start": 1061.23508,
+      "end": 1063.0351,
+      "text": "That alone would make the paper matter."
+    },
+    {
+      "start": 1063.33508,
+      "end": 1065.7551,
+      "text": "But it's really just Turing warming up,"
+    },
+    {
+      "start": 1066.0951,
+      "end": 1068.5351,
+      "text": "because now he does the thing that changes the world."
+    },
+    {
+      "start": 1069.4951,
+      "end": 1072.7751,
+      "text": "He asks, instead of a different machine for every task,"
+    },
+    {
+      "start": 1072.7950700000001,
+      "end": 1075.2950700000001,
+      "text": "Could there be one machine that does them all?"
+    },
+    {
+      "start": 1075.4751,
+      "end": 1079.9751,
+      "text": "Give me one, though. A specific, uncomputable number I could"
+    },
+    {
+      "start": 1080.0,
+      "end": 1086.02,
+      "text": "point at. It feels less spooky if it has a name. Here's a famous one, and it's delightfully down"
+    },
+    {
+      "start": 1086.02,
+      "end": 1092.9,
+      "text": "to earth. Look at all the tiny machines with some fixed number of states. Say every machine with"
+    },
+    {
+      "start": 1092.9,
+      "end": 1099.439999,
+      "text": "five states. There are only finitely many of them. Each one, started on a blank tape,"
+    },
+    {
+      "start": 1099.96,
+      "end": 1106.099998,
+      "text": "either eventually halts or runs forever. Among the ones that do halt, some particular machine"
+    },
+    {
+      "start": 1106.099998,
+      "end": 1111.779999,
+      "text": "runs the longest before stopping. Call the number of steps that Champion takes the Busy"
+    },
+    {
+      "start": 1111.779999,
+      "end": 1118.42,
+      "text": "Beaver number for five states. Now that is a perfectly definite whole number. It exists."
+    },
+    {
+      "start": 1118.879997,
+      "end": 1125.179996,
+      "text": "It's an ordinary integer. No vagueness anywhere. And yet there is no machine that can compute"
+    },
+    {
+      "start": 1125.179996,
+      "end": 1130.32,
+      "text": "the Busy Beaver numbers in general. Because if you had one, you could use it to solve"
+    },
+    {
+      "start": 1130.32,
+      "end": 1135.399998,
+      "text": "the halting problem. You'd know exactly how long to wait before declaring a machine will"
+    },
+    {
+      "start": 1135.399998,
+      "end": 1141.879997,
+      "text": "never stop. And we're about to prove the halting problem can't be solved. The busy beaver numbers"
+    },
+    {
+      "start": 1141.879997,
+      "end": 1147.939995,
+      "text": "grow faster than any computable function. They're out there, well-defined and permanently out of"
+    },
+    {
+      "start": 1147.939995,
+      "end": 1155.2,
+      "text": "reach of every procedure. That is what uncomputable looks like up close. Not mystical, just a definite"
+    },
+    {
+      "start": 1155.2,
+      "end": 1162.479996,
+      "text": "answer no machine can ever hand you. One machine to rule them all. How would that even work? Each"
+    },
+    {
+      "start": 1162.479996,
+      "end": 1177.65837,
+      "text": "machine as its own table of rules Right and here the move Remember that a machine rule table is itself just a finite string of symbols a description So Turing says take that description and write it onto the tape"
+    },
+    {
+      "start": 1177.65837,
+      "end": 1183.778366,
+      "text": "as data. Now build a single, special machine whose job is to read a description of some"
+    },
+    {
+      "start": 1183.778366,
+      "end": 1189.49837,
+      "text": "other machine off the tape and then faithfully imitate it. Do exactly what the described"
+    },
+    {
+      "start": 1189.49837,
+      "end": 1194.71837,
+      "text": "machine would do. You hand this special machine the description of the adding machine,"
+    },
+    {
+      "start": 1194.99837,
+      "end": 1200.51837,
+      "text": "and it adds. You hand it the description of the prime checking machine and it checks primes."
+    },
+    {
+      "start": 1201.63837,
+      "end": 1206.43837,
+      "text": "One fixed piece of hardware reading a description becoming any machine you like."
+    },
+    {
+      "start": 1207.3983699999999,
+      "end": 1213.95837,
+      "text": "Turing called it the universal machine. Wait, the description of the program is written on the same"
+    },
+    {
+      "start": 1213.95837,
+      "end": 1221.55836,
+      "text": "tape as the data the program works on. The same tape. Program and data side by side in the same"
+    },
+    {
+      "start": 1221.55836,
+      "end": 1228.51837,
+      "text": "memory made of the same stuff. And I want to stop here because this is the single most consequential"
+    },
+    {
+      "start": 1228.51837,
+      "end": 1235.95837,
+      "text": "idea in the paper, maybe in the century. That universal machine, one general purpose device"
+    },
+    {
+      "start": 1235.95837,
+      "end": 1242.27837,
+      "text": "that reads a program from memory and then does whatever the program says, is exactly the computer."
+    },
+    {
+      "start": 1243.15836,
+      "end": 1249.79837,
+      "text": "Not a metaphor for the computer, the actual architectural idea. The phone in your pocket,"
+    },
+    {
+      "start": 1249.79837,
+      "end": 1254.79837,
+      "text": "The laptop on your desk is a physical, universal machine."
+    },
+    {
+      "start": 1254.79837,
+      "end": 1268.51674,
+      "text": "Its memory holds both the apps the descriptions of what to do and the data those apps chew on together just as Turing laid out When you install a program you writing a new description onto the tape"
+    },
+    {
+      "start": 1269.39673,
+      "end": 1271.47673,
+      "text": "Software is possible because of this idea."
+    },
+    {
+      "start": 1272.49673,
+      "end": 1277.25673,
+      "text": "Before this, a machine that added was a different object from a machine that multiplied."
+    },
+    {
+      "start": 1277.97673,
+      "end": 1281.61673,
+      "text": "After this, they're the same machine reading different descriptions."
+    },
+    {
+      "start": 1281.61673,
+      "end": 1287.01674,
+      "text": "So the reason I don't buy a new physical device every time I want to do a new task"
+    },
+    {
+      "start": 1287.01674,
+      "end": 1287.9567299999999,
+      "text": "is this paper."
+    },
+    {
+      "start": 1288.83673,
+      "end": 1289.9567299999999,
+      "text": "That's the whole reason."
+    },
+    {
+      "start": 1290.87674,
+      "end": 1292.51674,
+      "text": "A calculator is built to calculate."
+    },
+    {
+      "start": 1293.17673,
+      "end": 1294.39673,
+      "text": "You can't teach it chess."
+    },
+    {
+      "start": 1295.03673,
+      "end": 1298.09674,
+      "text": "But a universal machine isn't built for any one task."
+    },
+    {
+      "start": 1298.67673,
+      "end": 1302.79674,
+      "text": "It's built to become any task, on command, by loading a description."
+    },
+    {
+      "start": 1304.01672,
+      "end": 1307.41673,
+      "text": "General purpose computing, the entire software industry,"
+    },
+    {
+      "start": 1307.41673,
+      "end": 1312.55673,
+      "text": "the fact that one machine plays music and does your taxes and edits video."
+    },
+    {
+      "start": 1313.1967300000001,
+      "end": 1318.11673,
+      "text": "All of it descends from that one idea sitting in a 1936 logic paper."
+    },
+    {
+      "start": 1319.27673,
+      "end": 1323.7367199999999,
+      "text": "Turing invented it not to build a product, but as a tool to answer Hilbert's question."
+    },
+    {
+      "start": 1324.67673,
+      "end": 1327.89673,
+      "text": "Which is what we come to now, and it's where the mood turns."
+    },
+    {
+      "start": 1328.05673,
+      "end": 1332.17673,
+      "text": "Bridge me from the imaginary tape to the actual machines on our desks."
+    },
+    {
+      "start": 1332.55673,
+      "end": 1334.87674,
+      "text": "Somebody had to turn this idea into hardware."
+    },
+    {
+      "start": 1334.87674,
+      "end": 1336.79672,
+      "text": "That's the next decade of the story."
+    },
+    {
+      "start": 1337.4167499999999,
+      "end": 1342.4167499999999,
+      "text": "The mathematical idea, one memory holding both the program and the data,"
+    },
+    {
+      "start": 1342.4167499999999,
+      "end": 1357.55508,
+      "text": "a processor reading instructions out of that memory and carrying them out got engineered into physical form in the 1940s and the name most attached to the design is John von Neumann who wrote up the plan for a stored"
+    },
+    {
+      "start": 1357.55508,
+      "end": 1364.2151,
+      "text": "program electronic computer that essentially every machine since has followed. It's usually called"
+    },
+    {
+      "start": 1364.2151,
+      "end": 1370.5951,
+      "text": "the von Neumann architecture, a memory, a processor that fetches instructions from that memory"
+    },
+    {
+      "start": 1370.5951,
+      "end": 1376.2950700000001,
+      "text": "and executes them, and, crucially, instructions and data sharing the same store."
+    },
+    {
+      "start": 1377.17508,
+      "end": 1382.2151,
+      "text": "Turing's tape, rebuilt out of vacuum tubes, then transistors, then silicon."
+    },
+    {
+      "start": 1383.3751,
+      "end": 1385.7751,
+      "text": "And von Neumann knew Turing's paper well."
+    },
+    {
+      "start": 1386.4951,
+      "end": 1387.9951,
+      "text": "The lineage isn't a coincidence."
+    },
+    {
+      "start": 1388.9951,
+      "end": 1390.3151,
+      "text": "So the line is direct."
+    },
+    {
+      "start": 1391.13507,
+      "end": 1394.9951,
+      "text": "Turing's universal machine on paper in 1936,"
+    },
+    {
+      "start": 1394.9951,
+      "end": 1399.35507,
+      "text": "the stored program electronic computer about a decade later,"
+    },
+    {
+      "start": 1399.3551,
+      "end": 1403.23508,
+      "text": "and a straight road from there to everything with a chip in it."
+    },
+    {
+      "start": 1404.0951,
+      "end": 1406.6551,
+      "text": "A device dreamed up to settle a question in logic"
+    },
+    {
+      "start": 1406.6551,
+      "end": 1411.2151,
+      "text": "became the general-purpose machine the entire modern world runs on."
+    },
+    {
+      "start": 1411.39508,
+      "end": 1415.05508,
+      "text": "Right. The machine was built to settle the decision problem."
+    },
+    {
+      "start": 1415.7551,
+      "end": 1418.4951,
+      "text": "So does the machine say yes or no?"
+    },
+    {
+      "start": 1418.9751,
+      "end": 1421.55508,
+      "text": "Is mathematics mechanically decidable?"
+    },
+    {
+      "start": 1421.69507,
+      "end": 1425.45508,
+      "text": "To get there, Turing asks a very sharp, very concrete question"
+    },
+    {
+      "start": 1425.45508,
+      "end": 1426.8151,
+      "text": "about the machines themselves,"
+    },
+    {
+      "start": 1426.8151,
+      "end": 1433.5750699999999,
+      "text": "and it's become famous in its own right. The halting problem. Here it is. Some"
+    },
+    {
+      "start": 1433.5750699999999,
+      "end": 1439.9751,
+      "text": "machines, once you start them, eventually stop. They finish, they halt. Other machines run"
+    },
+    {
+      "start": 1440.0,
+      "end": 1446.22,
+      "text": "forever, they get into a loop and never stop. Now wouldn't it be useful to know in advance which is"
+    },
+    {
+      "start": 1446.22,
+      "end": 1452.44,
+      "text": "which? So the question is, is there a machine, call it the checker, that can take the description"
+    },
+    {
+      "start": 1452.44,
+      "end": 1458.619999,
+      "text": "of any machine, plus its input, and correctly decide, in finite time, whether that machine"
+    },
+    {
+      "start": 1458.619999,
+      "end": 1466.76,
+      "text": "will eventually halt or run forever? A universal halt detector. Turing proves, flatly, that no such"
+    },
+    {
+      "start": 1466.76,
+      "end": 1472.74,
+      "text": "checker can exist. How do you prove that something can't exist? That always seems like the hard"
+    },
+    {
+      "start": 1472.74,
+      "end": 1479.28,
+      "text": "direction. You assume it does exist and chase it into a contradiction. And the contradiction Turing"
+    },
+    {
+      "start": 1479.28,
+      "end": 1485.0,
+      "text": "builds is a piece of pure self-reference, the same flavour as the old liar's paradox."
+    },
+    {
+      "start": 1485.7,
+      "end": 1492.64,
+      "text": "This sentence is false. Follow this with me, slowly, because it's the crux. Suppose the"
+    },
+    {
+      "start": 1492.64,
+      "end": 1498.579998,
+      "text": "checker exists, it reads a machine's description and its input and always correctly answers"
+    },
+    {
+      "start": 1498.579998,
+      "end": 1506.06,
+      "text": "halts or runs forever. Now Turing builds a new machine, a troublemaker, that uses the"
+    },
+    {
+      "start": 1506.06,
+      "end": 1511.72,
+      "text": "checker as a component. The troublemaker takes a machine's description and it feeds that"
+    },
+    {
+      "start": 1511.72,
+      "end": 1517.74,
+      "text": "description to the checker, asking, does this machine halt when given its own description as"
+    },
+    {
+      "start": 1517.74,
+      "end": 1524.24,
+      "text": "input. And then the troublemaker deliberately does the opposite of the answer. If the checker"
+    },
+    {
+      "start": 1524.24,
+      "end": 1537.5849,
+      "text": "says it halts the troublemaker jumps into an infinite loop and runs forever If the checker says it runs forever the troublemaker immediately halts It built to spite the checker"
+    },
+    {
+      "start": 1538.024895,
+      "end": 1544.4049,
+      "text": "Whatever the checker predicts, it does the reverse. Precisely. Now spring the trap. Take"
+    },
+    {
+      "start": 1544.4049,
+      "end": 1550.5049,
+      "text": "the troublemaker and feed it its own description. Ask, does the troublemaker halt on its own"
+    },
+    {
+      "start": 1550.5049,
+      "end": 1557.76489,
+      "text": "description. Watch what happens. The troublemaker asks the checker about itself. Suppose the checker"
+    },
+    {
+      "start": 1557.76489,
+      "end": 1565.4649,
+      "text": "says, it halts. Then, by its spiteful design, the troublemaker runs forever. So the checker was wrong."
+    },
+    {
+      "start": 1566.4449,
+      "end": 1573.1249,
+      "text": "Suppose instead the checker says, it runs forever. Then the troublemaker promptly halts. So the checker"
+    },
+    {
+      "start": 1573.1249,
+      "end": 1579.8449,
+      "text": "was wrong again. Either answer the checker gives is false. There is no consistent answer it can give"
+    },
+    {
+      "start": 1579.8449,
+      "end": 1586.0448900000001,
+      "text": "about the troublemaker. And the only assumption we made was that the checker existed. So the"
+    },
+    {
+      "start": 1586.0448900000001,
+      "end": 1592.2449,
+      "text": "checker cannot exist. No machine can decide in general whether an arbitrary machine halts."
+    },
+    {
+      "start": 1593.0649,
+      "end": 1599.3449,
+      "text": "The halting problem is undecidable. And that's a real permanent limit. Not we're not clever enough"
+    },
+    {
+      "start": 1599.3449,
+      "end": 1607.16489,
+      "text": "yet, but it's impossible. Impossible in the strongest sense, a theorem proven. No faster"
+    },
+    {
+      "start": 1607.16489,
+      "end": 1613.3049,
+      "text": "computer, no future insight, no amount of ingenuity gets around it, because the contradiction"
+    },
+    {
+      "start": 1613.3049,
+      "end": 1624.8698,
+      "text": "is airtight Some questions have definite yes or no answers that no mechanical procedure can ever deliver And now the decision problem falls in a single step"
+    },
+    {
+      "start": 1625.7098,
+      "end": 1630.6698000000001,
+      "text": "Because you can phrase the question, does this machine halt, as a mathematical statement."
+    },
+    {
+      "start": 1630.6698000000001,
+      "end": 1637.2898,
+      "text": "If there were a mechanical procedure to decide every mathematical statement, Hilbert's dream,"
+    },
+    {
+      "start": 1637.7298,
+      "end": 1639.7898,
+      "text": "you could use it to solve the halting problem."
+    },
+    {
+      "start": 1640.7498,
+      "end": 1644.2898,
+      "text": "But we just proved the halting problem can't be solved by any machine."
+    },
+    {
+      "start": 1645.0098,
+      "end": 1650.9298,
+      "text": "so that all deciding procedure cannot exist. The answer to the Entscheidungs problem is no."
+    },
+    {
+      "start": 1651.6498,
+      "end": 1657.96979,
+      "text": "There is no mechanical procedure that decides all of mathematics. The last pillar of Hilbert's dream"
+    },
+    {
+      "start": 1657.96979,
+      "end": 1664.9298,
+      "text": "falls. So Hilbert wanted mathematics complete, consistent and decidable. And by the end of the"
+    },
+    {
+      "start": 1664.9298,
+      "end": 1673.0898,
+      "text": "1930s it's none of the three. None of the three. G\u00f6del took completeness and Turing, with Alonzo"
+    },
+    {
+      "start": 1673.0898,
+      "end": 1678.1498,
+      "text": "Church arriving at the same conclusion the very same year by a completely different route,"
+    },
+    {
+      "start": 1678.7098,
+      "end": 1685.1498,
+      "text": "a formalism called the lambda calculus, took decidability. And that convergence matters,"
+    },
+    {
+      "start": 1685.1498,
+      "end": 1693.0098,
+      "text": "so let me flag it. Church defined computable one way, with his lambda calculus. Turing defined it"
+    },
+    {
+      "start": 1693.0098,
+      "end": 1698.6298,
+      "text": "another way, with his machines. And the two definitions turned out to describe exactly the"
+    },
+    {
+      "start": 1698.6298,
+      "end": 1704.80978,
+      "text": "same set of computable things. When two people reach for the meaning of computation from opposite"
+    },
+    {
+      "start": 1704.80978,
+      "end": 1718.29468,
+      "text": "directions and land in the identical place you start to believe you found the real thing That belief has a name the Church Turing thesis It says that anything that can be computed by any"
+    },
+    {
+      "start": 1718.29468,
+      "end": 1724.47467,
+      "text": "effective procedure at all can be computed by a Turing machine. It's not a theorem you can prove,"
+    },
+    {
+      "start": 1724.97467,
+      "end": 1730.37466,
+      "text": "it's a claim about the nature of computation itself, and no one has ever found a counterexample."
+    },
+    {
+      "start": 1730.37466,
+      "end": 1737.3946799999999,
+      "text": "So Turing machine isn't just one model of computing among many, it's the definition of computing."
+    },
+    {
+      "start": 1760.3747,
+      "end": 1765.07468,
+      "text": "which is a remarkable place to have landed from a paper about a logic problem."
+    },
+    {
+      "start": 1766.1147,
+      "end": 1769.4146700000001,
+      "text": "Turing set out to answer a yes or no question about mathematics"
+    },
+    {
+      "start": 1769.4146700000001,
+      "end": 1772.1946699999999,
+      "text": "and along the way he defined computation,"
+    },
+    {
+      "start": 1772.85468,
+      "end": 1774.63467,
+      "text": "invented the general purpose computer"
+    },
+    {
+      "start": 1774.63467,
+      "end": 1777.9146700000001,
+      "text": "and drew the permanent border of what machines can do."
+    },
+    {
+      "start": 1778.01468,
+      "end": 1783.0547000000001,
+      "text": "Before we land it, the halting problem is about what's computable at all."
+    },
+    {
+      "start": 1783.5547000000001,
+      "end": 1787.3147,
+      "text": "Is there a modern version that's about what's computable in practice,"
+    },
+    {
+      "start": 1787.6946699999999,
+      "end": 1788.8946799999999,
+      "text": "not just in principle?"
+    },
+    {
+      "start": 1788.8946799999999,
+      "end": 1793.95468,
+      "text": "There is, and it's the biggest open question in the whole field, and it's a direct"
+    },
+    {
+      "start": 1793.95468,
+      "end": 1799.9947,
+      "text": "descendant. Turing drew the line between computable and uncomputable. Can this be done"
+    },
+    {
+      "start": 1800.0,
+      "end": 1802.84,
+      "text": "and at all, given unlimited time and tape,"
+    },
+    {
+      "start": 1803.36,
+      "end": 1807.44,
+      "text": "but once you know something is computable, a second question opens up."
+    },
+    {
+      "start": 1807.98,
+      "end": 1811.8,
+      "text": "Can it be done in reasonable time before the sun burns out?"
+    },
+    {
+      "start": 1812.36,
+      "end": 1815.18,
+      "text": "That's the subject of computational complexity."
+    },
+    {
+      "start": 1815.45,
+      "end": 1817.67,
+      "text": "and its famous unsolved problem,"
+    },
+    {
+      "start": 1817.73,
+      "end": 1819.83,
+      "text": "whether P equals NP,"
+    },
+    {
+      "start": 1819.89,
+      "end": 1824.37,
+      "text": "asks roughly whether every problem whose answer you can quickly check"
+    },
+    {
+      "start": 1824.36,
+      "end": 1827.72,
+      "text": "is also a problem whose answer you can quickly find."
+    },
+    {
+      "start": 1828.23,
+      "end": 1833.19,
+      "text": "Whether verifying a solution and discovering one are the same order of difficulty,"
+    },
+    {
+      "start": 1833.66,
+      "end": 1834.84,
+      "text": "Nobody knows."
+    },
+    {
+      "start": 1835.31,
+      "end": 1837.59,
+      "text": "It's the halting problem's grandchild."
+    },
+    {
+      "start": 1837.95,
+      "end": 1840.73,
+      "text": "Turing asked, \"Possible or impossible?\""
+    },
+    {
+      "start": 1840.95,
+      "end": 1843.83,
+      "text": "Complexity asks feasible or hopeless."
+    },
+    {
+      "start": 1844.19,
+      "end": 1863.63,
+      "text": "and both are questions about the fundamental limits of computation that this one paper cracked open.  Let's land the double edge you promised at the top, because I think it's the whole shape of the thing.  The same paper does two opposite feeling things.  It does, and holding both at once is the right way to remember it."
+    },
+    {
+      "start": 1864.23,
+      "end": 1866.53,
+      "text": "On one side, pure creation."
+    },
+    {
+      "start": 1866.69,
+      "end": 1868.35,
+      "text": "The Universal Machine,"
+    },
+    {
+      "start": 1868.46,
+      "end": 1872.68,
+      "text": "the idea that one device can become any device by reading a description,"
+    },
+    {
+      "start": 1873.08,
+      "end": 1874.88,
+      "text": "the seed of every computer,"
+    },
+    {
+      "start": 1874.94,
+      "end": 1876.26,
+      "text": "all of software,"
+    },
+    {
+      "start": 1876.29,
+      "end": 1878.33,
+      "text": "the world we now live inside."
+    },
+    {
+      "start": 1879.02,
+      "end": 1882.98,
+      "text": "on the other side, in the very same pages, a hard limit."
+    },
+    {
+      "start": 1883.31,
+      "end": 1886.51,
+      "text": "a proof that no matter how powerful your machines get,"
+    },
+    {
+      "start": 1886.61,
+      "end": 1889.89,
+      "text": "there are perfectly definite questions they can never answer."
+    },
+    {
+      "start": 1890.03,
+      "end": 1893.23,
+      "text": "starting with whether a given programme will ever stop."
+    },
+    {
+      "start": 1893.72,
+      "end": 1899.12,
+      "text": "the instrument and its boundary discovered together by the same person in one move."
+    },
+    {
+      "start": 1899.72,
+      "end": 1903.54,
+      "text": "Turing built the most powerful notion of a machine anyone had,"
+    },
+    {
+      "start": 1903.56,
+      "end": 1912.34,
+      "text": "precisely in order to show what even that machine cannot do.  And there's a through line to the other 'limits' result you keep gesturing at."
+    },
+    {
+      "start": 1912.38,
+      "end": 1913.18,
+      "text": "girdle"
+    },
+    {
+      "start": 1913.25,
+      "end": 1914.27,
+      "text": "There is."
+    },
+    {
+      "start": 1914.42,
+      "end": 1916.64,
+      "text": "and it's a nice pairing to leave people with."
+    },
+    {
+      "start": 1917.51,
+      "end": 1920.33,
+      "text": "Girdle showed that truth outruns proof."
+    },
+    {
+      "start": 1920.78,
+      "end": 1923.4,
+      "text": "There are true statements no proof can reach."
+    },
+    {
+      "start": 1923.96,
+      "end": 1927.64,
+      "text": "Turing showed that decidability outruns any machine."
+    },
+    {
+      "start": 1928.04,
+      "end": 1931.72,
+      "text": "There are definite questions no mechanical procedure can settle."
+    },
+    {
+      "start": 1932.27,
+      "end": 1935.07,
+      "text": "two different faces of the same deep fact,"
+    },
+    {
+      "start": 1935.27,
+      "end": 1939.75,
+      "text": "Formal systems and machines, powerful as they are, have an outside."
+    },
+    {
+      "start": 1940.13,
+      "end": 1941.75,
+      "text": "Something always escapes."
+    },
+    {
+      "start": 1941.96,
+      "end": 1949.5,
+      "text": "and the person who drew that boundary for machines is also the person who, a little later, would ask whether a machine could think at all."
+    },
+    {
+      "start": 1950.3600000000001,
+      "end": 1953.66,
+      "text": "but that's a different paper and a conversation for another day."
+    },
+    {
+      "start": 1954.53,
+      "end": 1956.77,
+      "text": "For today, the headline is this:"
+    },
+    {
+      "start": 1957.23,
+      "end": 1962.15,
+      "text": "In trying to mechanize mathematics, Turing accidentally invented the computer,"
+    },
+    {
+      "start": 1962.21,
+      "end": 1978.19,
+      "text": "and then proved that even the computer has a horizon it can't see past.  One imaginary tape, one head reading symbols, and out of it comes both the machine that runs the modern world, and the proof that the machine has limits it can never cross."
+    },
+    {
+      "start": 1978.62,
+      "end": 1980.74,
+      "text": "Thank you, George.  A real pleasure."
+    },
+    {
+      "start": 1981.47,
+      "end": 1982.25,
+      "text": "Mind the tape."
+    }
+  ]
+}

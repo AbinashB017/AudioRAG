@@ -1,0 +1,1775 @@
+{
+  "episode_id": "ep13",
+  "audio_path": "podcasts\\Great Papers 13 - How DNA Copies Itself, Meselson-Stahl 1958.mp3",
+  "duration_sec": 1961.951,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 353,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.74,
+      "text": "In our episode on the double helix, we ended on one of the great sly sentences in the history of"
+    },
+    {
+      "start": 6.74,
+      "end": 14.36,
+      "text": "science. Watson and Crick, having just worked out the structure of DNA, wrote, and I'm paraphrasing"
+    },
+    {
+      "start": 14.36,
+      "end": 20.26,
+      "text": "only slightly, it has not escaped our notice that the specific pairing we have postulated"
+    },
+    {
+      "start": 20.26,
+      "end": 27.92,
+      "text": "immediately suggests a possible copying mechanism for the genetic material. A masterpiece of"
+    },
+    {
+      "start": 27.92,
+      "end": 34.26,
+      "text": "understatement. They'd basically said, oh, by the way, we think we can see how life copies itself,"
+    },
+    {
+      "start": 34.26,
+      "end": 43.06,
+      "text": "but we'll say no more for now. George, that was 1953, and I want to know, was that hunch actually"
+    },
+    {
+      "start": 43.06,
+      "end": 50.26,
+      "text": "right? Because a hunch about how DNA copies isn't proof. When did someone actually pin it down?"
+    },
+    {
+      "start": 50.34,
+      "end": 57.32,
+      "text": "Five years later, in 1958, by two young scientists named Matthew Messelson and Franklin Stahl,"
+    },
+    {
+      "start": 57.32,
+      "end": 63.86,
+      "text": "and they did it with an experiment so clean, so decisive, that it's very widely called the most"
+    },
+    {
+      "start": 63.86,
+      "end": 70.58,
+      "text": "beautiful experiment in biology. And that phrase isn't hype, it's about the elegance, because they"
+    },
+    {
+      "start": 70.58,
+      "end": 75.82,
+      "text": "answered a deep question about the molecular machinery of life, not with some monstrous"
+    },
+    {
+      "start": 75.82,
+      "end": 81.76,
+      "text": "tangle of biochemistry, but essentially by weighing DNA, by making some of it slightly"
+    },
+    {
+      "start": 81.76,
+      "end": 84.759995,
+      "text": "heavier than the rest and watching where it settled."
+    },
+    {
+      "start": 85.759995,
+      "end": 96.9049,
+      "text": "So here our path today First we lay out the puzzle because Watson and Crick copying mechanism was actually only one of three possibilities and they all needed ruling out"
+    },
+    {
+      "start": 97.4449,
+      "end": 103.9449,
+      "text": "Then we meet the trick, the heavy versus light labelling that lets you tell old DNA from new DNA."
+    },
+    {
+      "start": 104.6649,
+      "end": 113.4649,
+      "text": "Then we watch the experiment unfold across a few generations of bacteria and see the answer appear, unmistakably, as a set of bands."
+    },
+    {
+      "start": 113.4649,
+      "end": 118.9649,
+      "text": "And finally, why this completes a story we've been telling across several episodes."
+    },
+    {
+      "start": 119.6649,
+      "end": 123.4449,
+      "text": "The whole century-long hunt for how heredity actually works."
+    },
+    {
+      "start": 123.6449,
+      "end": 130.82489,
+      "text": "Who were these two? A pair of established biologists setting out to answer the biggest open question of the day."
+    },
+    {
+      "start": 131.2849,
+      "end": 133.7249,
+      "text": "Not at all. And that's part of the charm."
+    },
+    {
+      "start": 134.5049,
+      "end": 137.3049,
+      "text": "Matthew Messelson and Franklin Stahl were young."
+    },
+    {
+      "start": 138.1249,
+      "end": 140.3049,
+      "text": "Messelson was a graduate student in chemistry."
+    },
+    {
+      "start": 140.9249,
+      "end": 142.4649,
+      "text": "Stahl a young researcher."
+    },
+    {
+      "start": 142.4649,
+      "end": 149.6449,
+      "text": "And they met, as the story goes, at a summer science course at Woods Hole in the mid-1950s,"
+    },
+    {
+      "start": 150.2849,
+      "end": 154.5649,
+      "text": "got to talking and decided to team up on this problem, working at Caltech."
+    },
+    {
+      "start": 155.0849,
+      "end": 160.66489,
+      "text": "And here's the thing that always strikes me, they didn't stumble onto the answer, they engineered it."
+    },
+    {
+      "start": 161.3049,
+      "end": 164.82489,
+      "text": "They spent a couple of years first inventing and perfecting the technique,"
+    },
+    {
+      "start": 165.5249,
+      "end": 170.9249,
+      "text": "figuring out how to make DNA measurably heavy, how to spin it so its density would show,"
+    },
+    {
+      "start": 170.9249,
+      "end": 188.7298,
+      "text": "how to read the bands before the actual experiment could even be run The famous decisive result only takes a few days of bacteria dividing The hard part was building the ruler So this isn a lucky accident It two young scientists who designed a clean"
+    },
+    {
+      "start": 188.7298,
+      "end": 193.96979,
+      "text": "question and then built, almost from scratch, the exact instrument that could answer it."
+    },
+    {
+      "start": 194.5698,
+      "end": 199.6498,
+      "text": "And when they finally ran it, the answer came out so unambiguous that it's been in every"
+    },
+    {
+      "start": 199.6498,
+      "end": 205.6698,
+      "text": "genetics textbook since. Let's start with the puzzle. Watson and Crick suggested a copying"
+    },
+    {
+      "start": 205.6698,
+      "end": 212.5898,
+      "text": "mechanism. What was it exactly and why isn't it the only option? Let's rebuild their idea first,"
+    },
+    {
+      "start": 212.7898,
+      "end": 218.54979,
+      "text": "because it's lovely. The double helix from our episode is two strands wound together,"
+    },
+    {
+      "start": 219.0098,
+      "end": 227.18979,
+      "text": "held by the pairing of bases. A always pairs with T, G always pairs with C. So the two strands"
+    },
+    {
+      "start": 227.18979,
+      "end": 233.5298,
+      "text": "aren't identical, they're complementary, like a photograph and it's negative. Each strand carries"
+    },
+    {
+      "start": 233.5298,
+      "end": 238.7498,
+      "text": "the full information because if you know one strand, the pairing rules tell you the other exactly."
+    },
+    {
+      "start": 239.7898,
+      "end": 245.90979,
+      "text": "So Watson and Crick's suggested mechanism is, to copy the molecule, you unzip the two strands,"
+    },
+    {
+      "start": 246.3098,
+      "end": 252.7698,
+      "text": "pull them apart, and each old strand serves as a template. Floating building blocks snap onto each"
+    },
+    {
+      "start": 252.7698,
+      "end": 260.1098,
+      "text": "exposed strand following the pairing rules. A T finds every A, a G finds every C, and"
+    },
+    {
+      "start": 260.1098,
+      "end": 277.9347,
+      "text": "you rebuild the missing partner One double helix becomes two and each new one is a faithful copy That the idea and notice what it predicts about the parts Each new double helix ends up made of one old strand the template you kept and one"
+    },
+    {
+      "start": 277.9347,
+      "end": 281.29468,
+      "text": "brand new strand you just built."
+    },
+    {
+      "start": 281.29468,
+      "end": 283.8347,
+      "text": "Old and new paired together."
+    },
+    {
+      "start": 283.8347,
+      "end": 287.7747,
+      "text": "That model has a name, semi-conservative, half-conserved."
+    },
+    {
+      "start": 287.7747,
+      "end": 293.57468,
+      "text": "Semi-conservative, because each daughter molecule conserves half of the original, one of the"
+    },
+    {
+      "start": 293.57468,
+      "end": 300.69467,
+      "text": "two old strands. Okay, what are the rival ideas? Two rivals, and they're both perfectly reasonable"
+    },
+    {
+      "start": 300.69467,
+      "end": 307.2147,
+      "text": "on their face, which is exactly why you need an experiment to decide. The first rival is called"
+    },
+    {
+      "start": 307.2147,
+      "end": 313.7147,
+      "text": "conservative replication. In this picture, the original double helix stays completely intact."
+    },
+    {
+      "start": 314.47467,
+      "end": 321.15466,
+      "text": "It never unzips, never gives up its strands. Instead, it somehow acts as a mould to build an"
+    },
+    {
+      "start": 321.15466,
+      "end": 328.03467,
+      "text": "entirely separate, entirely new double helix off to the side. So after copying, you have two"
+    },
+    {
+      "start": 328.03467,
+      "end": 336.03467,
+      "text": "molecules, one that is 100% the original, both old strands still together, and one that is 100%"
+    },
+    {
+      "start": 336.03467,
+      "end": 345.65466,
+      "text": "new, both strands freshly made. The parent is conserved whole. Nothing is mixed. So semi-conservative"
+    },
+    {
+      "start": 345.65466,
+      "end": 354.41467,
+      "text": "mixes old and new in every molecule. Conservative keeps them totally separate, one all old,"
+    },
+    {
+      "start": 354.41467,
+      "end": 359.97467,
+      "text": "one all new. And the third? The third is called dispersive, and it's the messiest"
+    },
+    {
+      "start": 360.0,
+      "end": 371.92,
+      "text": "In this picture, the copying process chops the DNA up as it goes, so that old and new material gets scattered, dispersed, all along both strands of both daughter molecules."
+    },
+    {
+      "start": 372.88,
+      "end": 378.359999,
+      "text": "Each strand ends up a patchwork, a mosaic of old stretches and new stretches interleaved."
+    },
+    {
+      "start": 379.32,
+      "end": 384.84,
+      "text": "No strand is purely old or purely new, it's all blended together at a fine scale."
+    },
+    {
+      "start": 385.34,
+      "end": 387.98,
+      "text": "So now you have three clean hypotheses."
+    },
+    {
+      "start": 387.98,
+      "end": 395.04,
+      "text": "Semiconservative, each daughter is one whole old strand plus one whole new strand"
+    },
+    {
+      "start": 395.04,
+      "end": 400.719997,
+      "text": "Conservative, one all old molecule, one all new molecule"
+    },
+    {
+      "start": 400.719997,
+      "end": 405.399998,
+      "text": "Dispersive, every strand a patchwork of old and new"
+    },
+    {
+      "start": 405.399998,
+      "end": 408.26,
+      "text": "Three different pictures of the same event"
+    },
+    {
+      "start": 408.26,
+      "end": 412.059998,
+      "text": "And from the outside, the DNA looks the same in all three"
+    },
+    {
+      "start": 412.059998,
+      "end": 417.559998,
+      "text": "The whole problem is, how could you ever tell which one nature actually uses?"
+    },
+    {
+      "start": 417.559998,
+      "end": 423.679996,
+      "text": "Right, that's what I don't see. DNA is DNA. How do you look at a molecule and say,"
+    },
+    {
+      "start": 423.899998,
+      "end": 428.28,
+      "text": "this part is old and that part is new? They're chemically identical."
+    },
+    {
+      "start": 428.56,
+      "end": 432.46,
+      "text": "They're chemically identical. And that's the wall everyone was stuck at."
+    },
+    {
+      "start": 433.38,
+      "end": 438.74,
+      "text": "Messelson and Stahl's insight was to make old and new DNA physically distinguishable"
+    },
+    {
+      "start": 438.74,
+      "end": 443.92,
+      "text": "by a property that doesn't change the chemistry at all. Weight. Density."
+    },
+    {
+      "start": 443.92,
+      "end": 457.918365,
+      "text": "Here the idea DNA is built partly out of nitrogen The bases the rungs of the ladder are rich in nitrogen atoms Now nitrogen comes in two stable versions two isotopes"
+    },
+    {
+      "start": 458.53837,
+      "end": 464.33835999999997,
+      "text": "The common, light one, nitrogen-14, and a rarer, heavy one, nitrogen-15,"
+    },
+    {
+      "start": 464.95837,
+      "end": 469.15837,
+      "text": "which has one extra neutron in each nucleus, making it a touch heavier."
+    },
+    {
+      "start": 469.95837,
+      "end": 471.71837,
+      "text": "Chemically, they behave the same."
+    },
+    {
+      "start": 471.71837,
+      "end": 476.61836,
+      "text": "an organism can't tell them apart, builds DNA just fine with either."
+    },
+    {
+      "start": 477.61836,
+      "end": 484.45837,
+      "text": "But DNA built from heavy nitrogen is genuinely, measurably denser than DNA built from light nitrogen."
+    },
+    {
+      "start": 485.29837,
+      "end": 488.23837000000003,
+      "text": "So weight becomes your label for old versus new."
+    },
+    {
+      "start": 488.41837,
+      "end": 491.21837,
+      "text": "Why nitrogen? And why a heavy isotope?"
+    },
+    {
+      "start": 491.61836,
+      "end": 497.35837000000004,
+      "text": "Why not tag the DNA with something radioactive, which I know biologists were doing at the time?"
+    },
+    {
+      "start": 497.35837000000004,
+      "end": 499.35837000000004,
+      "text": "Both parts of that choice are clever."
+    },
+    {
+      "start": 500.35837000000004,
+      "end": 506.49837,
+      "text": "Nitrogen, because the bases of DNA, the information-bearing rungs, are packed with nitrogen atoms,"
+    },
+    {
+      "start": 507.15837,
+      "end": 514.1783800000001,
+      "text": "so swapping every nitrogen for the heavier isotope shifts the density of the whole molecule by a real, measurable amount."
+    },
+    {
+      "start": 514.49837,
+      "end": 520.65837,
+      "text": "And a stable, heavy isotope, rather than a radioactive one, for a subtle but crucial reason."
+    },
+    {
+      "start": 521.6783800000001,
+      "end": 526.89838,
+      "text": "A radioactive tag tells you where certain atoms are by the radiation they emit,"
+    },
+    {
+      "start": 526.89838,
+      "end": 529.89838,
+      "text": "great for tracing chemical pathways,"
+    },
+    {
+      "start": 529.89838,
+      "end": 532.89838,
+      "text": "but it doesn't let you sort whole molecules by density"
+    },
+    {
+      "start": 532.89838,
+      "end": 549.63673,
+      "text": "and it can actually damage the DNA as it decays What Messelson and Stahl needed wasn to locate atoms it was to weigh entire molecules and separate the heavy from the light The stable heavy isotope does exactly that"
+    },
+    {
+      "start": 550.33673,
+      "end": 554.97673,
+      "text": "It makes the molecule denser without emitting anything, without altering the chemistry,"
+    },
+    {
+      "start": 555.61673,
+      "end": 560.77673,
+      "text": "without harming the cell. The bacteria build their DNA with it completely normally,"
+    },
+    {
+      "start": 560.77673,
+      "end": 567.3967299999999,
+      "text": "utterly indifferent to the extra neutron. So the label rides along, invisible to biology,"
+    },
+    {
+      "start": 567.85674,
+      "end": 572.71674,
+      "text": "but perfectly visible on the density scale. Matching the label to the question,"
+    },
+    {
+      "start": 573.35674,
+      "end": 579.21674,
+      "text": "density, for a question about which strands go where, is a lot of what made the experiment work."
+    },
+    {
+      "start": 579.21674,
+      "end": 585.69673,
+      "text": "So the plan is to grow the DNA heavy first, then let it copy itself using light material."
+    },
+    {
+      "start": 585.69673,
+      "end": 592.77673,
+      "text": "Exactly the plan, and it's beautifully simple. They took E. coli, the workhorse gut bacterium,"
+    },
+    {
+      "start": 593.09674,
+      "end": 597.67673,
+      "text": "and grew it for many, many generations in a broth where the only nitrogen available"
+    },
+    {
+      "start": 597.67673,
+      "end": 604.97675,
+      "text": "was the heavy kind, nitrogen-15. Generation after generation, so that eventually every"
+    },
+    {
+      "start": 604.97675,
+      "end": 611.47675,
+      "text": "scrap of DNA in these bacteria was built entirely from heavy nitrogen. Fully heavy DNA."
+    },
+    {
+      "start": 611.47675,
+      "end": 616.8767399999999,
+      "text": "That's your starting point, the old DNA, uniformly labelled heavy."
+    },
+    {
+      "start": 617.8767399999999,
+      "end": 621.8167000000001,
+      "text": "And then, at a stroke, they switch the bacteria into a fresh broth"
+    },
+    {
+      "start": 621.8167000000001,
+      "end": 639.6951,
+      "text": "containing only the light nitrogen nitrogen and let them keep dividing From that switching moment on any new DNA the bacteria build has to be made from light nitrogen because that all there is So old strands are heavy new strands"
+    },
+    {
+      "start": 639.6951,
+      "end": 645.0351,
+      "text": "are light, and now the three models make different physical predictions about the weight of the DNA"
+    },
+    {
+      "start": 645.0351,
+      "end": 651.55508,
+      "text": "after each round of copying. And practically, how do you catch the DNA at exactly one round of"
+    },
+    {
+      "start": 651.55508,
+      "end": 656.7151,
+      "text": "copying, then exactly two. Timing seems like it would be everything."
+    },
+    {
+      "start": 657.2151,
+      "end": 663.7151,
+      "text": "Timing is everything, and it's manageable because bacteria are so obliging. E. coli divides on a"
+    },
+    {
+      "start": 663.7151,
+      "end": 669.67508,
+      "text": "known, regular clock. Under fixed conditions, the whole population roughly doubles in step"
+    },
+    {
+      "start": 669.67508,
+      "end": 676.6551,
+      "text": "at a predictable interval. So Messelson and Stahl knew how long one round of DNA copying takes,"
+    },
+    {
+      "start": 676.6551,
+      "end": 679.51508,
+      "text": "and they simply drew samples at those moments."
+    },
+    {
+      "start": 680.4150999999999,
+      "end": 684.95508,
+      "text": "After one doubling, after two, after three, and so on,"
+    },
+    {
+      "start": 685.4951,
+      "end": 689.05508,
+      "text": "freezing each sample and running its DNA down the gradient."
+    },
+    {
+      "start": 689.7751000000001,
+      "end": 690.95508,
+      "text": "So you're not guessing."
+    },
+    {
+      "start": 691.55508,
+      "end": 695.9150999999999,
+      "text": "You're reading the population like a film strip, one generation per frame."
+    },
+    {
+      "start": 696.4350999999999,
+      "end": 699.2350799999999,
+      "text": "And a nice bonus falls out at the later frames."
+    },
+    {
+      "start": 700.0351,
+      "end": 703.9751,
+      "text": "As the generations go on, the fully light band grows and grows,"
+    },
+    {
+      "start": 703.9751,
+      "end": 710.2151,
+      "text": "while the hybrid band gets fainter and fainter, but it never completely disappears."
+    },
+    {
+      "start": 710.2151,
+      "end": 714.63507,
+      "text": "There are always a few molecules still carrying one of those original heavy strands from the"
+    },
+    {
+      "start": 714.63507,
+      "end": 719.9751,
+      "text": "very start, ever more diluted among the descendants but still there,"
+    },
+    {
+      "start": 720.0,
+      "end": 721.8399999,
+      "text": "still parked at the half-heavy mark."
+    },
+    {
+      "start": 722.8,
+      "end": 727.2999997,
+      "text": "That lingering hybrid band is a lovely extra confirmation of the whole picture."
+    },
+    {
+      "start": 728.32,
+      "end": 731.88,
+      "text": "The original strands are conserved, handed down intact,"
+    },
+    {
+      "start": 732.38,
+      "end": 735.639999,
+      "text": "just spread thinner and thinner through the growing family tree."
+    },
+    {
+      "start": 735.839999,
+      "end": 738.08,
+      "text": "And how do you actually measure the weight?"
+    },
+    {
+      "start": 738.48,
+      "end": 740.56,
+      "text": "You can't put a molecule on a scale."
+    },
+    {
+      "start": 740.56,
+      "end": 742.199999,
+      "text": "No, but you can float it."
+    },
+    {
+      "start": 742.74,
+      "end": 745.08,
+      "text": "And this is the second gorgeous piece of the method."
+    },
+    {
+      "start": 745.9,
+      "end": 748.619999,
+      "text": "It's called density gradient centrifugation."
+    },
+    {
+      "start": 748.619999,
+      "end": 766.82,
+      "text": "You dissolve the DNA in a solution of a heavy salt, caesium chloride, and you spin it in an ultra-centrifuge, an instrument that whirls the tube at staggering speeds, tens of thousands of revolutions a minute, generating forces tens of thousands of times gravity."
+    },
+    {
+      "start": 766.82,
+      "end": 775.76,
+      "text": "Under that spin, the heavy caesium salt itself gets pulled outward and forms a smooth gradient of density inside the tube,"
+    },
+    {
+      "start": 776.6,
+      "end": 778.8,
+      "text": "denser at the bottom, thinner at the top."
+    },
+    {
+      "start": 779.66,
+      "end": 787.74,
+      "text": "And the DNA molecules caught in that gradient each drift to the exact level where the surrounding solution matches their own density,"
+    },
+    {
+      "start": 788.52,
+      "end": 791.3199999999999,
+      "text": "where they're neutrally buoyant, and they park there."
+    },
+    {
+      "start": 791.8199999999999,
+      "end": 794.7,
+      "text": "Heavy DNA settles to a lower position."
+    },
+    {
+      "start": 794.7,
+      "end": 801.619995,
+      "text": "light DNA floats higher up and DNA of some in-between density parks in between."
+    },
+    {
+      "start": 802.74,
+      "end": 817.53837,
+      "text": "Then you shine ultraviolet light through the tube DNA absorbs it and you get a photograph with dark bands showing exactly where the DNA has collected The position of the band is a direct readout of the DNA density"
+    },
+    {
+      "start": 818.39837,
+      "end": 824.17837,
+      "text": "That's your scale. Was this spinning DNA in salt technique something they took off the shelf,"
+    },
+    {
+      "start": 824.39837,
+      "end": 829.97836,
+      "text": "or another thing they had to invent? Something Messelson essentially had to invent and prove"
+    },
+    {
+      "start": 829.97836,
+      "end": 835.6183599999999,
+      "text": "out, and it's a big part of why the paper is celebrated. The idea of using a spinning"
+    },
+    {
+      "start": 835.6183599999999,
+      "end": 841.51837,
+      "text": "caesium chloride gradient to sort molecules by density was new, and it's extraordinarily"
+    },
+    {
+      "start": 841.51837,
+      "end": 847.39836,
+      "text": "sensitive, sensitive enough to separate two DNA molecules that differ by nothing more"
+    },
+    {
+      "start": 847.39836,
+      "end": 852.89836,
+      "text": "than whether their nitrogen is the heavy or light isotope. That is a minuscule difference"
+    },
+    {
+      "start": 852.89836,
+      "end": 858.3783599999999,
+      "text": "in weight, a few extra neutrons spread along a molecule, and the method resolves it into"
+    },
+    {
+      "start": 858.3783599999999,
+      "end": 865.57837,
+      "text": "cleanly separated bands. Getting that to work, the right salt, the right speed, the right way to"
+    },
+    {
+      "start": 865.57837,
+      "end": 871.29837,
+      "text": "photograph the bands by their ultraviolet absorption, was a real technical achievement in its own right."
+    },
+    {
+      "start": 871.9783600000001,
+      "end": 878.79837,
+      "text": "And once it existed, density gradient centrifugation became a standard workhorse tool across molecular"
+    },
+    {
+      "start": 878.79837,
+      "end": 885.3783599999999,
+      "text": "biology for decades, used for all sorts of separations. So the experiment didn't just answer"
+    },
+    {
+      "start": 885.3783599999999,
+      "end": 890.9783600000001,
+      "text": "the replication question, it left behind a new instrument that the whole field went on to use."
+    },
+    {
+      "start": 891.77837,
+      "end": 910.55673,
+      "text": "The method was half the gift Beautiful So now we run the experiment Start me at the beginning The bacteria fully grown on heavy nitrogen Before the switch what do you see Before the switch all the DNA is fully heavy so you see exactly one band sitting low in the tube"
+    },
+    {
+      "start": 910.55673,
+      "end": 916.47673,
+      "text": "The heavy position. One clean band, right where fully heavy DNA belongs."
+    },
+    {
+      "start": 917.53673,
+      "end": 920.23674,
+      "text": "That's your generation zero, your reference."
+    },
+    {
+      "start": 921.19673,
+      "end": 924.15674,
+      "text": "Everything from here is about watching what that band does"
+    },
+    {
+      "start": 924.15674,
+      "end": 928.35674,
+      "text": "after you switch the cells to light food and let them copy their DNA."
+    },
+    {
+      "start": 929.45673,
+      "end": 933.23672,
+      "text": "And crucially, they timed it carefully so they could catch the DNA"
+    },
+    {
+      "start": 933.23672,
+      "end": 938.7567300000001,
+      "text": "after exactly one round of replication, then exactly two rounds and so on,"
+    },
+    {
+      "start": 939.55673,
+      "end": 943.21674,
+      "text": "sampling the population as each generation of copying completed."
+    },
+    {
+      "start": 943.21674,
+      "end": 947.63673,
+      "text": "Before we go on, how did they know a band's position could be trusted?"
+    },
+    {
+      "start": 947.63673,
+      "end": 954.01674,
+      "text": "That halfway really means half heavy, half light, and isn't just some artifact."
+    },
+    {
+      "start": 954.51674,
+      "end": 957.29674,
+      "text": "They pinned that down with a beautifully simple control,"
+    },
+    {
+      "start": 957.8967299999999,
+      "end": 962.17673,
+      "text": "and it's the kind of thing that separates a convincing experiment from a suggestive one."
+    },
+    {
+      "start": 963.09674,
+      "end": 968.95673,
+      "text": "They took fully heavy DNA and fully light DNA, grown separately of known composition,"
+    },
+    {
+      "start": 969.57674,
+      "end": 972.75674,
+      "text": "and mixed them together in the same tube, then spun them."
+    },
+    {
+      "start": 972.75674,
+      "end": 978.7567,
+      "text": "And they got two distinct bands, one at the heavy position and one at the light position,"
+    },
+    {
+      "start": 978.7567,
+      "end": 981.7567,
+      "text": "cleanly separated exactly where each belonged."
+    },
+    {
+      "start": 981.7567,
+      "end": 995.7751000000001,
+      "text": "That proved two things at once that the method really can resolve heavy from light and precisely where those two reference positions sit in the tube So when the experimental DNA later showed up as a single band"
+    },
+    {
+      "start": 996.1951,
+      "end": 1000.5951,
+      "text": "sitting at the exact arithmetic midpoint between those two reference marks,"
+    },
+    {
+      "start": 1000.5951,
+      "end": 1003.3751,
+      "text": "there was no ambiguity about what it meant."
+    },
+    {
+      "start": 1004.39508,
+      "end": 1009.39508,
+      "text": "That's a molecule carrying one heavy strand and one light strand, half and half,"
+    },
+    {
+      "start": 1009.8550700000001,
+      "end": 1012.63507,
+      "text": "sitting right where a 50-50 blend must sit."
+    },
+    {
+      "start": 1012.63507,
+      "end": 1016.2751000000001,
+      "text": "The calibration made the interpretation airtight."
+    },
+    {
+      "start": 1017.3151,
+      "end": 1021.8751,
+      "text": "That care with controls is a big part of why nobody could argue with the conclusion."
+    },
+    {
+      "start": 1022.1951,
+      "end": 1026.8751,
+      "text": "So the first big moment, one round of replication in the light medium."
+    },
+    {
+      "start": 1027.4151,
+      "end": 1029.9151,
+      "text": "Each molecule has copied itself once."
+    },
+    {
+      "start": 1030.2751,
+      "end": 1033.5150800000001,
+      "text": "What does each model predict and what actually shows up?"
+    },
+    {
+      "start": 1033.63507,
+      "end": 1035.9751,
+      "text": "This is the hero moment of the whole experiment."
+    },
+    {
+      "start": 1036.4751,
+      "end": 1038.73508,
+      "text": "So let's do the predictions carefully first."
+    },
+    {
+      "start": 1039.5750699999999,
+      "end": 1040.6551,
+      "text": "Conservative model."
+    },
+    {
+      "start": 1040.6551,
+      "end": 1046.39508,
+      "text": "The old heavy helix stays intact and makes a brand new all-light helix."
+    },
+    {
+      "start": 1047.2151,
+      "end": 1053.0150800000001,
+      "text": "So you'd see two bands, one still down at the heavy position, one up at the light position."
+    },
+    {
+      "start": 1053.83508,
+      "end": 1054.9351,
+      "text": "Two separate bands."
+    },
+    {
+      "start": 1056.11508,
+      "end": 1062.7751,
+      "text": "Semi-conservative model, every molecule unzips, each heavy old strand gets a new light partner."
+    },
+    {
+      "start": 1062.7751,
+      "end": 1068.6551,
+      "text": "so every single daughter molecule is now one heavy strand plus one light strand,"
+    },
+    {
+      "start": 1068.6551,
+      "end": 1071.7751,
+      "text": "a hybrid, half heavy, half light."
+    },
+    {
+      "start": 1072.61508,
+      "end": 1077.45508,
+      "text": "That would give one band sitting exactly halfway between the heavy and light positions"
+    },
+    {
+      "start": 1077.45508,
+      "end": 1079.95508,
+      "text": "and the dispersive model is"
+    },
+    {
+      "start": 1080.0,
+      "end": 1085.56,
+      "text": "would also give roughly one intermediate band at this stage, since everything is half and half."
+    },
+    {
+      "start": 1086.46,
+      "end": 1090.48,
+      "text": "So the key discriminator right here is, does the heavy band survive?"
+    },
+    {
+      "start": 1091.54,
+      "end": 1095.08,
+      "text": "Conservatives says yes, there must still be a fully heavy band."
+    },
+    {
+      "start": 1095.74,
+      "end": 1097.119999,
+      "text": "The others say no."
+    },
+    {
+      "start": 1097.88,
+      "end": 1098.66,
+      "text": "And the answer?"
+    },
+    {
+      "start": 1099.16,
+      "end": 1099.939999,
+      "text": "One band."
+    },
+    {
+      "start": 1099.939999,
+      "end": 1107.4,
+      "text": "A single band, sitting precisely halfway between where heavy DNA sat and where light DNA sits."
+    },
+    {
+      "start": 1107.4,
+      "end": 1110.14,
+      "text": "the half-heavy hybrid position."
+    },
+    {
+      "start": 1111.0,
+      "end": 1114.82,
+      "text": "And that single hybrid band is devastating for the conservative model"
+    },
+    {
+      "start": 1114.82,
+      "end": 1116.72,
+      "text": "immediately and completely"
+    },
+    {
+      "start": 1116.72,
+      "end": 1122.719997,
+      "text": "because conservative replication absolutely required a leftover fully heavy band"
+    },
+    {
+      "start": 1122.719997,
+      "end": 1125.78,
+      "text": "the intact original and there wasn't one."
+    },
+    {
+      "start": 1126.6,
+      "end": 1128.0,
+      "text": "The heavy band was gone."
+    },
+    {
+      "start": 1128.96,
+      "end": 1132.1,
+      "text": "Every molecule in the population had become half-heavy."
+    },
+    {
+      "start": 1133.3,
+      "end": 1136.8,
+      "text": "So after one generation the conservative picture is dead."
+    },
+    {
+      "start": 1137.399998,
+      "end": 1140.519997,
+      "text": "The original double helix did not stay intact."
+    },
+    {
+      "start": 1141.1,
+      "end": 1142.379997,
+      "text": "It gave up its strands."
+    },
+    {
+      "start": 1143.479996,
+      "end": 1146.399994,
+      "text": "Old and new are paired together in every molecule."
+    },
+    {
+      "start": 1146.54,
+      "end": 1149.82,
+      "text": "So after one round, we're down to two survivors,"
+    },
+    {
+      "start": 1150.52,
+      "end": 1152.939995,
+      "text": "semi-conservative and dispersive,"
+    },
+    {
+      "start": 1153.34,
+      "end": 1156.1,
+      "text": "because both give that single hybrid band."
+    },
+    {
+      "start": 1156.579994,
+      "end": 1157.899994,
+      "text": "How do you break the tie?"
+    },
+    {
+      "start": 1157.899994,
+      "end": 1159.74,
+      "text": "You let it copy one more time,"
+    },
+    {
+      "start": 1160.06,
+      "end": 1161.96,
+      "text": "and you watch what the hybrid band does."
+    },
+    {
+      "start": 1162.759995,
+      "end": 1179.018364,
+      "text": "And this is where semi and dispersive finally split apart Think it through In the semi model each of those hybrid molecules one heavy strand one light strand now unzips again The heavy old strand"
+    },
+    {
+      "start": 1179.018364,
+      "end": 1185.53837,
+      "text": "gets a new light partner, making another hybrid. But the light strand also gets a new light partner,"
+    },
+    {
+      "start": 1186.01837,
+      "end": 1192.99837,
+      "text": "making a fully light molecule. So from each hybrid, you get one hybrid and one fully light molecule."
+    },
+    {
+      "start": 1192.99837,
+      "end": 1201.17837,
+      "text": "prediction after two generations two bands one still at the hybrid position one up at the light"
+    },
+    {
+      "start": 1201.17837,
+      "end": 1208.41837,
+      "text": "position in equal amounts the dispersive model by contrast keeps blending old and new evenly"
+    },
+    {
+      "start": 1208.41837,
+      "end": 1214.15837,
+      "text": "through everything so its single band would just keep drifting steadily toward lighter and lighter"
+    },
+    {
+      "start": 1214.15837,
+      "end": 1220.93837,
+      "text": "staying a single band now at the three quarters light density but never splitting into two so it"
+    },
+    {
+      "start": 1220.93837,
+      "end": 1227.71837,
+      "text": "comes down to. One band that keeps sliding versus two distinct bands. Which was it?"
+    },
+    {
+      "start": 1227.91837,
+      "end": 1235.95837,
+      "text": "Two bands. After the second generation, the DNA sat in two clean separate bands. One still at the"
+    },
+    {
+      "start": 1235.95837,
+      "end": 1242.53836,
+      "text": "exact hybrid, half-heavy position, and one up at the fully light position in roughly equal amounts."
+    },
+    {
+      "start": 1243.53836,
+      "end": 1248.35837,
+      "text": "And that kills the dispersive model just as cleanly as the first generation killed the"
+    },
+    {
+      "start": 1248.35837,
+      "end": 1265.05673,
+      "text": "conservative one Dispersive demanded a single band gradually lightening Instead you got a hybrid band that persisted plus a distinct new light band The only model left standing the one that predicted this whole sequence in advance"
+    },
+    {
+      "start": 1265.95674,
+      "end": 1268.67673,
+      "text": "One heavy band, then one hybrid band,"
+    },
+    {
+      "start": 1269.21674,
+      "end": 1272.77673,
+      "text": "then a hybrid plus a light band, is semi-conservative."
+    },
+    {
+      "start": 1273.89673,
+      "end": 1275.17673,
+      "text": "Watson and Crick's guess."
+    },
+    {
+      "start": 1275.37674,
+      "end": 1281.33673,
+      "text": "Each strand a template, each daughter molecule one old strand and one new."
+    },
+    {
+      "start": 1282.33673,
+      "end": 1286.41673,
+      "text": "Confirmed by nothing more than watching bands move in a spinning tube."
+    },
+    {
+      "start": 1286.53674,
+      "end": 1289.37674,
+      "text": "Does this answer hold for us or just for bacteria?"
+    },
+    {
+      "start": 1289.99673,
+      "end": 1292.05673,
+      "text": "They used E. coli after all."
+    },
+    {
+      "start": 1292.15674,
+      "end": 1293.65674,
+      "text": "It holds for everything alive."
+    },
+    {
+      "start": 1294.4567299999999,
+      "end": 1296.51674,
+      "text": "That's the quiet bombshell underneath it."
+    },
+    {
+      "start": 1296.91673,
+      "end": 1301.77673,
+      "text": "They used E. coli because bacteria are easy to grow and divide fast,"
+    },
+    {
+      "start": 1302.1967300000001,
+      "end": 1304.55673,
+      "text": "so you can march through generations in a day."
+    },
+    {
+      "start": 1305.41673,
+      "end": 1308.53674,
+      "text": "But the same experiment was soon repeated in other organisms."
+    },
+    {
+      "start": 1308.53674,
+      "end": 1314.91673,
+      "text": "plant cells, animal cells, eventually human cells, and every time the same answer,"
+    },
+    {
+      "start": 1315.71674,
+      "end": 1322.27673,
+      "text": "semi-conservative replication. The double helix in a bacterium, in an oak tree, in you,"
+    },
+    {
+      "start": 1322.7367199999999,
+      "end": 1329.93674,
+      "text": "all copy themselves by the identical mechanism. Unzip, template each strand, hand down one old"
+    },
+    {
+      "start": 1329.93674,
+      "end": 1335.81674,
+      "text": "strand to each descendant. It's one of those deep unifications biology keeps handing us."
+    },
+    {
+      "start": 1335.81674,
+      "end": 1341.99673,
+      "text": "The machinery of copying life is essentially the same across all of it, because it all descends,"
+    },
+    {
+      "start": 1341.99673,
+      "end": 1356.5750699999999,
+      "text": "as our Darwin episode argued from a common ancestor So when Messelson and Stahl watched those bands in a tube of bacterial DNA they were really watching how every living thing on Earth passes its instructions to the next"
+    },
+    {
+      "start": 1356.5750699999999,
+      "end": 1362.55508,
+      "text": "generation. And that's why people call it beautiful. Three ideas walk in and two of them"
+    },
+    {
+      "start": 1362.55508,
+      "end": 1369.5150800000001,
+      "text": "get eliminated by just looking at where DNA floats, one generation at a time. That's exactly why."
+    },
+    {
+      "start": 1369.5150800000001,
+      "end": 1376.1951,
+      "text": "There's no messy inference, no elaborate chain of assumptions, no statistics to squint at."
+    },
+    {
+      "start": 1376.83508,
+      "end": 1378.89508,
+      "text": "The predictions are stark and visual."
+    },
+    {
+      "start": 1379.7950700000001,
+      "end": 1386.4151,
+      "text": "Count the bands, note their positions, and the data answer the question directly, almost with their bare hands."
+    },
+    {
+      "start": 1387.61508,
+      "end": 1390.17508,
+      "text": "Generation 0 \u2013 one heavy band"
+    },
+    {
+      "start": 1390.17508,
+      "end": 1395.45508,
+      "text": "Generation 1 \u2013 one hybrid band and conservative is gone"
+    },
+    {
+      "start": 1395.45508,
+      "end": 1403.9951,
+      "text": "Generation 2, hybrid plus light and dispersive is gone. Each generation lands like a hammer blow"
+    },
+    {
+      "start": 1403.9951,
+      "end": 1410.17508,
+      "text": "and at the end only one model is standing. It's the kind of experiment where, once you see it,"
+    },
+    {
+      "start": 1410.55508,
+      "end": 1416.17508,
+      "text": "the answer feels almost inevitable. But somebody had to think of weighing DNA with an isotope"
+    },
+    {
+      "start": 1416.17508,
+      "end": 1420.2151,
+      "text": "and floating it in a salt gradient, and that was the stroke of the thing."
+    },
+    {
+      "start": 1420.2151,
+      "end": 1426.4751,
+      "text": "Where does this fit in the bigger explosion of molecular biology happening right then?"
+    },
+    {
+      "start": 1426.4751,
+      "end": 1429.33508,
+      "text": "It feels like a lot was breaking open at once."
+    },
+    {
+      "start": 1429.33508,
+      "end": 1435.55508,
+      "text": "It was one pillar of an astonishing decade. Watson and Crick's structure in 1953 lit"
+    },
+    {
+      "start": 1435.55508,
+      "end": 1439.9751,
+      "text": "the fuse, and right around this time, Francis Crick had articulated the"
+    },
+    {
+      "start": 1440.0,
+      "end": 1442.9199998,
+      "text": "the guiding principle people call the central dogma,"
+    },
+    {
+      "start": 1443.5,
+      "end": 1446.68,
+      "text": "that information in the cell flows in a definite direction,"
+    },
+    {
+      "start": 1447.3999996,
+      "end": 1450.08,
+      "text": "from DNA to RNA to protein."
+    },
+    {
+      "start": 1451.2,
+      "end": 1453.04,
+      "text": "DNA is the master archive."
+    },
+    {
+      "start": 1453.62,
+      "end": 1456.48,
+      "text": "It gets read out to build the working machinery of life."
+    },
+    {
+      "start": 1456.76,
+      "end": 1461.72,
+      "text": "But an archive is only useful if it can be reliably copied and handed on,"
+    },
+    {
+      "start": 1462.359999,
+      "end": 1465.699999,
+      "text": "and that's the exact piece Meselson and Stahl nailed down."
+    },
+    {
+      "start": 1466.539999,
+      "end": 1471.599998,
+      "text": "DNA copying to DNA, the faithful duplication of the master record itself,"
+    },
+    {
+      "start": 1472.1,
+      "end": 1473.66,
+      "text": "every time a cell divides."
+    },
+    {
+      "start": 1474.78,
+      "end": 1478.859997,
+      "text": "Set their result beside the cracking of the genetic code a few years later."
+    },
+    {
+      "start": 1479.579998,
+      "end": 1483.739998,
+      "text": "How short DNA words specify the building blocks of proteins,"
+    },
+    {
+      "start": 1483.739998,
+      "end": 1488.1,
+      "text": "and within roughly a decade, heredity went from near total mystery"
+    },
+    {
+      "start": 1488.1,
+      "end": 1490.219997,
+      "text": "to a legible molecular mechanism."
+    },
+    {
+      "start": 1491.34,
+      "end": 1494.719997,
+      "text": "This experiment is the replication pillar of that whole structure,"
+    },
+    {
+      "start": 1494.719997,
+      "end": 1498.299995,
+      "text": "the proof that the archive can copy itself cleanly"
+    },
+    {
+      "start": 1498.299995,
+      "end": 1501.92,
+      "text": "so the information survives from one generation to the next."
+    },
+    {
+      "start": 1502.159996,
+      "end": 1504.92,
+      "text": "Let's make sure the winning picture is vivid."
+    },
+    {
+      "start": 1505.38,
+      "end": 1506.939995,
+      "text": "Semi-conservative replication."
+    },
+    {
+      "start": 1507.64,
+      "end": 1510.03999,
+      "text": "Sell it back to me as a physical process,"
+    },
+    {
+      "start": 1510.439995,
+      "end": 1512.53999,
+      "text": "the way it actually happens in a cell."
+    },
+    {
+      "start": 1512.68,
+      "end": 1515.38,
+      "text": "Picture the double helix, the twisted ladder."
+    },
+    {
+      "start": 1516.28,
+      "end": 1519.5,
+      "text": "To copy it, the cell's machinery grabs the two strands"
+    },
+    {
+      "start": 1519.5,
+      "end": 1523.06,
+      "text": "and unzips them down the middle, splitting every rung."
+    },
+    {
+      "start": 1523.06,
+      "end": 1537.024895,
+      "text": "The A T and G C pairs come apart so you have two lone strands each with its bases exposed and hungry for partners Now floating around in the cell are loose building blocks the four kinds"
+    },
+    {
+      "start": 1537.024895,
+      "end": 1543.4249,
+      "text": "of bases attached to their backbone pieces, and along each old strand the machinery walks,"
+    },
+    {
+      "start": 1543.9249,
+      "end": 1550.5049,
+      "text": "and at each exposed base it snaps in the one complementary partner. Opposite every A it"
+    },
+    {
+      "start": 1550.5049,
+      "end": 1558.62489,
+      "text": "places a T, opposite every G a C, following the pairing rules with high fidelity. As it goes,"
+    },
+    {
+      "start": 1558.9249,
+      "end": 1565.9049,
+      "text": "it stitches those new blocks into a continuous new strand, wound around the old one. When it's done,"
+    },
+    {
+      "start": 1566.2849,
+      "end": 1572.0649,
+      "text": "where there was one double helix there are two, and each of the two is one original old strand"
+    },
+    {
+      "start": 1572.0649,
+      "end": 1579.3449,
+      "text": "with a freshly built new strand zipped onto it. That's semi-conservative. Every copy carries"
+    },
+    {
+      "start": 1579.3449,
+      "end": 1585.5849,
+      "text": "forward one intact strand of its parent and the pairing rules guarantee the new strand is correct."
+    },
+    {
+      "start": 1586.3849,
+      "end": 1591.4249,
+      "text": "The molecule literally hands down half of its physical self to each descendant."
+    },
+    {
+      "start": 1591.4249,
+      "end": 1597.0249,
+      "text": "What's the actual machine in the cell that does all this? The unzipping? The templating?"
+    },
+    {
+      "start": 1597.66489,
+      "end": 1603.10489,
+      "text": "Something physical has to carry it out. A whole coordinated team of molecular machines"
+    },
+    {
+      "start": 1603.66489,
+      "end": 1606.7849,
+      "text": "and the central one was being discovered in those very same years."
+    },
+    {
+      "start": 1606.7849,
+      "end": 1614.5849,
+      "text": "There's an enzyme called DNA polymerase, first isolated by Arthur Kornberg right around this time,"
+    },
+    {
+      "start": 1615.0249,
+      "end": 1624.4698,
+      "text": "and its job is to crawl along a template strand and snap in the matching new bases stitching together the new strand But it doesn work alone"
+    },
+    {
+      "start": 1625.3898,
+      "end": 1629.6098,
+      "text": "Other proteins run ahead of it to unwind and unzip the double helix,"
+    },
+    {
+      "start": 1630.1498,
+      "end": 1633.9498,
+      "text": "and to hold the two strands apart so the polymerase can read them."
+    },
+    {
+      "start": 1634.5098,
+      "end": 1636.26979,
+      "text": "And there's a lovely complication."
+    },
+    {
+      "start": 1637.04979,
+      "end": 1639.2298,
+      "text": "The two strands run in opposite directions,"
+    },
+    {
+      "start": 1639.8898,
+      "end": 1642.40979,
+      "text": "so the machinery has to copy one of them smoothly"
+    },
+    {
+      "start": 1642.40979,
+      "end": 1647.24979,
+      "text": "and the other in short, backstitched pieces that get sewn together afterward."
+    },
+    {
+      "start": 1648.2098,
+      "end": 1650.3698,
+      "text": "The whole assembly is fast and precise."
+    },
+    {
+      "start": 1651.0898,
+      "end": 1653.3698,
+      "text": "It adds hundreds of new bases every second,"
+    },
+    {
+      "start": 1653.8898,
+      "end": 1656.62979,
+      "text": "reading each template base and placing its complement"
+    },
+    {
+      "start": 1656.62979,
+      "end": 1659.1698000000001,
+      "text": "while checking its own work as it goes."
+    },
+    {
+      "start": 1660.2298,
+      "end": 1663.3698,
+      "text": "So the abstract statement Meselson and Stahl proved,"
+    },
+    {
+      "start": 1663.8498,
+      "end": 1665.0698,
+      "text": "each strand is a template,"
+    },
+    {
+      "start": 1665.5498,
+      "end": 1669.1098,
+      "text": "is carried out in every dividing cell in your body right now"
+    },
+    {
+      "start": 1669.1098,
+      "end": 1674.1098,
+      "text": "by real enzymes physically walking along the DNA and building the copy."
+    },
+    {
+      "start": 1674.8898,
+      "end": 1677.8698,
+      "text": "It's a molecular assembly line, running constantly."
+    },
+    {
+      "start": 1678.1098,
+      "end": 1684.7098,
+      "text": "And there's a reason that, hands down half of itself, faithfully, matters far beyond this one experiment."
+    },
+    {
+      "start": 1685.5098,
+      "end": 1689.26979,
+      "text": "It connects to the whole story we've been telling about heredity."
+    },
+    {
+      "start": 1689.4498,
+      "end": 1693.48979,
+      "text": "It closes the story, actually, and this is what I find moving about it."
+    },
+    {
+      "start": 1694.02979,
+      "end": 1695.9498,
+      "text": "Think back across our episodes."
+    },
+    {
+      "start": 1695.9498,
+      "end": 1716.1946699999999,
+      "text": "Darwin and Wallace gave us natural selection but they needed heredity to be faithful Traits had to pass to offspring reliably and they had no idea how that worked It was the great gap in their theory Mendel showed heredity comes in discrete units genes that pass down without blending"
+    },
+    {
+      "start": 1717.35468,
+      "end": 1722.59467,
+      "text": "Watson and Crick showed what a gene physically is, a sequence along the double helix,"
+    },
+    {
+      "start": 1722.59467,
+      "end": 1727.63467,
+      "text": "and hinted at how it might copy. And Messelson and Stahl closed the loop."
+    },
+    {
+      "start": 1728.37466,
+      "end": 1732.2147,
+      "text": "They show how the copying physically happens and why it's so faithful."
+    },
+    {
+      "start": 1732.2147,
+      "end": 1737.8946799999999,
+      "text": "Because each new molecule is built by templating off an intact old strand,"
+    },
+    {
+      "start": 1738.3747,
+      "end": 1742.03467,
+      "text": "following rigid pairing rules, the copy is extremely accurate,"
+    },
+    {
+      "start": 1742.75467,
+      "end": 1746.73468,
+      "text": "which is exactly the reliable inheritance that natural selection demands."
+    },
+    {
+      "start": 1747.7747,
+      "end": 1752.4146700000001,
+      "text": "So this experiment is the last link in a chain that runs from Darwin's logic,"
+    },
+    {
+      "start": 1752.85468,
+      "end": 1756.01468,
+      "text": "through Mendel's units, through Watson and Crick's structure,"
+    },
+    {
+      "start": 1756.4947,
+      "end": 1758.75467,
+      "text": "to the actual molecular act of copying."
+    },
+    {
+      "start": 1758.75467,
+      "end": 1766.1946699999999,
+      "text": "The whole relay, a century long, ends here, in a band of DNA floating at the halfway mark."
+    },
+    {
+      "start": 1766.31467,
+      "end": 1773.17468,
+      "text": "You keep stressing how faithful the copying is, but if copying were perfect, nothing could ever change."
+    },
+    {
+      "start": 1773.63467,
+      "end": 1779.0547000000001,
+      "text": "And our Darwin episode needed things to change. Where do mutations come from?"
+    },
+    {
+      "start": 1779.1946699999999,
+      "end": 1783.1946699999999,
+      "text": "That's the perfect tension to close the biology on, and the answer is elegant."
+    },
+    {
+      "start": 1783.1946699999999,
+      "end": 1789.25467,
+      "text": "The copying is faithful but not flawless, and that turns out to be exactly what life"
+    },
+    {
+      "start": 1789.25467,
+      "end": 1795.6946699999999,
+      "text": "needs. The polymerase doesn't just place matching bases, it proofreads, backing up"
+    },
+    {
+      "start": 1795.6946699999999,
+      "end": 1799.97467,
+      "text": "to correct most of its own mistakes on the fly. So the error rate is not just a single"
+    },
+    {
+      "start": 1800.0,
+      "end": 1805.02,
+      "text": "is astonishingly low, something like a single wrong base in a billion or more."
+    },
+    {
+      "start": 1806.0,
+      "end": 1809.42,
+      "text": "That extraordinary fidelity is what makes heredity reliable."
+    },
+    {
+      "start": 1810.38,
+      "end": 1815.799999,
+      "text": "Your genes arrive in each new cell essentially uncorrupted, generation after generation,"
+    },
+    {
+      "start": 1816.4,
+      "end": 1821.16,
+      "text": "which is precisely the dependable inheritance that natural selection requires to work."
+    },
+    {
+      "start": 1821.82,
+      "end": 1824.279999,
+      "text": "But astonishingly low is not zero."
+    },
+    {
+      "start": 1824.279999,
+      "end": 1830.599998,
+      "text": "Every so often an error slips through uncorrected, and that surviving mistake is a mutation,"
+    },
+    {
+      "start": 1831.359999,
+      "end": 1836.44,
+      "text": "a small permanent change in the sequence, handed on to all the descendants of that cell,"
+    },
+    {
+      "start": 1837.239998,
+      "end": 1839.68,
+      "text": "and mutations are the raw material of evolution,"
+    },
+    {
+      "start": 1840.48,
+      "end": 1845.699997,
+      "text": "the source of the heritable variation that Darwin and Wallace's natural selection acts upon."
+    },
+    {
+      "start": 1846.76,
+      "end": 1849.64,
+      "text": "So life tunes its copying to a razor's edge,"
+    },
+    {
+      "start": 1850.219997,
+      "end": 1853.42,
+      "text": "faithful enough to preserve the information across the ages,"
+    },
+    {
+      "start": 1853.42,
+      "end": 1858.499996,
+      "text": "imperfect enough to keep generating the variation that lets species change."
+    },
+    {
+      "start": 1859.48,
+      "end": 1862.839996,
+      "text": "Perfectly faithful copying would mean no evolution at all."
+    },
+    {
+      "start": 1863.739998,
+      "end": 1870.22,
+      "text": "The very machine that guards the genome, also, by its rare slips, feeds the process that rewrites it."
+    },
+    {
+      "start": 1870.22,
+      "end": 1874.74,
+      "text": "And does this template idea show up in things people have actually heard of?"
+    },
+    {
+      "start": 1875.14,
+      "end": 1889.36653,
+      "text": "Is it in the world beyond the lab It the basis of a tool that now everywhere called PCR the polymerase chain reaction which is the technique behind genetic testing forensic DNA at crime scenes paternity"
+    },
+    {
+      "start": 1889.36653,
+      "end": 1895.82653,
+      "text": "tests, and the diagnostic tests that became household words during the pandemic. And PCR"
+    },
+    {
+      "start": 1895.82653,
+      "end": 1902.406525,
+      "text": "runs on precisely this principle. You take DNA, you heat it to unzip the two strands,"
+    },
+    {
+      "start": 1902.406525,
+      "end": 1909.16653,
+      "text": "\u2013 the same unzipping \u2013 and then you let each strand template a new partner, exactly"
+    },
+    {
+      "start": 1909.16653,
+      "end": 1914.02653,
+      "text": "as in semi-conservative replication, doubling the DNA."
+    },
+    {
+      "start": 1914.02653,
+      "end": 1920.126526,
+      "text": "Then you do it again, and again, each cycle doubling, so a tiny trace of DNA becomes billions"
+    },
+    {
+      "start": 1920.126526,
+      "end": 1923.32652,
+      "text": "of copies you can actually work with."
+    },
+    {
+      "start": 1923.32652,
+      "end": 1928.7665299999999,
+      "text": "Every one of those copies is made by the template mechanism this experiment proved."
+    },
+    {
+      "start": 1928.7665299999999,
+      "end": 1934.90652,
+      "text": "So when a lab amplifies a scrap of DNA to read someone's genes or identify a suspect,"
+    },
+    {
+      "start": 1934.90652,
+      "end": 1940.24652,
+      "text": "it is running Messelson and Stahl's biology over and over in a little heating machine."
+    },
+    {
+      "start": 1940.24652,
+      "end": 1946.50653,
+      "text": "So the double helix promised a copying mechanism with a wink, and five years later two young"
+    },
+    {
+      "start": 1946.50653,
+      "end": 1952.86653,
+      "text": "scientists proved it by making DNA heavy, then light, and watching a single band split"
+    },
+    {
+      "start": 1952.86653,
+      "end": 1958.44653,
+      "text": "in two, closing a hundred year hunt for how life copies itself."
+    },
+    {
+      "start": 1958.44653,
+      "end": 1959.36652,
+      "text": "Thank you, George."
+    },
+    {
+      "start": 1959.64651,
+      "end": 1961.64651,
+      "text": "A real pleasure. Mind the templates."
+    }
+  ]
+}

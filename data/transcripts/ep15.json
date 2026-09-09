@@ -1,0 +1,1680 @@
+{
+  "episode_id": "ep15",
+  "audio_path": "podcasts\\Great Papers 15 - The Periodic Table, Mendeleev 1869.mp3",
+  "duration_sec": 1871.359,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 334,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.62,
+      "text": "There's an object hanging on the wall of essentially every science classroom on Earth,"
+    },
+    {
+      "start": 5.06,
+      "end": 11.2,
+      "text": "that coloured grid of boxes, hydrogen up in the corner, the long rows, the funny bulge at the"
+    },
+    {
+      "start": 11.2,
+      "end": 18.779999,
+      "text": "bottom, the periodic table. Most of us learned to read it, or dreaded it, and never once asked"
+    },
+    {
+      "start": 18.779999,
+      "end": 25.699999,
+      "text": "where it came from or why it has that peculiar shape. George, it comes from a single stroke of"
+    },
+    {
+      "start": 25.699999,
+      "end": 33.76,
+      "text": "insight by a Russian chemist named Dmitry Mendeleev in 1869. And the thing I find astonishing"
+    },
+    {
+      "start": 33.76,
+      "end": 40.719997,
+      "text": "is that he built it before anyone knew atoms had any internal structure at all. No electrons,"
+    },
+    {
+      "start": 41.1,
+      "end": 47.6,
+      "text": "no protons, nothing. So what did he actually see? He saw an order hiding inside a mess."
+    },
+    {
+      "start": 48.28,
+      "end": 53.199997,
+      "text": "And then he did something with that order so bold that it's really the heart of the story."
+    },
+    {
+      "start": 53.199997,
+      "end": 61.92,
+      "text": "So here's where we're going today. First, the mess. Because in 1869, chemistry was genuinely"
+    },
+    {
+      "start": 61.92,
+      "end": 67.799995,
+      "text": "a pile of disconnected facts, and you need to feel how disorganised it was to appreciate what"
+    },
+    {
+      "start": 67.799995,
+      "end": 74.619995,
+      "text": "he did. Then the insight, the single pattern Mendeleev spotted that let all those facts"
+    },
+    {
+      "start": 74.619995,
+      "end": 81.21999,
+      "text": "snap into a grid. Then the audacious part, the move that turned a tidy chart into one of the"
+    },
+    {
+      "start": 81.22,
+      "end": 83.24,
+      "text": "great predictive triumphs in science."
+    },
+    {
+      "start": 84.18,
+      "end": 96.48489,
+      "text": "He left empty boxes in his table and told the world what would eventually fill them And then the deepest twist of all the one that connects this straight back to our quantum episodes the reason his table"
+    },
+    {
+      "start": 96.48489,
+      "end": 102.0849,
+      "text": "works at all is a piece of physics he could not possibly have known, and yet he read its shadow"
+    },
+    {
+      "start": 102.0849,
+      "end": 109.0049,
+      "text": "right off the chemistry. A chemist, decades early, accidentally drawing a map of quantum mechanics."
+    },
+    {
+      "start": 109.204895,
+      "end": 114.98489,
+      "text": "What even led Mendeleev to attack this problem? Was he hunting for a grand law of nature?"
+    },
+    {
+      "start": 115.0049,
+      "end": 130.3649,
+      "text": "Something much more mundane, which I love. He was writing a textbook. He was a chemistry professor putting together a book to teach the subject, later famous as his principles of chemistry, and he ran into a very practical teacher's problem."
+    },
+    {
+      "start": 131.2249,
+      "end": 134.2249,
+      "text": "In what order do you present 60-odd elements to students?"
+    },
+    {
+      "start": 135.1049,
+      "end": 139.4449,
+      "text": "Is there a natural, logical sequence, or do you just list them arbitrarily?"
+    },
+    {
+      "start": 140.5849,
+      "end": 145.0849,
+      "text": "That pedagogical itch, how do I organize this material so it makes sense,"
+    },
+    {
+      "start": 145.6649,
+      "end": 149.5649,
+      "text": "is what drove him to keep asking whether the elements had an inherent order."
+    },
+    {
+      "start": 150.0049,
+      "end": 153.04489,
+      "text": "And there's a famous story, which he may have embellished,"
+    },
+    {
+      "start": 153.32489,
+      "end": 155.6449,
+      "text": "that the final arrangement came to him in a dream,"
+    },
+    {
+      "start": 156.2249,
+      "end": 160.0049,
+      "text": "that he saw the whole table laid out, woke, and scribbled it down."
+    },
+    {
+      "start": 160.3649,
+      "end": 165.82489,
+      "text": "Whether or not the dream is literal, the truth underneath it is that he'd been obsessively"
+    },
+    {
+      "start": 165.82489,
+      "end": 172.0649,
+      "text": "shuffling those element cards for a long, long time. Sometimes the deepest laws of nature"
+    },
+    {
+      "start": 172.0649,
+      "end": 188.8298,
+      "text": "get discovered because someone was trying to write a decent chapter for undergraduates Let start with the mess What did chemistry actually look like in the 1860s Picture a collection of about 60 odd known elements the pure substances the ones you can"
+    },
+    {
+      "start": 188.8298,
+      "end": 197.4298,
+      "text": "break down chemically. Hydrogen, oxygen, iron, gold, sulphur and so on. Chemists had isolated them"
+    },
+    {
+      "start": 197.4298,
+      "end": 203.8898,
+      "text": "and they'd measured, for each, a number called its atomic weight, essentially how heavy its atoms are"
+    },
+    {
+      "start": 203.8898,
+      "end": 210.3898,
+      "text": "relative to the lightest, hydrogen. So you had this list of 60-something elements, each with a"
+    },
+    {
+      "start": 210.3898,
+      "end": 216.7298,
+      "text": "weight and a bundle of known behaviours. This one's a reactive metal. This one's a choking gas."
+    },
+    {
+      "start": 217.2898,
+      "end": 222.7098,
+      "text": "This one bonds with oxygen in a particular ratio. But there was no organising principle."
+    },
+    {
+      "start": 223.46979,
+      "end": 229.7298,
+      "text": "It was like having 60 jigsaw pieces with no picture on the box. A heap of individual facts"
+    },
+    {
+      "start": 229.7298,
+      "end": 232.6498,
+      "text": "that students simply had to memorize one by one."
+    },
+    {
+      "start": 233.68979,
+      "end": 236.0698,
+      "text": "There were faint hints that some order existed."
+    },
+    {
+      "start": 237.0698,
+      "end": 241.18979,
+      "text": "One chemist, Dobberiner, had noticed that elements sometimes came in"
+    },
+    {
+      "start": 241.18979,
+      "end": 243.96979,
+      "text": "triads of three with related properties."
+    },
+    {
+      "start": 245.1098,
+      "end": 248.9498,
+      "text": "Another, Newlands, noticed that if you lined them up by weight,"
+    },
+    {
+      "start": 249.4298,
+      "end": 251.8498,
+      "text": "something seemed to repeat every eighth element."
+    },
+    {
+      "start": 252.30978,
+      "end": 256.8298,
+      "text": "He called it the law of octaves, and he was actually laughed at for it,"
+    },
+    {
+      "start": 256.8298,
+      "end": 261.8298,
+      "text": "one colleague sneering whether he'd tried arranging the elements alphabetically."
+    },
+    {
+      "start": 261.8298,
+      "end": 264.8298,
+      "text": "So there were whispers of a pattern, but nothing that held together."
+    },
+    {
+      "start": 264.8298,
+      "end": 275.17468,
+      "text": "Practical question How did they even measure atomic weight if they had no idea what was inside an atom or whether atoms were real"
+    },
+    {
+      "start": 275.17468,
+      "end": 281.17468,
+      "text": "They didn't need to see inside. They measured it from the outside, from how substances combine."
+    },
+    {
+      "start": 282.29468,
+      "end": 293.73468,
+      "text": "If you know that a fixed mass of one element always reacts with a fixed mass of another, you can work out the relative weights of their atoms, all referred to the lightest, hydrogen, as the unit."
+    },
+    {
+      "start": 294.73468,
+      "end": 296.9347,
+      "text": "But, and this matters for the story,"
+    },
+    {
+      "start": 297.47467,
+      "end": 300.4947,
+      "text": "there had been real confusion about these numbers for decades"
+    },
+    {
+      "start": 300.4947,
+      "end": 303.81467,
+      "text": "because people mixed up a few different notions of weight"
+    },
+    {
+      "start": 303.81467,
+      "end": 305.8747,
+      "text": "and got inconsistent values."
+    },
+    {
+      "start": 306.53467,
+      "end": 309.91467,
+      "text": "That mess got cleaned up right before Mendeleev's work,"
+    },
+    {
+      "start": 310.45468,
+      "end": 313.59467,
+      "text": "largely by an Italian chemist named Canizzaro,"
+    },
+    {
+      "start": 313.59467,
+      "end": 319.47467,
+      "text": "who, around 1860, at a big international gathering of chemists at Karlsruhe,"
+    },
+    {
+      "start": 319.97467,
+      "end": 323.4347,
+      "text": "laid out a clear, consistent way to assign atomic weights."
+    },
+    {
+      "start": 323.73468,
+      "end": 330.09467,
+      "text": "Mendeleev was at that period in his career absorbing exactly this, and it gave him something"
+    },
+    {
+      "start": 330.09467,
+      "end": 337.31467,
+      "text": "essential \u2013 a reliable, agreed-upon set of atomic weights to order the elements by."
+    },
+    {
+      "start": 337.31467,
+      "end": 341.29468,
+      "text": "Without Canizzaro's clean-up, the weights would have been too muddled for any pattern"
+    },
+    {
+      "start": 341.29468,
+      "end": 343.23468,
+      "text": "to shine through."
+    },
+    {
+      "start": 343.23468,
+      "end": 347.15466,
+      "text": "So the periodic table rests on someone first getting the ruler right."
+    },
+    {
+      "start": 347.15466,
+      "end": 352.3347,
+      "text": "So people sensed there was rhythm in there somewhere, but nobody could make it work across"
+    },
+    {
+      "start": 352.3347,
+      "end": 359.7747,
+      "text": "the whole set. What did Mendeleev do differently? He took the pattern seriously and pushed it all the way through,"
+    },
+    {
+      "start": 360.0,
+      "end": 365.74,
+      "text": "and he did it with a very hands-on method. The story, and it's at least partly true,"
+    },
+    {
+      "start": 366.16,
+      "end": 369.92,
+      "text": "is that he wrote each element on a card, with its weight and its properties,"
+    },
+    {
+      "start": 370.48,
+      "end": 375.42,
+      "text": "and laid them out like a game of solitaire, shuffling them around, looking for the arrangement"
+    },
+    {
+      "start": 375.42,
+      "end": 379.68,
+      "text": "that made everything line up. And here's the pattern he locked onto."
+    },
+    {
+      "start": 380.8,
+      "end": 384.88,
+      "text": "Take the elements and lay them in a row in order of increasing atomic weight,"
+    },
+    {
+      "start": 385.539999,
+      "end": 386.72,
+      "text": "lightest to heaviest."
+    },
+    {
+      "start": 387.599998,
+      "end": 390.839998,
+      "text": "As you walk along that row, the chemical properties change,"
+    },
+    {
+      "start": 390.839998,
+      "end": 395.14,
+      "text": "but they don't change randomly, and they don't change once and settle."
+    },
+    {
+      "start": 395.98,
+      "end": 398.1,
+      "text": "They change, and then they come back."
+    },
+    {
+      "start": 399.15999999999997,
+      "end": 403.5,
+      "text": "You'll pass a very reactive soft metal, then a series of other elements,"
+    },
+    {
+      "start": 404.1,
+      "end": 407.94,
+      "text": "and then, further along, you hit another very reactive soft metal"
+    },
+    {
+      "start": 407.94,
+      "end": 410.32,
+      "text": "that behaves remarkably like the first."
+    },
+    {
+      "start": 411.26,
+      "end": 414.519997,
+      "text": "Keep going, and the whole cycle of behaviours repeats again."
+    },
+    {
+      "start": 414.879997,
+      "end": 419.959995,
+      "text": "The properties are periodic. They recur at regular intervals as the weight climbs."
+    },
+    {
+      "start": 420.26,
+      "end": 426.14,
+      "text": "Give me a concrete example of one of these recurring families so I can feel the repetition."
+    },
+    {
+      "start": 426.52,
+      "end": 433.28,
+      "text": "Take the softest, most violent metals. Lithium, then further along sodium, then further still potassium."
+    },
+    {
+      "start": 434.159996,
+      "end": 436.85999,
+      "text": "These are metals so soft you can cut them with a knife,"
+    },
+    {
+      "start": 436.85999,
+      "end": 444.6,
+      "text": "and so reactive that a lump of sodium or potassium dropped in water fizzes, skitters, and can burst into flame."
+    },
+    {
+      "start": 444.88,
+      "end": 454.31837,
+      "text": "They chemical near twins and they show up at regular intervals as you climb the weights so they stack into a single column the alkali metals"
+    },
+    {
+      "start": 455.418365,
+      "end": 457.57837,
+      "text": "Now jump to almost the opposite temperament."
+    },
+    {
+      "start": 458.33835999999997,
+      "end": 462.45837,
+      "text": "Fluorine, chlorine, bromine, iodine, the halogens."
+    },
+    {
+      "start": 463.53837,
+      "end": 469.39837,
+      "text": "These are reactive non-metals, corrosive, coloured, that desperately want to grab a partner's electron."
+    },
+    {
+      "start": 469.39837,
+      "end": 476.278366,
+      "text": "Chlorine is the choking green gas, iodine the dark violet solid, but chemically they're"
+    },
+    {
+      "start": 476.278366,
+      "end": 481.39836,
+      "text": "a family and they too recur at regular intervals, stacking into their own column."
+    },
+    {
+      "start": 481.39836,
+      "end": 488.27837,
+      "text": "That's the periodicity made vivid. Sodium and potassium sit several elements apart by weight,"
+    },
+    {
+      "start": 488.27837,
+      "end": 494.35837000000004,
+      "text": "yet behave like siblings. And Mendeleev's grid puts siblings in the same column on purpose."
+    },
+    {
+      "start": 494.35837000000004,
+      "end": 501.95837,
+      "text": "Once you notice that the reactive soft metals keep coming back and the corrosive non-metals keep coming back,"
+    },
+    {
+      "start": 502.43836999999996,
+      "end": 506.49837,
+      "text": "the whole idea of arranging them into repeating rows becomes irresistible."
+    },
+    {
+      "start": 506.79837,
+      "end": 511.59836,
+      "text": "Periodic, like a rhythm, a repeating beat, as you go up in weight."
+    },
+    {
+      "start": 512.25836,
+      "end": 516.91837,
+      "text": "Exactly like a beat. And once you see that, the table designs itself."
+    },
+    {
+      "start": 517.6783800000001,
+      "end": 521.89838,
+      "text": "Because if the properties repeat, you shouldn't lay the elements in one long row."
+    },
+    {
+      "start": 521.89838,
+      "end": 531.89838,
+      "text": "You should start a new row each time the cycle comes back around and stack the rows so that elements at the same point in the cycle sit one above another."
+    },
+    {
+      "start": 531.89838,
+      "end": 548.33673,
+      "text": "So you break the long sequence into rows and line them up vertically and now every column contains elements that behave alike The soft reactive metals all in one column the choking greenish reactive gases all in another and so on"
+    },
+    {
+      "start": 549.33673,
+      "end": 554.01674,
+      "text": "The horizontal rows are called periods, the vertical columns are called groups,"
+    },
+    {
+      "start": 554.53673,
+      "end": 556.67673,
+      "text": "and a group is a family of chemical cousins."
+    },
+    {
+      "start": 557.7567300000001,
+      "end": 561.47673,
+      "text": "That grid is the periodic table, and the underlying statement,"
+    },
+    {
+      "start": 561.47673,
+      "end": 567.8967299999999,
+      "text": "which Mendeleev elevated to a law, is simple to say. The properties of the elements are a"
+    },
+    {
+      "start": 567.8967299999999,
+      "end": 573.65674,
+      "text": "periodic function of their atomic weight. Order them by weight and the behaviour beats out a"
+    },
+    {
+      "start": 573.65674,
+      "end": 580.57674,
+      "text": "repeating rhythm. What properties, concretely, was he lining up? The haves alike sounds a bit soft."
+    },
+    {
+      "start": 581.01674,
+      "end": 585.9967300000001,
+      "text": "How do you make that precise enough to build a grid? He had some sharp numerical handles"
+    },
+    {
+      "start": 585.9967300000001,
+      "end": 589.83673,
+      "text": "and the most important was valence, the combining ratio."
+    },
+    {
+      "start": 590.83673,
+      "end": 594.65674,
+      "text": "Valence is basically how many partners an atom grabs when it bonds,"
+    },
+    {
+      "start": 595.47673,
+      "end": 600.4967300000001,
+      "text": "how many atoms of hydrogen or of oxygen one atom of the element joins with."
+    },
+    {
+      "start": 601.43674,
+      "end": 607.19673,
+      "text": "Some elements combine one to one, some hold two partners, some three or four."
+    },
+    {
+      "start": 608.11673,
+      "end": 611.43674,
+      "text": "That combining capacity is a hard number, not a vibe,"
+    },
+    {
+      "start": 611.95673,
+      "end": 614.11673,
+      "text": "and it's a fingerprint of an element's chemistry."
+    },
+    {
+      "start": 614.11673,
+      "end": 620.2167400000001,
+      "text": "And crucially, valence recurs periodically, right alongside the softer properties."
+    },
+    {
+      "start": 621.09674,
+      "end": 638.7551000000001,
+      "text": "As you march up the weights the combining ratio rises falls and resets in the same beat Elements that land in the same column tend to share the same valence the same combining ratio So when Mendeleev lined up his columns he wasn just eyeballing"
+    },
+    {
+      "start": 639.11508,
+      "end": 645.51508,
+      "text": "this one seems reactive. He was matching precise combining ratios and the formulas elements make"
+    },
+    {
+      "start": 645.51508,
+      "end": 652.63507,
+      "text": "with oxygen and hydrogen. And here's a teaser we'll cast shortly. That valence, the number of bonds"
+    },
+    {
+      "start": 652.63507,
+      "end": 658.39508,
+      "text": "and atom forms turns out to be a direct readout of how many electrons it has in its outer shell."
+    },
+    {
+      "start": 659.3551,
+      "end": 662.7151,
+      "text": "He was tabulating a quantum property without knowing it."
+    },
+    {
+      "start": 662.7151,
+      "end": 669.5951,
+      "text": "OK, but so far this is a really elegant filing system, a great way to organise what's known."
+    },
+    {
+      "start": 669.5951,
+      "end": 674.1551,
+      "text": "You keep promising something bolder. Where does it get audacious?"
+    },
+    {
+      "start": 674.1551,
+      "end": 681.11508,
+      "text": "Here. When Mendeleev laid out his cards by weight and forced the columns to hold chemical families,"
+    },
+    {
+      "start": 681.11508,
+      "end": 685.3551,
+      "text": "He ran into a problem, and how he handled it is what makes him immortal."
+    },
+    {
+      "start": 686.55508,
+      "end": 692.2751000000001,
+      "text": "Sometimes, to keep a column chemically consistent, the next element by weight simply did not fit."
+    },
+    {
+      "start": 693.1551,
+      "end": 695.2350799999999,
+      "text": "Its properties belonged to a different family."
+    },
+    {
+      "start": 695.7350799999999,
+      "end": 700.05508,
+      "text": "A lesser organiser would have fudged it, shoved the element in anyway,"
+    },
+    {
+      "start": 700.4951,
+      "end": 703.13507,
+      "text": "or bent the rules to keep the table full and tidy."
+    },
+    {
+      "start": 704.17508,
+      "end": 705.3151,
+      "text": "Mendeleev did the opposite."
+    },
+    {
+      "start": 706.07507,
+      "end": 707.2551000000001,
+      "text": "He left the seat empty."
+    },
+    {
+      "start": 707.2551000000001,
+      "end": 714.4350999999999,
+      "text": "He put a gap in his table, a blank box, and declared that the gap was not a flaw in the scheme, but a prediction."
+    },
+    {
+      "start": 715.4951,
+      "end": 719.3751,
+      "text": "There exists an element, not yet discovered, that belongs in this seat."
+    },
+    {
+      "start": 720.0,
+      "end": 722.54,
+      "text": "and then he went further than anyone had dared."
+    },
+    {
+      "start": 723.4199998,
+      "end": 728.48,
+      "text": "He used the pattern, the properties of the neighbours above, below and beside the gap,"
+    },
+    {
+      "start": 728.48,
+      "end": 734.98,
+      "text": "to predict in quantitative detail what that missing element would be like when someone finally found it."
+    },
+    {
+      "start": 735.099999,
+      "end": 739.74,
+      "text": "Wait, he predicted the properties of elements that didn't exist yet."
+    },
+    {
+      "start": 740.24,
+      "end": 741.76,
+      "text": "How specific are we talking?"
+    },
+    {
+      "start": 742.039999,
+      "end": 743.1,
+      "text": "Strikingly specific."
+    },
+    {
+      "start": 744.119999,
+      "end": 747.46,
+      "text": "For one gap, sitting just below aluminium in his table,"
+    },
+    {
+      "start": 747.46,
+      "end": 755.1,
+      "text": "he predicted an undiscovered element he called echa-aluminium, echa being roughly the one beyond,"
+    },
+    {
+      "start": 755.879997,
+      "end": 761.26,
+      "text": "and he forecast its atomic weight, that it would be a soft metal, its approximate density,"
+    },
+    {
+      "start": 761.82,
+      "end": 767.76,
+      "text": "how it would combine with oxygen, even that it would be hard to melt. He did the same for a gap"
+    },
+    {
+      "start": 767.76,
+      "end": 775.76,
+      "text": "below boron, echa-boron, and a gap below silicon, echa-silicon, each with a detailed dossier of"
+    },
+    {
+      "start": 775.76,
+      "end": 781.66,
+      "text": "predicted properties. He was, in effect, writing want ads for elements nobody had ever seen,"
+    },
+    {
+      "start": 782.239998,
+      "end": 787.88,
+      "text": "describing the tenant before the room was even known to exist. It was a colossal bet on his"
+    },
+    {
+      "start": 787.88,
+      "end": 793.36,
+      "text": "pattern being real and deep, not a coincidence. And this is the part where the universe either"
+    },
+    {
+      "start": 793.36,
+      "end": 800.619995,
+      "text": "humiliates him or crowns him. What happened? It crowned him, and fairly quickly, which is why the"
+    },
+    {
+      "start": 800.619995,
+      "end": 817.0983659999999,
+      "text": "table conquered chemistry Within about 15 years all three of those predicted elements were discovered A French chemist isolated a new metal and named it gallium and its properties matched Mendeleev ecker aluminium almost point for point"
+    },
+    {
+      "start": 818.11837,
+      "end": 821.4583700000001,
+      "text": "In fact, Mendeleev, reading the first report from afar,"
+    },
+    {
+      "start": 821.93837,
+      "end": 825.71837,
+      "text": "corrected the discoverer on the metal's density and turned out to be right."
+    },
+    {
+      "start": 826.558365,
+      "end": 829.63837,
+      "text": "Then came scandium, which fit his ecker boron."
+    },
+    {
+      "start": 830.4583700000001,
+      "end": 834.03837,
+      "text": "Then germanium, which matched ecker silicon so precisely,"
+    },
+    {
+      "start": 834.85837,
+      "end": 839.93837,
+      "text": "Weight, density, the way it bonded, that it read like he'd examined it in advance."
+    },
+    {
+      "start": 840.99837,
+      "end": 845.31837,
+      "text": "Three predictions, three hits, each an element pulled out of the ground,"
+    },
+    {
+      "start": 845.71837,
+      "end": 849.51837,
+      "text": "years later, that behaved exactly as the empty box had foretold."
+    },
+    {
+      "start": 850.39836,
+      "end": 855.35837,
+      "text": "That's the moment the periodic table stopped being one chemist's clever filing scheme"
+    },
+    {
+      "start": 855.35837,
+      "end": 858.27837,
+      "text": "and became something everyone had to take seriously."
+    },
+    {
+      "start": 858.27837,
+      "end": 862.35837,
+      "text": "A law of nature with the power to predict the unknown."
+    },
+    {
+      "start": 862.35837,
+      "end": 866.4783600000001,
+      "text": "You glossed the gallium story, and it sounds too good to skip."
+    },
+    {
+      "start": 867.15837,
+      "end": 872.03836,
+      "text": "Mendeleev correcting the man who actually discovered the element from another country."
+    },
+    {
+      "start": 872.57837,
+      "end": 873.27837,
+      "text": "Tell it properly."
+    },
+    {
+      "start": 873.4783600000001,
+      "end": 877.05836,
+      "text": "It's one of the great moments in the history of science, so let's savour it."
+    },
+    {
+      "start": 878.03836,
+      "end": 881.99837,
+      "text": "Gallium was discovered by a French chemist, Lecoq de Bois-Baudrin,"
+    },
+    {
+      "start": 882.27837,
+      "end": 888.05836,
+      "text": "who isolated this new metal, and among other things, measured its density and published the value."
+    },
+    {
+      "start": 888.05836,
+      "end": 893.05836,
+      "text": "Now, Boisbaudran had the actual metal in his lab, in his hand."
+    },
+    {
+      "start": 893.05836,
+      "end": 906.77673,
+      "text": "Mendeleev back in Russia had never seen a speck of it but he had his table and his table empty seat for ecker aluminium came with a predicted density and the reported French value didn match his"
+    },
+    {
+      "start": 906.77673,
+      "end": 913.2567300000001,
+      "text": "prediction. So Mendeleev wrote, in effect, to a man holding the element he himself had never touched,"
+    },
+    {
+      "start": 913.67673,
+      "end": 919.13673,
+      "text": "and told him, your density measurement is wrong, this element should be denser than you report,"
+    },
+    {
+      "start": 919.13673,
+      "end": 925.53673,
+      "text": "go check your sample. Bois-Baudrin was, understandably, not thrilled to be corrected"
+    },
+    {
+      "start": 925.53673,
+      "end": 931.97673,
+      "text": "long distance about a metal he'd discovered. But he re-measured, with a purer sample of the gallium,"
+    },
+    {
+      "start": 932.3967299999999,
+      "end": 937.57674,
+      "text": "and the density came out higher, right about where Mendeleev's table had insisted it should be."
+    },
+    {
+      "start": 938.57674,
+      "end": 944.01674,
+      "text": "Sit with that. A man who had never laid eyes on the substance corrected the man holding it,"
+    },
+    {
+      "start": 944.01674,
+      "end": 950.35674,
+      "text": "using nothing but a pattern in a grid. That is the moment chemists realised the periodic table"
+    },
+    {
+      "start": 950.35674,
+      "end": 955.59674,
+      "text": "wasn't merely describing the elements, it was, in a sense, dictating to them."
+    },
+    {
+      "start": 955.67673,
+      "end": 961.17673,
+      "text": "That's the same move we've seen again and again in this series. Trust the pattern,"
+    },
+    {
+      "start": 961.65674,
+      "end": 968.63673,
+      "text": "predict the unseen, watch it show up. Einstein's bending starlight, Dirac's antimatter."
+    },
+    {
+      "start": 968.63673,
+      "end": 973.75674,
+      "text": "It's exactly that move, in chemistry, and it's why this belongs in the same company."
+    },
+    {
+      "start": 974.01672,
+      "end": 979.0167200000001,
+      "text": "A theory that only organises what you already know is useful."
+    },
+    {
+      "start": 979.0167200000001,
+      "end": 995.8751,
+      "text": "A theory that tells you what you find when you go looking in specific numbers and is then proven right That a theory that has caught hold of something real about the world And there a second piece of Mendeleev audacity worth telling because it the same instinct"
+    },
+    {
+      "start": 996.8751,
+      "end": 1002.4951,
+      "text": "In a few spots, ordering strictly by atomic weight put an element in the wrong chemical family."
+    },
+    {
+      "start": 1002.8350800000001,
+      "end": 1007.4951,
+      "text": "The weights said one order, but the chemistry clearly demanded another."
+    },
+    {
+      "start": 1007.4951,
+      "end": 1015.17508,
+      "text": "The most famous case, by weight, tellurium and iodine fall in one order, but their chemical"
+    },
+    {
+      "start": 1015.17508,
+      "end": 1021.3151,
+      "text": "behaviour insisted on the reverse. Mendeleev trusted the chemistry and swapped them, placing"
+    },
+    {
+      "start": 1021.3151,
+      "end": 1026.61508,
+      "text": "them against their measured weights. He essentially declared that the weights, in those cases,"
+    },
+    {
+      "start": 1026.9351,
+      "end": 1029.8151,
+      "text": "must be misleading, and that his pattern knew better."
+    },
+    {
+      "start": 1029.9951,
+      "end": 1035.6551,
+      "text": "That's a gutsy thing to do, to say the measured numbers are wrong because your table says so."
+    },
+    {
+      "start": 1036.23508,
+      "end": 1038.13507,
+      "text": "Was he just lucky that it worked out?"
+    },
+    {
+      "start": 1038.3151,
+      "end": 1041.63507,
+      "text": "It wasn't luck, though he couldn't have known why he was right."
+    },
+    {
+      "start": 1042.4751,
+      "end": 1045.83508,
+      "text": "And this is where the story starts reaching toward the deeper physics."
+    },
+    {
+      "start": 1046.89508,
+      "end": 1051.5150800000001,
+      "text": "For decades, those swaps looked like blemishes, little inconsistencies."
+    },
+    {
+      "start": 1051.9351,
+      "end": 1057.7751,
+      "text": "The resolution came only in 1913 from a young physicist named Henry Moseley,"
+    },
+    {
+      "start": 1058.1551,
+      "end": 1060.23508,
+      "text": "who was probing atoms with X-rays."
+    },
+    {
+      "start": 1060.23508,
+      "end": 1066.23508,
+      "text": "Moseley found that the true thing that orders the elements is not their weight at all."
+    },
+    {
+      "start": 1066.23508,
+      "end": 1071.45508,
+      "text": "It's a whole number he could measure, which we now call the atomic number, the number"
+    },
+    {
+      "start": 1071.45508,
+      "end": 1077.33508,
+      "text": "of protons in the nucleus, the count of positive charges at the atom's core."
+    },
+    {
+      "start": 1077.33508,
+      "end": 1079.95508,
+      "text": "And when you order the elements by atomic number, it's a number of protons in the nucleus."
+    },
+    {
+      "start": 1080.0,
+      "end": 1086.22,
+      "text": "Instead of atomic weight, every one of Mendeleev's troublesome swaps clicks into place automatically."
+    },
+    {
+      "start": 1087.3799996,
+      "end": 1092.12,
+      "text": "Tellurium really does come before iodine by atomic number, even though it's heavier."
+    },
+    {
+      "start": 1093.24,
+      "end": 1098.72,
+      "text": "Mendeleev had been right to trust the chemistry because the chemistry was secretly tracking atomic number,"
+    },
+    {
+      "start": 1098.72,
+      "end": 1104.5,
+      "text": "the real quantity, while atomic weight was just a usually reliable stand-in for it."
+    },
+    {
+      "start": 1105.34,
+      "end": 1107.62,
+      "text": "He'd been reading the correct order off the behaviour"
+    },
+    {
+      "start": 1107.62,
+      "end": 1110.78,
+      "text": "without knowing what the correct order actually counted."
+    },
+    {
+      "start": 1111.02,
+      "end": 1116.239998,
+      "text": "But why was atomic weight ever out of step with atomic number in the first place?"
+    },
+    {
+      "start": 1116.739998,
+      "end": 1118.72,
+      "text": "Most of the time they rise together."
+    },
+    {
+      "start": 1119.3,
+      "end": 1121.62,
+      "text": "What makes them occasionally disagree?"
+    },
+    {
+      "start": 1121.98,
+      "end": 1125.34,
+      "text": "Because atomic weight is an average and averages can be lumpy."
+    },
+    {
+      "start": 1126.0,
+      "end": 1128.66,
+      "text": "Here's the thing nobody knew in Mendeleev's day."
+    },
+    {
+      "start": 1129.44,
+      "end": 1132.52,
+      "text": "It turns out most elements aren't made of identical atoms."
+    },
+    {
+      "start": 1132.52,
+      "end": 1144.28,
+      "text": "They're a mixture of isotopes. Atoms with the same number of protons, so the same atomic number and the same chemistry, but different numbers of neutrons and therefore different weights."
+    },
+    {
+      "start": 1145.4,
+      "end": 1149.92,
+      "text": "Chlorine, for instance, is a blend of a lighter and a heavier kind of chlorine atom."
+    },
+    {
+      "start": 1150.88,
+      "end": 1157.2,
+      "text": "The atomic weight you measure is the average over that mixture, weighted by how common each isotope is."
+    },
+    {
+      "start": 1157.2,
+      "end": 1163.2,
+      "text": "So the weight of an element depends not just on its proton count, but on the accident of"
+    },
+    {
+      "start": 1163.2,
+      "end": 1174.63837,
+      "text": "which isotopes it happens to have and in what proportions And that exactly how an element like tellurium can end up heavier than iodine even though it has fewer protons"
+    },
+    {
+      "start": 1175.75837,
+      "end": 1178.85837,
+      "text": "Tellurium simply happens to carry more heavy isotopes."
+    },
+    {
+      "start": 1179.918365,
+      "end": 1185.75837,
+      "text": "Atomic number, the proton count, is a clean whole number identity that never lies."
+    },
+    {
+      "start": 1186.738365,
+      "end": 1192.25837,
+      "text": "Atomic weight is a slightly lumpy average that usually tracks it, but occasionally stumbles."
+    },
+    {
+      "start": 1192.25837,
+      "end": 1197.53837,
+      "text": "stumbles. Mendeleev caught those stumbles purely by chemical instinct, swapping the"
+    },
+    {
+      "start": 1197.53837,
+      "end": 1202.47836,
+      "text": "elements to where their behaviour said they belonged, decades before anyone had heard"
+    },
+    {
+      "start": 1202.47836,
+      "end": 1204.47836,
+      "text": "of an isotope or a proton."
+    },
+    {
+      "start": 1204.47836,
+      "end": 1210.87837,
+      "text": "So this brings us to the question I've been sitting on the whole episode. Why? Why on"
+    },
+    {
+      "start": 1210.87837,
+      "end": 1217.01837,
+      "text": "earth should chemical properties repeat in a rhythm as you go up in atomic number? What's"
+    },
+    {
+      "start": 1217.01837,
+      "end": 1218.6383700000001,
+      "text": "making the beat?"
+    },
+    {
+      "start": 1218.6383700000001,
+      "end": 1223.69836,
+      "text": "And the answer is the beautiful twist, because Mendeleev had no access to it."
+    },
+    {
+      "start": 1223.69836,
+      "end": 1228.93837,
+      "text": "It's pure quantum mechanics, and it wouldn't be understood for another 50-plus years, well"
+    },
+    {
+      "start": 1228.93837,
+      "end": 1232.75836,
+      "text": "into the era of our Planck and Spin episodes."
+    },
+    {
+      "start": 1232.75836,
+      "end": 1234.25836,
+      "text": "Here's the picture."
+    },
+    {
+      "start": 1234.25836,
+      "end": 1240.57837,
+      "text": "An atom has its nucleus, and around it a number of electrons equal to the atomic number."
+    },
+    {
+      "start": 1240.57837,
+      "end": 1244.11836,
+      "text": "But those electrons are not arranged in a formless cloud."
+    },
+    {
+      "start": 1244.11836,
+      "end": 1249.1783599999999,
+      "text": "They occupy a structure of shells, layers, and here's the crucial rule from quantum"
+    },
+    {
+      "start": 1249.1783599999999,
+      "end": 1250.73837,
+      "text": "mechanics."
+    },
+    {
+      "start": 1250.73837,
+      "end": 1266.47673,
+      "text": "Each shell can hold only a limited number of electrons before it full That comes directly from the Pauli exclusion principle we met in the spin episode the rule that no two electrons can occupy the very same quantum"
+    },
+    {
+      "start": 1266.47673,
+      "end": 1272.43674,
+      "text": "state, which forces them to stack up in successive shells rather than all piling into the lowest"
+    },
+    {
+      "start": 1272.43674,
+      "end": 1273.43674,
+      "text": "one."
+    },
+    {
+      "start": 1273.43674,
+      "end": 1279.65674,
+      "text": "And the chemistry of an atom, how it bonds, how reactive it is, is governed almost entirely"
+    },
+    {
+      "start": 1279.65674,
+      "end": 1284.05673,
+      "text": "by the electrons in its outermost shell, the valence electrons."
+    },
+    {
+      "start": 1284.05673,
+      "end": 1289.29674,
+      "text": "So the outer electrons do the chemistry, and I think I see where this is going."
+    },
+    {
+      "start": 1289.29674,
+      "end": 1292.03674,
+      "text": "The rhythm is about the outer shell."
+    },
+    {
+      "start": 1292.03674,
+      "end": 1294.13673,
+      "text": "That's the whole secret."
+    },
+    {
+      "start": 1294.13673,
+      "end": 1299.05673,
+      "text": "As you add electrons one at a time, going up in atomic number, you're filling a shell"
+    },
+    {
+      "start": 1299.05673,
+      "end": 1305.51674,
+      "text": "gradually, and an atom's chemistry depends on how many electrons are in that outer shell."
+    },
+    {
+      "start": 1305.51674,
+      "end": 1311.37674,
+      "text": "So an element with one lone electron in its outer shell is a soft reactive metal."
+    },
+    {
+      "start": 1311.37674,
+      "end": 1313.93674,
+      "text": "That's sodium, potassium."
+    },
+    {
+      "start": 1313.93674,
+      "end": 1318.33673,
+      "text": "adding elements until that shell fills up completely and you get an element that's"
+    },
+    {
+      "start": 1318.33673,
+      "end": 1324.89673,
+      "text": "supremely unreactive, chemically aloof, a noble gas. And then the next electron has to"
+    },
+    {
+      "start": 1324.89673,
+      "end": 1331.4567299999999,
+      "text": "start a brand new outer shell all over again with a single lone electron. And you're back"
+    },
+    {
+      "start": 1331.4567299999999,
+      "end": 1338.7367199999999,
+      "text": "to a soft reactive metal. The count of outer electrons resets and climbs, resets and climbs."
+    },
+    {
+      "start": 1338.7367199999999,
+      "end": 1340.7367199999999,
+      "text": "That is the beat."
+    },
+    {
+      "start": 1340.7367199999999,
+      "end": 1356.7551,
+      "text": "The periods of Mendeleev table are exactly the fillings of successive electron shells The groups the columns are elements that share the same number of outer electrons and therefore the same chemistry His rhythm of properties is"
+    },
+    {
+      "start": 1356.7551,
+      "end": 1362.5951,
+      "text": "the rhythm of shells filling. So the periodic table is a direct picture of the quantum structure"
+    },
+    {
+      "start": 1362.5951,
+      "end": 1367.61508,
+      "text": "of the atom, and Mendeleev drew it half a century before quantum mechanics existed,"
+    },
+    {
+      "start": 1368.2151,
+      "end": 1372.1951,
+      "text": "reading its shape off nothing but the way substances react in a beaker."
+    },
+    {
+      "start": 1372.1951,
+      "end": 1377.5750699999999,
+      "text": "So the noble gases are unreactive because their outer shell is already full,"
+    },
+    {
+      "start": 1377.7551,
+      "end": 1381.0150800000001,
+      "text": "and everyone else is reacting to try to get there."
+    },
+    {
+      "start": 1381.1551,
+      "end": 1385.9951,
+      "text": "That's exactly it, and it's one of the most powerful single ideas in all of chemistry."
+    },
+    {
+      "start": 1387.05508,
+      "end": 1390.19507,
+      "text": "A full outer shell is the stable, contented state."
+    },
+    {
+      "start": 1390.9351,
+      "end": 1395.5951,
+      "text": "An atom with a filled outer shell has no incentive to gain or shed electrons,"
+    },
+    {
+      "start": 1396.0750699999999,
+      "end": 1397.69507,
+      "text": "so it just sits there, aloof."
+    },
+    {
+      "start": 1398.2551,
+      "end": 1401.5750699999999,
+      "text": "The noble gases are born that way, already full."
+    },
+    {
+      "start": 1402.19507,
+      "end": 1404.69507,
+      "text": "which is precisely why they barely react with anything."
+    },
+    {
+      "start": 1405.63507,
+      "end": 1408.67508,
+      "text": "And the reason every other element behaves the way it does"
+    },
+    {
+      "start": 1408.67508,
+      "end": 1411.89508,
+      "text": "is that it's chasing that same full-shell contentment."
+    },
+    {
+      "start": 1412.83508,
+      "end": 1417.3751,
+      "text": "A sodium atom has one lonely electron rattling around in its outer shell."
+    },
+    {
+      "start": 1418.05508,
+      "end": 1421.11508,
+      "text": "It would love to be rid of it, so it readily gives it away."
+    },
+    {
+      "start": 1421.63507,
+      "end": 1425.75507,
+      "text": "A chlorine atom is one electron short of a full shell."
+    },
+    {
+      "start": 1426.45508,
+      "end": 1429.23508,
+      "text": "It desperately wants one more, so it grabs."
+    },
+    {
+      "start": 1429.23508,
+      "end": 1435.0750699999999,
+      "text": "Put them together and sodium hands its spare electron to chlorine."
+    },
+    {
+      "start": 1435.0750699999999,
+      "end": 1439.9751,
+      "text": "Both end up with full shells and they snap into table salt."
+    },
+    {
+      "start": 1440.0,
+      "end": 1445.94,
+      "text": "toward a filled outer shell, often called the octet rule for the common case where a full shell"
+    },
+    {
+      "start": 1445.94,
+      "end": 1452.7,
+      "text": "holds eight, sits behind an enormous fraction of all chemical bonding. And it's why Mendeleev's"
+    },
+    {
+      "start": 1452.7,
+      "end": 1459.52,
+      "text": "columns predict how elements combine. An elements column tells you how many outer electrons it has,"
+    },
+    {
+      "start": 1460.08,
+      "end": 1464.72,
+      "text": "which tells you what it will do to reach a full shell. His groups are, underneath,"
+    },
+    {
+      "start": 1464.72,
+      "end": 1472.059998,
+      "text": "a map of atoms chasing full shells. That genuinely gives me chills, that the shape of that chart on"
+    },
+    {
+      "start": 1472.059998,
+      "end": 1478.42,
+      "text": "the classroom wall is quantum mechanics showing through, even the weird bulge at the bottom,"
+    },
+    {
+      "start": 1478.62,
+      "end": 1483.86,
+      "text": "presumably. Even the bulge, that's a place where a particular larger kind of shell is filling,"
+    },
+    {
+      "start": 1484.379997,
+      "end": 1489.16,
+      "text": "which is why those rows are so long and get pulled out separately to keep the chart from"
+    },
+    {
+      "start": 1489.16,
+      "end": 1495.44,
+      "text": "becoming absurdly wide. Every structural quirk of the table's shape, the short first"
+    },
+    {
+      "start": 1495.44,
+      "end": 1501.36,
+      "text": "rows, the long middle rows, the detached block at the bottom, is a fingerprint of the rules"
+    },
+    {
+      "start": 1501.36,
+      "end": 1507.659996,
+      "text": "for how electron shells fill, which is to say, of quantum mechanics and the exclusion principle."
+    },
+    {
+      "start": 1508.659996,
+      "end": 1514.94,
+      "text": "And there's a lovely coda about a whole missing column. In Mendeleev's day, the noble gases"
+    },
+    {
+      "start": 1514.94,
+      "end": 1520.53999,
+      "text": "\u2013 helium, neon, argon and the rest \u2013 were completely unknown."
+    },
+    {
+      "start": 1520.53999,
+      "end": 1537.4049,
+      "text": "They so unreactive that they escaped detection entirely An entire chemical family invisible When they were finally discovered around the end of the century the natural fear was that they wreck the table Instead they slid in perfectly as a"
+    },
+    {
+      "start": 1537.4049,
+      "end": 1543.5849,
+      "text": "brand new column at the far right, exactly the shell-is-now-full, chemically-content,"
+    },
+    {
+      "start": 1544.0049,
+      "end": 1547.8049,
+      "text": "elements, as though the table had been holding a seat for them all along."
+    },
+    {
+      "start": 1548.344894,
+      "end": 1554.0849,
+      "text": "A whole family nobody knew existed, and the pattern absorbed them without a hiccup."
+    },
+    {
+      "start": 1555.0049,
+      "end": 1558.12489,
+      "text": "That's how you know a classification has found something true."
+    },
+    {
+      "start": 1558.12489,
+      "end": 1562.844894,
+      "text": "How much has the table grown since Mendeleev? Is it finished?"
+    },
+    {
+      "start": 1562.844894,
+      "end": 1566.844894,
+      "text": "Or is that Predict the Empty Seat game still being played?"
+    },
+    {
+      "start": 1566.844894,
+      "end": 1569.8849,
+      "text": "It's still being played, right now, at the far edge."
+    },
+    {
+      "start": 1571.0849,
+      "end": 1576.7649000000001,
+      "text": "Mendeleev worked with about 60 elements. Today the table has more than 118,"
+    },
+    {
+      "start": 1577.4849,
+      "end": 1582.4449,
+      "text": "and the heaviest of those don't exist in nature at all. They're synthetic,"
+    },
+    {
+      "start": 1582.4449,
+      "end": 1587.4849,
+      "text": "built one atom at a time by smashing lighter nuclei together in accelerators,"
+    },
+    {
+      "start": 1588.0448900000001,
+      "end": 1592.2049,
+      "text": "and many of them survive for only a fraction of a second before falling apart."
+    },
+    {
+      "start": 1593.2449,
+      "end": 1598.60489,
+      "text": "They are, quite literally, manufactured to order to fill the next boxes the pattern predicts."
+    },
+    {
+      "start": 1599.5649,
+      "end": 1604.5249,
+      "text": "So Mendeleev's move, there's an empty seat here, an element belongs in it,"
+    },
+    {
+      "start": 1605.16489,
+      "end": 1611.0849,
+      "text": "is still the guiding logic at the frontier. Except now, filling the seat means creating an"
+    },
+    {
+      "start": 1611.0849,
+      "end": 1626.48979,
+      "text": "element that has to be forced into existence in a lab Physicists even talk about a predicted island of stability a region of super elements that the patterns of nuclear structure suggest might last much longer than their neighbours"
+    },
+    {
+      "start": 1627.40979,
+      "end": 1631.98979,
+      "text": "Another empty seat the theory is pointing at that experimenters are trying to reach."
+    },
+    {
+      "start": 1632.9498,
+      "end": 1636.5698,
+      "text": "So the table is still open at its bottom edge, still predicting,"
+    },
+    {
+      "start": 1637.3098,
+      "end": 1641.54979,
+      "text": "still being extended by people trusting the pattern to tell them what to hunt for."
+    },
+    {
+      "start": 1641.54979,
+      "end": 1646.54979,
+      "text": "150 years on, we're still playing Mendeleev's game."
+    },
+    {
+      "start": 1646.54979,
+      "end": 1652.0098,
+      "text": "Let's also be fair about the history. Was Mendeleev completely alone in this,"
+    },
+    {
+      "start": 1652.3698,
+      "end": 1657.8498,
+      "text": "or were others circling the same idea? Others were circling it, and it's only right to say so."
+    },
+    {
+      "start": 1659.0098,
+      "end": 1663.7898,
+      "text": "A German chemist, Lothar Meyer, arrived at a very similar periodic arrangement"
+    },
+    {
+      "start": 1663.7898,
+      "end": 1670.8698,
+      "text": "at almost the same time, working independently. Big ideas often ripen in several minds at once"
+    },
+    {
+      "start": 1670.8698,
+      "end": 1676.3898,
+      "text": "when the moment is ready. But there's a clear reason Mendeleev's name is the one on the table,"
+    },
+    {
+      "start": 1676.9298,
+      "end": 1679.6498,
+      "text": "and it's precisely the boldness we've been talking about."
+    },
+    {
+      "start": 1680.5698,
+      "end": 1686.3898,
+      "text": "Meyer largely organised what was known. Mendeleev staked out the gaps and made detailed,"
+    },
+    {
+      "start": 1686.5698,
+      "end": 1691.8098,
+      "text": "falsifiable predictions about elements that didn't exist yet and publicly bet his scheme"
+    },
+    {
+      "start": 1691.8098,
+      "end": 1698.0498,
+      "text": "on them, and then reality paid out. He didn't just arrange the furniture, he pointed at the"
+    },
+    {
+      "start": 1698.0498,
+      "end": 1702.5298,
+      "text": "empty spaces and described the guests who hadn't arrived."
+    },
+    {
+      "start": 1702.5298,
+      "end": 1718.1147,
+      "text": "That willingness to let the pattern overrule the current data to predict rather than merely catalogue is what elevated his version from a good chart to a law of nature Nice footnote before we close Is he honoured on the very table he built"
+    },
+    {
+      "start": 1718.1147,
+      "end": 1725.45468,
+      "text": "He is, and fittingly. One of the synthetic elements, element 101, made atom by atom in"
+    },
+    {
+      "start": 1725.45468,
+      "end": 1732.09467,
+      "text": "the lab, out in exactly the manufactured reaches we were just talking about, is named mendelevium"
+    },
+    {
+      "start": 1732.09467,
+      "end": 1738.47467,
+      "text": "in his honour. So his name literally occupies a box in the table he created, sitting among"
+    },
+    {
+      "start": 1738.47467,
+      "end": 1744.31467,
+      "text": "the predicted, forced into existence elements he would have relished. He became a giant"
+    },
+    {
+      "start": 1744.31467,
+      "end": 1750.09467,
+      "text": "of Russian science in his lifetime, and there's an often told irony, he never won a Nobel"
+    },
+    {
+      "start": 1750.09467,
+      "end": 1756.31467,
+      "text": "Prize. He was nominated late in life and through some mix of committee politics and rivalry"
+    },
+    {
+      "start": 1756.31467,
+      "end": 1762.67468,
+      "text": "missed out, dying not long after. But the honour that has outlasted any medal is this."
+    },
+    {
+      "start": 1763.4947,
+      "end": 1770.1946699999999,
+      "text": "A century and a half later, every chemist alive still thinks inside his grid. Every student on"
+    },
+    {
+      "start": 1770.1946699999999,
+      "end": 1775.67468,
+      "text": "earth learns from a chart he first sketched, and his name is permanently stamped on one of its"
+    },
+    {
+      "start": 1775.67468,
+      "end": 1782.57468,
+      "text": "squares. Not a bad legacy for a professor who set out originally just to organise the chapters of a"
+    },
+    {
+      "start": 1782.57468,
+      "end": 1789.57468,
+      "text": "So, bring it home. What did Mendeleev really discover, if he didn't know about electrons"
+    },
+    {
+      "start": 1789.57468,
+      "end": 1791.8946799999999,
+      "text": "or protons or shells?"
+    },
+    {
+      "start": 1791.8946799999999,
+      "end": 1796.4947,
+      "text": "He discovered that the elements are not a random inventory, that beneath the chaos of"
+    },
+    {
+      "start": 1796.4947,
+      "end": 1799.97467,
+      "text": "chemistry there's a deep, repeating order, and that the elements are not a random inventory,"
+    },
+    {
+      "start": 1800.0,
+      "end": 1803.0,
+      "text": "The order is powerful enough to predict what hasn't been found."
+    },
+    {
+      "start": 1803.87,
+      "end": 1806.69,
+      "text": "He caught the melody without knowing the instrument."
+    },
+    {
+      "start": 1807.26,
+      "end": 1810.48,
+      "text": "The repeating rhythm he heard in the properties of substances"
+    },
+    {
+      "start": 1810.5,
+      "end": 1812.88,
+      "text": "turned out to be, note for note,"
+    },
+    {
+      "start": 1812.99,
+      "end": 1815.93,
+      "text": "the rhythm of electrons filling quantum shells,"
+    },
+    {
+      "start": 1816.35,
+      "end": 1820.43,
+      "text": "a fact from a physics that wouldn't exist for two more generations,"
+    },
+    {
+      "start": 1821.06,
+      "end": 1827.28,
+      "text": "so the periodic table is one of the most remarkable acts of pattern reading in the history of science."
+    },
+    {
+      "start": 1827.69,
+      "end": 1830.19,
+      "text": "a man laying out cards on a table,"
+    },
+    {
+      "start": 1830.36,
+      "end": 1835.32,
+      "text": "Trusting the beat enough to leave chairs empty for guests, he described in advance:"
+    },
+    {
+      "start": 1835.67,
+      "end": 1839.69,
+      "text": "and in doing so sketching the architecture of the quantum atom,"
+    },
+    {
+      "start": 1839.75,
+      "end": 1843.35,
+      "text": "Decades before anyone knew atoms had an architecture."
+    },
+    {
+      "start": 1844.04,
+      "end": 1849.24,
+      "text": "Every chemistry classroom on Earth hangs a diagram of quantum mechanics on its wall."
+    },
+    {
+      "start": 1849.35,
+      "end": 1865.51,
+      "text": "drawn by someone who never knew that's what it was.  A jumble of 60 elements, one repeating beat, and a handful of empty chairs that got filled exactly as foretold.  And the whole thing turns out to be quantum mechanics seen in a mirror."
+    },
+    {
+      "start": 1865.88,
+      "end": 1867.88,
+      "text": "Decades early."
+    },
+    {
+      "start": 1867.53,
+      "end": 1869.49,
+      "text": "Thank you, George.  A real pleasure."
+    },
+    {
+      "start": 1870.23,
+      "end": 1871.11,
+      "text": "Mind the gaps."
+    }
+  ]
+}

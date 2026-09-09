@@ -1,0 +1,30 @@
+{
+  "episode_id": "ep16",
+  "episode_title": "Nash Equilibrium and Game Theory, 1950",
+  "topics": [
+    "Game Theory",
+    "Strategic Decision-Making",
+    "Economics",
+    "Evolutionary Biology",
+    "Social Cooperation",
+    "Mathematical Equilibrium"
+  ],
+  "concepts": [
+    "Nash Equilibrium",
+    "Non-cooperative games",
+    "Zero-sum games",
+    "Minimax theorem",
+    "Prisoner's Dilemma",
+    "Mixed strategies",
+    "Focal points",
+    "Price of anarchy",
+    "Tragedy of the commons",
+    "Mechanism design",
+    "Evolutionarily stable strategy",
+    "Tit-for-tat",
+    "Fixed-point theorem",
+    "Best response",
+    "Braess's paradox"
+  ],
+  "description": "This episode explores John Nash's 1950 paper introducing the Nash Equilibrium, a concept that revolutionized how we analyze strategic interactions where multiple parties make decisions simultaneously. The discussion covers how Nash extended von Neumann's game theory to all competitive situations, the famous Prisoner's Dilemma showing how rational behavior can lead to collectively worse outcomes, and the concept's profound applications across economics, biology, political science, and mechanism design. Essential for anyone interested in strategic thinking, economics, evolutionary biology, or understanding why cooperation is difficult even when it benefits everyone."
+}

@@ -1,0 +1,1905 @@
+{
+  "episode_id": "ep10",
+  "audio_path": "podcasts\\Great Papers 10 - The Expanding Universe, Hubble 1929.mp3",
+  "duration_sec": 1974.882,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 379,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.56,
+      "text": "Here's a question that sounds like it should have a boring, settled answer,"
+    },
+    {
+      "start": 4.1,
+      "end": 11.42,
+      "text": "and didn't until surprisingly recently. How big is the universe? Not a philosophical how big,"
+    },
+    {
+      "start": 11.42,
+      "end": 18.699999,
+      "text": "a literal one. As late as the 1920s, a lot of serious astronomers thought the entire universe"
+    },
+    {
+      "start": 18.699999,
+      "end": 25.779999,
+      "text": "was basically our Milky Way, one island of stars floating in a void, and that was it."
+    },
+    {
+      "start": 25.779999,
+      "end": 32.02,
+      "text": "And then, over a few years, one man at a telescope on a mountain in California"
+    },
+    {
+      "start": 32.02,
+      "end": 39.6,
+      "text": "blew that up completely, first by showing the universe is unimaginably bigger than anyone"
+    },
+    {
+      "start": 39.6,
+      "end": 46.679996,
+      "text": "thought, and then by showing the whole thing is flying apart. George, take me back to before"
+    },
+    {
+      "start": 46.679996,
+      "end": 52.559998,
+      "text": "Hubble. What did people actually think they were looking at? A genuine mess and a fascinating one,"
+    },
+    {
+      "start": 52.559998,
+      "end": 58.359997,
+      "text": "so let me lay out the whole arc first. We're going to start with a mystery about faint little"
+    },
+    {
+      "start": 58.359997,
+      "end": 64.96,
+      "text": "smudges of light in the sky and a famous argument over what they were. Then we watch Hubble solve it"
+    },
+    {
+      "start": 64.96,
+      "end": 70.5,
+      "text": "using a beautiful trick for measuring cosmic distances, and in solving it he makes the"
+    },
+    {
+      "start": 70.5,
+      "end": 77.2,
+      "text": "universe explode in size. The Milky Way turns out to be one galaxy among untold billions."
+    },
+    {
+      "start": 77.2,
+      "end": 83.56,
+      "text": "patterns. Then comes the 1929 paper itself, where he notices something in the data that"
+    },
+    {
+      "start": 83.56,
+      "end": 99.244896,
+      "text": "stops your breath The galaxies are running away from us and the farther one is the faster it flees And that single pattern means the universe is expanding And then the payoff which loops us all the way back to where this batch of episodes started"
+    },
+    {
+      "start": 100.0049,
+      "end": 104.48489,
+      "text": "because Einstein's equations of gravity had secretly predicted this all along,"
+    },
+    {
+      "start": 105.0249,
+      "end": 107.48489,
+      "text": "and Einstein himself had refused to believe it."
+    },
+    {
+      "start": 108.0449,
+      "end": 113.9249,
+      "text": "So, smudges, distances, a fleeing universe, and Einstein's greatest mistake."
+    },
+    {
+      "start": 114.6449,
+      "end": 115.48489,
+      "text": "That's the ride."
+    },
+    {
+      "start": 116.3249,
+      "end": 118.8249,
+      "text": "Start with the smudges. What were they?"
+    },
+    {
+      "start": 118.9049,
+      "end": 126.4449,
+      "text": "If you pointed a good telescope at the sky in that era, alongside the crisp points of stars, you'd find these faint, fuzzy patches."
+    },
+    {
+      "start": 127.4449,
+      "end": 130.82489,
+      "text": "They called them nebulae, from the Latin for cloud or mist."
+    },
+    {
+      "start": 131.5849,
+      "end": 138.7249,
+      "text": "Some were shapeless, but a lot of them had a gorgeous spiral structure, like pinwheels or whirlpools of light."
+    },
+    {
+      "start": 139.4849,
+      "end": 143.2049,
+      "text": "And nobody knew what they were, and it split astronomy down the middle."
+    },
+    {
+      "start": 143.9249,
+      "end": 151.4649,
+      "text": "One camp said, those are clouds of glowing gas, relatively nearby, sitting inside our own Milky Way."
+    },
+    {
+      "start": 152.3449,
+      "end": 156.54489,
+      "text": "Because the Milky Way is the whole universe and these are just features within it."
+    },
+    {
+      "start": 157.2449,
+      "end": 159.6849,
+      "text": "The other camp said something much wilder."
+    },
+    {
+      "start": 160.38489,
+      "end": 164.4649,
+      "text": "No, each of those spirals is itself an entire separate galaxy,"
+    },
+    {
+      "start": 165.1849,
+      "end": 168.1849,
+      "text": "a vast city of stars like our own Milky Way,"
+    },
+    {
+      "start": 168.1849,
+      "end": 172.7249,
+      "text": "but so mind-bendingly far away that it blurs into a smudge."
+    },
+    {
+      "start": 172.7249,
+      "end": 187.8298,
+      "text": "They had a wonderful phrase for it island universes separate islands of stars in an ocean of empty space And there no way to just look harder and settle it A gas cloud next door and a galaxy"
+    },
+    {
+      "start": 187.8298,
+      "end": 193.6698,
+      "text": "a million miles, sorry, much farther, away could look identical as smudges."
+    },
+    {
+      "start": 193.6698,
+      "end": 198.7098,
+      "text": "That's exactly the trap, and you've put your finger on the deepest problem in all of astronomy."
+    },
+    {
+      "start": 198.7098,
+      "end": 206.6698,
+      "text": "Distance. Everything in the sky is projected flat onto the dome above us, and a faint smudge could"
+    },
+    {
+      "start": 206.6698,
+      "end": 213.2298,
+      "text": "be something small and close, or something enormous and far. They look the same. So the"
+    },
+    {
+      "start": 213.2298,
+      "end": 219.98979,
+      "text": "entire question, is that spiral a nearby gas cloud or a distant galaxy, comes down to one number"
+    },
+    {
+      "start": 219.98979,
+      "end": 227.0098,
+      "text": "nobody could measure. How far away is it? This got so heated it became a formal public event,"
+    },
+    {
+      "start": 227.0098,
+      "end": 230.18979,
+      "text": "sometimes called the Great Debate, around 1920,"
+    },
+    {
+      "start": 230.9498,
+      "end": 235.5898,
+      "text": "where two prominent astronomers stood up and argued the two sides in front of an audience."
+    },
+    {
+      "start": 236.5298,
+      "end": 237.98979,
+      "text": "And the debate couldn't be won,"
+    },
+    {
+      "start": 238.3698,
+      "end": 241.5698,
+      "text": "because neither side could measure the distance to a spiral nebula."
+    },
+    {
+      "start": 242.46979,
+      "end": 245.5698,
+      "text": "They needed a ruler for the cosmos, and they didn't have one."
+    },
+    {
+      "start": 245.68979,
+      "end": 249.24979,
+      "text": "Who were the two actually arguing in this great debate?"
+    },
+    {
+      "start": 249.74979,
+      "end": 251.62979,
+      "text": "And what were their best cards?"
+    },
+    {
+      "start": 251.62979,
+      "end": 258.08978,
+      "text": "On one side, Harlow Shapley, who argued the Milky Way is essentially the whole universe."
+    },
+    {
+      "start": 258.08978,
+      "end": 263.70978,
+      "text": "And he wasn't a crank. He'd just done painstaking work measuring the Milky Way and found it far"
+    },
+    {
+      "start": 263.70978,
+      "end": 279.63467,
+      "text": "bigger than people had thought So big that he figured the spirals had to be minor features inside or near it He also had a piece of evidence that turned out to be wrong Someone claimed to have seen one of the spirals visibly rotating over a few years"
+    },
+    {
+      "start": 280.25467,
+      "end": 283.47467,
+      "text": "which, if true, meant it had to be small and close."
+    },
+    {
+      "start": 284.13467,
+      "end": 286.17468,
+      "text": "A distant galaxy would appear frozen."
+    },
+    {
+      "start": 286.7747,
+      "end": 293.7147,
+      "text": "On the other side, Heber Curtis, who argued the spirals are island universes, separate galaxies."
+    },
+    {
+      "start": 293.7147,
+      "end": 298.6147,
+      "text": "His best card was Novi, occasional flare-ups of stars."
+    },
+    {
+      "start": 299.4947,
+      "end": 303.75467,
+      "text": "He noticed that Novi, seen in the spiral nebulae, looked extremely faint,"
+    },
+    {
+      "start": 304.23468,
+      "end": 306.41467,
+      "text": "far fainter than Novi in the Milky Way,"
+    },
+    {
+      "start": 306.95468,
+      "end": 310.79468,
+      "text": "which is just what you'd expect if those spirals were enormously far away."
+    },
+    {
+      "start": 311.81467,
+      "end": 314.53467,
+      "text": "Both men had real arguments and real evidence,"
+    },
+    {
+      "start": 315.07468,
+      "end": 316.71466,
+      "text": "and the debate ended in a draw,"
+    },
+    {
+      "start": 317.21466,
+      "end": 320.87466,
+      "text": "precisely because neither could nail down the one thing that would settle it,"
+    },
+    {
+      "start": 321.4347,
+      "end": 322.75467,
+      "text": "the distance to a spiral."
+    },
+    {
+      "start": 322.75467,
+      "end": 326.45468,
+      "text": "Everything hung on building a ruler for the cosmos."
+    },
+    {
+      "start": 326.75467,
+      "end": 329.07468,
+      "text": "So how do you build a ruler for the cosmos?"
+    },
+    {
+      "start": 329.73468,
+      "end": 332.6147,
+      "text": "You can't exactly stretch a tape measure to a galaxy."
+    },
+    {
+      "start": 333.1147,
+      "end": 337.9347,
+      "text": "You use a trick that is the backbone of nearly all cosmic distance measurement, and it's lovely."
+    },
+    {
+      "start": 338.69467,
+      "end": 340.15466,
+      "text": "It's called a standard candle."
+    },
+    {
+      "start": 341.09467,
+      "end": 341.8747,
+      "text": "Here's the idea."
+    },
+    {
+      "start": 342.51468,
+      "end": 349.67468,
+      "text": "Imagine you're standing in a huge dark field at night, and scattered across it are light bulbs, some near, some far."
+    },
+    {
+      "start": 349.67468,
+      "end": 356.63467,
+      "text": "If I told you that every single bulb out there is the exact same wattage, the same true brightness,"
+    },
+    {
+      "start": 357.25467,
+      "end": 359.89468,
+      "text": "then you could figure out how far away each one is"
+    },
+    {
+      "start": 360.0,
+      "end": 361.9799999,
+      "text": "just from how bright it looks to you."
+    },
+    {
+      "start": 362.82,
+      "end": 364.8599997,
+      "text": "A bulb that looks dim must be far,"
+    },
+    {
+      "start": 365.38,
+      "end": 367.3199997,
+      "text": "a bulb that looks bright must be near,"
+    },
+    {
+      "start": 367.7999997,
+      "end": 369.08,
+      "text": "and you can make it quantitative"
+    },
+    {
+      "start": 369.08,
+      "end": 372.639999,
+      "text": "because brightness falls off in a precise way with distance."
+    },
+    {
+      "start": 373.299999,
+      "end": 376.94,
+      "text": "The only thing you need is a set of objects out in the universe"
+    },
+    {
+      "start": 376.94,
+      "end": 380.82,
+      "text": "whose true, intrinsic brightness you somehow already know."
+    },
+    {
+      "start": 381.76,
+      "end": 383.1,
+      "text": "Those are standard candles."
+    },
+    {
+      "start": 383.98,
+      "end": 386.76,
+      "text": "Find one in a galaxy, see how faint it looks,"
+    },
+    {
+      "start": 387.119999,
+      "end": 388.8,
+      "text": "and you've got the galaxy's distance."
+    },
+    {
+      "start": 388.8,
+      "end": 400.879997,
+      "text": "But that just moves the problem. How do you know any star's true brightness? A dim-looking star could be a faint one nearby, or a dazzling one far away. Same trap again."
+    },
+    {
+      "start": 400.879997,
+      "end": 407.199997,
+      "text": "Same trap, and this is where an astronomer named Henrietta Leavitt gives us the key, a few years earlier."
+    },
+    {
+      "start": 408.299995,
+      "end": 411.859997,
+      "text": "She was studying a particular kind of star called a Cepheid variable."
+    },
+    {
+      "start": 412.659996,
+      "end": 417.28,
+      "text": "These are stars that pulse, that rhythmically brighten and dim over a regular cycle,"
+    },
+    {
+      "start": 417.979996,
+      "end": 420.399998,
+      "text": "some over days, some over weeks."
+    },
+    {
+      "start": 421.1,
+      "end": 423.579998,
+      "text": "And Leavitt discovered something remarkable about them."
+    },
+    {
+      "start": 424.259995,
+      "end": 428.28,
+      "text": "The length of a Cepheid cycle is tied directly to its true brightness."
+    },
+    {
+      "start": 428.28,
+      "end": 433.52,
+      "text": "The slow pulses are genuinely, intrinsically more luminous."
+    },
+    {
+      "start": 433.52,
+      "end": 438.159996,
+      "text": "The fast pulses are fainter, in a tight, predictable relationship."
+    },
+    {
+      "start": 438.159996,
+      "end": 444.54,
+      "text": "So a Cepheid tells you its own true brightness, out loud, just by the rhythm of its blinking."
+    },
+    {
+      "start": 444.54,
+      "end": 456.918365,
+      "text": "You time how long its cycle takes days you can measure and that tells you how luminous it really is which makes the Cepheid a perfect standard candle Read the period get the true brightness"
+    },
+    {
+      "start": 457.63837,
+      "end": 460.81837,
+      "text": "compare to how bright it looks, and outfalls the distance."
+    },
+    {
+      "start": 460.81837,
+      "end": 465.81837,
+      "text": "And who was Levitt? Because this period luminosity law is the whole foundation,"
+    },
+    {
+      "start": 466.33835999999997,
+      "end": 468.15837,
+      "text": "and I've barely heard the name."
+    },
+    {
+      "start": 468.418365,
+      "end": 472.278366,
+      "text": "Henrietta Levitt, and her name deserves to sit right next to Hubble's."
+    },
+    {
+      "start": 473.17837,
+      "end": 477.85837,
+      "text": "She worked at the Harvard College Observatory in a role they literally called a computer,"
+    },
+    {
+      "start": 478.71837,
+      "end": 484.47836,
+      "text": "one of a group of women hired to do the meticulous labour of measuring stars on photographic plates,"
+    },
+    {
+      "start": 485.15837,
+      "end": 488.47836,
+      "text": "cataloguing brightnesses by hand, plate after plate."
+    },
+    {
+      "start": 489.15837,
+      "end": 494.97836,
+      "text": "She was studying CIFIDS in a pair of nearby mini-galaxies called the Magellanic Clouds,"
+    },
+    {
+      "start": 495.33835999999997,
+      "end": 497.71837,
+      "text": "and this was the clever part of her setup."
+    },
+    {
+      "start": 497.71837,
+      "end": 502.93836999999996,
+      "text": "All the stars in one of those clouds are at essentially the same distance from us,"
+    },
+    {
+      "start": 502.93836999999996,
+      "end": 507.73837000000003,
+      "text": "the way everyone in a distant city is roughly the same distance from you."
+    },
+    {
+      "start": 507.73837000000003,
+      "end": 513.19836,
+      "text": "So any difference in how bright they appear is a real difference in true brightness,"
+    },
+    {
+      "start": 513.19836,
+      "end": 519.19836,
+      "text": "not a distance effect. That let her line up period against brightness cleanly,"
+    },
+    {
+      "start": 519.19836,
+      "end": 525.01837,
+      "text": "and the law jumped out. The longer the pulsation cycle, the more luminous the star."
+    },
+    {
+      "start": 525.01837,
+      "end": 546.05673,
+      "text": "She published that relationship She didn have the telescope time to then go measure cosmic distances with it that fell to others and she received fairly limited recognition in her lifetime But every rung of the cosmic distance ladder including Hubble whole result is built on the law Henrietta Leavitt found"
+    },
+    {
+      "start": 546.05673,
+      "end": 548.23674,
+      "text": "by hand on photographic plates."
+    },
+    {
+      "start": 548.23674,
+      "end": 554.9967300000001,
+      "text": "So the pulsing star is basically wearing a label that says how bright it really is. And"
+    },
+    {
+      "start": 554.9967300000001,
+      "end": 557.45673,
+      "text": "you just have to read the label and compare."
+    },
+    {
+      "start": 557.87674,
+      "end": 564.23674,
+      "text": "That's it exactly. The period is the label. And now Hubble walks on stage. In the mid-1990s,"
+    },
+    {
+      "start": 564.9967300000001,
+      "end": 571.51674,
+      "text": "1920s, he's working with the 100-inch telescope on Mount Wilson, above Los Angeles, which at the"
+    },
+    {
+      "start": 571.51674,
+      "end": 577.8967299999999,
+      "text": "time was the most powerful telescope in the world, big enough, finally, to pick out individual stars"
+    },
+    {
+      "start": 577.8967299999999,
+      "end": 584.65674,
+      "text": "inside those fuzzy spirals. And he does the decisive thing. He finds Cepheid variables"
+    },
+    {
+      "start": 584.65674,
+      "end": 591.19673,
+      "text": "inside the Andromeda Nebula, the Great Spiral. He watches them blink. He times their periods."
+    },
+    {
+      "start": 591.19673,
+      "end": 596.8967299999999,
+      "text": "he reads their true brightness off Levitt's relation, he compares to how faint they appear,"
+    },
+    {
+      "start": 597.33673,
+      "end": 603.59674,
+      "text": "and he gets a distance. And the distance is enormous, far, far beyond any sensible estimate"
+    },
+    {
+      "start": 603.59674,
+      "end": 610.3967299999999,
+      "text": "of the size of the Milky Way. Andromeda isn't inside our galaxy, it's a whole separate galaxy,"
+    },
+    {
+      "start": 610.9967300000001,
+      "end": 616.45673,
+      "text": "exactly as the island universe camp had guessed. The debate is over in a single measurement."
+    },
+    {
+      "start": 616.45673,
+      "end": 624.45673,
+      "text": "And that alone is a revolution, right? Even before anything expands, the universe just got unimaginably bigger."
+    },
+    {
+      "start": 624.45673,
+      "end": 636.95508,
+      "text": "It one of the great expansions of the human horizon full stop Overnight the Milky Way goes from being the entire universe to being one galaxy among a vast multitude"
+    },
+    {
+      "start": 636.95508,
+      "end": 640.51508,
+      "text": "We now know hundreds of billions of them."
+    },
+    {
+      "start": 640.51508,
+      "end": 646.17508,
+      "text": "Every one of those faint spirals is another island of a hundred billion stars."
+    },
+    {
+      "start": 646.17508,
+      "end": 651.3350800000001,
+      "text": "The universe isn't our galaxy in a void, it's an ocean of galaxies stretching out"
+    },
+    {
+      "start": 651.3350800000001,
+      "end": 654.5951,
+      "text": "farther than anyone had dared to imagine."
+    },
+    {
+      "start": 654.5951,
+      "end": 660.19507,
+      "text": "Hubble could have stopped there and been in the textbooks forever. But he keeps going,"
+    },
+    {
+      "start": 660.19507,
+      "end": 664.5951,
+      "text": "because now that he can measure distances to galaxies, he can line them up against something"
+    },
+    {
+      "start": 664.5951,
+      "end": 670.4350999999999,
+      "text": "else people had been measuring. And that's where the 1929 paper comes in, and where it"
+    },
+    {
+      "start": 670.4350999999999,
+      "end": 676.4350999999999,
+      "text": "gets truly strange. What's the something else? What was he lining the distances up against?"
+    },
+    {
+      "start": 676.4350999999999,
+      "end": 683.3151,
+      "text": "Velocities. Specifically, how fast each galaxy is moving toward us or away from us. And there's"
+    },
+    {
+      "start": 683.3151,
+      "end": 687.1551,
+      "text": "There's a clean way to measure that, using the light itself."
+    },
+    {
+      "start": 687.1551,
+      "end": 693.1551,
+      "text": "When you spread a galaxy's light into a spectrum, you see specific dark lines, fingerprints left"
+    },
+    {
+      "start": 693.1551,
+      "end": 698.0951,
+      "text": "by the chemical elements in its stars, at very particular colours."
+    },
+    {
+      "start": 698.0951,
+      "end": 702.9150999999999,
+      "text": "Now if the galaxy is moving relative to us, those lines shift."
+    },
+    {
+      "start": 702.9150999999999,
+      "end": 708.07507,
+      "text": "If it's moving away, all the lines slide toward the red end of the spectrum."
+    },
+    {
+      "start": 708.07507,
+      "end": 710.0351,
+      "text": "That's called redshift."
+    },
+    {
+      "start": 710.0351,
+      "end": 713.8350800000001,
+      "text": "If it's moving toward us, they slide toward the blue."
+    },
+    {
+      "start": 713.8350800000001,
+      "end": 719.9751,
+      "text": "It's the light-wave version of how a siren drops in pitch as an ambulance passes you."
+    },
+    {
+      "start": 720.0,
+      "end": 724.8599997,
+      "text": "of those spectral fingerprints tells you the galaxy's speed along your line of sight."
+    },
+    {
+      "start": 725.8199997,
+      "end": 731.74,
+      "text": "An astronomer named Vesto Slipher had painstakingly measured these shifts for a couple dozen galaxies."
+    },
+    {
+      "start": 732.559999,
+      "end": 736.42,
+      "text": "And here was the first puzzle. Almost all of them were redshifted."
+    },
+    {
+      "start": 737.359999,
+      "end": 739.76,
+      "text": "Almost every galaxy was moving away from us."
+    },
+    {
+      "start": 739.92,
+      "end": 745.359999,
+      "text": "And did Hubble measure all of this himself? Every distance and every velocity?"
+    },
+    {
+      "start": 745.359999,
+      "end": 751.64,
+      "text": "No, and it's worth saying, because the popular story flattens it into one lone man at an eyepiece."
+    },
+    {
+      "start": 752.579998,
+      "end": 755.14,
+      "text": "It was a collaboration built on other people's labour."
+    },
+    {
+      "start": 756.079998,
+      "end": 759.62,
+      "text": "The velocities, the redshifts, were mostly not Hubble's."
+    },
+    {
+      "start": 760.579998,
+      "end": 768.059998,
+      "text": "Vesto Slipher had measured the bulk of them years earlier at a different observatory, painstaking spectra of faint galaxies."
+    },
+    {
+      "start": 768.059998,
+      "end": 780.539997,
+      "text": "And at Mount Wilson, Hubble worked closely with Milton Humerson, who measured many of the galaxy velocities, especially the fainter, more distant ones that needed brutally long exposures."
+    },
+    {
+      "start": 781.559998,
+      "end": 794.259995,
+      "text": "Humerson's own path is remarkable. He'd started at the observatory as a mule driver hauling equipment up the mountain, then a janitor, and taught himself to become one of the finest observers of his generation."
+    },
+    {
+      "start": 794.26,
+      "end": 802.26,
+      "text": "So the 1929 result is really Levitt's law, plus Slipher's and Humerson's velocities,"
+    },
+    {
+      "start": 802.26,
+      "end": 814.85837,
+      "text": "plus Hubble Cepheid distances plus Hubble insight to plot the two against each other and see the straight line Hubble drew the graph that changed the picture but he was standing on a lot of shoulders"
+    },
+    {
+      "start": 815.07837,
+      "end": 819.9583700000001,
+      "text": "Which is already odd. If galaxies were just milling around randomly,"
+    },
+    {
+      "start": 820.518364,
+      "end": 824.278366,
+      "text": "you'd expect about half coming toward us and half going away."
+    },
+    {
+      "start": 824.65837,
+      "end": 830.43837,
+      "text": "Exactly. Random motion gives you a roughly even split. Some blue, some red."
+    },
+    {
+      "start": 831.238365,
+      "end": 835.1183599999999,
+      "text": "Instead, nearly everything is red, nearly everything receding,"
+    },
+    {
+      "start": 835.65836,
+      "end": 838.21837,
+      "text": "as if we're mildly repellent to the entire universe."
+    },
+    {
+      "start": 839.17837,
+      "end": 842.21837,
+      "text": "That's a clue that something systematic is going on."
+    },
+    {
+      "start": 842.81837,
+      "end": 845.89836,
+      "text": "But the real revelation is what Hubble does next."
+    },
+    {
+      "start": 846.53836,
+      "end": 851.81836,
+      "text": "He takes Slipher's velocities and plots them against his own new Cepheid-based distances."
+    },
+    {
+      "start": 852.9783600000001,
+      "end": 857.41837,
+      "text": "Speed on one axis, distance on the other, one dot per galaxy."
+    },
+    {
+      "start": 857.41837,
+      "end": 863.4783600000001,
+      "text": "and the dots fall along a straight line. The relationship is stunningly simple."
+    },
+    {
+      "start": 864.21837,
+      "end": 869.13837,
+      "text": "The farther away a galaxy is, the faster it's receding, in direct proportion."
+    },
+    {
+      "start": 870.15836,
+      "end": 875.77837,
+      "text": "Twice as far, twice as fast. Ten times as far, ten times as fast."
+    },
+    {
+      "start": 876.8783599999999,
+      "end": 881.3783599999999,
+      "text": "Velocity equals a constant times distance. That's Hubble's law,"
+    },
+    {
+      "start": 881.85837,
+      "end": 885.55836,
+      "text": "and that proportionality constant is now called the Hubble constant."
+    },
+    {
+      "start": 885.55836,
+      "end": 891.9583700000001,
+      "text": "OK, help me feel why that specific pattern, speed proportional to distance, is such a"
+    },
+    {
+      "start": 891.9583700000001,
+      "end": 906.03673,
+      "text": "big deal Why is a straight line on that graph the discovery of the century Because there essentially only one thing that produces that exact pattern and it an expanding universe Let me give you the picture that makes it click"
+    },
+    {
+      "start": 906.63673,
+      "end": 907.51674,
+      "text": "The raisin bread."
+    },
+    {
+      "start": 908.41673,
+      "end": 911.21674,
+      "text": "Imagine a lump of dough with raisins scattered through it,"
+    },
+    {
+      "start": 911.53673,
+      "end": 913.65674,
+      "text": "and you put it in the oven and the dough rises,"
+    },
+    {
+      "start": 914.27673,
+      "end": 916.31674,
+      "text": "expanding uniformly in every direction."
+    },
+    {
+      "start": 917.05673,
+      "end": 920.21674,
+      "text": "Now sit on any one raisin and watch the others."
+    },
+    {
+      "start": 921.09674,
+      "end": 924.03673,
+      "text": "A raisin that started close to you drifts away slowly,"
+    },
+    {
+      "start": 924.03673,
+      "end": 926.7567300000001,
+      "text": "because there's only a little dough between you swelling."
+    },
+    {
+      "start": 927.7567300000001,
+      "end": 931.17673,
+      "text": "But a raisin that started far away rushes away fast"
+    },
+    {
+      "start": 931.17673,
+      "end": 933.79674,
+      "text": "because there's a lot of dough between you and it"
+    },
+    {
+      "start": 933.79674,
+      "end": 937.31674,
+      "text": "and all of that dough is expanding at once, adding up."
+    },
+    {
+      "start": 938.13673,
+      "end": 941.11673,
+      "text": "So from any raisin, the farther another raisin is,"
+    },
+    {
+      "start": 941.45673,
+      "end": 945.19673,
+      "text": "the faster it recedes, speed proportional to distance."
+    },
+    {
+      "start": 945.9967300000001,
+      "end": 947.55673,
+      "text": "That's Hubble's law exactly."
+    },
+    {
+      "start": 948.53673,
+      "end": 951.45673,
+      "text": "The galaxies are the raisins, space is the dough"
+    },
+    {
+      "start": 951.45673,
+      "end": 953.03673,
+      "text": "and the whole thing is swelling."
+    },
+    {
+      "start": 953.03673,
+      "end": 958.11673,
+      "text": "And the part that always breaks my brain, this makes it look like we're at the centre,"
+    },
+    {
+      "start": 958.53673,
+      "end": 963.47673,
+      "text": "everything's running away from us specifically, but you're saying we're not."
+    },
+    {
+      "start": 963.79672,
+      "end": 966.73672,
+      "text": "You are not, and the raisin bread shows you why."
+    },
+    {
+      "start": 967.43674,
+      "end": 970.57672,
+      "text": "And it's the most important subtlety in all of cosmology."
+    },
+    {
+      "start": 971.29672,
+      "end": 972.55673,
+      "text": "So let me hit it hard."
+    },
+    {
+      "start": 973.67673,
+      "end": 978.15674,
+      "text": "Pick any raisin in that loaf, any one at all, and do the same exercise,"
+    },
+    {
+      "start": 978.85672,
+      "end": 980.83673,
+      "text": "and you see precisely the same thing."
+    },
+    {
+      "start": 980.83673,
+      "end": 984.83673,
+      "text": "every other raisin fleeing, the distant ones fastest."
+    },
+    {
+      "start": 984.83673,
+      "end": 998.01508,
+      "text": "Every raisin thinks it the centre none of them is There is no centre to the expansion and there no edge either It only looks like we special because everything is receding from us"
+    },
+    {
+      "start": 998.61508,
+      "end": 1002.7551000000001,
+      "text": "But a creature in any galaxy, anywhere, sees the identical view,"
+    },
+    {
+      "start": 1003.2551000000001,
+      "end": 1004.95508,
+      "text": "with themselves apparently at the middle."
+    },
+    {
+      "start": 1005.95508,
+      "end": 1009.5351,
+      "text": "So Hubble's law doesn't say the universe is expanding away from us."
+    },
+    {
+      "start": 1009.9951,
+      "end": 1012.6951,
+      "text": "It says the universe is expanding, period."
+    },
+    {
+      "start": 1012.6951,
+      "end": 1018.2151,
+      "text": "every point getting farther from every other point, with no privileged spot."
+    },
+    {
+      "start": 1018.3151,
+      "end": 1022.9150999999999,
+      "text": "So the galaxies aren't really flying through space like debris from an explosion."
+    },
+    {
+      "start": 1023.5351,
+      "end": 1026.2950700000001,
+      "text": "It's the space between them that's growing."
+    },
+    {
+      "start": 1026.73508,
+      "end": 1031.95508,
+      "text": "That's the crucial reframing, and it's why I have to be careful about the word redshift here."
+    },
+    {
+      "start": 1032.6551,
+      "end": 1037.13507,
+      "text": "It's tempting to say the galaxies are moving away and their light is Doppler-shifted,"
+    },
+    {
+      "start": 1037.4351,
+      "end": 1038.63507,
+      "text": "like the ambulance siren."
+    },
+    {
+      "start": 1038.63507,
+      "end": 1044.0750699999999,
+      "text": "But the deeper and truer picture is that the galaxies are mostly sitting still in their own"
+    },
+    {
+      "start": 1044.0750699999999,
+      "end": 1050.63507,
+      "text": "patch of space. It's the space itself in between that's stretching. And as space stretches,"
+    },
+    {
+      "start": 1050.63507,
+      "end": 1056.0750699999999,
+      "text": "it stretches the light waves travelling through it, lengthening them, dragging them toward the red."
+    },
+    {
+      "start": 1057.11508,
+      "end": 1062.0750699999999,
+      "text": "So the cosmological redshift isn't really about galaxies rushing through a static space,"
+    },
+    {
+      "start": 1062.63507,
+      "end": 1067.3551,
+      "text": "it's light being stretched by the expansion of space during its long journey to us."
+    },
+    {
+      "start": 1067.3551,
+      "end": 1074.61508,
+      "text": "The Universe isn't an explosion hurling galaxies outward into a pre-existing emptiness. It's the"
+    },
+    {
+      "start": 1074.61508,
+      "end": 1079.9751,
+      "text": "emptiness itself, the fabric, swelling everywhere at once and everything riding along."
+    },
+    {
+      "start": 1080.0,
+      "end": 1088.86,
+      "text": "If space is stretching everywhere, then is everything getting bigger? Is the galaxy growing? Am I very slowly expanding?"
+    },
+    {
+      "start": 1089.36,
+      "end": 1096.92,
+      "text": "You're not, and neither is the galaxy. And this is a subtlety people almost always get wrong, so it's worth being precise."
+    },
+    {
+      "start": 1097.98,
+      "end": 1102.18,
+      "text": "The expansion of space only wins where there's nothing strong enough to resist it."
+    },
+    {
+      "start": 1103.16,
+      "end": 1107.62,
+      "text": "Anywhere that gravity or the forces holding matter together are firmly in charge,"
+    },
+    {
+      "start": 1108.02,
+      "end": 1112.6,
+      "text": "they simply hold the thing at its natural size and the expansion never gets a grip."
+    },
+    {
+      "start": 1113.6,
+      "end": 1116.38,
+      "text": "So a galaxy is bound tightly by its own gravity."
+    },
+    {
+      "start": 1116.98,
+      "end": 1117.92,
+      "text": "It doesn't expand."
+    },
+    {
+      "start": 1118.56,
+      "end": 1120.12,
+      "text": "The solar system is bound."
+    },
+    {
+      "start": 1120.62,
+      "end": 1121.579998,
+      "text": "It doesn't expand."
+    },
+    {
+      "start": 1121.98,
+      "end": 1125.3,
+      "text": "Your body, held together by chemistry and electricity,"
+    },
+    {
+      "start": 1125.94,
+      "end": 1128.04,
+      "text": "an atom held together by its own forces,"
+    },
+    {
+      "start": 1128.839996,
+      "end": 1134.219997,
+      "text": "None of it expands because the local binding overwhelms the almost infinitely gentle stretch"
+    },
+    {
+      "start": 1134.219997,
+      "end": 1140.42,
+      "text": "of cosmic expansion. What actually grows are the vast, nearly empty gulfs between galaxies,"
+    },
+    {
+      "start": 1141.039997,
+      "end": 1146.079994,
+      "text": "or more precisely, between whole clusters of galaxies, where there's essentially nothing"
+    },
+    {
+      "start": 1146.079994,
+      "end": 1152.64,
+      "text": "holding across the gap. So the picture isn't everything swelling uniformly. It's islands of"
+    },
+    {
+      "start": 1152.64,
+      "end": 1158.22,
+      "text": "matter, each holding its own shape, with the empty space between the distant islands quietly"
+    },
+    {
+      "start": 1158.22,
+      "end": 1163.88,
+      "text": "getting wider. You are not expanding. Only the gaps between the galaxies are."
+    },
+    {
+      "start": 1163.88,
+      "end": 1175.518364,
+      "text": "Now you promised me this loops back to Einstein and to the very first episode of this batch General Relativity How This is the part I find almost too neat to be real"
+    },
+    {
+      "start": 1176.45837,
+      "end": 1179.35837,
+      "text": "Cast your mind back to the General Relativity episode."
+    },
+    {
+      "start": 1180.25837,
+      "end": 1185.07837,
+      "text": "Einstein's field equations describe how matter and energy curve space-time."
+    },
+    {
+      "start": 1186.01837,
+      "end": 1190.418365,
+      "text": "Well, in the years right after, a handful of people asked the natural question."
+    },
+    {
+      "start": 1191.3983699999999,
+      "end": 1197.13837,
+      "text": "What happens if you apply those equations not to a star or a planet, but to the entire universe?"
+    },
+    {
+      "start": 1197.97836,
+      "end": 1199.198364,
+      "text": "Matter spread everywhere."
+    },
+    {
+      "start": 1200.278366,
+      "end": 1203.45837,
+      "text": "And the equations gave an answer nobody wanted to hear."
+    },
+    {
+      "start": 1204.35837,
+      "end": 1206.31837,
+      "text": "They said the universe cannot be static."
+    },
+    {
+      "start": 1207.098366,
+      "end": 1210.85837,
+      "text": "A universe full of matter must be either expanding or contracting."
+    },
+    {
+      "start": 1211.07837,
+      "end": 1215.83836,
+      "text": "It refuses to just sit there, because gravity would pull a static one together."
+    },
+    {
+      "start": 1215.83836,
+      "end": 1223.75836,
+      "text": "A Russian named Alexander Friedman worked out these expanding and contracting solutions in the early 20s,"
+    },
+    {
+      "start": 1224.15837,
+      "end": 1230.09836,
+      "text": "and a Belgian priest and physicist, Georges Lemaitre, went further in 1927."
+    },
+    {
+      "start": 1230.95837,
+      "end": 1236.05836,
+      "text": "He not only found the expanding solution, he predicted that it would show up as exactly this,"
+    },
+    {
+      "start": 1236.79837,
+      "end": 1240.51837,
+      "text": "distant galaxies receding with speed proportional to distance."
+    },
+    {
+      "start": 1240.51837,
+      "end": 1246.71835,
+      "text": "He derived Hubble's law from Einstein's equations two years before Hubble published the data."
+    },
+    {
+      "start": 1246.71835,
+      "end": 1253.91837,
+      "text": "Wait, so the theory got there first? Somebody predicted the expanding universe before anyone saw it?"
+    },
+    {
+      "start": 1253.91837,
+      "end": 1267.61673,
+      "text": "Predicted it from pure gravity yes and got almost no attention partly because it was published in an obscure Belgian journal partly because the idea seemed absurd And here the delicious twist involving"
+    },
+    {
+      "start": 1267.61673,
+      "end": 1274.35674,
+      "text": "Einstein. When Einstein first applied his own equations to the universe, back around 1917,"
+    },
+    {
+      "start": 1275.23674,
+      "end": 1281.79674,
+      "text": "he also found that they wouldn't allow a static universe. But Einstein, like almost everyone then,"
+    },
+    {
+      "start": 1281.79674,
+      "end": 1287.39673,
+      "text": "was certain the universe was static and eternal, unchanging on the largest scale."
+    },
+    {
+      "start": 1288.21674,
+      "end": 1291.31674,
+      "text": "So rather than believe his equations, he modified them."
+    },
+    {
+      "start": 1292.09674,
+      "end": 1295.41673,
+      "text": "He added an extra term, a kind of built-in repulsion,"
+    },
+    {
+      "start": 1295.71674,
+      "end": 1299.27673,
+      "text": "to exactly counterbalance gravity and hold the universe still."
+    },
+    {
+      "start": 1300.15674,
+      "end": 1302.31674,
+      "text": "He called it the cosmological constant."
+    },
+    {
+      "start": 1303.27673,
+      "end": 1307.37674,
+      "text": "He essentially bolted a fudge onto the most beautiful equations he ever wrote,"
+    },
+    {
+      "start": 1308.01674,
+      "end": 1311.31674,
+      "text": "purely to force them to describe the static universe he expected."
+    },
+    {
+      "start": 1311.31674,
+      "end": 1316.97673,
+      "text": "And then Hubble looks through the telescope and finds the universe isn't static at all."
+    },
+    {
+      "start": 1317.15674,
+      "end": 1321.6967300000001,
+      "text": "The universe is expanding, precisely as the unfudged equations had insisted."
+    },
+    {
+      "start": 1322.85674,
+      "end": 1325.09674,
+      "text": "So Einstein didn't need the extra term."
+    },
+    {
+      "start": 1325.83673,
+      "end": 1329.41673,
+      "text": "The equations had been trying to tell him the truth, and he'd overruled them."
+    },
+    {
+      "start": 1330.4567299999999,
+      "end": 1336.19672,
+      "text": "The story goes that Einstein later called the cosmological constant the greatest blunder of his life,"
+    },
+    {
+      "start": 1336.19672,
+      "end": 1341.55673,
+      "text": "though I should flag that the quote comes to a second hand through the physicist George"
+    },
+    {
+      "start": 1341.55673,
+      "end": 1357.85507,
+      "text": "Gamow and may be polished up But the sentiment fits Einstein had a prediction of the expanding universe sitting inside his own theory and his physical intuition talked him out of it Lema kept the faith in the equations Hubble supplied"
+    },
+    {
+      "start": 1357.85507,
+      "end": 1364.11508,
+      "text": "the proof. And that closes a loop across this whole batch of episodes. We opened with Einstein"
+    },
+    {
+      "start": 1364.11508,
+      "end": 1369.8751,
+      "text": "building general relativity, and we end with Einstein's own equations, applied to everything"
+    },
+    {
+      "start": 1369.8751,
+      "end": 1374.33508,
+      "text": "at once, predicting the expanding cosmos that Hubble caught in the act."
+    },
+    {
+      "start": 1374.4751,
+      "end": 1378.3751,
+      "text": "Here's the question every single person asks when they hear this."
+    },
+    {
+      "start": 1378.9351,
+      "end": 1382.95508,
+      "text": "What is the universe expanding into? What's on the outside?"
+    },
+    {
+      "start": 1383.5951,
+      "end": 1390.0951,
+      "text": "The answer, which is genuinely hard to hold in your head, is nothing. There is no outside."
+    },
+    {
+      "start": 1390.3551,
+      "end": 1395.63507,
+      "text": "The expansion is not the universe growing like a balloon into a room that surrounds it."
+    },
+    {
+      "start": 1396.4751,
+      "end": 1402.7551,
+      "text": "There's no room, no edge, no boundary it's pushing against, and no centre it's expanding away from."
+    },
+    {
+      "start": 1403.6551,
+      "end": 1407.0951,
+      "text": "Space itself is all there is, and it's the thing stretching."
+    },
+    {
+      "start": 1408.13507,
+      "end": 1411.4751,
+      "text": "And the balloon actually gives you the right picture if you use it correctly."
+    },
+    {
+      "start": 1412.4351,
+      "end": 1415.67508,
+      "text": "Don't think of the balloons inside or the air around it."
+    },
+    {
+      "start": 1416.05508,
+      "end": 1422.4751,
+      "text": "Think only of ants living on the rubber surface, for whom that two-dimensional surface is their entire universe."
+    },
+    {
+      "start": 1422.4751,
+      "end": 1428.9351,
+      "text": "universe. As you inflate it, every ant sees every other ant moving away, the far one's"
+    },
+    {
+      "start": 1428.9351,
+      "end": 1435.25507,
+      "text": "fastest. Hubble's law. But the surface has no edge anywhere on it, no centre anywhere"
+    },
+    {
+      "start": 1435.25507,
+      "end": 1439.95508,
+      "text": "on it, and the ants can't point to what it's expanding into, because for them"
+    },
+    {
+      "start": 1440.0,
+      "end": 1442.26,
+      "text": "There is no direction off the surface."
+    },
+    {
+      "start": 1443.12,
+      "end": 1446.44,
+      "text": "Their whole reality is the surface, and it's simply getting bigger."
+    },
+    {
+      "start": 1447.52,
+      "end": 1451.599999,
+      "text": "Our three-dimensional space is like that surface, one dimension up."
+    },
+    {
+      "start": 1452.259999,
+      "end": 1456.279999,
+      "text": "It has no edge, no centre, and it isn't expanding into anything."
+    },
+    {
+      "start": 1457.06,
+      "end": 1460.58,
+      "text": "It just, everywhere, contains more distance than it used to."
+    },
+    {
+      "start": 1460.68,
+      "end": 1465.06,
+      "text": "And once you know it's expanding, you get to do the irresistible thing."
+    },
+    {
+      "start": 1465.599998,
+      "end": 1466.779999,
+      "text": "Run the movie backwards."
+    },
+    {
+      "start": 1466.779999,
+      "end": 1471.019999,
+      "text": "You run it backwards, and it's irresistible, and it's profound."
+    },
+    {
+      "start": 1471.899998,
+      "end": 1476.5,
+      "text": "If the universe is expanding, everything getting farther from everything else,"
+    },
+    {
+      "start": 1476.96,
+      "end": 1479.379997,
+      "text": "then in the past it was all closer together."
+    },
+    {
+      "start": 1480.359997,
+      "end": 1483.16,
+      "text": "Rewind far enough, and all the matter in the cosmos"
+    },
+    {
+      "start": 1483.16,
+      "end": 1486.719997,
+      "text": "was crammed into an unimaginably hot, dense state,"
+    },
+    {
+      "start": 1487.12,
+      "end": 1489.0,
+      "text": "and the expansion begins from there."
+    },
+    {
+      "start": 1489.64,
+      "end": 1491.879997,
+      "text": "That's the seed of the Big Bang picture."
+    },
+    {
+      "start": 1492.62,
+      "end": 1495.559998,
+      "text": "The universe had a beginning, a finite time ago,"
+    },
+    {
+      "start": 1495.559998,
+      "end": 1498.339996,
+      "text": "and has been expanding and cooling ever since."
+    },
+    {
+      "start": 1499.359997,
+      "end": 1501.979996,
+      "text": "This was revolutionary and to many unwelcome."
+    },
+    {
+      "start": 1502.6,
+      "end": 1505.42,
+      "text": "An eternal universe felt safer than one with a birthday."
+    },
+    {
+      "start": 1506.52,
+      "end": 1509.74,
+      "text": "The name Big Bang itself was actually coined later"
+    },
+    {
+      "start": 1509.74,
+      "end": 1512.38,
+      "text": "by a rival astronomer, Fred Hoyle,"
+    },
+    {
+      "start": 1512.71999,
+      "end": 1515.56,
+      "text": "who disliked the idea and meant the phrase mockingly."
+    },
+    {
+      "start": 1516.399994,
+      "end": 1517.42,
+      "text": "It stuck anyway."
+    },
+    {
+      "start": 1518.32,
+      "end": 1521.119995,
+      "text": "And the Hubble constant, that slope of the line,"
+    },
+    {
+      "start": 1521.399994,
+      "end": 1522.74,
+      "text": "does something wonderful here."
+    },
+    {
+      "start": 1523.02,
+      "end": 1524.799995,
+      "text": "It sets the timescale."
+    },
+    {
+      "start": 1525.56,
+      "end": 1538.204895,
+      "text": "Roughly how fast things are flying apart tells you how long ago they were all together It gives you an age for the universe Was there ever a smoking gun that the universe really began this way"
+    },
+    {
+      "start": 1538.204895,
+      "end": 1540.5449,
+      "text": "A hot, dense start?"
+    },
+    {
+      "start": 1540.5449,
+      "end": 1544.0249,
+      "text": "And not just that it's expanding now."
+    },
+    {
+      "start": 1544.0249,
+      "end": 1546.98489,
+      "text": "Expansion alone doesn't prove a fiery beginning."
+    },
+    {
+      "start": 1546.98489,
+      "end": 1552.024895,
+      "text": "There is one, and it's one of the great predictions confirmed in physics."
+    },
+    {
+      "start": 1552.024895,
+      "end": 1553.384895,
+      "text": "Reason it through."
+    },
+    {
+      "start": 1553.384895,
+      "end": 1558.7249,
+      "text": "If the whole universe was once packed together, unimaginably hot and dense, then the early"
+    },
+    {
+      "start": 1558.7249,
+      "end": 1564.98489,
+      "text": "cosmos would have been flooded with intense radiation, the glow of that furnace."
+    },
+    {
+      "start": 1564.98489,
+      "end": 1568.2649000000001,
+      "text": "Now let space expand for billions of years."
+    },
+    {
+      "start": 1568.2649000000001,
+      "end": 1573.6649,
+      "text": "That radiation gets stretched along with everything else, its waves lengthened, its temperature"
+    },
+    {
+      "start": 1573.6649,
+      "end": 1579.1449,
+      "text": "dropping, until today it should have cooled to a very faint whisper of microwaves, filling"
+    },
+    {
+      "start": 1579.1449,
+      "end": 1583.38489,
+      "text": "all of space, coming from every direction at once."
+    },
+    {
+      "start": 1583.38489,
+      "end": 1591.8649,
+      "text": "a specific, checkable prediction. And in 1965, two engineers, Arno Penzias and Robert Wilson,"
+    },
+    {
+      "start": 1591.8649,
+      "end": 1596.82489,
+      "text": "testing a sensitive antenna, kept picking up a faint hum they couldn't get rid of."
+    },
+    {
+      "start": 1597.5448900000001,
+      "end": 1603.6249,
+      "text": "The same from every direction, day and night. They checked everything. They even cleaned"
+    },
+    {
+      "start": 1603.6249,
+      "end": 1610.7449,
+      "text": "pigeon droppings out of the antenna, thinking that was it. It wasn't. What they'd stumbled onto"
+    },
+    {
+      "start": 1610.7449,
+      "end": 1613.4049,
+      "text": "was exactly that predicted afterglow,"
+    },
+    {
+      "start": 1613.4049,
+      "end": 1625.8698,
+      "text": "the cosmic microwave background the leftover heat of the hot early universe still arriving from all around us That sealed it The expansion tells you the universe is growing"
+    },
+    {
+      "start": 1626.5298,
+      "end": 1630.7298,
+      "text": "The microwave background is the direct fossil of the hot, dense beginning."
+    },
+    {
+      "start": 1631.8298,
+      "end": 1635.0698,
+      "text": "After that, the Big Bang picture was no longer optional."
+    },
+    {
+      "start": 1635.0698,
+      "end": 1641.5698,
+      "text": "I have to ask about that age because I know there's an embarrassing wrinkle in Hubble's original number."
+    },
+    {
+      "start": 1641.5698,
+      "end": 1646.76979,
+      "text": "There's a serious one, and it's worth telling because it shows science limping toward the truth"
+    },
+    {
+      "start": 1646.76979,
+      "end": 1653.1698000000001,
+      "text": "rather than leaping. Hubble's first measurement of the constant was far too large. His slope was"
+    },
+    {
+      "start": 1653.1698000000001,
+      "end": 1658.9298,
+      "text": "much too steep, mostly because the sephir distances of the day were badly miscalibrated,"
+    },
+    {
+      "start": 1658.9298,
+      "end": 1665.40979,
+      "text": "so his galaxies looked closer than they are. And a too-large constant means a too-young universe."
+    },
+    {
+      "start": 1665.40979,
+      "end": 1670.8498,
+      "text": "Hubble's original number implied a universe only about 2 billion years old,"
+    },
+    {
+      "start": 1670.8498,
+      "end": 1677.74979,
+      "text": "which was a disaster because geologists already knew from the rocks that the Earth itself is older than that."
+    },
+    {
+      "start": 1678.5898,
+      "end": 1682.7298,
+      "text": "You had a universe younger than one of its own planets, plainly impossible."
+    },
+    {
+      "start": 1683.8698,
+      "end": 1689.98979,
+      "text": "It took decades of painstaking work, recalibrating the whole distance ladder to fix the constant"
+    },
+    {
+      "start": 1689.98979,
+      "end": 1694.6698000000001,
+      "text": "and stretch the age out to the modern figure of about 14 billion years,"
+    },
+    {
+      "start": 1694.6698000000001,
+      "end": 1696.7898,
+      "text": "comfortably older than the Earth."
+    },
+    {
+      "start": 1697.5498,
+      "end": 1699.2298,
+      "text": "So the discovery was right,"
+    },
+    {
+      "start": 1699.6098,
+      "end": 1702.0498,
+      "text": "but the first number attached to it was badly off,"
+    },
+    {
+      "start": 1702.4098,
+      "end": 1704.58978,
+      "text": "and admitting that was part of getting it right."
+    },
+    {
+      "start": 1704.7097800000001,
+      "end": 1715.63467,
+      "text": "You keep saying the distance ladder and recalibrating it What is the distance ladder exactly It the chain of methods astronomers use to reach farther and farther out"
+    },
+    {
+      "start": 1715.63467,
+      "end": 1722.01468,
+      "text": "And the word ladder is exact because each rung is calibrated by the one below it."
+    },
+    {
+      "start": 1723.0547000000001,
+      "end": 1727.4146700000001,
+      "text": "The bottom rung is the only truly direct measurement, parallax."
+    },
+    {
+      "start": 1728.31467,
+      "end": 1734.2147,
+      "text": "As the Earth swings around the Sun, nearby stars appear to shift slightly against the far background."
+    },
+    {
+      "start": 1735.01468,
+      "end": 1739.31467,
+      "text": "the same way your thumb, held at arm's length, jumps when you switch eyes."
+    },
+    {
+      "start": 1740.07468,
+      "end": 1744.57468,
+      "text": "And that shift, by simple geometry, gives their distance with no assumptions."
+    },
+    {
+      "start": 1745.59467,
+      "end": 1748.1147,
+      "text": "But parallax only reaches the closer stars."
+    },
+    {
+      "start": 1748.97467,
+      "end": 1754.17468,
+      "text": "So you use those parallax distances to calibrate the next rung, the Cepheids."
+    },
+    {
+      "start": 1754.8346999999999,
+      "end": 1758.7747,
+      "text": "Once you know the true brightness of nearby Cepheids from parallax,"
+    },
+    {
+      "start": 1758.7747,
+      "end": 1763.17468,
+      "text": "you trust Levitt's law to carry you out to Cepheids in other galaxies,"
+    },
+    {
+      "start": 1763.17468,
+      "end": 1766.01468,
+      "text": "much farther than parallax could ever reach."
+    },
+    {
+      "start": 1766.9347,
+      "end": 1767.9146700000001,
+      "text": "That's Hubble's rung."
+    },
+    {
+      "start": 1768.73468,
+      "end": 1770.3946799999999,
+      "text": "And then, to go farther still,"
+    },
+    {
+      "start": 1770.79468,
+      "end": 1774.6147,
+      "text": "you calibrate an even brighter standard candle off the Cepheids,"
+    },
+    {
+      "start": 1775.4146700000001,
+      "end": 1780.53467,
+      "text": "exploding stars of a very uniform kind called Type 1a supernovae,"
+    },
+    {
+      "start": 1781.1147,
+      "end": 1784.85468,
+      "text": "each one blazing bright enough to be seen clear across the universe."
+    },
+    {
+      "start": 1786.1147,
+      "end": 1789.29468,
+      "text": "Those are the candles the teams used in the 1990s."
+    },
+    {
+      "start": 1789.67468,
+      "end": 1790.9347,
+      "text": "So it's a ladder."
+    },
+    {
+      "start": 1790.9347,
+      "end": 1799.9947,
+      "text": "parallax calibrates Cepheids, Cepheids calibrate supernovae, supernovae reach the deep universe, and the catch is"
+    },
+    {
+      "start": 1800.0,
+      "end": 1806.72,
+      "text": "that an error in a low rung propagates all the way up, which is exactly why Hubble's early distances"
+    },
+    {
+      "start": 1806.72,
+      "end": 1813.82,
+      "text": "and so his constant were so far off. Fix the bottom and everything above it shifts into place."
+    },
+    {
+      "start": 1813.96,
+      "end": 1820.64,
+      "text": "So we land on a universe that's expanding, has a beginning and is around 14 billion years old."
+    },
+    {
+      "start": 1821.14,
+      "end": 1824.939999,
+      "text": "Is that the end of the story or is there a modern twist?"
+    },
+    {
+      "start": 1824.939999,
+      "end": 1830.739998,
+      "text": "There's a twist that reopens everything, and it circles right back to Einstein's discarded fudge."
+    },
+    {
+      "start": 1831.779999,
+      "end": 1836.859997,
+      "text": "For most of the 20th century, the assumption was that the expansion must be slowing down."
+    },
+    {
+      "start": 1837.76,
+      "end": 1842.019997,
+      "text": "Gravity, pulling on all that matter, should be gently putting the brakes on."
+    },
+    {
+      "start": 1843.059998,
+      "end": 1848.559998,
+      "text": "So in the 1990s, two teams set out to measure how much the expansion was decelerating,"
+    },
+    {
+      "start": 1849.12,
+      "end": 1853.98,
+      "text": "using exploding stars as brighter standard candles to reach much farther out."
+    },
+    {
+      "start": 1853.98,
+      "end": 1858.239998,
+      "text": "And in 1998 they got an answer nobody expected."
+    },
+    {
+      "start": 1859.36,
+      "end": 1862.579998,
+      "text": "The expansion isn't slowing down, it's speeding up."
+    },
+    {
+      "start": 1863.399998,
+      "end": 1869.04,
+      "text": "The universe is expanding faster and faster, as if something is pushing it apart against gravity."
+    },
+    {
+      "start": 1870.1,
+      "end": 1874.0,
+      "text": "And to describe that push, cosmologists reached back into the drawer"
+    },
+    {
+      "start": 1874.0,
+      "end": 1877.2,
+      "text": "and pulled out the very term Einstein had thrown away,"
+    },
+    {
+      "start": 1877.62,
+      "end": 1882.04,
+      "text": "the cosmological constant, that built-in repulsion of empty space."
+    },
+    {
+      "start": 1882.04,
+      "end": 1893.33184,
+      "text": "Einstein greatest blunder turned out to describe something real We call the mysterious push dark energy and it appears to make up most of the total content"
+    },
+    {
+      "start": 1893.33184,
+      "end": 1897.19184,
+      "text": "of the universe, and we genuinely do not know what it is."
+    },
+    {
+      "start": 1897.19184,
+      "end": 1902.87184,
+      "text": "So the term Einstein invented to hold the universe still, then rejected, came back to"
+    },
+    {
+      "start": 1902.87184,
+      "end": 1907.15184,
+      "text": "explain why the universe is flying apart ever faster."
+    },
+    {
+      "start": 1907.15184,
+      "end": 1912.19184,
+      "text": "Came back with a vengeance, and that's roughly where the frontier sits today."
+    },
+    {
+      "start": 1912.19184,
+      "end": 1916.87184,
+      "text": "Hubble's straight line of dots turned a fuzzy philosophical question \u2013 how big is the"
+    },
+    {
+      "start": 1916.87184,
+      "end": 1924.0118400000001,
+      "text": "universe, does it change \u2013 into hard measured fact. It's vast beyond imagining, it's"
+    },
+    {
+      "start": 1924.0118400000001,
+      "end": 1930.07184,
+      "text": "expanding, it began. And the thing driving the expansion faster and faster, the dominant"
+    },
+    {
+      "start": 1930.07184,
+      "end": 1935.43184,
+      "text": "ingredient of the entire cosmos, is a mystery wearing the name of Einstein's abandoned"
+    },
+    {
+      "start": 1935.43184,
+      "end": 1940.47183,
+      "text": "mistake. There's even a live tension right now where different ways of measuring the"
+    },
+    {
+      "start": 1940.47183,
+      "end": 1945.37184,
+      "text": "Hubble constant don't quite agree with each other, which may be hinting at something still"
+    },
+    {
+      "start": 1945.37184,
+      "end": 1950.59183,
+      "text": "missing in the picture. So the story that started with two astronomers arguing about"
+    },
+    {
+      "start": 1950.59183,
+      "end": 1953.15182,
+      "text": "smudges is very much still open."
+    },
+    {
+      "start": 1953.15182,
+      "end": 1958.07184,
+      "text": "From faint smudges nobody could place, to a straight line of dots that revealed the"
+    },
+    {
+      "start": 1958.07184,
+      "end": 1964.63184,
+      "text": "whole universe is expanding, has a beginning, and is now accelerating apart for reasons"
+    },
+    {
+      "start": 1964.63184,
+      "end": 1970.33183,
+      "text": "we can't explain, with Einstein's throwaway term sitting at the centre of the mystery."
+    },
+    {
+      "start": 1970.91183,
+      "end": 1971.93184,
+      "text": "Thank you, George."
+    },
+    {
+      "start": 1972.13184,
+      "end": 1974.71184,
+      "text": "My pleasure. Watch the sky move."
+    }
+  ]
+}

@@ -1,0 +1,1965 @@
+{
+  "episode_id": "ep09",
+  "audio_path": "podcasts\\Great Papers 09 - Bell_s Theorem, 1964.mp3",
+  "duration_sec": 2040.318,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 391,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.700000000000001,
+      "text": "There was one thing about quantum mechanics that Einstein could never swallow.  Not the uncertainty, not even the dice.  The specific thing that kept him up was what he called spooky action at a distance."
+    },
+    {
+      "start": 14.4,
+      "end": 22.96,
+      "text": "The idea that you could do something to a particle over here and instantly, faster than light, affect a particle way over there."
+    },
+    {
+      "start": 23.61,
+      "end": 34.05,
+      "text": "He was sure that couldn't be real, and he spent years trying to show quantum mechanics was missing something.  And here's the twist we're going to spend the hour on, George."
+    },
+    {
+      "start": 34.56,
+      "end": 48.7,
+      "text": "Thirty years later, a physicist named John Bell took Einstein's objection completely seriously, worked out its consequences, and proved Einstein wrong using an experiment anyone could run."
+    },
+    {
+      "start": 49.05,
+      "end": 52.65,
+      "text": "Set it up for me. What exactly was bothering Einstein?"
+    },
+    {
+      "start": 54.78,
+      "end": 58.86,
+      "text": "and to feel the force of it, you have to see what entanglement actually claims."
+    },
+    {
+      "start": 59.85,
+      "end": 61.99,
+      "text": "So here's the whole path for today."
+    },
+    {
+      "start": 62.7,
+      "end": 65.34,
+      "text": "We start with the thing Einstein hated."
+    },
+    {
+      "start": 65.46,
+      "end": 70.58,
+      "text": "a pair of particles linked so that measuring one seems to instantly settle the other."
+    },
+    {
+      "start": 71.22,
+      "end": 73.62,
+      "text": "Then we hear Einstein's escape hatch,"
+    },
+    {
+      "start": 73.77,
+      "end": 76.99,
+      "text": "The reasonable-sounding way out he proposed with two colleagues."
+    },
+    {
+      "start": 77.52,
+      "end": 82.39999999999999,
+      "text": "which for 30 years looked like something you could argue about forever but never test."
+    },
+    {
+      "start": 83.01,
+      "end": 85.41000000000001,
+      "text": "Then Belle does the astonishing thing,"
+    },
+    {
+      "start": 85.74,
+      "end": 90.17999999999999,
+      "text": "He turns that philosophical argument into a number you can measure in a lab."
+    },
+    {
+      "start": 90.78,
+      "end": 94.98,
+      "text": "We'll build his argument concretely with a little machine you can picture."
+    },
+    {
+      "start": 95.49,
+      "end": 97.03,
+      "text": "and then nature votes,"
+    },
+    {
+      "start": 97.23,
+      "end": 99.57000000000001,
+      "text": "and it votes against Einstein hard."
+    },
+    {
+      "start": 100.44,
+      "end": 103.03999999999999,
+      "text": "and we'll finish with what that actually means."
+    },
+    {
+      "start": 103.11,
+      "end": 106.31,
+      "text": "and, just as important, what it does not mean."
+    },
+    {
+      "start": 106.32,
+      "end": 115.91999999999999,
+      "text": "because this is the single most overhyped result in physics.  Start with the pair of particles. What does entanglement really say?  Take two particles."
+    },
+    {
+      "start": 116.01,
+      "end": 120.25,
+      "text": "Think of them like the little spinning things from our episodes on quantum spin,"
+    },
+    {
+      "start": 120.45,
+      "end": 123.37,
+      "text": "and prepare them together in a special linked state."
+    },
+    {
+      "start": 123.6,
+      "end": 125.02,
+      "text": "then send them far apart."
+    },
+    {
+      "start": 126.03,
+      "end": 131.15,
+      "text": "In our earlier episodes, we saw that when you measure a particle's spin along some axis,"
+    },
+    {
+      "start": 131.19,
+      "end": 133.03,
+      "text": "you get one of two answers."
+    },
+    {
+      "start": 133.11,
+      "end": 134.83,
+      "text": "call them up or down."
+    },
+    {
+      "start": 135.06,
+      "end": 137.06,
+      "text": "and which one you get is random."
+    },
+    {
+      "start": 137.67,
+      "end": 139.70999999999998,
+      "text": "Now here's the entangled twist."
+    },
+    {
+      "start": 139.92,
+      "end": 145.92,
+      "text": "For these linked pairs, the two particles always give opposite answers when you measure them the same way."
+    },
+    {
+      "start": 146.31,
+      "end": 152.31,
+      "text": "If your particle reads up, mine, measured along the same axis, is guaranteed down."
+    },
+    {
+      "start": 152.58,
+      "end": 153.66000000000003,
+      "text": "every time."
+    },
+    {
+      "start": 154.05,
+      "end": 166.29000000000002,
+      "text": "even if we've carried them light years apart before we measure. And this is the same spin we  did whole episodes on, the Stern-Gerlach experiment, the wave function. Exactly the same."
+    },
+    {
+      "start": 166.29,
+      "end": 171.01,
+      "text": "and it's worth pulling those threads together because Bell sits right on top of them."
+    },
+    {
+      "start": 171.54,
+      "end": 177.94,
+      "text": "In the spin episode, we saw that when you send a particle through a detector, it gives one of two answers."
+    },
+    {
+      "start": 178.14,
+      "end": 179.51999999999998,
+      "text": "up or down?"
+    },
+    {
+      "start": 179.76,
+      "end": 185.35999999999999,
+      "text": "The answer is random and measuring along one axis scrambles what you'd get along another."
+    },
+    {
+      "start": 185.88,
+      "end": 189.28,
+      "text": "In the Wave Function episode, we saw the deeper reason."
+    },
+    {
+      "start": 189.57,
+      "end": 193.23,
+      "text": "Before measurement, the particle isn't secretly up or down."
+    },
+    {
+      "start": 193.29,
+      "end": 196.01,
+      "text": "It's in a superposition, both at once."
+    },
+    {
+      "start": 196.14,
+      "end": 199.26,
+      "text": "and the measurement is what forces a single outcome."
+    },
+    {
+      "start": 199.62,
+      "end": 205.62,
+      "text": "Now, entanglement is what you get when two such particles share a single wave function."
+    },
+    {
+      "start": 205.71,
+      "end": 208.51000000000002,
+      "text": "one superposition spanning both of them."
+    },
+    {
+      "start": 209.16,
+      "end": 211.79999999999998,
+      "text": "Neither one has its own definite spin."
+    },
+    {
+      "start": 211.98,
+      "end": 215.88,
+      "text": "Only the pair, together, is in a definite joint state."
+    },
+    {
+      "start": 216.12,
+      "end": 218.32,
+      "text": "the state where they'll come out opposite."
+    },
+    {
+      "start": 218.79,
+      "end": 224.98999999999998,
+      "text": "So when I measure mine and force it to a value, the shared wave function settles for both at once."
+    },
+    {
+      "start": 225.45,
+      "end": 228.26999999999998,
+      "text": "That's the setup Einstein found intolerable,"
+    },
+    {
+      "start": 228.3,
+      "end": 232.42000000000002,
+      "text": "and it's built entirely out of the two ideas we already spent time on,"
+    },
+    {
+      "start": 232.68,
+      "end": 256.28000000000003,
+      "text": "random outcomes and properties that aren't fixed until measured.  But that alone doesn't sound spooky. If I put one glove in each of two boxes and mailed them across  the world, opening my box and finding the left glove instantly tells me you have the right one.  No spookiness, they were just always left and right. And that is exactly Einstein's argument."
+    },
+    {
+      "start": 256.71,
+      "end": 258.60999999999996,
+      "text": "You've just made it for him, beautifully."
+    },
+    {
+      "start": 259.59,
+      "end": 261.71,
+      "text": "That glove story is his escape hatch."
+    },
+    {
+      "start": 262.38,
+      "end": 273.42,
+      "text": "He said, \"The obvious explanation for the perfect correlation is that the particles were simply born with definite properties, like the gloves, and they've been carrying those properties all along."
+    },
+    {
+      "start": 273.9,
+      "end": 277.34,
+      "text": "My particle was always up along this axis."
+    },
+    {
+      "start": 277.65,
+      "end": 279.65,
+      "text": "Yours was always down."
+    },
+    {
+      "start": 280.2,
+      "end": 284.21999999999997,
+      "text": "Quantum mechanics doesn't mention these definite pre-existing values,"
+    },
+    {
+      "start": 284.25,
+      "end": 287.53,
+      "text": "so quantum mechanics must be an incomplete description."
+    },
+    {
+      "start": 287.94,
+      "end": 290.02,
+      "text": "There's a deeper layer it's not telling us about."
+    },
+    {
+      "start": 290.79,
+      "end": 292.71000000000004,
+      "text": "That deeper layer got a name."
+    },
+    {
+      "start": 292.77,
+      "end": 294.28999999999996,
+      "text": "hidden variables,"
+    },
+    {
+      "start": 294.69,
+      "end": 302.33,
+      "text": "The particles carry a full set of predetermined answers, hidden from the current theory.  This was personal for Einstein, wasn't it?"
+    },
+    {
+      "start": 302.94,
+      "end": 308.88,
+      "text": "This wasn't a passing objection. He argued about it for decades. For the rest of his life,"
+    },
+    {
+      "start": 308.94,
+      "end": 311.94,
+      "text": "and against the most formidable opponent he ever had,"
+    },
+    {
+      "start": 312.06,
+      "end": 313.24,
+      "text": "Niels Bohr"
+    },
+    {
+      "start": 313.35,
+      "end": 315.81,
+      "text": "one of the architects of quantum mechanics,"
+    },
+    {
+      "start": 316.56,
+      "end": 321.32,
+      "text": "Through the 1920s and 30s, at the big physics conferences in Brussels,"
+    },
+    {
+      "start": 321.42,
+      "end": 324.48,
+      "text": "Einstein and Bohr went at it again and again."
+    },
+    {
+      "start": 325.11,
+      "end": 333.03000000000003,
+      "text": "Einstein would arrive at breakfast with a new thought experiment designed to show quantum mechanics was inconsistent or incomplete."
+    },
+    {
+      "start": 333.6,
+      "end": 337.52000000000004,
+      "text": "Boar would spend the day picking it apart and, by dinner, have an answer."
+    },
+    {
+      "start": 338.46,
+      "end": 341.2,
+      "text": "It was the great intellectual jewel of the era,"
+    },
+    {
+      "start": 341.55,
+      "end": 347.75,
+      "text": "and underneath the specific puzzles was one enormous disagreement about what physics is even for."
+    },
+    {
+      "start": 348.45,
+      "end": 353.49,
+      "text": "Einstein believed physics describes an objective reality that's simply out there"
+    },
+    {
+      "start": 353.52,
+      "end": 355.44,
+      "text": "whether or not anyone looks."
+    },
+    {
+      "start": 355.77,
+      "end": 358.04999999999995,
+      "text": "The moon is there when nobody's watching."
+    },
+    {
+      "start": 358.68,
+      "end": 360.0,
+      "text": "Bohr countered that at"
+    },
+    {
+      "start": 360.0,
+      "end": 365.3199997,
+      "text": "the quantum level, it's meaningless to talk about a property until you've specified how you'd measure"
+    },
+    {
+      "start": 365.3199997,
+      "end": 373.0,
+      "text": "it. The act of measurement is part of the reality. Einstein's famous line, God does not play dice"
+    },
+    {
+      "start": 373.0,
+      "end": 379.58,
+      "text": "with the universe, is a protest against exactly this, against a world where outcomes are irreducibly"
+    },
+    {
+      "start": 379.58,
+      "end": 386.98,
+      "text": "random and properties don't exist until observed. The EPR paper is Einstein's most careful attempt"
+    },
+    {
+      "start": 386.98,
+      "end": 393.2,
+      "text": "to win that argument. And Bell's theorem, 30 years on, is the referee that finally settled it."
+    },
+    {
+      "start": 393.3,
+      "end": 397.04,
+      "text": "And this is the famous paper, Einstein and two others."
+    },
+    {
+      "start": 397.64,
+      "end": 406.079998,
+      "text": "1935. Einstein, Podolsky and Rosen. Everyone calls it the EPR paper. And their point was"
+    },
+    {
+      "start": 406.079998,
+      "end": 411.98,
+      "text": "precisely the glove intuition, dressed up carefully. They argued that if you can predict"
+    },
+    {
+      "start": 411.98,
+      "end": 416.98,
+      "text": "a measurement result with certainty without disturbing the particle, which the entangled"
+    },
+    {
+      "start": 416.98,
+      "end": 422.12,
+      "text": "partner lets you do, then that result must correspond to something real that was already"
+    },
+    {
+      "start": 422.12,
+      "end": 429.52,
+      "text": "there, an element of reality in their phrase. So the values are real and predetermined and"
+    },
+    {
+      "start": 429.52,
+      "end": 436.12,
+      "text": "there's no spooky action at all, just correlations set up in advance, like the gloves. Their"
+    },
+    {
+      "start": 436.12,
+      "end": 443.079994,
+      "text": "position has two parts and the names matter for later realism particles have definite properties"
+    },
+    {
+      "start": 443.079994,
+      "end": 456.75837,
+      "text": "before you measure them and locality nothing you do here can influence a result there faster than light Together local realism A completely reasonable common sense picture of the world"
+    },
+    {
+      "start": 456.75837,
+      "end": 461.238365,
+      "text": "It sounds not just reasonable but obviously correct. Where's the problem?"
+    },
+    {
+      "start": 461.238365,
+      "end": 465.87836500000003,
+      "text": "The problem is that for 30 years nobody could tell whether it was correct,"
+    },
+    {
+      "start": 465.87836500000003,
+      "end": 470.75837,
+      "text": "because local realism and quantum mechanics seem to make all the same predictions for these"
+    },
+    {
+      "start": 470.75837,
+      "end": 475.99837,
+      "text": "experiments. They agreed on everything you could measure. So the disagreement looked"
+    },
+    {
+      "start": 475.99837,
+      "end": 481.69836399999997,
+      "text": "purely philosophical, a matter of taste or interpretation. Do you like the glove picture"
+    },
+    {
+      "start": 481.69836399999997,
+      "end": 488.13837,
+      "text": "or the spooky picture? Argue all you want, the experiments can't tell you apart."
+    },
+    {
+      "start": 488.13837,
+      "end": 493.63837,
+      "text": "Most working physicists shrugged and got on with using quantum mechanics, treating EPR"
+    },
+    {
+      "start": 493.63837,
+      "end": 499.59836,
+      "text": "as a debate for people who liked that sort of thing. And that's where it sat until 1964"
+    },
+    {
+      "start": 499.59836,
+      "end": 502.63837,
+      "text": "when Bell asked a question nobody had quite pinned down."
+    },
+    {
+      "start": 503.53836,
+      "end": 507.51837,
+      "text": "Are local realism and quantum mechanics really always going to agree?"
+    },
+    {
+      "start": 508.03836,
+      "end": 511.89838,
+      "text": "Or is there some clever experiment where they'd give different answers?"
+    },
+    {
+      "start": 511.89838,
+      "end": 513.93835,
+      "text": "And I take it he found one."
+    },
+    {
+      "start": 514.31836,
+      "end": 515.71837,
+      "text": "He found that they must disagree."
+    },
+    {
+      "start": 516.6183599999999,
+      "end": 520.81836,
+      "text": "That there's a whole class of experiments where the glove picture and quantum mechanics"
+    },
+    {
+      "start": 520.81836,
+      "end": 522.9583700000001,
+      "text": "predict measurably different things."
+    },
+    {
+      "start": 523.59836,
+      "end": 527.8783599999999,
+      "text": "That's Bell's theorem, and it's one of the deepest results in the history of physics"
+    },
+    {
+      "start": 527.8783599999999,
+      "end": 533.15836,
+      "text": "because it takes a question everyone had filed under philosophy and drags it into the lab."
+    },
+    {
+      "start": 534.35837,
+      "end": 545.29674,
+      "text": "Let me build his argument for you with a concrete little machine because the logic is airtight and you can follow every step This version is due to the physicist David Mermin"
+    },
+    {
+      "start": 545.29674,
+      "end": 547.59674,
+      "text": "and it strips Bell's idea down to something"
+    },
+    {
+      "start": 547.59674,
+      "end": 548.79674,
+      "text": "you could almost draw."
+    },
+    {
+      "start": 548.79674,
+      "end": 550.8967299999999,
+      "text": "Please, give me the machine."
+    },
+    {
+      "start": 550.8967299999999,
+      "end": 554.19673,
+      "text": "Picture a central box that makes pairs of particles"
+    },
+    {
+      "start": 554.19673,
+      "end": 556.79674,
+      "text": "and fires them in opposite directions,"
+    },
+    {
+      "start": 556.79674,
+      "end": 561.4967300000001,
+      "text": "one to a detector on the left, one to a detector on the right."
+    },
+    {
+      "start": 561.4967300000001,
+      "end": 564.09674,
+      "text": "The two detectors are far apart."
+    },
+    {
+      "start": 564.09674,
+      "end": 567.51672,
+      "text": "Each detector has a switch on it that can be in one of three positions."
+    },
+    {
+      "start": 568.4967300000001,
+      "end": 571.8967299999999,
+      "text": "Call them setting 1, setting 2, setting 3."
+    },
+    {
+      "start": 572.69673,
+      "end": 578.53673,
+      "text": "And each detector has a light on top that flashes either red or green when a particle arrives."
+    },
+    {
+      "start": 579.3967299999999,
+      "end": 580.51672,
+      "text": "That's the whole apparatus."
+    },
+    {
+      "start": 581.41673,
+      "end": 586.65674,
+      "text": "You pick a switch setting on each side, a particle comes in, the light flashes a colour."
+    },
+    {
+      "start": 587.03673,
+      "end": 593.19673,
+      "text": "You do this over and over, millions of times, with the switches set however you like each time,"
+    },
+    {
+      "start": 593.19673,
+      "end": 594.9967300000001,
+      "text": "and you write down the results."
+    },
+    {
+      "start": 595.15674,
+      "end": 597.7567300000001,
+      "text": "Simple enough. What do you see when you run it?"
+    },
+    {
+      "start": 597.91673,
+      "end": 601.29672,
+      "text": "Two facts come out of the data and everything hinges on them."
+    },
+    {
+      "start": 602.3967299999999,
+      "end": 606.61673,
+      "text": "Fact 1. Whenever the two switches happen to be set to the same position,"
+    },
+    {
+      "start": 607.21674,
+      "end": 610.61673,
+      "text": "both on 1 or both on 2 or both on 3,"
+    },
+    {
+      "start": 610.61673,
+      "end": 613.51672,
+      "text": "the two lights always flash the same colour."
+    },
+    {
+      "start": 614.51672,
+      "end": 617.65674,
+      "text": "Perfect agreement every single time the settings match."
+    },
+    {
+      "start": 618.7567,
+      "end": 621.8767399999999,
+      "text": "Fact 2. When you look at all the runs together"
+    },
+    {
+      "start": 621.8767399999999,
+      "end": 637.9150999999999,
+      "text": "across every combination of switch settings mixed randomly the two lights flash the same colour exactly half the time Those are the two experimental facts Hold them both in your head because the whole argument is about whether any local realist"
+    },
+    {
+      "start": 637.9150999999999,
+      "end": 645.05508,
+      "text": "machine can produce both at once. Okay, let me try the glove explanation on fact one. The lights"
+    },
+    {
+      "start": 645.05508,
+      "end": 651.51508,
+      "text": "always match when the settings match, so the particles must be pre-programmed. That's exactly"
+    },
+    {
+      "start": 651.51508,
+      "end": 656.45508,
+      "text": "the local realist move, and let's follow it all the way, because it's about to trap itself."
+    },
+    {
+      "start": 657.13507,
+      "end": 662.4951,
+      "text": "If the two detectors are far apart and there's no spooky communication between them, then"
+    },
+    {
+      "start": 662.4951,
+      "end": 667.7551000000001,
+      "text": "each particle has to decide what colour to flash on its own, using only something it carries"
+    },
+    {
+      "start": 667.7551000000001,
+      "end": 673.2551000000001,
+      "text": "with it. But the particle doesn't know in advance which of the three settings its detector"
+    },
+    {
+      "start": 673.2551000000001,
+      "end": 679.13507,
+      "text": "will be on. The switch could be flipped at the last instant. So to guarantee it matches"
+    },
+    {
+      "start": 679.13507,
+      "end": 684.29507,
+      "text": "its partner whenever the settings agree, each particle must carry a complete instruction"
+    },
+    {
+      "start": 684.29507,
+      "end": 690.95508,
+      "text": "set \u2013 a pre-arranged answer for all three possible settings. Something like, if setting"
+    },
+    {
+      "start": 690.95508,
+      "end": 699.4751,
+      "text": "one, flash red, if setting two, flash green, if setting three, flash red. A little list"
+    },
+    {
+      "start": 699.4751,
+      "end": 700.7551000000001,
+      "text": "of three colours."
+    },
+    {
+      "start": 700.7551000000001,
+      "end": 705.69507,
+      "text": "And for the lights to always agree when the settings match, both particles in a pair have"
+    },
+    {
+      "start": 705.69507,
+      "end": 708.4751,
+      "text": "to carry the identical list."
+    },
+    {
+      "start": 708.4751,
+      "end": 714.5951,
+      "text": "necessarily. If my particle's instruction for setting 2 is green and yours is red,"
+    },
+    {
+      "start": 715.01508,
+      "end": 719.45508,
+      "text": "then on the runs where we both happen to pick setting 2, our lights would disagree."
+    },
+    {
+      "start": 720.0,
+      "end": 721.7199999,
+      "text": "contradicting fact one."
+    },
+    {
+      "start": 722.6799998,
+      "end": 726.16,
+      "text": "So the only way to guarantee perfect agreement at matching settings,"
+    },
+    {
+      "start": 726.6,
+      "end": 727.58,
+      "text": "with no communication,"
+    },
+    {
+      "start": 728.139999,
+      "end": 730.94,
+      "text": "is for both particles of a pair to leave the box"
+    },
+    {
+      "start": 730.94,
+      "end": 733.4,
+      "text": "carrying the very same list of three answers."
+    },
+    {
+      "start": 734.44,
+      "end": 736.76,
+      "text": "Fine, so local realism says"
+    },
+    {
+      "start": 736.76,
+      "end": 740.48,
+      "text": "every pair is born with one of these shared instruction lists."
+    },
+    {
+      "start": 741.119999,
+      "end": 744.58,
+      "text": "Now, and this is Bell's stroke, let's just count."
+    },
+    {
+      "start": 745.22,
+      "end": 747.08,
+      "text": "How many possible lists are there?"
+    },
+    {
+      "start": 747.08,
+      "end": 750.46,
+      "text": "Three slots, each either red or green."
+    },
+    {
+      "start": 751.08,
+      "end": 753.54,
+      "text": "That's eight possible instruction lists in total,"
+    },
+    {
+      "start": 753.94,
+      "end": 758.14,
+      "text": "from all red, red, red, through to all green, green, green."
+    },
+    {
+      "start": 758.34,
+      "end": 762.96,
+      "text": "Right, two choices for each of three settings, eight combinations."
+    },
+    {
+      "start": 763.66,
+      "end": 766.54,
+      "text": "So every pair carries one of eight lists."
+    },
+    {
+      "start": 766.899998,
+      "end": 768.66,
+      "text": "And now we ask the killer question."
+    },
+    {
+      "start": 769.66,
+      "end": 771.5,
+      "text": "Suppose a pair carries some list."
+    },
+    {
+      "start": 772.1,
+      "end": 776.38,
+      "text": "On a given run, you and I independently pick our switch settings at random."
+    },
+    {
+      "start": 776.38,
+      "end": 780.78,
+      "text": "What's the chance our two lights flash the same colour?"
+    },
+    {
+      "start": 780.78,
+      "end": 786.6800000000001,
+      "text": "Remember, both particles carry the same list, so the answer depends only on which two settings"
+    },
+    {
+      "start": 786.6800000000001,
+      "end": 790.159996,
+      "text": "we picked and what the list says."
+    },
+    {
+      "start": 790.159996,
+      "end": 797.84,
+      "text": "Let's take a mixed list, say red for setting 1, red for setting 2, green for setting 3."
+    },
+    {
+      "start": 797.84,
+      "end": 802.14,
+      "text": "Go through every possible pair of choices you and I could make."
+    },
+    {
+      "start": 802.14,
+      "end": 814.71837,
+      "text": "If we both pick the same setting 1 1 2 2 3 3 we match obviously since it the same entry in the same list That three of the combinations all matches"
+    },
+    {
+      "start": 815.65837,
+      "end": 817.558365,
+      "text": "Now the mismatched setting choices."
+    },
+    {
+      "start": 818.35837,
+      "end": 822.1183599999999,
+      "text": "You pick 1 and I pick 2, both red, that matches."
+    },
+    {
+      "start": 823.03837,
+      "end": 826.39837,
+      "text": "1 and 3, red vs green, no match."
+    },
+    {
+      "start": 826.71837,
+      "end": 829.63837,
+      "text": "2 and 1, red-red, match."
+    },
+    {
+      "start": 830.17837,
+      "end": 832.778366,
+      "text": "2 and 3, red-green, no."
+    },
+    {
+      "start": 832.778366,
+      "end": 836.278366,
+      "text": "3 and 1, green, red, no"
+    },
+    {
+      "start": 836.278366,
+      "end": 839.79837,
+      "text": "3 and 2, green, red, no"
+    },
+    {
+      "start": 839.79837,
+      "end": 846.1183599999999,
+      "text": "Let me tally, out of the 9 possible ways we could set our 2 switches, how many gave a match?"
+    },
+    {
+      "start": 846.738365,
+      "end": 850.21837,
+      "text": "Count them, the 3 same setting ones all matched"
+    },
+    {
+      "start": 850.21837,
+      "end": 854.29837,
+      "text": "and among the 6 different setting ones, exactly 2 matched"
+    },
+    {
+      "start": 854.29837,
+      "end": 857.19836,
+      "text": "the 1, 2 and the 2, 1"
+    },
+    {
+      "start": 857.19836,
+      "end": 859.81836,
+      "text": "So 5 matches out of 9"
+    },
+    {
+      "start": 859.81836,
+      "end": 868.51837,
+      "text": "And here's the thing, you get that same answer, 5 out of 9, for every mixed list, any list that isn't all one colour."
+    },
+    {
+      "start": 869.43837,
+      "end": 874.9583700000001,
+      "text": "Two of one colour and one of the other, in any arrangement, always 5 out of 9 matches."
+    },
+    {
+      "start": 875.89838,
+      "end": 884.03836,
+      "text": "And for the two pure lists, all red or all green, every setting flashes the same colour, so you match all 9 out of 9."
+    },
+    {
+      "start": 884.73837,
+      "end": 887.93837,
+      "text": "So think about what local realism has forced on us."
+    },
+    {
+      "start": 887.93837,
+      "end": 890.93835,
+      "text": "Every pair carries one of these lists."
+    },
+    {
+      "start": 890.93835,
+      "end": 894.93835,
+      "text": "The pure lists give matching 9 times out of 9."
+    },
+    {
+      "start": 894.93835,
+      "end": 904.79674,
+      "text": "The mixed lists give matching 5 times out of 9 So no matter how the box chooses which lists to send out whatever mix of pure and mixed pairs"
+    },
+    {
+      "start": 905.37674,
+      "end": 909.15674,
+      "text": "the overall fraction of matches has to be at least five out of nine."
+    },
+    {
+      "start": 909.85674,
+      "end": 911.07674,
+      "text": "It can't come out lower."
+    },
+    {
+      "start": 911.91673,
+      "end": 913.41673,
+      "text": "Five-ninths is the floor."
+    },
+    {
+      "start": 913.41673,
+      "end": 917.27673,
+      "text": "Five-ninths. That's about a little over half."
+    },
+    {
+      "start": 917.71674,
+      "end": 919.41673,
+      "text": "55, 56%."
+    },
+    {
+      "start": 920.07674,
+      "end": 923.41673,
+      "text": "A little over half, five-ninths, is around 56%."
+    },
+    {
+      "start": 923.41673,
+      "end": 942.21674,
+      "text": "That is Bell's inequality in this concrete form. Any local realist machine, any glove-style explanation with pre-set instruction lists and no spooky communication, must make the lights agree at least 56% of the time when you average over all the settings."
+    },
+    {
+      "start": 942.21674,
+      "end": 946.2567300000001,
+      "text": "It cannot do better than five-ninths at avoiding agreement."
+    },
+    {
+      "start": 947.3967299999999,
+      "end": 949.23672,
+      "text": "That's a hard, unavoidable limit."
+    },
+    {
+      "start": 950.03673,
+      "end": 950.91673,
+      "text": "It's just counting."
+    },
+    {
+      "start": 951.79672,
+      "end": 956.17673,
+      "text": "And now go back and look at fact two, the actual experimental result."
+    },
+    {
+      "start": 956.29672,
+      "end": 959.93674,
+      "text": "Fact two was that the lights match exactly half the time."
+    },
+    {
+      "start": 960.4967300000001,
+      "end": 962.55673,
+      "text": "One half, 50%."
+    },
+    {
+      "start": 962.55673,
+      "end": 963.4967300000001,
+      "text": "50%."
+    },
+    {
+      "start": 963.4967300000001,
+      "end": 965.9967300000001,
+      "text": "And 50 is less than 56."
+    },
+    {
+      "start": 966.83673,
+      "end": 969.31674,
+      "text": "The real machine agrees half the time,"
+    },
+    {
+      "start": 969.31674,
+      "end": 975.31674,
+      "text": "but every possible local realist machine is forced to agree at least 56% of the time."
+    },
+    {
+      "start": 975.31674,
+      "end": 981.31674,
+      "text": "The experiment comes in under the floor that local realism says can never be crossed."
+    },
+    {
+      "start": 981.31674,
+      "end": 996.11508,
+      "text": "There is no list of instructions no assignment of hidden pre values that reproduces what nature actually does It not that we haven found the right hidden variables it that no local hidden variables can exist"
+    },
+    {
+      "start": 996.55508,
+      "end": 999.13507,
+      "text": "because any of them would be trapped above five-ninths,"
+    },
+    {
+      "start": 999.4951,
+      "end": 1001.0951,
+      "text": "and reality sits below it."
+    },
+    {
+      "start": 1001.6951,
+      "end": 1006.67508,
+      "text": "The glove picture is not just unlikely, it's mathematically ruled out."
+    },
+    {
+      "start": 1006.79507,
+      "end": 1008.3550700000001,
+      "text": "That's genuinely staggering."
+    },
+    {
+      "start": 1009.07507,
+      "end": 1012.7151,
+      "text": "You've taken the particles were just always left and right,"
+    },
+    {
+      "start": 1012.7151,
+      "end": 1018.11508,
+      "text": "and shown it's not merely wrong but impossible by counting to 9."
+    },
+    {
+      "start": 1018.79507,
+      "end": 1024.9151,
+      "text": "Where does the extra agreement, the drop from 56 down to 50, actually come from?"
+    },
+    {
+      "start": 1025.45508,
+      "end": 1027.4351,
+      "text": "What does quantum mechanics say?"
+    },
+    {
+      "start": 1027.5150800000001,
+      "end": 1031.23508,
+      "text": "Quantum mechanics doesn't give the particles pre-set lists at all."
+    },
+    {
+      "start": 1032.05508,
+      "end": 1035.9951,
+      "text": "It says neither light has a definite colour until a particle is measured."
+    },
+    {
+      "start": 1036.5750699999999,
+      "end": 1039.2751,
+      "text": "The outcome genuinely doesn't exist beforehand"
+    },
+    {
+      "start": 1039.2751,
+      "end": 1044.9351,
+      "text": "and the two measurements are linked in a way that isn't a stored agreement, but a shared state."
+    },
+    {
+      "start": 1046.0150800000001,
+      "end": 1049.0351,
+      "text": "Here's the picture behind those three switch settings, by the way."
+    },
+    {
+      "start": 1049.9351,
+      "end": 1053.2551,
+      "text": "Think of them as three measurement directions, equally spaced,"
+    },
+    {
+      "start": 1053.67508,
+      "end": 1057.83508,
+      "text": "like the three spokes of a piece symbol, 120 degrees apart."
+    },
+    {
+      "start": 1058.83508,
+      "end": 1061.55508,
+      "text": "Quantum Mechanics says the chance the two lights agree"
+    },
+    {
+      "start": 1061.55508,
+      "end": 1066.25507,
+      "text": "depends only on the angle between the two directions you each happen to pick."
+    },
+    {
+      "start": 1067.0150800000001,
+      "end": 1067.67508,
+      "text": "Nothing else."
+    },
+    {
+      "start": 1067.67508,
+      "end": 1074.8551,
+      "text": "Pick the very same direction and they always match, which is fact one. The wider the angle"
+    },
+    {
+      "start": 1074.8551,
+      "end": 1079.95508,
+      "text": "between your two choices, the more often they come out different. And when you plug that"
+    },
+    {
+      "start": 1080.0,
+      "end": 1085.3599997,
+      "text": "particular three-way spacing into the quantum rule and average over all the setting combinations,"
+    },
+    {
+      "start": 1086.06,
+      "end": 1092.16,
+      "text": "the agreement rate works out to exactly one half. Quantum mechanics predicts the number that breaks"
+    },
+    {
+      "start": 1092.16,
+      "end": 1098.4,
+      "text": "the inequality. So the two theories don't just differ in flavor, they predict different percentages,"
+    },
+    {
+      "start": 1099.119999,
+      "end": 1105.82,
+      "text": "56 and up versus 50, and those are numbers you can go measure. The 30-year philosophical"
+    },
+    {
+      "start": 1105.82,
+      "end": 1111.66,
+      "text": "stalemate was never a stalemate. It was an experiment nobody had realised they could run."
+    },
+    {
+      "start": 1111.82,
+      "end": 1117.34,
+      "text": "One thing bugs me about the argument. It's statistical. You have to run it millions of"
+    },
+    {
+      "start": 1117.34,
+      "end": 1125.5,
+      "text": "times and compare percentages. 50 versus 56. Is there a version where a single run just nails it?"
+    },
+    {
+      "start": 1125.88,
+      "end": 1130.899998,
+      "text": "No averaging. There is. And it's even more startling, though it took a couple of decades"
+    },
+    {
+      "start": 1130.899998,
+      "end": 1137.6,
+      "text": "more to find. It's called the GHZ version, after the three physicists who worked it out,"
+    },
+    {
+      "start": 1138.28,
+      "end": 1144.54,
+      "text": "and the trick is to use three entangled particles instead of two. With three, quantum mechanics"
+    },
+    {
+      "start": 1144.54,
+      "end": 1149.1,
+      "text": "predicts that for one particular combination of measurements, the outcomes are perfectly"
+    },
+    {
+      "start": 1149.1,
+      "end": 1156.759995,
+      "text": "100% correlated in a way that local realism gets exactly backwards. It's no longer a matter of"
+    },
+    {
+      "start": 1156.759995,
+      "end": 1176.778366,
+      "text": "quantum says 50 local realism says at least 56 It quantum says the answer is definitely this and any local realist instruction set says the answer is definitely the opposite A single perfect prediction where the two worldviews flatly contradict each other with certainty"
+    },
+    {
+      "start": 1177.47836,
+      "end": 1183.57837,
+      "text": "So in principle, one clean run of the right experiment refutes local realism outright,"
+    },
+    {
+      "start": 1184.098366,
+      "end": 1186.738365,
+      "text": "no statistics, no inequality to cross."
+    },
+    {
+      "start": 1187.47836,
+      "end": 1190.33836,
+      "text": "Just a yes where the glove picture demands a no."
+    },
+    {
+      "start": 1190.33836,
+      "end": 1200.53837,
+      "text": "It's the same conclusion as Bell's, sharpened to a single point, and it makes vivid just how completely quantum correlations escape any pre-set story."
+    },
+    {
+      "start": 1200.63837,
+      "end": 1208.79837,
+      "text": "Before the experiments, I'd have thought a result this shattering would have been front-page news in 1964. Was it?"
+    },
+    {
+      "start": 1208.79837,
+      "end": 1215.99837,
+      "text": "It was almost completely ignored. And why is its own lesson? Bell published it in a brand new"
+    },
+    {
+      "start": 1215.99837,
+      "end": 1222.77837,
+      "text": "journal that folded after only a few issues, so hardly anyone even saw it. But the deeper reason"
+    },
+    {
+      "start": 1222.77837,
+      "end": 1229.31836,
+      "text": "is cultural. In that era, asking what quantum mechanics actually means was close to taboo"
+    },
+    {
+      "start": 1229.31836,
+      "end": 1236.39838,
+      "text": "among serious physicists. The prevailing attitude was, shut up and calculate. The theory gives the"
+    },
+    {
+      "start": 1236.39838,
+      "end": 1240.39838,
+      "text": "numbers, so stop asking embarrassing questions about reality."
+    },
+    {
+      "start": 1240.39838,
+      "end": 1246.39838,
+      "text": "Foundations was seen as a soft subject, something for philosophers or for physicists who were"
+    },
+    {
+      "start": 1246.39838,
+      "end": 1253.39838,
+      "text": "past doing real work. Bell himself was not a foundations specialist by trade. His day job"
+    },
+    {
+      "start": 1253.39838,
+      "end": 1267.07674,
+      "text": "was designing particle accelerators at CERN the big physics laboratory in Geneva and he worked on this question on the side almost as a private hobby because it genuinely nagged at him So the paper that"
+    },
+    {
+      "start": 1267.07674,
+      "end": 1274.1967300000001,
+      "text": "dissolved a 30-year debate sat quietly for years. It took a young physicist named John Clouser to"
+    },
+    {
+      "start": 1274.1967300000001,
+      "end": 1279.77673,
+      "text": "stumble across it and decide, against the explicit advice of senior colleagues who warned him he was"
+    },
+    {
+      "start": 1279.77673,
+      "end": 1284.79674,
+      "text": "throwing away his career on a non-question, to actually go build the experiment."
+    },
+    {
+      "start": 1285.53673,
+      "end": 1289.4567299999999,
+      "text": "The result, the establishment thought wasn't even worth testing,"
+    },
+    {
+      "start": 1289.93674,
+      "end": 1292.59674,
+      "text": "became one of the defining experiments of the century."
+    },
+    {
+      "start": 1292.77673,
+      "end": 1295.03673,
+      "text": "So somebody ran it. What happened?"
+    },
+    {
+      "start": 1295.33673,
+      "end": 1299.97673,
+      "text": "It took real ingenuity to build, because you need genuine entangled pairs"
+    },
+    {
+      "start": 1299.97673,
+      "end": 1303.43674,
+      "text": "and detectors you can switch fast. But people did it."
+    },
+    {
+      "start": 1303.43674,
+      "end": 1311.6967300000001,
+      "text": "The first serious test came from John Clauser and Stuart Friedman in the early 1970s, using pairs of photons."
+    },
+    {
+      "start": 1312.75673,
+      "end": 1318.05673,
+      "text": "Then Alain Aspect and his group in France in the early 80s ran a far tighter version."
+    },
+    {
+      "start": 1319.01672,
+      "end": 1323.57674,
+      "text": "Crucially, they switched the detector settings while the photons were already in flight,"
+    },
+    {
+      "start": 1324.09674,
+      "end": 1331.67673,
+      "text": "so that no signal travelling at light speed could carry the choice of setting from one detector to the other in time to influence the result."
+    },
+    {
+      "start": 1331.67673,
+      "end": 1336.6767300000001,
+      "text": "That closes the door on the particles somehow conspiring."
+    },
+    {
+      "start": 1336.6767300000001,
+      "end": 1342.6767300000001,
+      "text": "And then, around 2015, several groups pulled off what are called loophole-free tests,"
+    },
+    {
+      "start": 1342.6767300000001,
+      "end": 1356.89508,
+      "text": "sealing the last technical gaps at once And in every single one of these experiments across 50 years the answer is the same The inequality is violated The correlations are too strong for any local"
+    },
+    {
+      "start": 1356.89508,
+      "end": 1363.9151,
+      "text": "realist world. Quantum mechanics is right. Einstein's glove picture is wrong. That body"
+    },
+    {
+      "start": 1363.9151,
+      "end": 1371.33508,
+      "text": "of work won the Nobel Prize in 2022. You kept saying closing doors and loophole free. What's"
+    },
+    {
+      "start": 1371.33508,
+      "end": 1375.73508,
+      "text": "loophole here and why did it take 50 years to close them all?"
+    },
+    {
+      "start": 1375.73508,
+      "end": 1381.3551,
+      "text": "A loophole is a way the universe could, in principle, fake a bell violation while still"
+    },
+    {
+      "start": 1381.3551,
+      "end": 1387.17508,
+      "text": "being secretly local and realist \u2013 a crack the glove picture could hide in. There are"
+    },
+    {
+      "start": 1387.17508,
+      "end": 1393.95508,
+      "text": "two big ones. The first is the locality loophole. If the two detectors are too close together"
+    },
+    {
+      "start": 1393.95508,
+      "end": 1398.7751,
+      "text": "or the switch settings are chosen too early, then a signal travelling at or below light"
+    },
+    {
+      "start": 1398.7751,
+      "end": 1404.63507,
+      "text": "speed could quietly pass from one detector to the other and coordinate the results, which"
+    },
+    {
+      "start": 1404.63507,
+      "end": 1410.5351,
+      "text": "would let a local model cheat. You slam that door by putting the detectors far apart and"
+    },
+    {
+      "start": 1410.5351,
+      "end": 1415.0951,
+      "text": "choosing each setting at the last possible instant, while the particles are already in"
+    },
+    {
+      "start": 1415.0951,
+      "end": 1421.2751,
+      "text": "flight so there's no time for any such signal to cross. That's exactly what Aspect's fast"
+    },
+    {
+      "start": 1421.2751,
+      "end": 1423.39508,
+      "text": "switching accomplished."
+    },
+    {
+      "start": 1423.39508,
+      "end": 1429.2151,
+      "text": "The second is the detection loophole. Real detectors miss a lot of particles, and if"
+    },
+    {
+      "start": 1429.2151,
+      "end": 1434.4151,
+      "text": "the ones they happen to catch aren't a fair sample of all the pairs, a sneaky local model"
+    },
+    {
+      "start": 1434.4151,
+      "end": 1439.95508,
+      "text": "could exploit that bias to mimic the quantum result. You close it by catching a higher"
+    },
+    {
+      "start": 1440.0,
+      "end": 1444.12,
+      "text": "enough fraction of the pairs that no biased subset could be doing the work."
+    },
+    {
+      "start": 1445.04,
+      "end": 1449.42,
+      "text": "The maddening thing was that for decades you could close one loophole or the other,"
+    },
+    {
+      "start": 1449.94,
+      "end": 1454.54,
+      "text": "but never both in the same experiment. Plug one and the other sprang open."
+    },
+    {
+      "start": 1455.46,
+      "end": 1461.14,
+      "text": "It wasn't until around 2015 that several groups finally shut every major loophole at once."
+    },
+    {
+      "start": 1461.8,
+      "end": 1466.32,
+      "text": "Those are the loophole-free tests, and they're what make the verdict airtight."
+    },
+    {
+      "start": 1466.32,
+      "end": 1472.0,
+      "text": "Before we get carried away, because I can feel the science fiction siren starting,"
+    },
+    {
+      "start": 1472.7,
+      "end": 1478.32,
+      "text": "you said this is the most overhyped result in physics. This is where people say,"
+    },
+    {
+      "start": 1478.86,
+      "end": 1484.44,
+      "text": "instant communication, telepathy, faster than light internet. Stop them."
+    },
+    {
+      "start": 1484.68,
+      "end": 1490.6,
+      "text": "Let me stop them firmly, because it matters. You cannot send a message with this, not a bit."
+    },
+    {
+      "start": 1491.28,
+      "end": 1491.859997,
+      "text": "Here's why."
+    },
+    {
+      "start": 1492.66,
+      "end": 1496.16,
+      "text": "Yes, my measurement here is instantly correlated with yours there."
+    },
+    {
+      "start": 1496.94,
+      "end": 1498.28,
+      "text": "But my outcome is random."
+    },
+    {
+      "start": 1498.94,
+      "end": 1503.46,
+      "text": "I have no control over whether my light flashes red or green, and neither do you."
+    },
+    {
+      "start": 1504.02,
+      "end": 1507.74,
+      "text": "I can't force my particle to say red in order to signal you."
+    },
+    {
+      "start": 1508.82,
+      "end": 1512.92,
+      "text": "All you see on your end is your own stream of random reds and greens,"
+    },
+    {
+      "start": 1513.42,
+      "end": 1517.619995,
+      "text": "which looks exactly the same no matter what I do, or whether I measure at all."
+    },
+    {
+      "start": 1517.619995,
+      "end": 1523.34,
+      "text": "The spooky correlation only reveals itself when we later bring our two lists of results"
+    },
+    {
+      "start": 1523.34,
+      "end": 1540.204895,
+      "text": "together and compare them And that comparison has to travel by ordinary means a phone call an email something limited by the speed of light So no information outraces light There is no telepathy no faster telegraph"
+    },
+    {
+      "start": 1541.3049,
+      "end": 1543.6449,
+      "text": "Relativity's speed limit is completely safe."
+    },
+    {
+      "start": 1544.4649,
+      "end": 1548.0449,
+      "text": "What's non-local is the correlation, not any usable signal."
+    },
+    {
+      "start": 1548.6849,
+      "end": 1550.884895,
+      "text": "And that distinction is the whole ballgame."
+    },
+    {
+      "start": 1551.8649,
+      "end": 1556.744896,
+      "text": "Nature found a way to be spookier than a glove without ever letting you break the speed limit."
+    },
+    {
+      "start": 1556.9049,
+      "end": 1560.3049,
+      "text": "So if it's not signalling, what exactly did we lose?"
+    },
+    {
+      "start": 1560.7249,
+      "end": 1563.0049,
+      "text": "What's the actual casualty here?"
+    },
+    {
+      "start": 1563.0049,
+      "end": 1568.9449,
+      "text": "Common sense reality, in one of two specific ways, and you have to give up at least one of them."
+    },
+    {
+      "start": 1569.8449,
+      "end": 1574.5049,
+      "text": "Either realism goes, the properties genuinely did not exist before you measured,"
+    },
+    {
+      "start": 1575.10489,
+      "end": 1578.82489,
+      "text": "there was no fact about the colour until the particle arrived at the detector,"
+    },
+    {
+      "start": 1578.82489,
+      "end": 1585.9249,
+      "text": "Or locality goes, there really is some connection between the two sides that doesn't care about distance."
+    },
+    {
+      "start": 1586.7249,
+      "end": 1590.5649,
+      "text": "Or both, but you cannot keep both realism and locality."
+    },
+    {
+      "start": 1591.5649,
+      "end": 1595.9849,
+      "text": "Bell proved that combination is inconsistent with how the world actually behaves."
+    },
+    {
+      "start": 1597.0249,
+      "end": 1598.88489,
+      "text": "Einstein wanted both, desperately."
+    },
+    {
+      "start": 1599.66489,
+      "end": 1603.9049,
+      "text": "A world of definite things minding their own business, no spooky links."
+    },
+    {
+      "start": 1603.9049,
+      "end": 1610.6649,
+      "text": "Bell's theorem, confirmed by decades of experiment, says you can't have that world."
+    },
+    {
+      "start": 1610.6649,
+      "end": 1614.0849,
+      "text": "The universe is stranger than Einstein was willing to accept."
+    },
+    {
+      "start": 1614.0849,
+      "end": 1627.1498,
+      "text": "Is there truly no other escape No third option besides giving up realism or giving up locality There exactly one more and it worth naming so you can see how desperate the alternatives get"
+    },
+    {
+      "start": 1628.0298,
+      "end": 1629.8298,
+      "text": "It's called superdeterminism."
+    },
+    {
+      "start": 1630.76979,
+      "end": 1635.4498,
+      "text": "Remember that Bell's argument quietly leans on something that seems too obvious to state,"
+    },
+    {
+      "start": 1635.96979,
+      "end": 1641.9298,
+      "text": "that the experimenters are free to choose their detector settings independently of what the particles are up to,"
+    },
+    {
+      "start": 1641.9298,
+      "end": 1647.26979,
+      "text": "that the switch flips aren't secretly tied to the hidden instructions the pairs are carrying."
+    },
+    {
+      "start": 1648.7098,
+      "end": 1650.90979,
+      "text": "Superdeterminism denies exactly that."
+    },
+    {
+      "start": 1651.6498,
+      "end": 1656.3298,
+      "text": "It says the settings you thought you freely chose were themselves fixed in advance"
+    },
+    {
+      "start": 1656.3298,
+      "end": 1661.3698,
+      "text": "from the beginning of time and fixed in just such a way as to be correlated with the particles."
+    },
+    {
+      "start": 1661.3698,
+      "end": 1668.9298,
+      "text": "So the entire experiment is a cosmic setup that only imitates a bell violation without any real spookiness."
+    },
+    {
+      "start": 1670.0098,
+      "end": 1671.24979,
+      "text": "Can you rule it out logically?"
+    },
+    {
+      "start": 1671.9298,
+      "end": 1678.2098,
+      "text": "No, you can't. But almost no physicist takes it seriously, and for a good reason. It's"
+    },
+    {
+      "start": 1678.2098,
+      "end": 1683.18979,
+      "text": "corrosive to everything. If you're allowed to assume the universe conspires to correlate"
+    },
+    {
+      "start": 1683.18979,
+      "end": 1688.40979,
+      "text": "your experimental choices with the very thing you're trying to measure, then no experiment"
+    },
+    {
+      "start": 1688.40979,
+      "end": 1695.1098,
+      "text": "about anything means what it appears to mean, and science as a whole stops working. So the"
+    },
+    {
+      "start": 1695.1098,
+      "end": 1701.8898,
+      "text": "mainstream verdict stands, realism or locality has to go, and super-determinism is the escape"
+    },
+    {
+      "start": 1701.8898,
+      "end": 1716.7147,
+      "text": "patch nobody willing to climb through because the price is science itself And there a real irony in who started this isn there The irony is almost too perfect Einstein wrote the EPR paper to defend common sense reality"
+    },
+    {
+      "start": 1717.09467,
+      "end": 1722.31467,
+      "text": "to show that quantum mechanics was incomplete and that underneath it lay a sensible,"
+    },
+    {
+      "start": 1722.6946699999999,
+      "end": 1729.09467,
+      "text": "local, predetermined world. His argument was meant to rescue the gloves, and Bell took that"
+    },
+    {
+      "start": 1729.09467,
+      "end": 1735.01468,
+      "text": "very argument, made it precise, and turned it into the exact tool that demonstrated the gloves"
+    },
+    {
+      "start": 1735.01468,
+      "end": 1741.3747,
+      "text": "are impossible. Einstein's attempt to save local realism became the instrument of its destruction."
+    },
+    {
+      "start": 1742.53467,
+      "end": 1747.35468,
+      "text": "And there's a smaller irony inside it. Bell himself was sympathetic to Einstein."
+    },
+    {
+      "start": 1748.31467,
+      "end": 1753.3346999999999,
+      "text": "He found quantum mechanics philosophically unsatisfying, and he hoped when he started"
+    },
+    {
+      "start": 1753.3346999999999,
+      "end": 1758.75467,
+      "text": "that hidden variables might win. He built the guillotine, hoping it wouldn't fall."
+    },
+    {
+      "start": 1759.09467,
+      "end": 1760.23468,
+      "text": "It fell."
+    },
+    {
+      "start": 1760.53467,
+      "end": 1764.73468,
+      "text": "Does this pick a winner among the big interpretations of quantum mechanics?"
+    },
+    {
+      "start": 1765.6147,
+      "end": 1769.27466,
+      "text": "People argue about Copenhagen, many worlds, all that."
+    },
+    {
+      "start": 1769.81467,
+      "end": 1771.57468,
+      "text": "Did Bell end that fight too?"
+    },
+    {
+      "start": 1771.71466,
+      "end": 1774.9947,
+      "text": "It narrows the field hard, but it doesn't crown a single winner."
+    },
+    {
+      "start": 1775.77466,
+      "end": 1777.67468,
+      "text": "And being precise about that matters."
+    },
+    {
+      "start": 1778.81467,
+      "end": 1782.31467,
+      "text": "What Bell kills specifically is local hidden variables."
+    },
+    {
+      "start": 1782.31467,
+      "end": 1788.45468,
+      "text": "The comfortable idea that particles carry preset values and nothing travels faster than light."
+    },
+    {
+      "start": 1789.09467,
+      "end": 1794.29468,
+      "text": "Any interpretation that keeps both of those is dead. What survives has to give"
+    },
+    {
+      "start": 1794.29468,
+      "end": 1799.9947,
+      "text": "up at least one. The standard Copenhagen view gives up realism. It says"
+    },
+    {
+      "start": 1800.0,
+      "end": 1805.62,
+      "text": "there simply is no definite value before measurement, full stop, and doesn't apologize for it."
+    },
+    {
+      "start": 1806.44,
+      "end": 1812.0,
+      "text": "The many-worlds view gives up the idea of a single outcome. It says every result happens"
+    },
+    {
+      "start": 1812.0,
+      "end": 1817.1,
+      "text": "in branching parallel worlds, which dodges the argument in its own strange way."
+    },
+    {
+      "start": 1817.96,
+      "end": 1823.0,
+      "text": "And the pilot-wave view, due originally to de Broglie and revived by David Bohm,"
+    },
+    {
+      "start": 1823.38,
+      "end": 1829.26,
+      "text": "keeps realism. The particles really do have definite positions, but pays for it by being"
+    },
+    {
+      "start": 1829.26,
+      "end": 1837.02,
+      "text": "openly explicitly non-local, with a guiding wave that reaches across any distance. In fact, Bell was"
+    },
+    {
+      "start": 1837.02,
+      "end": 1842.7,
+      "text": "a great admirer of Bohm's theory, and part of what drove him was wanting to understand why that"
+    },
+    {
+      "start": 1842.7,
+      "end": 1850.22,
+      "text": "non-locality was unavoidable. His theorem is the answer. Any hidden variable theory that reproduces"
+    },
+    {
+      "start": 1850.22,
+      "end": 1865.0351,
+      "text": "quantum mechanics has no choice but to be non So Bell doesn tell you which survivor is correct He tells you what price every survivor has to pay And this didn just settle a debate You said it opened a whole field"
+    },
+    {
+      "start": 1865.655106,
+      "end": 1872.09511,
+      "text": "It changed what physicists thought entanglement was for. For decades, entanglement was a curiosity,"
+    },
+    {
+      "start": 1872.7151,
+      "end": 1878.155106,
+      "text": "a source of headaches and paradoxes. After Bell, and especially after the experiments,"
+    },
+    {
+      "start": 1878.73511,
+      "end": 1884.0951,
+      "text": "people realised those spooky correlations are a resource, something you can put to work."
+    },
+    {
+      "start": 1885.0751,
+      "end": 1888.4151,
+      "text": "That realisation is the seed of quantum information science."
+    },
+    {
+      "start": 1889.295105,
+      "end": 1891.9951,
+      "text": "Quantum computers use entanglement as fuel."
+    },
+    {
+      "start": 1892.6351,
+      "end": 1894.795105,
+      "text": "And there's a gorgeous application to security."
+    },
+    {
+      "start": 1895.5751,
+      "end": 1900.7751,
+      "text": "Because a genuine bell violation is something no local, classical process can fake,"
+    },
+    {
+      "start": 1900.7751,
+      "end": 1905.6951,
+      "text": "you can build cryptography whose secrecy is guaranteed by observing that violation."
+    },
+    {
+      "start": 1906.755104,
+      "end": 1908.4951,
+      "text": "If the numbers break Bell's inequality,"
+    },
+    {
+      "start": 1909.1351,
+      "end": 1913.2151,
+      "text": "you know no eavesdropper with a classical instruction list could have produced them."
+    },
+    {
+      "start": 1913.2151,
+      "end": 1926.65021,
+      "text": "The strangeness itself becomes the lock The deepest weirdness in physics turned into a technology You mentioned computing and cryptography There also this word teleportation that"
+    },
+    {
+      "start": 1926.65021,
+      "end": 1930.5502,
+      "text": "gets thrown around. Is that real or pure sci-fi?"
+    },
+    {
+      "start": 1930.6902,
+      "end": 1936.4902,
+      "text": "It's real. It's called quantum teleportation and it's the perfect note to end the technology on"
+    },
+    {
+      "start": 1936.4902,
+      "end": 1943.3301999999999,
+      "text": "because it shows nature guarding the speed limit even at its spookiest. Here's what it actually is."
+    },
+    {
+      "start": 1943.3301999999999,
+      "end": 1945.53021,
+      "text": "not beaming a person anywhere."
+    },
+    {
+      "start": 1946.51021,
+      "end": 1950.4302,
+      "text": "It's a procedure for transferring the exact quantum state of one particle"
+    },
+    {
+      "start": 1950.4302,
+      "end": 1952.8301999999999,
+      "text": "onto another, distant particle,"
+    },
+    {
+      "start": 1953.4302,
+      "end": 1955.9102,
+      "text": "using a shared entangled pair as the channel."
+    },
+    {
+      "start": 1956.7702,
+      "end": 1961.3301999999999,
+      "text": "And people hear teleportation and imagine something outrunning light."
+    },
+    {
+      "start": 1962.1302,
+      "end": 1963.9302,
+      "text": "So watch how carefully it's arranged."
+    },
+    {
+      "start": 1964.73021,
+      "end": 1967.45021,
+      "text": "To do it, I make a certain measurement on my end,"
+    },
+    {
+      "start": 1967.8301999999999,
+      "end": 1970.9902,
+      "text": "and that measurement hands me a couple of random bits of information,"
+    },
+    {
+      "start": 1970.9902,
+      "end": 1973.5502,
+      "text": "Outcomes I couldn't have predicted."
+    },
+    {
+      "start": 1973.5502,
+      "end": 1987.2053,
+      "text": "The teleportation only completes when I send you those bits over an ordinary channel A phone line an email something crawling along at the speed of light so that you know which final adjustment to make"
+    },
+    {
+      "start": 1987.2053,
+      "end": 1993.08531,
+      "text": "on your particle. Until my classical message reaches you, your particle is pure noise."
+    },
+    {
+      "start": 1993.74532,
+      "end": 1999.66531,
+      "text": "You've got nothing usable. So even quantum teleportation, the most science fiction sounding"
+    },
+    {
+      "start": 1999.66531,
+      "end": 2005.82532,
+      "text": "thing in the whole field cannot move information faster than light. It always needs that plain,"
+    },
+    {
+      "start": 2006.0653,
+      "end": 2011.5653,
+      "text": "light-limited phone call to finish the job. The entanglement does something no ordinary"
+    },
+    {
+      "start": 2011.5653,
+      "end": 2015.50531,
+      "text": "channel could do, but it never once breaks relativity's rule."
+    },
+    {
+      "start": 2015.66531,
+      "end": 2021.5653,
+      "text": "So Einstein points at entanglement and says, this proves the theory is incomplete,"
+    },
+    {
+      "start": 2021.5653,
+      "end": 2028.16531,
+      "text": "the world is really made of gloves. Bell says, let's count, counts to nine,"
+    },
+    {
+      "start": 2028.16531,
+      "end": 2031.78531,
+      "text": "and the world turns out to have no gloves in it at all."
+    },
+    {
+      "start": 2032.2453,
+      "end": 2035.3453,
+      "text": "And that fact is now running inside quantum computers."
+    },
+    {
+      "start": 2036.08531,
+      "end": 2036.9853,
+      "text": "Thank you, George."
+    },
+    {
+      "start": 2037.36531,
+      "end": 2040.08531,
+      "text": "My pleasure. Mind the correlations."
+    }
+  ]
+}

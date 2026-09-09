@@ -1,0 +1,33 @@
+{
+  "episode_id": "ep09",
+  "episode_title": "Bell's Theorem, 1964",
+  "topics": [
+    "Quantum Mechanics",
+    "Foundations of Physics",
+    "Quantum Information Theory",
+    "Philosophy of Science"
+  ],
+  "concepts": [
+    "Bell's Theorem",
+    "Quantum Entanglement",
+    "EPR Paradox",
+    "Local Realism",
+    "Hidden Variables",
+    "Bell's Inequality",
+    "Spooky Action at a Distance",
+    "Quantum Superposition",
+    "Quantum Spin",
+    "Wave Function Collapse",
+    "Locality Loophole",
+    "Detection Loophole",
+    "Quantum Teleportation",
+    "GHZ State",
+    "Superdeterminism",
+    "Copenhagen Interpretation",
+    "Many-Worlds Interpretation",
+    "Pilot-Wave Theory",
+    "Quantum Cryptography",
+    "Loophole-Free Tests"
+  ],
+  "description": "This episode explores Bell's Theorem (1964), which transformed Einstein's philosophical objection to quantum entanglement into a testable experiment that definitively ruled out local hidden variable theories. Using a concrete thought experiment with detectors and instruction lists, the episode shows how Bell proved that no local realistic theory can reproduce quantum mechanical predictions, forcing us to abandon either realism or locality. Essential for anyone interested in quantum foundations, the interpretation of quantum mechanics, or the origins of quantum information science."
+}

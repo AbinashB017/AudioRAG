@@ -1,0 +1,26 @@
+{
+  "episode_id": "ep11",
+  "episode_title": "The Birth of the Quantum, Planck 1900",
+  "topics": [
+    "Quantum Mechanics",
+    "Thermodynamics and Statistical Physics",
+    "History of Physics",
+    "Electromagnetic Radiation"
+  ],
+  "concepts": [
+    "Black body radiation",
+    "Planck's constant",
+    "Quantization of energy",
+    "Ultraviolet catastrophe",
+    "Equipartition theorem",
+    "Wien's displacement law",
+    "Photoelectric effect",
+    "Wave-particle duality",
+    "Spectral lines",
+    "Cosmic microwave background",
+    "Planck's law",
+    "Energy quanta",
+    "Correspondence principle"
+  ],
+  "description": "This episode explores Max Planck's 1900 paper that accidentally birthed quantum mechanics by solving the black body radiation problem. It's essential for anyone wanting to understand how the quantum revolution began\u2014not from bold theory, but from a reluctant mathematical fix to explain why hot objects glow specific colors, leading to the radical discovery that energy comes in discrete packets rather than continuous flows."
+}

@@ -1,0 +1,2375 @@
+{
+  "episode_id": "ep03",
+  "audio_path": "podcasts\\Great Papers 03 - The Double Helix, Watson and Crick 1953.mp3",
+  "duration_sec": 2596.02,
+  "chunk_minutes": 6,
+  "n_chunks": 8,
+  "n_segments": 473,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.3,
+      "text": "In April of 1953, the journal Nature runs a paper that's barely a page long, about 900 words,"
+    },
+    {
+      "start": 8.62,
+      "end": 14.9,
+      "text": "one figure, a sketch you could redraw on a napkin. It's by two men in Cambridge,"
+    },
+    {
+      "start": 14.9,
+      "end": 21.82,
+      "text": "James Watson and Francis Crick, and it proposes a shape for a molecule. And near the end,"
+    },
+    {
+      "start": 21.92,
+      "end": 26.98,
+      "text": "there's a single sentence that has become maybe the most famous act of understatement"
+    },
+    {
+      "start": 30.0,
+      "end": 35.44,
+      "text": "Roughly, it has not escaped our notice that the specific pairing we have postulated"
+    },
+    {
+      "start": 35.44,
+      "end": 40.68,
+      "text": "immediately suggests a possible copying mechanism for the genetic material."
+    },
+    {
+      "start": 41.6,
+      "end": 45.78,
+      "text": "George, that sentence is doing an enormous amount of quiet work."
+    },
+    {
+      "start": 45.78,
+      "end": 51.579998,
+      "text": "I want to understand what they just figured out and why a shape, just a shape,"
+    },
+    {
+      "start": 51.899998,
+      "end": 54.82,
+      "text": "was the answer to the deepest question in biology."
+    },
+    {
+      "start": 55.3,
+      "end": 59.82,
+      "text": "It's the answer to the deepest question in biology precisely because it's a shape."
+    },
+    {
+      "start": 60.0,
+      "end": 63.38,
+      "text": "And that's the thing I most want you to feel by the end of the hour,"
+    },
+    {
+      "start": 64.06,
+      "end": 68.76,
+      "text": "that here, uniquely, the structure of the molecule and the mechanism of life"
+    },
+    {
+      "start": 68.76,
+      "end": 70.64,
+      "text": "turn out to be the same discovery."
+    },
+    {
+      "start": 71.54,
+      "end": 72.86,
+      "text": "So here's our plan."
+    },
+    {
+      "start": 73.72,
+      "end": 76.28,
+      "text": "First, I'll set up the problem they were actually facing,"
+    },
+    {
+      "start": 76.84,
+      "end": 79.58,
+      "text": "which is stranger than, what does DNA look like?"
+    },
+    {
+      "start": 80.24,
+      "end": 98.064896,
+      "text": "It what kind of object could possibly do the two jobs a gene has to do at once Then we lay out the clues on the table in 1953 because they didn work in the dark There were three big hints and one of them is a photograph Then we build the structure"
+    },
+    {
+      "start": 98.4049,
+      "end": 104.8049,
+      "text": "piece by piece, the way they built it. Two chains, a backbone, and the pairing rule that is the whole"
+    },
+    {
+      "start": 104.8049,
+      "end": 111.5849,
+      "text": "ballgame. And then we'll cash out that understated sentence, how a shape tells you how life copies"
+    },
+    {
+      "start": 111.5849,
+      "end": 118.7249,
+      "text": "itself and deal squarely with the story of who got the credit. Two strands and one pairing rule"
+    },
+    {
+      "start": 118.7249,
+      "end": 124.62489,
+      "text": "and the mechanism of heredity falls out. Start with the problem then. What are the two jobs a"
+    },
+    {
+      "start": 124.62489,
+      "end": 131.8649,
+      "text": "gene has to do? Because I think most people, me included, just think genes carry traits and stop"
+    },
+    {
+      "start": 131.8649,
+      "end": 139.0649,
+      "text": "there. Right, and carry traits hides the difficulty. Think about what heredity actually requires of a"
+    },
+    {
+      "start": 139.0649,
+      "end": 146.32489,
+      "text": "molecule. Job one, it has to store information, a staggering amount of it. The full set of"
+    },
+    {
+      "start": 146.32489,
+      "end": 151.5649,
+      "text": "instructions to build and run a living thing, an entire organism, has to be written down"
+    },
+    {
+      "start": 151.5649,
+      "end": 158.4849,
+      "text": "somewhere inside a cell, in molecular form. So whatever the genetic material is, it needs"
+    },
+    {
+      "start": 158.4849,
+      "end": 165.0049,
+      "text": "to be able to hold a huge, specific message. Job two, and this is the one people forget,"
+    },
+    {
+      "start": 165.0049,
+      "end": 170.0049,
+      "text": "It has to copy itself, faithfully, every single time a cell divides."
+    },
+    {
+      "start": 170.0049,
+      "end": 189.9298,
+      "text": "When one cell becomes two each daughter needs a complete accurate copy of the whole instruction set So you need a molecule that is simultaneously a library and a photocopier It stores a vast message and it reproduces that message without error over and over for billions of years"
+    },
+    {
+      "start": 190.1698,
+      "end": 193.6498,
+      "text": "And those two demands kind of pull against each other, don't they?"
+    },
+    {
+      "start": 194.0698,
+      "end": 198.2098,
+      "text": "A big, complicated message sounds hard to copy cleanly."
+    },
+    {
+      "start": 198.2098,
+      "end": 203.5298,
+      "text": "They pull against each other hard and that tension is exactly why the structure was such a shock."
+    },
+    {
+      "start": 203.5298,
+      "end": 207.04979,
+      "text": "because it resolves both at once with a single trick."
+    },
+    {
+      "start": 208.18979,
+      "end": 212.6098,
+      "text": "But in 1953, nobody could see how any molecule pulls it off."
+    },
+    {
+      "start": 213.62979,
+      "end": 217.3898,
+      "text": "And there was a second, more basic uncertainty just before this."
+    },
+    {
+      "start": 218.2898,
+      "end": 221.7098,
+      "text": "People weren't even fully sure DNA was the genetic material."
+    },
+    {
+      "start": 222.7298,
+      "end": 225.2098,
+      "text": "For a long time, the smart money was on proteins"
+    },
+    {
+      "start": 225.2098,
+      "end": 228.54979,
+      "text": "because proteins are built from 20 different building blocks"
+    },
+    {
+      "start": 228.54979,
+      "end": 231.8098,
+      "text": "and seemed rich enough to encode a complicated message."
+    },
+    {
+      "start": 231.8098,
+      "end": 236.0498,
+      "text": "DNA, by contrast, has only four building blocks."
+    },
+    {
+      "start": 236.96979,
+      "end": 239.18979,
+      "text": "It looked too simple, too monotonous,"
+    },
+    {
+      "start": 239.52979,
+      "end": 242.0898,
+      "text": "to be the carrier of something as intricate as heredity."
+    },
+    {
+      "start": 242.2698,
+      "end": 243.30978,
+      "text": "Only four."
+    },
+    {
+      "start": 244.0098,
+      "end": 246.3898,
+      "text": "So people thought DNA was what?"
+    },
+    {
+      "start": 246.6698,
+      "end": 248.5098,
+      "text": "Structural? Scaffolding?"
+    },
+    {
+      "start": 249.0098,
+      "end": 250.12979,
+      "text": "Something like that."
+    },
+    {
+      "start": 250.7098,
+      "end": 252.3298,
+      "text": "A dull, repetitive molecule,"
+    },
+    {
+      "start": 252.9298,
+      "end": 255.52979,
+      "text": "maybe just packaging for the real genetic protein."
+    },
+    {
+      "start": 256.14978,
+      "end": 259.0298,
+      "text": "But through the 1940s and early 50s,"
+    },
+    {
+      "start": 259.0298,
+      "end": 261.4298,
+      "text": "experiments kept pointing the other way."
+    },
+    {
+      "start": 261.80978,
+      "end": 275.4947,
+      "text": "that when you transfer heredity from one organism to another the thing that actually carries it is the DNA not the protein So by about 1952 the field was swinging toward a very uncomfortable conclusion"
+    },
+    {
+      "start": 276.59467,
+      "end": 279.59467,
+      "text": "The genetic material is this simple four-letter molecule,"
+    },
+    {
+      "start": 280.23468,
+      "end": 283.51468,
+      "text": "and we have no idea how something with only four kinds of pieces"
+    },
+    {
+      "start": 283.51468,
+      "end": 288.19467,
+      "text": "could store a whole organism's worth of instructions, let alone copy them."
+    },
+    {
+      "start": 288.8347,
+      "end": 292.19467,
+      "text": "That's the question sitting on the table, and to get at it,"
+    },
+    {
+      "start": 292.19467,
+      "end": 297.5547,
+      "text": "you had to know the molecule's actual physical structure, and that's where the clues come in."
+    },
+    {
+      "start": 297.67468,
+      "end": 304.4347,
+      "text": "Quick step back before the clues. How did we even arrive at a gene is made of something you could"
+    },
+    {
+      "start": 304.4347,
+      "end": 311.6147,
+      "text": "photograph? A century earlier, a gene was just an idea, wasn't it? Purely an idea, and it's a nice"
+    },
+    {
+      "start": 311.6147,
+      "end": 318.23468,
+      "text": "ladder of narrowing questions to see. It starts with Mendel and his pea plants in the 1860s."
+    },
+    {
+      "start": 318.23468,
+      "end": 324.53467,
+      "text": "He showed that heredity comes in discrete units, tall or short, wrinkled or smooth,"
+    },
+    {
+      "start": 324.9947,
+      "end": 331.9947,
+      "text": "passed down whole, not blended. He called them factors, we'd say genes. But that was bookkeeping,"
+    },
+    {
+      "start": 332.6147,
+      "end": 337.89468,
+      "text": "abstract units that explained the ratios in his garden with no physical substance attached."
+    },
+    {
+      "start": 338.85468,
+      "end": 344.77466,
+      "text": "Then, early in the 20th century, those units got a location. Work on the chromosomes,"
+    },
+    {
+      "start": 344.77466,
+      "end": 349.4947,
+      "text": "chromosomes, the little thread-like bodies inside a cell that divide up evenly when the"
+    },
+    {
+      "start": 349.4947,
+      "end": 356.71466,
+      "text": "cell splits, showed that genes sit along the chromosomes, lined up like beads on a string."
+    },
+    {
+      "start": 356.71466,
+      "end": 359.97467,
+      "text": "So the gene now had an address. But a chromosome"
+    },
+    {
+      "start": 360.0,
+      "end": 363.9599998,
+      "text": "is made of two kinds of stuff mixed together, protein and DNA."
+    },
+    {
+      "start": 364.8199997,
+      "end": 369.5199995,
+      "text": "So the question sharpened to, which of those two actually carries the information?"
+    },
+    {
+      "start": 370.62,
+      "end": 375.88,
+      "text": "And once the experiments answered, the DNA, there was only one question left standing."
+    },
+    {
+      "start": 375.88,
+      "end": 380.96,
+      "text": "What does the DNA look like? Because its shape must be how it does the job."
+    },
+    {
+      "start": 381.16,
+      "end": 384.72,
+      "text": "Exactly. And that's the door Watson and Crick walked through."
+    },
+    {
+      "start": 384.72,
+      "end": 386.779999,
+      "text": "Notice the whole march."
+    },
+    {
+      "start": 387.5,
+      "end": 391.539999,
+      "text": "Mendel's abstract factor, to a gene with an address on a chromosome,"
+    },
+    {
+      "start": 392.219997,
+      "end": 395.079998,
+      "text": "to the chromosome being part protein, part DNA,"
+    },
+    {
+      "start": 395.78,
+      "end": 398.52,
+      "text": "to the information living in the DNA, to"
+    },
+    {
+      "start": 398.52,
+      "end": 400.5,
+      "text": "What is DNA's structure?"
+    },
+    {
+      "start": 401.52,
+      "end": 404.94,
+      "text": "Each step made the question more physical, more chemical,"
+    },
+    {
+      "start": 405.53999699999997,
+      "end": 408.96,
+      "text": "until the last one was answerable with x-rays and metal models."
+    },
+    {
+      "start": 409.76,
+      "end": 413.42,
+      "text": "By 1952, they were standing at that final door,"
+    },
+    {
+      "start": 413.42,
+      "end": 417.65999999999997,
+      "text": "and the clues we're about to lay out are what was on the table when they opened it."
+    },
+    {
+      "start": 417.719997,
+      "end": 421.359997,
+      "text": "OK, lay out the clues. You said three big hints."
+    },
+    {
+      "start": 421.8,
+      "end": 424.619995,
+      "text": "What did Watson and Crick actually have to work with?"
+    },
+    {
+      "start": 424.759995,
+      "end": 429.5,
+      "text": "Let me put them on the table one at a time because the detective story quality is real."
+    },
+    {
+      "start": 430.68,
+      "end": 435.22,
+      "text": "Clue one is the chemistry, what DNA is made of at the parts level."
+    },
+    {
+      "start": 435.22,
+      "end": 442.939995,
+      "text": "A strand of DNA is a long chain and the chain has a repeating backbone made of two alternating pieces."
+    },
+    {
+      "start": 443.42,
+      "end": 458.47836,
+      "text": "a sugar called deoxyribose and a phosphate group Sugar phosphate sugar phosphate all the way down A monotonous rail And hanging off each sugar sticking out sideways from that rail"
+    },
+    {
+      "start": 458.85837,
+      "end": 461.49837,
+      "text": "is one of four smaller molecules called bases."
+    },
+    {
+      "start": 462.058365,
+      "end": 465.49837,
+      "text": "The four bases have names we'll shorten to their initials."
+    },
+    {
+      "start": 466.03837,
+      "end": 468.65837,
+      "text": "A, T, G, and C."
+    },
+    {
+      "start": 469.778366,
+      "end": 472.95837,
+      "text": "So picture a long rail with little flags sticking out of it,"
+    },
+    {
+      "start": 472.95837,
+      "end": 479.71837,
+      "text": "and each flag is one of four kinds. The message, whatever it is, has to be written in the sequence"
+    },
+    {
+      "start": 479.71837,
+      "end": 487.85837,
+      "text": "of those flags, the order of A's, T's, G's and C's along the rail. That's the only place variety"
+    },
+    {
+      "start": 487.85837,
+      "end": 494.59836,
+      "text": "can live because the backbone is always the same. Before we leave the parts, do those four bases have"
+    },
+    {
+      "start": 494.59836,
+      "end": 500.79837,
+      "text": "real names and is there any rhyme to which is which? They do and there's a useful pattern."
+    },
+    {
+      "start": 501.75836000000004,
+      "end": 505.89836,
+      "text": "The full names are adenine, thymine, guanine and cytosine."
+    },
+    {
+      "start": 506.57837,
+      "end": 508.85837000000004,
+      "text": "That's your A, T, G and C."
+    },
+    {
+      "start": 509.41837,
+      "end": 512.21837,
+      "text": "And they fall into two families by size and shape."
+    },
+    {
+      "start": 513.13837,
+      "end": 518.63837,
+      "text": "Adenine and guanine, A and G, are the larger ones, built on a double ring of atoms."
+    },
+    {
+      "start": 519.49837,
+      "end": 520.65836,
+      "text": "They're called purines."
+    },
+    {
+      "start": 521.51837,
+      "end": 528.65836,
+      "text": "Thymine and cytosine, T and C, are the smaller ones, a single ring, called pyrimidines."
+    },
+    {
+      "start": 528.65836,
+      "end": 531.9583700000001,
+      "text": "So two big bases, two small bases."
+    },
+    {
+      "start": 531.9583700000001,
+      "end": 550.35674,
+      "text": "File that away because that size difference is going to do real structural work when we build the rungs of the ladder One aside worth a sentence there a chemical cousin of DNA called RNA that swaps thymine for a very similar base and usually goes around as a single strand"
+    },
+    {
+      "start": 551.15674,
+      "end": 553.13673,
+      "text": "It's the working, disposable copy."
+    },
+    {
+      "start": 554.17673,
+      "end": 557.41673,
+      "text": "DNA is the double-stranded, stable, archival version."
+    },
+    {
+      "start": 558.29674,
+      "end": 561.07674,
+      "text": "For today, keep the four letters and the two sizes."
+    },
+    {
+      "start": 561.07674,
+      "end": 567.31674,
+      "text": "So the backbone is the boring part, and the four bases, in some order, are the alphabet."
+    },
+    {
+      "start": 567.8967299999999,
+      "end": 570.23672,
+      "text": "That's clue one. What's clue two?"
+    },
+    {
+      "start": 570.37674,
+      "end": 576.15674,
+      "text": "Clue two is a beautiful numerical regularity that a biochemist named Erwin Shargaff had measured,"
+    },
+    {
+      "start": 576.67673,
+      "end": 582.59674,
+      "text": "and that nobody could explain. Shargaff went and carefully counted the four bases in DNA"
+    },
+    {
+      "start": 582.59674,
+      "end": 588.4967300000001,
+      "text": "from all sorts of different organisms, and he found something odd. The amounts of the four"
+    },
+    {
+      "start": 588.4967300000001,
+      "end": 594.33673,
+      "text": "bases were different from species to species, but within any given sample, two equalities"
+    },
+    {
+      "start": 594.33673,
+      "end": 601.13673,
+      "text": "always held. The amount of A was always essentially equal to the amount of T, and the amount of"
+    },
+    {
+      "start": 601.13673,
+      "end": 609.43674,
+      "text": "G was always essentially equal to the amount of C. Always. A equals T, G equals C, in every"
+    },
+    {
+      "start": 609.43674,
+      "end": 612.9967300000001,
+      "text": "creature he looked at, even though the overall proportions varied."
+    },
+    {
+      "start": 612.9967300000001,
+      "end": 634.4150999999999,
+      "text": "That the kind of fact that has to mean something A and T tracking each other exactly G and C tracking each other exactly That not a coincidence That a mechanism leaving a fingerprint That is exactly the right instinct And hold on to it because it going to snap into place with an almost audible click later"
+    },
+    {
+      "start": 635.4150999999999,
+      "end": 642.2151,
+      "text": "In 1952, though, it was just a rule with no reason. Chargaff's rules, a suggestive pattern"
+    },
+    {
+      "start": 642.2151,
+      "end": 649.55508,
+      "text": "floating free of any structure. Nobody knew why A should care about T. Now clue three,"
+    },
+    {
+      "start": 649.55508,
+      "end": 656.2350799999999,
+      "text": "and this is the famous one, X-ray diffraction. This is a technique where you shine X-rays through"
+    },
+    {
+      "start": 656.2350799999999,
+      "end": 661.79507,
+      "text": "a crystal or a fibre of a molecule and the regular repeating structure scatters the rays"
+    },
+    {
+      "start": 661.79507,
+      "end": 667.9751,
+      "text": "into a pattern of spots and arcs on film. You don't see the molecule directly, you see its"
+    },
+    {
+      "start": 667.9751,
+      "end": 673.8551,
+      "text": "diffraction shadow, and from the geometry of that shadow you can work backward to the shape that cast"
+    },
+    {
+      "start": 673.8551,
+      "end": 679.9751,
+      "text": "it. The people doing this for DNA, and doing it superbly, were at King's College in London,"
+    },
+    {
+      "start": 680.8551,
+      "end": 686.3551,
+      "text": "Maurice Wilkins and Rosalind Franklin. And this is the photo 51 I've heard about."
+    },
+    {
+      "start": 686.55508,
+      "end": 692.69507,
+      "text": "This is photo 51. Rosalind Franklin produced an X-ray diffraction image of DNA,"
+    },
+    {
+      "start": 693.4751,
+      "end": 698.4150999999999,
+      "text": "the sharpest anyone had taken, and to a trained eye, it screams two things."
+    },
+    {
+      "start": 698.4150999999999,
+      "end": 705.55508,
+      "text": "First, the overall pattern is a big, bold X shape of smeared spots, and that X is the"
+    },
+    {
+      "start": 705.55508,
+      "end": 712.7550699999999,
+      "text": "unmistakable signature of a helix. A helix, a spiral, diffracts X-rays into exactly that"
+    },
+    {
+      "start": 712.7550699999999,
+      "end": 719.9751,
+      "text": "cross pattern. It's a dead giveaway. Second, the spacings between the marks encode the dimensions."
+    },
+    {
+      "start": 720.0,
+      "end": 725.44,
+      "text": "how wide the helix is and how far you go along it before the spiral repeats."
+    },
+    {
+      "start": 726.46,
+      "end": 728.82,
+      "text": "Franklin's data pinned those numbers down."
+    },
+    {
+      "start": 729.66,
+      "end": 733.04,
+      "text": "The molecule is a helix of a definite, measurable diameter,"
+    },
+    {
+      "start": 733.719999,
+      "end": 735.179999,
+      "text": "repeating at a definite interval."
+    },
+    {
+      "start": 736.26,
+      "end": 740.26,
+      "text": "So clue 3 says, it's a helix, and here are its measurements."
+    },
+    {
+      "start": 740.26,
+      "end": 744.619999,
+      "text": "So by the time Watson and Crick sit down, the clues are"
+    },
+    {
+      "start": 744.619999,
+      "end": 748.96,
+      "text": "a sugar phosphate backbone with four bases as the alphabet,"
+    },
+    {
+      "start": 748.96,
+      "end": 759.28,
+      "text": "Chargaff's A equals T and G equals C and Franklin's photo saying helix this wide repeating this often."
+    },
+    {
+      "start": 760.18,
+      "end": 764.14,
+      "text": "What do they do with that? They weren't doing experiments themselves, right?"
+    },
+    {
+      "start": 764.48,
+      "end": 768.219997,
+      "text": "Correct, and this is a real feature of the story, not a footnote."
+    },
+    {
+      "start": 769.219997,
+      "end": 772.44,
+      "text": "Watson and Crick did essentially no experiments on DNA."
+    },
+    {
+      "start": 773.0,
+      "end": 774.84,
+      "text": "Their method was model building."
+    },
+    {
+      "start": 775.74,
+      "end": 778.88,
+      "text": "Literally, they had a workshop with bits of metal and wire"
+    },
+    {
+      "start": 778.88,
+      "end": 782.56,
+      "text": "cut to the shapes and sizes of the actual atoms and bonds,"
+    },
+    {
+      "start": 783.28,
+      "end": 786.1800000000001,
+      "text": "at the correct angles and lengths that chemistry allows,"
+    },
+    {
+      "start": 786.76,
+      "end": 791.92,
+      "text": "and they tried to assemble those pieces into a structure that satisfied every constraint at once."
+    },
+    {
+      "start": 792.26,
+      "end": 797.44,
+      "text": "The known chemistry of the backbone, the dimensions from Franklin's X-ray data,"
+    },
+    {
+      "start": 798.02,
+      "end": 803.92,
+      "text": "and the requirement that it be a physically sensible molecule with no atoms jammed impossibly close."
+    },
+    {
+      "start": 804.84,
+      "end": 819.61837,
+      "text": "It a three jigsaw puzzle where the pieces are atoms and the rules are the laws of chemistry and the measurements from London Were they the only ones building models This feels like exactly the kind of prize other people would be racing for"
+    },
+    {
+      "start": 819.81837,
+      "end": 825.1183599999999,
+      "text": "They were very much not alone, and the person breathing down their necks was Linus Pauling,"
+    },
+    {
+      "start": 825.918365,
+      "end": 834.83836,
+      "text": "arguably the greatest chemist of the century, who had just triumphantly worked out a key piece of protein structure using this very model-building method."
+    },
+    {
+      "start": 834.99837,
+      "end": 840.21837,
+      "text": "He was the favourite to crack DNA too, and Watson and Crick knew it."
+    },
+    {
+      "start": 841.13837,
+      "end": 844.13837,
+      "text": "There's a real sense of a clock ticking through the whole episode."
+    },
+    {
+      "start": 845.17837,
+      "end": 846.15837,
+      "text": "And here's the twist."
+    },
+    {
+      "start": 846.9583700000001,
+      "end": 852.25836,
+      "text": "Early in 1953, Pauling actually published a proposed structure for DNA."
+    },
+    {
+      "start": 853.21837,
+      "end": 854.01837,
+      "text": "And it was wrong."
+    },
+    {
+      "start": 854.87837,
+      "end": 859.93837,
+      "text": "He put forward a triple helix, three strands, with the backbones on the inside,"
+    },
+    {
+      "start": 859.93837,
+      "end": 862.69836,
+      "text": "and he'd made a basic chemical slip,"
+    },
+    {
+      "start": 863.21837,
+      "end": 866.39836,
+      "text": "arranging the backbone in a form that simply wouldn't hold together."
+    },
+    {
+      "start": 867.6183599999999,
+      "end": 871.03836,
+      "text": "When Watson saw Pauling's manuscript and spotted the error,"
+    },
+    {
+      "start": 871.55836,
+      "end": 873.4583700000001,
+      "text": "he realised two things at once."
+    },
+    {
+      "start": 874.25836,
+      "end": 877.09836,
+      "text": "The race was still open and it wouldn't be for long"
+    },
+    {
+      "start": 877.09836,
+      "end": 880.1183599999999,
+      "text": "because Pauling would see his own mistake within weeks."
+    },
+    {
+      "start": 881.01837,
+      "end": 882.39838,
+      "text": "That's the pressure they were under."
+    },
+    {
+      "start": 882.59836,
+      "end": 885.53836,
+      "text": "So the model building method cuts both ways."
+    },
+    {
+      "start": 886.09836,
+      "end": 888.6783800000001,
+      "text": "It's fast but if you publish a wrong model,"
+    },
+    {
+      "start": 888.6783800000001,
+      "end": 892.51837,
+      "text": "you publish it in public, mistakes and all."
+    },
+    {
+      "start": 892.51837,
+      "end": 906.61673,
+      "text": "Exactly And that the gamble of the whole approach You not slowly accumulating measurements You making a bold three guess and betting it consistent with everyone else data Get it right and you leap ahead"
+    },
+    {
+      "start": 906.61673,
+      "end": 912.35674,
+      "text": "of the people doing the patient experiments. Get it wrong, like Pauling just had, and your"
+    },
+    {
+      "start": 912.35674,
+      "end": 918.51674,
+      "text": "error is out there for rivals to pounce on. It rewards being fast and being right, and"
+    },
+    {
+      "start": 918.51674,
+      "end": 925.11673,
+      "text": "punishes being fast and wrong. That high stakes quality is part of why this is told as a race,"
+    },
+    {
+      "start": 925.59674,
+      "end": 931.31674,
+      "text": "and why the correct arrangement, when they found it, had to satisfy every constraint with no cheating."
+    },
+    {
+      "start": 931.57674,
+      "end": 937.77673,
+      "text": "So it's constraint satisfaction with tinker toys, basically. Where does it start to go wrong or"
+    },
+    {
+      "start": 937.77673,
+      "end": 943.83673,
+      "text": "right? Because I imagine there were false starts. There were, and one false start is instructive."
+    },
+    {
+      "start": 943.83673,
+      "end": 952.19673,
+      "text": "An early attempt put the backbones on the inside, with the bases pointing outward like a molecule turned inside out."
+    },
+    {
+      "start": 953.07674,
+      "end": 957.4967300000001,
+      "text": "It didn't work. It couldn't be made to fit the data or the chemistry comfortably."
+    },
+    {
+      "start": 958.57674,
+      "end": 962.13673,
+      "text": "The correction, which turned out to be crucial, was to flip it."
+    },
+    {
+      "start": 962.4967300000001,
+      "end": 968.81674,
+      "text": "Put the two sugar-phosphate backbones on the outside, winding around the outside of the structure,"
+    },
+    {
+      "start": 969.29674,
+      "end": 973.75674,
+      "text": "and point the bases inward toward the central axis where they meet in the middle."
+    },
+    {
+      "start": 973.83673,
+      "end": 979.67673,
+      "text": "So the final picture starts to look like a spiral staircase or a twisted ladder."
+    },
+    {
+      "start": 979.67673,
+      "end": 995.07507,
+      "text": "The two railings are the sugar phosphate backbones on the outside and the rungs in the middle are made of the bases reaching in toward each other from the two sides A twisted ladder Two backbone railings on the outside They shrungs in the middle"
+    },
+    {
+      "start": 995.61508,
+      "end": 997.0351,
+      "text": "And there are two strands."
+    },
+    {
+      "start": 997.45508,
+      "end": 998.0351,
+      "text": "Not one."
+    },
+    {
+      "start": 998.4350999999999,
+      "end": 1000.8550700000001,
+      "text": "That's the double in double helix."
+    },
+    {
+      "start": 1001.17508,
+      "end": 1002.1951,
+      "text": "Two strands, yes."
+    },
+    {
+      "start": 1002.7151,
+      "end": 1007.0951,
+      "text": "And here's a subtle but vital detail about how those two strands are oriented."
+    },
+    {
+      "start": 1007.9951,
+      "end": 1009.55508,
+      "text": "They run in opposite directions."
+    },
+    {
+      "start": 1010.51508,
+      "end": 1012.6551,
+      "text": "The backbone has a chemical direction to it."
+    },
+    {
+      "start": 1012.6551,
+      "end": 1018.9150999999999,
+      "text": "Think of it as having a head end and a tail end, a definite polarity, like a one-way street."
+    },
+    {
+      "start": 1019.8551,
+      "end": 1023.2151,
+      "text": "And in the double helix, the two strands point opposite ways."
+    },
+    {
+      "start": 1024.05508,
+      "end": 1028.4351,
+      "text": "One runs head to tail going up, the other runs head to tail going down."
+    },
+    {
+      "start": 1029.2950700000001,
+      "end": 1031.17508,
+      "text": "They're described as anti-parallel."
+    },
+    {
+      "start": 1031.9951,
+      "end": 1037.4151,
+      "text": "Picture two lanes of a road running alongside each other, but with traffic flowing in opposite directions."
+    },
+    {
+      "start": 1037.4151,
+      "end": 1044.89508,
+      "text": "That anti-parallel arrangement is what lets the two backbones nestle against each other properly as they twist."
+    },
+    {
+      "start": 1045.73508,
+      "end": 1049.23508,
+      "text": "Get that detail wrong and the geometry doesn't close up."
+    },
+    {
+      "start": 1049.39508,
+      "end": 1056.0351,
+      "text": "OK, so two anti-parallel backbones spiralling on the outside, bases reaching into the middle."
+    },
+    {
+      "start": 1056.8151,
+      "end": 1060.1551,
+      "text": "Now the rungs, the bases meeting in the centre."
+    },
+    {
+      "start": 1060.8751,
+      "end": 1062.8751,
+      "text": "This is where it all happens, isn't it?"
+    },
+    {
+      "start": 1063.4151,
+      "end": 1065.4351,
+      "text": "What's the rule for how they meet?"
+    },
+    {
+      "start": 1065.4351,
+      "end": 1068.89508,
+      "text": "This is the whole ballgame. Everything has been leading here."
+    },
+    {
+      "start": 1069.95508,
+      "end": 1072.31506,
+      "text": "The bases point inward and meet in the middle."
+    },
+    {
+      "start": 1072.9351,
+      "end": 1075.73508,
+      "text": "And the question is, which base pairs with which?"
+    },
+    {
+      "start": 1076.4351,
+      "end": 1079.4351,
+      "text": "And it can't be arbitrary because of a geometry problem."
+    },
+    {
+      "start": 1080.0,
+      "end": 1089.719999,
+      "text": "The four bases come in two sizes. Two of them, A and G, are bigger. They're built from a double ring of atoms. They're called purines."
+    },
+    {
+      "start": 1090.36,
+      "end": 1096.199999,
+      "text": "The other two, T and C, are smaller, a single ring, called pyrimidines."
+    },
+    {
+      "start": 1097.08,
+      "end": 1100.48,
+      "text": "Now the double helix has to have a constant width all the way up."
+    },
+    {
+      "start": 1101.16,
+      "end": 1107.18,
+      "text": "The two railings stay the same distance apart, because Franklin's photo says the diameter is uniform."
+    },
+    {
+      "start": 1107.18,
+      "end": 1114.4,
+      "text": "So each rung has to be the same length. If you paired two big purines together, the rung would"
+    },
+    {
+      "start": 1114.4,
+      "end": 1121.34,
+      "text": "bulge, too wide. Two small pyrimidines and the rung would be too short, the railings would pinch"
+    },
+    {
+      "start": 1121.34,
+      "end": 1128.12,
+      "text": "in. The only way to keep every rung exactly the same width is to always pair one big base with"
+    },
+    {
+      "start": 1128.12,
+      "end": 1135.64,
+      "text": "one small base, a purine across from a pyrimidine every time. So width alone tells you big always"
+    },
+    {
+      "start": 1135.64,
+      "end": 1142.12,
+      "text": "pairs with small, but that still leaves choices. A big A could pair with either small base,"
+    },
+    {
+      "start": 1142.36,
+      "end": 1149.659996,
+      "text": "T or C. What nails it down to specific partners? Two things nail it and they agree, which is how"
+    },
+    {
+      "start": 1149.659996,
+      "end": 1155.479996,
+      "text": "they knew they were right. The first is the chemistry of how the bases can touch, specifically"
+    },
+    {
+      "start": 1155.479996,
+      "end": 1161.88,
+      "text": "hydrogen bonds. A hydrogen bond is a weak attraction, a little molecular handshake"
+    },
+    {
+      "start": 1161.88,
+      "end": 1186.01837,
+      "text": "that forms when certain atoms line up just so And when Watson and Crick looked at where the hands stick out on each base where the hydrogen bonds could form they found that A and T fit together perfectly their handshake points lining up so the two bases clasp with two hydrogen bonds and G and C fit together perfectly clasping with three hydrogen bonds"
+    },
+    {
+      "start": 1186.01837,
+      "end": 1192.49837,
+      "text": "But A with C or G with T, the hands don't line up, they don't clasp."
+    },
+    {
+      "start": 1193.37837,
+      "end": 1195.85837,
+      "text": "So the chemistry itself selects the partners."
+    },
+    {
+      "start": 1196.83836,
+      "end": 1199.47836,
+      "text": "A pairs with T, G pairs with C."
+    },
+    {
+      "start": 1200.3983699999999,
+      "end": 1203.918365,
+      "text": "Each is a purine with a pyrimidine, so the width is constant"
+    },
+    {
+      "start": 1203.918365,
+      "end": 1208.71837,
+      "text": "and each makes a clean hydrogen bonded clasp, so the fit is specific."
+    },
+    {
+      "start": 1208.71837,
+      "end": 1219.97836,
+      "text": "A with T, G with C, and wait. A equals T, G equals C. That's Chargaff. That's the click you told me to wait for."
+    },
+    {
+      "start": 1220.23837,
+      "end": 1220.97836,
+      "text": "That's the click."
+    },
+    {
+      "start": 1222.01837,
+      "end": 1223.73837,
+      "text": "Listen to how completely it lands."
+    },
+    {
+      "start": 1224.73837,
+      "end": 1233.23837,
+      "text": "If every single A in the molecule is sitting across the ladder from a T, holding hands with it, then the number of A's must equal the number of T's."
+    },
+    {
+      "start": 1234.17838,
+      "end": 1237.71835,
+      "text": "Automatically, structurally, with no other explanation needed."
+    },
+    {
+      "start": 1237.71837,
+      "end": 1243.71837,
+      "text": "And if every G faces a C, the number of G's must equal the number of C's."
+    },
+    {
+      "start": 1243.71837,
+      "end": 1250.89838,
+      "text": "Chargaff's mysterious rule, A equals T and G equals C, isn't a coincidence and isn't"
+    },
+    {
+      "start": 1250.89838,
+      "end": 1267.51674,
+      "text": "a free fact It the direct fingerprint of base pairing The structure predicts the rule The moment you see the ladder with its A and GC rungs Chargaff numbers stop being a mystery and become a consequence That the kind of thing"
+    },
+    {
+      "start": 1267.51674,
+      "end": 1272.63673,
+      "text": "that tells you you're not just fitting the data, you've found the reason. One thing before we move"
+    },
+    {
+      "start": 1272.63673,
+      "end": 1279.25673,
+      "text": "on, the message is all tucked away on the inside, buried between the rungs. How does anything ever"
+    },
+    {
+      "start": 1279.25673,
+      "end": 1285.35674,
+      "text": "read it if it's hidden in the core of the helix. Beautiful question, and the answer is a feature of"
+    },
+    {
+      "start": 1285.35674,
+      "end": 1291.97673,
+      "text": "the shape we haven't named yet, the grooves. When two strands twist around each other, they don't"
+    },
+    {
+      "start": 1291.97673,
+      "end": 1298.31674,
+      "text": "cover the whole surface evenly. The winding leaves two spiral channels running along the outside of"
+    },
+    {
+      "start": 1298.31674,
+      "end": 1305.41673,
+      "text": "the helix, one wider and one narrower, called the major and minor grooves. And here's the key."
+    },
+    {
+      "start": 1305.41673,
+      "end": 1312.53673,
+      "text": "Although the bodies of the bases are buried in the middle, the edges of each base pair face outward into those grooves."
+    },
+    {
+      "start": 1313.6967300000001,
+      "end": 1322.09674,
+      "text": "Each kind of pair, an AT, a GC, presents a distinctive little pattern of chemical bumps and hollows along the groove."
+    },
+    {
+      "start": 1323.03674,
+      "end": 1328.25673,
+      "text": "So a protein can slide along the groove and in effect feel the sequence by touch."
+    },
+    {
+      "start": 1329.05673,
+      "end": 1333.51672,
+      "text": "Read which letters are there from the outside without ever unzipping the helix."
+    },
+    {
+      "start": 1333.51672,
+      "end": 1358.2751,
+      "text": "So reading and copying are two different operations Copying needs you to unzip but just reading the sequence to decide which gene to switch on you can do from the outside Precisely And that distinction runs all of biology regulation The proteins that decide which genes are active in which cells at which times work largely by reading those groove patterns"
+    },
+    {
+      "start": 1359.13507,
+      "end": 1364.83508,
+      "text": "recognising a specific short sequence and latching onto it. No unzipping required."
+    },
+    {
+      "start": 1365.95508,
+      "end": 1370.95508,
+      "text": "Copying the whole molecule is the big disruptive operation where you split it down the middle."
+    },
+    {
+      "start": 1371.95508,
+      "end": 1377.5951,
+      "text": "Reading a stretch to control it is the gentle everyday one where a protein palpates the groove."
+    },
+    {
+      "start": 1378.5351,
+      "end": 1385.3551,
+      "text": "The structure supports both, buried enough to protect the message, exposed enough at the edges to let it be read."
+    },
+    {
+      "start": 1386.39508,
+      "end": 1390.3751,
+      "text": "Now, with all that in hand, cash out the famous sentence."
+    },
+    {
+      "start": 1390.3751,
+      "end": 1396.5150800000001,
+      "text": "Right, we have the structure, a double helix, two anti-parallel backbones outside,"
+    },
+    {
+      "start": 1397.0951,
+      "end": 1401.9151,
+      "text": "base rung pairs inside, A with T and G with C."
+    },
+    {
+      "start": 1402.33508,
+      "end": 1405.85507,
+      "text": "How does this shape tell you how DNA copies itself?"
+    },
+    {
+      "start": 1406.19507,
+      "end": 1409.89508,
+      "text": "Here's the magic, and it really is one idea doing two jobs."
+    },
+    {
+      "start": 1410.7151,
+      "end": 1412.19507,
+      "text": "Look at the pairing rule again."
+    },
+    {
+      "start": 1412.95508,
+      "end": 1416.4951,
+      "text": "A always goes with T, G always goes with C."
+    },
+    {
+      "start": 1416.4951,
+      "end": 1423.4351,
+      "text": "That means the two strands are not independent, they are complementary. If I tell you the sequence"
+    },
+    {
+      "start": 1423.4351,
+      "end": 1429.11508,
+      "text": "of bases along one strand, you can tell me the sequence along the other strand exactly,"
+    },
+    {
+      "start": 1429.11508,
+      "end": 1433.5150800000001,
+      "text": "with no additional information, just by applying the rule."
+    },
+    {
+      "start": 1433.5150800000001,
+      "end": 1439.9751,
+      "text": "Wherever I have an A, you must have a T. Wherever I have a G, you must have a C. Each strand"
+    },
+    {
+      "start": 1440.0,
+      "end": 1445.3199997,
+      "text": "and completely determines its partner. The two strands carry the same information twice,"
+    },
+    {
+      "start": 1445.7,
+      "end": 1449.28,
+      "text": "written in complementary form, like a photograph and its negative."
+    },
+    {
+      "start": 1449.28,
+      "end": 1454.92,
+      "text": "So the second strand is redundant in a sense. It doesn't add new information,"
+    },
+    {
+      "start": 1455.219999,
+      "end": 1460.88,
+      "text": "it's the mirror image of the first. Redundant in information, but that redundancy is the entire"
+    },
+    {
+      "start": 1460.88,
+      "end": 1466.46,
+      "text": "secret of copying. Watch what it buys you. Suppose you want to duplicate the molecule."
+    },
+    {
+      "start": 1466.46,
+      "end": 1470.46,
+      "text": "You take the double helix and you unzip it down the middle."
+    },
+    {
+      "start": 1471.439999,
+      "end": 1475.039997,
+      "text": "You break the weak hydrogen bond handshakes holding the rungs together"
+    },
+    {
+      "start": 1475.039997,
+      "end": 1478.699997,
+      "text": "and the two strands separate like a zipper coming apart."
+    },
+    {
+      "start": 1479.739998,
+      "end": 1485.14,
+      "text": "Now you have two lonely single strands, each one an exposed row of unpaired bases."
+    },
+    {
+      "start": 1486.219997,
+      "end": 1491.879997,
+      "text": "But each of those single strands carries, in its sequence, the complete recipe for its missing partner."
+    },
+    {
+      "start": 1492.64,
+      "end": 1493.879997,
+      "text": "Because of the pairing rule."
+    },
+    {
+      "start": 1493.879997,
+      "end": 1501.459995,
+      "text": "So the cell just walks along each lonely strand, and wherever there's an exposed A, it brings in a fresh T."
+    },
+    {
+      "start": 1502.219997,
+      "end": 1504.88,
+      "text": "Wherever there's a G, it brings in a fresh C."
+    },
+    {
+      "start": 1505.86,
+      "end": 1510.03999,
+      "text": "Each old strand acts as a template that reconstructs its own complement."
+    },
+    {
+      "start": 1510.96,
+      "end": 1513.84,
+      "text": "And when it's done, you don't have one double helix."
+    },
+    {
+      "start": 1514.34,
+      "end": 1521.52,
+      "text": "You have two, each a perfect copy of the original, each made of one old strand and one freshly built one."
+    },
+    {
+      "start": 1521.52,
+      "end": 1523.18,
+      "text": "Oh, that's clean."
+    },
+    {
+      "start": 1523.18,
+      "end": 1537.6049,
+      "text": "You don copy the whole thing as a unit you split it in half and let each half rebuild the missing side And because the pairing rule is rigid the rebuild is forced to be faithful Forced to be faithful That exactly it"
+    },
+    {
+      "start": 1538.024895,
+      "end": 1543.204895,
+      "text": "And that's why the structure is the mechanism. The fidelity of copying isn't some separate"
+    },
+    {
+      "start": 1543.204895,
+      "end": 1550.244896,
+      "text": "machinery bolted on. It's baked into the shape because A can only accept T and G can only accept"
+    },
+    {
+      "start": 1550.244896,
+      "end": 1557.5249,
+      "text": "see. The template leaves only one correct answer at each position. And now you see why that closing"
+    },
+    {
+      "start": 1557.5249,
+      "end": 1563.8049,
+      "text": "sentence could be so understated. When they wrote, the specific pairing we have postulated"
+    },
+    {
+      "start": 1563.8049,
+      "end": 1569.5049,
+      "text": "immediately suggests a possible copying mechanism, they were pointing at the fact that they hadn't"
+    },
+    {
+      "start": 1569.5049,
+      "end": 1574.8049,
+      "text": "just drawn a pretty molecule, they had drawn the solution to both of Heredity's jobs at once."
+    },
+    {
+      "start": 1574.8049,
+      "end": 1583.38489,
+      "text": "Storage. The message is the sequence of bases along a strand, a four-letter text of essentially unlimited length."
+    },
+    {
+      "start": 1584.5249,
+      "end": 1592.7449,
+      "text": "Copying. Unzip and each strand templates a new partner. One structure, both problems, solved together."
+    },
+    {
+      "start": 1592.7449,
+      "end": 1604.2249,
+      "text": "The unzipping bothers me a little. If this molecule has to be rock stable to archive information for a lifetime, how does the cell ever pull the two strands apart to copy them?"
+    },
+    {
+      "start": 1604.2249,
+      "end": 1610.2249,
+      "text": "This is where the choice of hydrogen bonds turns out to be quietly perfect, and it's worth pausing on."
+    },
+    {
+      "start": 1610.2249,
+      "end": 1628.6698000000001,
+      "text": "A single hydrogen bond is weak feeble easily broken If each rung of the ladder were welded shut with a strong chemical bond you never get the thing open to read it But because each rung is held by just two or three of these weak bonds any individual rung is easy to unzip"
+    },
+    {
+      "start": 1628.8698,
+      "end": 1635.18979,
+      "text": "The stability comes from numbers. A real DNA molecule has millions or billions of rungs."
+    },
+    {
+      "start": 1635.8498,
+      "end": 1641.6498,
+      "text": "And while anyone is flimsy, all of them together, zipped up, make the whole helix very stable."
+    },
+    {
+      "start": 1641.6498,
+      "end": 1646.8898,
+      "text": "like a long zipper where each tooth is nothing but the full zipper holds firmly."
+    },
+    {
+      "start": 1648.0098,
+      "end": 1653.2298,
+      "text": "So the cell can peel the strands apart locally, a stretch at a time, with modest effort."
+    },
+    {
+      "start": 1654.12979,
+      "end": 1660.9498,
+      "text": "A dedicated enzyme runs along and unzips it, while the molecule as a whole stays intact and archival."
+    },
+    {
+      "start": 1661.18979,
+      "end": 1669.8098,
+      "text": "And does the two versus three bond difference between AT and GC actually show up anywhere, or is it just bookkeeping?"
+    },
+    {
+      "start": 1669.8098,
+      "end": 1677.8498,
+      "text": "It shows up very concretely. Because a GC rung has three hydrogen bonds and an AT rung only two,"
+    },
+    {
+      "start": 1678.4498,
+      "end": 1686.40979,
+      "text": "GC pairs grip harder. So a stretch of DNA rich in Gs and Cs is more stable, more tightly zipped,"
+    },
+    {
+      "start": 1686.7298,
+      "end": 1693.7298,
+      "text": "than a stretch rich in As and Ts. You can measure this directly. If you heat DNA, it eventually"
+    },
+    {
+      "start": 1693.7298,
+      "end": 1700.9497999999999,
+      "text": "melts. The two strands come apart, and DNA with more GC content has to be heated hotter before"
+    },
+    {
+      "start": 1700.9497999999999,
+      "end": 1717.8946799999999,
+      "text": "it lets go That not a curiosity It matters to how cells regulate which stretches get opened and read and it something molecular biologists use in the lab every day Two weak bonds versus three A tiny structural detail that ripples"
+    },
+    {
+      "start": 1717.8946799999999,
+      "end": 1721.25467,
+      "text": "all the way up to how sturdy a given piece of the genome is."
+    },
+    {
+      "start": 1721.25467,
+      "end": 1726.85468,
+      "text": "I want to be careful about one thing though. They proposed that copying mechanism. Did they"
+    },
+    {
+      "start": 1726.85468,
+      "end": 1732.6147,
+      "text": "prove it? Because the shape suggests it is not the same as we watched it happen."
+    },
+    {
+      "start": 1732.6147,
+      "end": 1736.4347,
+      "text": "That's an important distinction, and I'm glad you're holding the line on it."
+    },
+    {
+      "start": 1737.35468,
+      "end": 1739.15466,
+      "text": "No, they did not prove it in this paper."
+    },
+    {
+      "start": 1739.9146700000001,
+      "end": 1744.71466,
+      "text": "The paper proposes the structure and points in that one sentence at what it implies."
+    },
+    {
+      "start": 1745.47467,
+      "end": 1750.9947,
+      "text": "The actual proof that DNA copies this way came a few years later, in 1958,"
+    },
+    {
+      "start": 1751.5547000000001,
+      "end": 1755.79468,
+      "text": "from a now-classic experiment by Matthew Messelson and Franklin Stahl."
+    },
+    {
+      "start": 1756.17468,
+      "end": 1761.15466,
+      "text": "They found a clever way to label the old strands versus the newly built ones,"
+    },
+    {
+      "start": 1761.75467,
+      "end": 1762.9347,
+      "text": "essentially weighing them,"
+    },
+    {
+      "start": 1763.4347,
+      "end": 1765.01468,
+      "text": "and they showed that after copying,"
+    },
+    {
+      "start": 1765.4146700000001,
+      "end": 1770.17468,
+      "text": "each new double helix really is one old strand plus one new strand,"
+    },
+    {
+      "start": 1770.5547000000001,
+      "end": 1772.8747,
+      "text": "exactly as the template idea predicts."
+    },
+    {
+      "start": 1773.57468,
+      "end": 1777.4347,
+      "text": "That mode of copying, where each daughter keeps one original strand,"
+    },
+    {
+      "start": 1777.4347,
+      "end": 1779.59467,
+      "text": "is called semi-conservative,"
+    },
+    {
+      "start": 1779.9947,
+      "end": 1782.53467,
+      "text": "because each copy conserves half of the original."
+    },
+    {
+      "start": 1783.51468,
+      "end": 1784.5547000000001,
+      "text": "So the sequence is,"
+    },
+    {
+      "start": 1785.1147,
+      "end": 1789.53467,
+      "text": "Watson and Crick proposed the structure and its implied mechanism in 53."
+    },
+    {
+      "start": 1789.53467,
+      "end": 1794.03467,
+      "text": "Meselson and Stahl confirmed the mechanism in 1958."
+    },
+    {
+      "start": 1794.03467,
+      "end": 1797.47467,
+      "text": "Don't let anyone collapse those into one."
+    },
+    {
+      "start": 1797.47467,
+      "end": 1799.9947,
+      "text": "The confirmation was its own beautiful piece of work."
+    },
+    {
+      "start": 1800.0,
+      "end": 1806.3199997,
+      "text": "If the copying is that faithful though, here's something that nags at me. Where does change come"
+    },
+    {
+      "start": 1806.3199997,
+      "end": 1813.639999,
+      "text": "from? Evolution needs variation. A perfect copier makes identical descendants forever."
+    },
+    {
+      "start": 1813.94,
+      "end": 1817.68,
+      "text": "And that's a lovely question, because the same structure answers it too,"
+    },
+    {
+      "start": 1818.16,
+      "end": 1822.939999,
+      "text": "through its imperfections. The copying is faithful, but it is not flawless."
+    },
+    {
+      "start": 1823.699999,
+      "end": 1827.88,
+      "text": "Every so often, as the cell rebuilds a strand, it slips."
+    },
+    {
+      "start": 1828.659998,
+      "end": 1833.14,
+      "text": "It puts a C where a T belonged, or drops a letter, or adds one."
+    },
+    {
+      "start": 1833.92,
+      "end": 1836.48,
+      "text": "That's a mutation, a typo in the text."
+    },
+    {
+      "start": 1837.48,
+      "end": 1841.359997,
+      "text": "Now here's the crucial part, and it follows straight from the copying mechanism."
+    },
+    {
+      "start": 1842.44,
+      "end": 1847.98,
+      "text": "Once that typo is made, it's just part of the sequence, indistinguishable from any other letter."
+    },
+    {
+      "start": 1847.98,
+      "end": 1853.16,
+      "text": "So, from then on, it gets copied forward faithfully into every descendant."
+    },
+    {
+      "start": 1853.98,
+      "end": 1855.36,
+      "text": "The error becomes heritable."
+    },
+    {
+      "start": 1856.46,
+      "end": 1858.8,
+      "text": "Most typos do nothing or do harm."
+    },
+    {
+      "start": 1859.5,
+      "end": 1864.74,
+      "text": "But once in a great while, a change happens to make the organism a little better suited to its world,"
+    },
+    {
+      "start": 1865.22,
+      "end": 1868.26,
+      "text": "and natural selection can grab hold of it and spread it."
+    },
+    {
+      "start": 1868.34,
+      "end": 1872.18,
+      "text": "So, the same mechanism does two opposite-sounding things."
+    },
+    {
+      "start": 1872.18,
+      "end": 1879.16,
+      "text": "It preserves the message almost perfectly, and its rare failures are exactly the raw material"
+    },
+    {
+      "start": 1879.16,
+      "end": 1897.598366,
+      "text": "evolution feeds on That the deep unity of it Constancy and change come from one place The high fidelity is what lets a lineage stay itself across millions of generations The tiny error rate is what lets it slowly become something new Before the double helix"
+    },
+    {
+      "start": 1897.95837,
+      "end": 1903.79837,
+      "text": "heredity and variation could feel like two separate mysteries. After it, they're two faces"
+    },
+    {
+      "start": 1903.79837,
+      "end": 1909.57837,
+      "text": "of a single molecular process. Copy the complementary strand, almost always right,"
+    },
+    {
+      "start": 1909.57837,
+      "end": 1913.75837,
+      "text": "occasionally wrong, and let the occasional wrong ones ride forward."
+    },
+    {
+      "start": 1914.83836,
+      "end": 1920.49837,
+      "text": "Mutation is just a copying error that got archived. Evolution runs on the typos."
+    },
+    {
+      "start": 1920.71837,
+      "end": 1925.198364,
+      "text": "Good. So the structure predicted a very specific way of copying,"
+    },
+    {
+      "start": 1925.738365,
+      "end": 1930.03836,
+      "text": "and five years later someone caught the molecule doing exactly that."
+    },
+    {
+      "start": 1930.83836,
+      "end": 1934.41837,
+      "text": "Let me pull back to the information side because you keep saying"
+    },
+    {
+      "start": 1934.41837,
+      "end": 1938.29837,
+      "text": "the message is the sequence, only four letters."
+    },
+    {
+      "start": 1938.29837,
+      "end": 1944.15837,
+      "text": "Come back to the thing people doubted. How is four letters enough to write an organism?"
+    },
+    {
+      "start": 1944.6383700000001,
+      "end": 1948.67838,
+      "text": "It's the same reason two symbols are enough to write anything a computer knows."
+    },
+    {
+      "start": 1949.69836,
+      "end": 1953.27837,
+      "text": "Think about it. A language's power doesn't come from having many letters."
+    },
+    {
+      "start": 1953.89838,
+      "end": 1955.45837,
+      "text": "It comes from length and order."
+    },
+    {
+      "start": 1956.41837,
+      "end": 1961.37836,
+      "text": "With an alphabet of just four letters, but a text millions or billions of letters long,"
+    },
+    {
+      "start": 1961.79837,
+      "end": 1964.65836,
+      "text": "the number of possible messages is beyond astronomical."
+    },
+    {
+      "start": 1964.65836,
+      "end": 1973.65836,
+      "text": "Four choices at the first position, times four at the second, times four at the third, on and on for billions of positions."
+    },
+    {
+      "start": 1973.65836,
+      "end": 1988.79674,
+      "text": "The variety isn in the size of the alphabet it in the sequence So the early worry only four building blocks too simple to encode life was exactly backwards Four letters in a long enough string"
+    },
+    {
+      "start": 1988.79674,
+      "end": 1994.61673,
+      "text": "can spell out anything, and DNA strings are enormous. The information is in the order,"
+    },
+    {
+      "start": 1995.07674,
+      "end": 2000.85674,
+      "text": "and the order can be endless. And that reframes the whole molecule, the backbone, the helix,"
+    },
+    {
+      "start": 2000.85674,
+      "end": 2007.01674,
+      "text": "the pairing, all of that is the storage and copying machine, but the actual content,"
+    },
+    {
+      "start": 2007.27673,
+      "end": 2012.9567299999999,
+      "text": "the thing that differs between a fern and a person, is just the order of the four letters."
+    },
+    {
+      "start": 2013.27673,
+      "end": 2017.63673,
+      "text": "That's the correct mental picture, and it's the foundation of everything that came after."
+    },
+    {
+      "start": 2018.63673,
+      "end": 2023.85674,
+      "text": "Once you know that heredity is a four-letter text stored in base sequence and copied by"
+    },
+    {
+      "start": 2023.85674,
+      "end": 2027.93674,
+      "text": "complementarity, you've opened the door to the whole of molecular biology."
+    },
+    {
+      "start": 2027.93674,
+      "end": 2036.7367199999999,
+      "text": "How the cell reads that text to build the actual working parts, the proteins, is the next chapter, the genetic code."
+    },
+    {
+      "start": 2037.4567299999999,
+      "end": 2041.2367199999999,
+      "text": "How three-letter words of DNA specify the pieces of a protein."
+    },
+    {
+      "start": 2042.09674,
+      "end": 2048.23672,
+      "text": "But all of that presupposes this, that there's a text at all, written in a stable, copyable molecule."
+    },
+    {
+      "start": 2049.19673,
+      "end": 2055.87674,
+      "text": "The double helix is what made the gene, a physical, chemical, readable thing, instead of an abstraction."
+    },
+    {
+      "start": 2055.87674,
+      "end": 2059.45673,
+      "text": "You said reading the text builds the working parts."
+    },
+    {
+      "start": 2059.99673,
+      "end": 2064.63672,
+      "text": "Give me the flow of that and a sense of how big this text actually is."
+    },
+    {
+      "start": 2064.83673,
+      "end": 2074.55508,
+      "text": "The flow is the thing biologists call the central dogma and it worth having as a single arrow in your head DNA is the master archive kept safe"
+    },
+    {
+      "start": 2075.33508,
+      "end": 2079.2751,
+      "text": "To use a gene, the cell makes a working copy of that stretch in RNA."
+    },
+    {
+      "start": 2080.0951,
+      "end": 2086.67508,
+      "text": "That's transcription, like photocopying one page out of the reference volume so you don't drag the original around."
+    },
+    {
+      "start": 2087.29507,
+      "end": 2091.8151,
+      "text": "Then that RNA copy is read out and used to assemble a protein."
+    },
+    {
+      "start": 2092.57507,
+      "end": 2093.3751,
+      "text": "That's translation."
+    },
+    {
+      "start": 2094.2151,
+      "end": 2096.0351,
+      "text": "And proteins are the actual machines."
+    },
+    {
+      "start": 2096.8151,
+      "end": 2101.0351,
+      "text": "They build structures, run the chemistry, do the work of being alive."
+    },
+    {
+      "start": 2101.95508,
+      "end": 2106.2751,
+      "text": "So the main flow of information is DNA to RNA to protein."
+    },
+    {
+      "start": 2107.17508,
+      "end": 2109.6551,
+      "text": "Archive, working copy, machine."
+    },
+    {
+      "start": 2110.2551,
+      "end": 2113.51508,
+      "text": "The double helix is the archive at the top of that chain."
+    },
+    {
+      "start": 2113.73508,
+      "end": 2115.4751,
+      "text": "And the scale of the archive?"
+    },
+    {
+      "start": 2115.7551,
+      "end": 2117.23508,
+      "text": "The scale is hard to believe."
+    },
+    {
+      "start": 2118.2151,
+      "end": 2122.45508,
+      "text": "A single one of your cells holds a text of roughly 3 billion of these letters,"
+    },
+    {
+      "start": 2123.3151,
+      "end": 2127.73508,
+      "text": "3 billion A's, T's, G's and C's in a particular order."
+    },
+    {
+      "start": 2128.7751,
+      "end": 2133.51508,
+      "text": "And if you took the DNA from that one cell and stretched it out into a straight thread,"
+    },
+    {
+      "start": 2133.95508,
+      "end": 2135.61508,
+      "text": "it would be about 2 metres long."
+    },
+    {
+      "start": 2136.2751,
+      "end": 2140.9351,
+      "text": "2 metres of molecular ribbon wound and folded down into a compartment"
+    },
+    {
+      "start": 2140.9351,
+      "end": 2143.57507,
+      "text": "far too small to see with the naked eye,"
+    },
+    {
+      "start": 2144.33508,
+      "end": 2146.8751,
+      "text": "and there's a copy in nearly every cell in your body,"
+    },
+    {
+      "start": 2147.23508,
+      "end": 2152.83508,
+      "text": "and each was produced by unzipping and templating from its parent cell, almost letter perfectly."
+    },
+    {
+      "start": 2153.95508,
+      "end": 2159.95508,
+      "text": "That's the economy the double helix bought us. Four letters, one pairing rule, and you have a"
+    },
+    {
+      "start": 2160.0,
+      "end": 2165.84,
+      "text": "storage and copying system compact enough to fit a whole organism's instructions into a spec."
+    },
+    {
+      "start": 2166.06,
+      "end": 2174.3,
+      "text": "and reliable enough to run for billions of years.  One more on the reading side.  You said earlier that the code is read in three-letter words."
+    },
+    {
+      "start": 2174.4,
+      "end": 2184.0,
+      "text": "Where does 3 come from? How do four letters end up specifying the parts of a protein?  It comes from a simple counting argument and it's satisfying."
+    },
+    {
+      "start": 2184.57,
+      "end": 2188.83,
+      "text": "Proteins are chains built from about 20 different kinds of building blocks."
+    },
+    {
+      "start": 2189.07,
+      "end": 2190.73,
+      "text": "20 amino acids."
+    },
+    {
+      "start": 2191.32,
+      "end": 2193.08,
+      "text": "DNA has four letters."
+    },
+    {
+      "start": 2193.3,
+      "end": 2198.18,
+      "text": "so the cell has to spell out 20 odd things using an alphabet of only four."
+    },
+    {
+      "start": 2198.67,
+      "end": 2201.01,
+      "text": "How many letters per word do you need?"
+    },
+    {
+      "start": 2201.46,
+      "end": 2203.66,
+      "text": "One letter gives you four options."
+    },
+    {
+      "start": 2203.68,
+      "end": 2204.76,
+      "text": "Not enough."
+    },
+    {
+      "start": 2205.36,
+      "end": 2210.08,
+      "text": "Two letters give you 4 times 4, 16, still short of 20."
+    },
+    {
+      "start": 2210.67,
+      "end": 2213.67,
+      "text": "Three letters give you 4 times 4 times 4."
+    },
+    {
+      "start": 2213.73,
+      "end": 2215.61,
+      "text": "64 possibilities."
+    },
+    {
+      "start": 2215.92,
+      "end": 2221.52,
+      "text": "comfortably more than enough to name all 20 amino acids with combinations left over."
+    },
+    {
+      "start": 2222.1,
+      "end": 2225.92,
+      "text": "so the code is read in three-letter words called codons."
+    },
+    {
+      "start": 2226.06,
+      "end": 2228.46,
+      "text": "and that's forced almost by arithmetic."
+    },
+    {
+      "start": 2228.7,
+      "end": 2237.74,
+      "text": "Three is the smallest word length that covers 20.  And with 64 words for 20-something meanings, there's a lot of redundancy."
+    },
+    {
+      "start": 2237.88,
+      "end": 2244.76,
+      "text": "Several words mean the same amino acid. Exactly. And that redundancy is built in and useful."
+    },
+    {
+      "start": 2245.11,
+      "end": 2248.67,
+      "text": "Several codons often map to the same amino acid,"
+    },
+    {
+      "start": 2248.74,
+      "end": 2253.52,
+      "text": "and a few servers stop punctuation marking the end of a protein."
+    },
+    {
+      "start": 2253.99,
+      "end": 2259.27,
+      "text": "The full dictionary of which triplet means which amino acid is the genetic code."
+    },
+    {
+      "start": 2259.9,
+      "end": 2262.46,
+      "text": "and it was cracked through the 1960s,"
+    },
+    {
+      "start": 2262.48,
+      "end": 2264.72,
+      "text": "over a decade after the structure."
+    },
+    {
+      "start": 2265.45,
+      "end": 2267.79,
+      "text": "Here's the part that gives people chills."
+    },
+    {
+      "start": 2268.0,
+      "end": 2271.52,
+      "text": "That code is very nearly the same in every living thing."
+    },
+    {
+      "start": 2271.84,
+      "end": 2277.92,
+      "text": "The same triplets mean the same amino acids in a bacterium, a redwood and ewe."
+    },
+    {
+      "start": 2278.5,
+      "end": 2287.14,
+      "text": "That near-universality is powerful evidence that everything alive descends from a common ancestor that already used this code."
+    },
+    {
+      "start": 2287.8,
+      "end": 2289.48,
+      "text": "so the chain is complete."
+    },
+    {
+      "start": 2289.72,
+      "end": 2296.12,
+      "text": "Base sequence, read in triplets, spells an amino acid sequence which folds into a protein."
+    },
+    {
+      "start": 2296.95,
+      "end": 2301.87,
+      "text": "and it all rests on there being a stable, copyable sequence in the first place."
+    },
+    {
+      "start": 2302.05,
+      "end": 2303.97,
+      "text": "which is what the double helix delivered."
+    },
+    {
+      "start": 2313.33,
+      "end": 2314.77,
+      "text": "Rosalind Franklin"
+    },
+    {
+      "start": 2314.83,
+      "end": 2322.51,
+      "text": "Where does she sit in what we just described?  She sits much closer to the centre than the famous two-name paper makes it look."
+    },
+    {
+      "start": 2322.63,
+      "end": 2327.91,
+      "text": "and I'll lay it out plainly without turning it into either a fairy tale or a courtroom."
+    },
+    {
+      "start": 2328.57,
+      "end": 2333.05,
+      "text": "The X-ray evidence that the molecule is a helix of specific dimensions"
+    },
+    {
+      "start": 2333.13,
+      "end": 2336.37,
+      "text": "Clue 3, the one that constrained the whole model,"
+    },
+    {
+      "start": 2336.49,
+      "end": 2339.55,
+      "text": "came in large part from Rosalind Franklin's work."
+    },
+    {
+      "start": 2340.06,
+      "end": 2343.84,
+      "text": "Photo 51 was her image taken in her lab."
+    },
+    {
+      "start": 2344.23,
+      "end": 2349.67,
+      "text": "Her measurements of the diameter and the repeat were among the hardest, most decisive numbers."
+    },
+    {
+      "start": 2350.11,
+      "end": 2353.39,
+      "text": "and a crucial fact about how the story actually went."
+    },
+    {
+      "start": 2353.62,
+      "end": 2357.58,
+      "text": "That photograph and a report containing her unpublished measurements"
+    },
+    {
+      "start": 2357.61,
+      "end": 2360.77,
+      "text": "were shown to Watson without her knowledge or agreement."
+    },
+    {
+      "start": 2361.27,
+      "end": 2364.79,
+      "text": "so the data that let the model click into place was hers."
+    },
+    {
+      "start": 2364.9,
+      "end": 2371.78,
+      "text": "and it reached Cambridge through a side door. And she didn't share in the recognition the  way the others did. She did not."
+    },
+    {
+      "start": 2372.61,
+      "end": 2378.85,
+      "text": "The Nobel Prize for this work was awarded in 1962 to Watson, Crick and Wilkins."
+    },
+    {
+      "start": 2379.84,
+      "end": 2387.36,
+      "text": "Rosalind Franklin had died in 1958 of cancer at 37 and the prize is not given after death,"
+    },
+    {
+      "start": 2387.46,
+      "end": 2390.42,
+      "text": "so she could not have shared it in 1962 regardless."
+    },
+    {
+      "start": 2391.48,
+      "end": 2395.12,
+      "text": "But that technicality shouldn't be allowed to smooth over the fuller point."
+    },
+    {
+      "start": 2395.83,
+      "end": 2399.07,
+      "text": "During her life, her contribution was underweighted."
+    },
+    {
+      "start": 2399.1,
+      "end": 2403.1,
+      "text": "both in the moment and in the popular telling for decades afterward."
+    },
+    {
+      "start": 2403.27,
+      "end": 2408.47,
+      "text": "and the use of her data without her consent is a real part of how the discovery was made."
+    },
+    {
+      "start": 2409.15,
+      "end": 2413.35,
+      "text": "The structure is right, and it's one of the great results in the history of science."
+    },
+    {
+      "start": 2414.04,
+      "end": 2417.88,
+      "text": "and it stands on X-ray work that was substantially hers."
+    },
+    {
+      "start": 2418.06,
+      "end": 2420.58,
+      "text": "obtained in a way that wasn't fair to her."
+    },
+    {
+      "start": 2421.21,
+      "end": 2423.37,
+      "text": "Both of those things are true at once."
+    },
+    {
+      "start": 2423.43,
+      "end": 2429.99,
+      "text": "and the mature way to hold this paper is to hold both.  I appreciate that you didn't flatten it either way."
+    },
+    {
+      "start": 2430.3,
+      "end": 2443.7,
+      "text": "Let me ask the tie to now question. This is a paper from 1953 about the shape of a molecule.  What does it touch in my life today? Almost more than any other single result we could name."
+    },
+    {
+      "start": 2444.82,
+      "end": 2448.7,
+      "text": "The instant you know Heredity is a four-letter text you can read,"
+    },
+    {
+      "start": 2448.75,
+      "end": 2450.5299999999997,
+      "text": "and in principle write:"
+    },
+    {
+      "start": 2450.61,
+      "end": 2453.29,
+      "text": "two whole technologies become inevitable,"
+    },
+    {
+      "start": 2453.37,
+      "end": 2455.37,
+      "text": "and both are now everywhere."
+    },
+    {
+      "start": 2455.8,
+      "end": 2456.8,
+      "text": "Reading."
+    },
+    {
+      "start": 2456.91,
+      "end": 2458.41,
+      "text": "DNA sequencing,"
+    },
+    {
+      "start": 2458.5299999999997,
+      "end": 2464.29,
+      "text": "determining the exact order of A's, T's, G's and C's in a genome."
+    },
+    {
+      "start": 2464.83,
+      "end": 2472.0299999999997,
+      "text": "We've gone from that being a heroic, decades-long effort for one human genome to something done cheaply and routinely."
+    },
+    {
+      "start": 2472.15,
+      "end": 2474.25,
+      "text": "and it underlies modern medicine,"
+    },
+    {
+      "start": 2474.2799999999997,
+      "end": 2475.7799999999997,
+      "text": "Ancestry tests."
+    },
+    {
+      "start": 2475.81,
+      "end": 2478.93,
+      "text": "tracking a virus as it mutates through a pandemic."
+    },
+    {
+      "start": 2479.08,
+      "end": 2479.64,
+      "text": "All of it."
+    },
+    {
+      "start": 2480.31,
+      "end": 2481.27,
+      "text": "That's just..."
+    },
+    {
+      "start": 2481.33,
+      "end": 2484.33,
+      "text": "Read the sequence at industrial scale."
+    },
+    {
+      "start": 2484.93,
+      "end": 2485.93,
+      "text": "and writing."
+    },
+    {
+      "start": 2486.13,
+      "end": 2488.13,
+      "text": "Gene editing."
+    },
+    {
+      "start": 2487.57,
+      "end": 2493.97,
+      "text": "tools like the one called CRISPR that let us go to a specific spot in the text and change a letter."
+    },
+    {
+      "start": 2494.08,
+      "end": 2496.66,
+      "text": "to fix a mutation that causes disease."
+    },
+    {
+      "start": 2497.26,
+      "end": 2504.36,
+      "text": "Every bit of that is downstream of the realisation that life runs on an editable, copyable four-letter code."
+    },
+    {
+      "start": 2505.3,
+      "end": 2509.38,
+      "text": "Watson and Crick told us the message exists and how it's stored."
+    },
+    {
+      "start": 2509.74,
+      "end": 2519.98,
+      "text": "We're now fluent enough to read it and starting to write it.  So the napkin sketch from 1953 is running inside every genetics lab and every sequencing"
+    },
+    {
+      "start": 2520.0,
+      "end": 2522.46,
+      "text": "machine on earth. Every one of them."
+    },
+    {
+      "start": 2523.3,
+      "end": 2525.44,
+      "text": "and what I'd want you to carry out of this"
+    },
+    {
+      "start": 2525.49,
+      "end": 2528.73,
+      "text": "is how much came from insisting on a physical structure,"
+    },
+    {
+      "start": 2529.45,
+      "end": 2533.21,
+      "text": "Before this, the gene was a word for a pattern of inheritance,"
+    },
+    {
+      "start": 2533.62,
+      "end": 2535.28,
+      "text": "real but abstract."
+    },
+    {
+      "start": 2535.33,
+      "end": 2537.71,
+      "text": "a bookkeeping entry in Mendel's ledger,"
+    },
+    {
+      "start": 2538.45,
+      "end": 2546.93,
+      "text": "Watson and Crick, using Franklin's and Wilkins's data, and Shargaf's rule and a box of model parts, turned it into a thing."
+    },
+    {
+      "start": 2547.33,
+      "end": 2550.15,
+      "text": "a specific molecule with a specific shape,"
+    },
+    {
+      "start": 2550.36,
+      "end": 2555.96,
+      "text": "whose shape explains in one stroke how it stores a message and how it copies that message."
+    },
+    {
+      "start": 2556.63,
+      "end": 2558.89,
+      "text": "They didn't discover that genes exist,"
+    },
+    {
+      "start": 2559.12,
+      "end": 2561.2,
+      "text": "They discovered what a gene is."
+    },
+    {
+      "start": 2561.25,
+      "end": 2570.39,
+      "text": "and it turned out to be a beautiful, simple, self-copying spiral of complementary text.  Structure is mechanism. The shape was the answer."
+    },
+    {
+      "start": 2571.06,
+      "end": 2578.36,
+      "text": "Thanks for walking through how a page and a half in nature became the flaw that all of modern biology stands on."
+    },
+    {
+      "start": 2578.89,
+      "end": 2595.99,
+      "text": "Next time you hear, it's in my DNA, you can picture the actual thing, two complementary strands, A to T and G to C, a molecule holding the same message twice so that it can always faithfully make one more copy."
+    }
+  ]
+}

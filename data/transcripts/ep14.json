@@ -1,0 +1,1750 @@
+{
+  "episode_id": "ep14",
+  "audio_path": "podcasts\\Great Papers 14 - Go\u0308del_s Incompleteness Theorems, 1931.mp3",
+  "duration_sec": 1938.545,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 348,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "In our episode on Alan Turing, we kept bumping into a ghost, a young logician who, a few years"
+    },
+    {
+      "start": 6.96,
+      "end": 13.62,
+      "text": "before Turing, had already dropped a bomb on the foundations of mathematics. Turing's result was,"
+    },
+    {
+      "start": 13.62,
+      "end": 20.859999,
+      "text": "in a sense, a sequel to his. That logician was Kurt G\u00f6del. The paper is from 1931,"
+    },
+    {
+      "start": 21.38,
+      "end": 25.08,
+      "text": "and the claim is one of the most vertiginous in the history of thought,"
+    },
+    {
+      "start": 25.08,
+      "end": 32.36,
+      "text": "that mathematics contains truths it can never prove. George, that sentence alone makes my head"
+    },
+    {
+      "start": 32.36,
+      "end": 39.34,
+      "text": "spin. Before we do anything else, is that really what it says? Not truths we haven't proved yet,"
+    },
+    {
+      "start": 39.72,
+      "end": 45.76,
+      "text": "but truths that are provably unprovable. That is exactly what it says, and the precision matters,"
+    },
+    {
+      "start": 46.26,
+      "end": 52.66,
+      "text": "so let's be careful right up front. This is not a vague, mystical, there are things beyond human"
+    },
+    {
+      "start": 52.66,
+      "end": 59.579998,
+      "text": "understanding sort of claim. It is a hard, airtight mathematical theorem, proved as tightly and"
+    },
+    {
+      "start": 59.579998,
+      "end": 65.24,
+      "text": "carefully as anything in mathematics, and its conclusion is that in any sufficiently powerful,"
+    },
+    {
+      "start": 65.68,
+      "end": 70.34,
+      "text": "consistent system of mathematics, there are statements that are true, but that the system"
+    },
+    {
+      "start": 70.34,
+      "end": 77.3,
+      "text": "itself can never prove. So here's our path today. First, the dream that G\u00f6del destroyed,"
+    },
+    {
+      "start": 77.3,
+      "end": 81.659996,
+      "text": "a grand project to make all of mathematics complete and certain."
+    },
+    {
+      "start": 82.6,
+      "end": 84.759995,
+      "text": "Then his result, stated plainly."
+    },
+    {
+      "start": 85.579994,
+      "end": 95.064896,
+      "text": "Then the part I really want to do properly because it usually skipped How he actually proved it which is one of the most ingenious pieces of reasoning ever devised"
+    },
+    {
+      "start": 95.6049,
+      "end": 98.1249,
+      "text": "a way of making mathematics talk about itself,"
+    },
+    {
+      "start": 98.7849,
+      "end": 102.5449,
+      "text": "then a second theorem, even more devastating than the first,"
+    },
+    {
+      "start": 103.0449,
+      "end": 107.884895,
+      "text": "and finally, what this does, and, just as important, does not mean,"
+    },
+    {
+      "start": 108.3649,
+      "end": 111.564896,
+      "text": "because it's the single most abused result in all of science."
+    },
+    {
+      "start": 111.6849,
+      "end": 114.9249,
+      "text": "Let's start with the dream. What was the grand project?"
+    },
+    {
+      "start": 115.0049,
+      "end": 119.9649,
+      "text": "It's the same dream we met in the Turing episode, and it belonged to David Hilbert,"
+    },
+    {
+      "start": 119.9649,
+      "end": 125.4049,
+      "text": "one of the towering mathematicians of the age. By the early 20th century,"
+    },
+    {
+      "start": 125.9449,
+      "end": 130.5849,
+      "text": "mathematics had been shaken by some nasty paradoxes lurking in its foundations,"
+    },
+    {
+      "start": 131.1249,
+      "end": 137.6849,
+      "text": "and Hilbert wanted to make it unshakable once and for all. The plan was to put all of mathematics"
+    },
+    {
+      "start": 137.6849,
+      "end": 144.3649,
+      "text": "on a completely precise, formal footing, a fixed set of starting assumptions, axioms,"
+    },
+    {
+      "start": 144.3649,
+      "end": 147.8449,
+      "text": "and fixed rules of logic from which, in principle,"
+    },
+    {
+      "start": 148.3049,
+      "end": 152.5649,
+      "text": "every mathematical truth could be derived by pure mechanical deduction."
+    },
+    {
+      "start": 153.6849,
+      "end": 157.6449,
+      "text": "And Hilbert wanted this formal system to have two properties above all."
+    },
+    {
+      "start": 158.44489,
+      "end": 159.4249,
+      "text": "It should be complete."
+    },
+    {
+      "start": 160.1449,
+      "end": 164.5249,
+      "text": "Every true statement expressible in the system should be provable within it."
+    },
+    {
+      "start": 165.18489,
+      "end": 166.5649,
+      "text": "And it should be consistent."
+    },
+    {
+      "start": 167.18489,
+      "end": 169.2849,
+      "text": "It should never ever prove a contradiction."
+    },
+    {
+      "start": 170.1449,
+      "end": 172.8049,
+      "text": "Never prove both a statement and its opposite."
+    },
+    {
+      "start": 172.8049,
+      "end": 186.7098,
+      "text": "Was there an actual concrete attempt to build such a perfect system or was it just Hilbert aspiration There was a monumental one and G paper is aimed squarely at it It even named in his title"
+    },
+    {
+      "start": 187.76979,
+      "end": 193.26979,
+      "text": "In the years just before, Bertrand Russell and Alfred North Whitehead had published Principia"
+    },
+    {
+      "start": 193.26979,
+      "end": 199.48979,
+      "text": "Mathematica, a vast multi-volume work whose stated goal was to derive all of mathematics"
+    },
+    {
+      "start": 199.48979,
+      "end": 205.0898,
+      "text": "from pure logic, building everything up from the most elementary, unarguable foundations"
+    },
+    {
+      "start": 205.0898,
+      "end": 211.48979,
+      "text": "with total care. It was so meticulous that it famously takes hundreds of pages before"
+    },
+    {
+      "start": 211.48979,
+      "end": 216.96979,
+      "text": "it can get around to proving that one plus one equals two. It was the great cathedral"
+    },
+    {
+      "start": 216.96979,
+      "end": 222.5298,
+      "text": "of the formalist dream, the closest anyone had come to Hilbert's vision of all mathematics"
+    },
+    {
+      "start": 222.5298,
+      "end": 229.0298,
+      "text": "resting on a single, secure, complete, logical base. And the full title of G\u00f6del's paper"
+    },
+    {
+      "start": 229.0298,
+      "end": 235.2498,
+      "text": "is On Formally Undecidable Propositions of Principia Mathematica and Related Systems."
+    },
+    {
+      "start": 236.0898,
+      "end": 240.8898,
+      "text": "He is naming that cathedral in his title and telling you, before you've read a word,"
+    },
+    {
+      "start": 241.2898,
+      "end": 246.40979,
+      "text": "that it has a hole in it that can never be filled. And not just it, but any system built"
+    },
+    {
+      "start": 246.40979,
+      "end": 250.3698,
+      "text": "along the same lines. And those two goals sound not just reasonable,"
+    },
+    {
+      "start": 250.5898,
+      "end": 255.46979,
+      "text": "but almost like the definition of what we'd want mathematics to be. Complete,"
+    },
+    {
+      "start": 255.46979,
+      "end": 257.4698,
+      "text": "We can prove everything true."
+    },
+    {
+      "start": 257.4698,
+      "end": 258.4698,
+      "text": "Consistent."
+    },
+    {
+      "start": 258.4698,
+      "end": 260.4698,
+      "text": "We never prove anything false."
+    },
+    {
+      "start": 260.4698,
+      "end": 262.4698,
+      "text": "What could be wrong with wanting that?"
+    },
+    {
+      "start": 262.4698,
+      "end": 264.4698,
+      "text": "Nothing's wrong with wanting it."
+    },
+    {
+      "start": 264.4698,
+      "end": 275.3347,
+      "text": "The shock is that you can prove it unattainable that completeness and consistency cannot both be had not by any system powerful enough to do ordinary arithmetic"
+    },
+    {
+      "start": 276.37466,
+      "end": 278.9347,
+      "text": "And that's G\u00f6del's first incompleteness theorem,"
+    },
+    {
+      "start": 279.4347,
+      "end": 280.85468,
+      "text": "so let me state it cleanly."
+    },
+    {
+      "start": 281.65466,
+      "end": 283.85468,
+      "text": "Take any formal system that is consistent,"
+    },
+    {
+      "start": 284.51468,
+      "end": 286.01468,
+      "text": "it doesn't prove contradictions,"
+    },
+    {
+      "start": 286.59467,
+      "end": 290.31467,
+      "text": "and that is strong enough to express the basic arithmetic of the whole numbers,"
+    },
+    {
+      "start": 290.91467,
+      "end": 292.1147,
+      "text": "addition and multiplication."
+    },
+    {
+      "start": 292.1147,
+      "end": 316.91467,
+      "text": "Okay, my immediate reaction is, how could anyone possibly prove a thing like that?"
+    },
+    {
+      "start": 316.91467,
+      "end": 323.31467,
+      "text": "how do you prove that a true statement is unprovable? That sounds almost self-contradictory"
+    },
+    {
+      "start": 323.31467,
+      "end": 329.23468,
+      "text": "to even attempt. It sounds impossible, and the way Girdle did it is the genuinely beautiful part,"
+    },
+    {
+      "start": 329.53467,
+      "end": 335.01468,
+      "text": "so let's build it. The seed of the idea is an ancient paradox you already know,"
+    },
+    {
+      "start": 335.57468,
+      "end": 343.63467,
+      "text": "the liar paradox. Consider the sentence, this sentence is false. Think about it. If it's true,"
+    },
+    {
+      "start": 343.63467,
+      "end": 350.37466,
+      "text": "then what it says holds, so it's false. If it's false, then what it says fails, so it's true."
+    },
+    {
+      "start": 351.21466,
+      "end": 355.77466,
+      "text": "It ties itself in a knot. It can be neither true nor false without contradiction."
+    },
+    {
+      "start": 356.85468,
+      "end": 359.9947,
+      "text": "For thousands of years, that was a fun little puzzle, a"
+    },
+    {
+      "start": 360.0,
+      "end": 365.7799997,
+      "text": "party trick of language. G\u00f6del's staggering move was to see that a close cousin of that"
+    },
+    {
+      "start": 365.7799997,
+      "end": 371.48,
+      "text": "self-referential loop could be turned into exact, formal mathematics, and made to say"
+    },
+    {
+      "start": 371.48,
+      "end": 376.98,
+      "text": "something not about truth, but about provability. Self-reference had already caused real trouble"
+    },
+    {
+      "start": 376.98,
+      "end": 382.82,
+      "text": "in mathematics, hadn't it? I'm thinking of Russell's paradox. It had, and that's a big"
+    },
+    {
+      "start": 382.82,
+      "end": 388.16,
+      "text": "part of why the foundations felt so shaky in the first place. It's the crisis Hilbert"
+    },
+    {
+      "start": 388.16,
+      "end": 394.44,
+      "text": "was responding to. Bertrand Russell had found a devastating self-referential paradox sitting"
+    },
+    {
+      "start": 394.44,
+      "end": 400.44,
+      "text": "right at the base of set theory. Picture the set of all sets that do not contain themselves"
+    },
+    {
+      "start": 400.44,
+      "end": 407.739998,
+      "text": "as a member. Now ask, does that set contain itself? If it does contain itself, then by"
+    },
+    {
+      "start": 407.739998,
+      "end": 413.42,
+      "text": "its own definition it shouldn't, so it doesn't. But if it doesn't contain itself, then it"
+    },
+    {
+      "start": 413.42,
+      "end": 420.6,
+      "text": "exactly fits its own definition, so it should. It contradicts itself either way. It's the"
+    },
+    {
+      "start": 420.6,
+      "end": 426.52,
+      "text": "liar paradox again, dressed in the language of sets, and it showed that naive, obvious-seeming"
+    },
+    {
+      "start": 426.52,
+      "end": 432.28,
+      "text": "reasoning about collections could blow up into flat contradiction. That paradox helped"
+    },
+    {
+      "start": 432.28,
+      "end": 436.979996,
+      "text": "trigger the whole foundational crisis and Hilbert's determination to put mathematics"
+    },
+    {
+      "start": 436.979996,
+      "end": 443.02,
+      "text": "on ground where such things couldn't happen. So self-reference was already notorious as"
+    },
+    {
+      "start": 443.02,
+      "end": 457.47836,
+      "text": "wrecking ball G genuinely new move was to take that dangerous paradox self and instead of using it to break the system harness it with total control to prove a precise constructive"
+    },
+    {
+      "start": 457.47836,
+      "end": 463.278366,
+      "text": "theorem about the system's limits. He tamed the wrecking ball into a measuring instrument."
+    },
+    {
+      "start": 463.45837,
+      "end": 470.598366,
+      "text": "So he wants to build a mathematical sentence that talks about itself. But mathematics is"
+    },
+    {
+      "start": 470.598366,
+      "end": 477.75836,
+      "text": "about numbers, about 7 and 12 and equations. How does a statement about numbers refer to itself?"
+    },
+    {
+      "start": 478.13837,
+      "end": 484.19836399999997,
+      "text": "That is the exact obstacle, and clearing it is G\u00f6del's masterstroke, a technique now called"
+    },
+    {
+      "start": 484.19836399999997,
+      "end": 492.03836,
+      "text": "G\u00f6del numbering. Here's the idea. A mathematical statement is just a string of symbols, plus signs,"
+    },
+    {
+      "start": 492.57837,
+      "end": 499.81836,
+      "text": "equal signs, numbers, logical connectives, and so on. G\u00f6del set up a systematic code"
+    },
+    {
+      "start": 499.81836,
+      "end": 506.21837,
+      "text": "that assigns to every symbol a number, and then, by a definite recipe, assigns to every whole"
+    },
+    {
+      "start": 506.21837,
+      "end": 512.89838,
+      "text": "statement, every string of symbols, one specific unique whole number. And not just statements."
+    },
+    {
+      "start": 513.55836,
+      "end": 518.8783599999999,
+      "text": "Every proof, which is just a sequence of statements, also gets its own unique number."
+    },
+    {
+      "start": 519.49837,
+      "end": 525.05836,
+      "text": "So now every statement about mathematics, and every proof, has a numerical address,"
+    },
+    {
+      "start": 525.05836,
+      "end": 531.75836,
+      "text": "a code number. And here's the payoff. Once statements are numbers, statements about statements"
+    },
+    {
+      "start": 531.75836,
+      "end": 548.03673,
+      "text": "become statements about numbers which is to say they become ordinary arithmetic Mathematics through this coding gains the ability to describe its own statements and its own proofs It can talk about itself Can you make the coding concrete"
+    },
+    {
+      "start": 548.03673,
+      "end": 553.79674,
+      "text": "How do you actually turn a whole string of symbols into one single number, reversibly?"
+    },
+    {
+      "start": 553.79674,
+      "end": 559.15674,
+      "text": "There's a lovely clean way to do it with prime numbers and it shows the machinery isn't magic."
+    },
+    {
+      "start": 559.15674,
+      "end": 564.55673,
+      "text": "First, give each basic symbol a small code number."
+    },
+    {
+      "start": 564.55673,
+      "end": 570.37674,
+      "text": "Say the equals sign gets one number, plus gets another, and so on for every symbol in"
+    },
+    {
+      "start": 570.37674,
+      "end": 571.37674,
+      "text": "your alphabet."
+    },
+    {
+      "start": 571.37674,
+      "end": 579.95673,
+      "text": "Now, to encode a whole string, you march through the prime numbers in order \u2013 2, 3, 5, 7,"
+    },
+    {
+      "start": 579.95673,
+      "end": 586.27673,
+      "text": "11 \u2013 and you raise each prime to the power of the code of the symbol in that position."
+    },
+    {
+      "start": 586.27673,
+      "end": 592.31674,
+      "text": "So the first symbol's code becomes the exponent on 2, the second symbol's code becomes the"
+    },
+    {
+      "start": 592.31674,
+      "end": 599.87674,
+      "text": "exponent on 3, the third on 5, and you multiply all those prime powers together into one big"
+    },
+    {
+      "start": 599.87674,
+      "end": 601.41673,
+      "text": "number."
+    },
+    {
+      "start": 601.41673,
+      "end": 606.8967299999999,
+      "text": "And here's the beautiful part, guaranteed by a bedrock theorem of arithmetic."
+    },
+    {
+      "start": 606.8967299999999,
+      "end": 614.07674,
+      "text": "Every whole number factors into primes in exactly one way, unique factorization, so that"
+    },
+    {
+      "start": 614.07674,
+      "end": 619.9967300000001,
+      "text": "That one big number can be decoded back into exactly the original string, with no ambiguity"
+    },
+    {
+      "start": 619.9967300000001,
+      "end": 637.7751000000001,
+      "text": "whatsoever It a perfect reversible barcode A string of symbols goes in one unique number comes out and the number secretly remembers the precise string That unique factorisation guarantee is the quiet hero holding the whole construction together"
+    },
+    {
+      "start": 637.95508,
+      "end": 643.01508,
+      "text": "Let me make sure I've got this. Every sentence of mathematics gets turned into a number,"
+    },
+    {
+      "start": 643.3151,
+      "end": 648.9150999999999,
+      "text": "like a barcode. And because barcodes are numbers, and mathematics is about numbers,"
+    },
+    {
+      "start": 649.51508,
+      "end": 653.17508,
+      "text": "mathematics can now make statements about its own barcodes."
+    },
+    {
+      "start": 653.17508,
+      "end": 656.89508,
+      "text": "That is precisely it. The barcode image is perfect."
+    },
+    {
+      "start": 657.55508,
+      "end": 661.61508,
+      "text": "And in particular, the property is provable becomes something arithmetic."
+    },
+    {
+      "start": 662.7151,
+      "end": 666.9951,
+      "text": "Remember, a proof is a sequence of statements, so it has a code number too."
+    },
+    {
+      "start": 667.8551,
+      "end": 670.9751,
+      "text": "So the statement, such and such a statement has a proof,"
+    },
+    {
+      "start": 671.3751,
+      "end": 675.9751,
+      "text": "translates, through the coding, into a statement about a relationship between numbers."
+    },
+    {
+      "start": 676.7151,
+      "end": 682.01508,
+      "text": "Roughly, there exists a number that is the code of a valid proof of the statement with this code."
+    },
+    {
+      "start": 682.01508,
+      "end": 686.17508,
+      "text": "It's intricate, but it's just arithmetic about code numbers."
+    },
+    {
+      "start": 686.17508,
+      "end": 692.89508,
+      "text": "So, provable is now a property that mathematics can express about its own coded statements."
+    },
+    {
+      "start": 692.89508,
+      "end": 699.5351,
+      "text": "And once you can express provable inside the system, you can express not provable."
+    },
+    {
+      "start": 699.5351,
+      "end": 702.0951,
+      "text": "And now G\u00f6del goes in for the kill."
+    },
+    {
+      "start": 702.0951,
+      "end": 706.4951,
+      "text": "This is the moment. He builds the self-referential sentence."
+    },
+    {
+      "start": 706.4951,
+      "end": 712.63507,
+      "text": "He builds a sentence, let's just call it G, with a very carefully engineered self-referential"
+    },
+    {
+      "start": 712.63507,
+      "end": 719.9751,
+      "text": "twist so that G, when you decode what it says about numbers, asserts exactly this. This"
+    },
+    {
+      "start": 720.0,
+      "end": 726.64,
+      "text": "is not provable in this system. G is a perfectly legitimate statement of arithmetic. It's a claim"
+    },
+    {
+      "start": 726.64,
+      "end": 732.58,
+      "text": "about numbers obeying all the rules. But by G\u00f6del's construction, the thing it says about those"
+    },
+    {
+      "start": 732.58,
+      "end": 740.3,
+      "text": "numbers is, decoded, I am not provable. He built a mathematical sentence that says of itself that"
+    },
+    {
+      "start": 740.3,
+      "end": 746.84,
+      "text": "it has no proof. Now watch what happens. This is the whole ballgame, and it's just two steps."
+    },
+    {
+      "start": 746.84,
+      "end": 753.72,
+      "text": "Walk me through it slowly. G says, I am not provable. What if it is provable?"
+    },
+    {
+      "start": 754.08,
+      "end": 762.06,
+      "text": "Step 1. Suppose G is provable. Suppose the system can prove G. But G says, I am not provable."
+    },
+    {
+      "start": 762.96,
+      "end": 767.84,
+      "text": "So if the system proves G, then the system has proved a statement that asserts its own"
+    },
+    {
+      "start": 767.84,
+      "end": 774.3,
+      "text": "unprovability. The system has proved something false. And a system that proves false statements"
+    },
+    {
+      "start": 774.3,
+      "end": 780.82,
+      "text": "is inconsistent. It's broken. It can prove anything. It's worthless. So if our system"
+    },
+    {
+      "start": 780.82,
+      "end": 788.3199999999999,
+      "text": "is consistent, if it doesn't prove falsehoods, then it cannot prove G. That's step one. Consistency"
+    },
+    {
+      "start": 788.3199999999999,
+      "end": 795.42,
+      "text": "forces G to be unprovable. So consistency means the system can't prove G. And now step"
+    },
+    {
+      "start": 795.42,
+      "end": 802.36,
+      "text": "two, the twist. Step two. We've just established that G is not provable. But look at what G"
+    },
+    {
+      "start": 802.36,
+      "end": 819.75837,
+      "text": "says G says I am not provable And we just shown that correct G really is not provable So G is a true statement G says something about itself that thing is the case so G is true And yet by step one"
+    },
+    {
+      "start": 819.93837,
+      "end": 825.81837,
+      "text": "the system cannot prove it. So there it sits, a statement that is true but unprovable within"
+    },
+    {
+      "start": 825.81837,
+      "end": 832.93837,
+      "text": "the system. Exactly what the theorem claimed. The system is incomplete. And notice, we didn't"
+    },
+    {
+      "start": 832.93837,
+      "end": 838.97836,
+      "text": "need to find some exotic, monstrous statement. G\u00f6del handed us a recipe that manufactures"
+    },
+    {
+      "start": 838.97836,
+      "end": 844.89836,
+      "text": "one for any consistent system strong enough to count. Every such system has its own G,"
+    },
+    {
+      "start": 845.418365,
+      "end": 848.77837,
+      "text": "its own true but unprovable sentence, built to order."
+    },
+    {
+      "start": 848.91837,
+      "end": 856.05836,
+      "text": "My instinct is to fight back. Fine. The system can't prove G, so just A-D-D-G to the system."
+    },
+    {
+      "start": 856.05836,
+      "end": 862.93837,
+      "text": "make it a new axiom. Now G is provable, problem solved. Why doesn't that work?"
+    },
+    {
+      "start": 863.13837,
+      "end": 867.55836,
+      "text": "It's the natural objection, and its failure is what makes the result so final."
+    },
+    {
+      "start": 868.51837,
+      "end": 874.63837,
+      "text": "Suppose you do exactly that. You bolt G on as a brand new axiom, giving yourself a bigger,"
+    },
+    {
+      "start": 874.83836,
+      "end": 881.79837,
+      "text": "stronger system. Fine, but this new, enlarged system is still a consistent, formal system,"
+    },
+    {
+      "start": 881.79837,
+      "end": 887.71835,
+      "text": "strong enough to do arithmetic, so G\u00f6del's construction applies to IT all over again."
+    },
+    {
+      "start": 887.71835,
+      "end": 909.47673,
+      "text": "It manufactures a new self sentence a new G that is true but unprovable in the enlarged system You plugged one hole and a new one opened And you can keep going forever Add that one too and another appears There is no finite set of axioms you"
+    },
+    {
+      "start": 909.47673,
+      "end": 915.8967299999999,
+      "text": "can reach where the holes stop. Incompleteness isn't a gap you can fill. It's a permanent,"
+    },
+    {
+      "start": 916.19673,
+      "end": 922.23674,
+      "text": "structural feature of any system that can do arithmetic. The horizon recedes as you walk"
+    },
+    {
+      "start": 922.23674,
+      "end": 929.35674,
+      "text": "toward it. Is the unprovable statement always some artificial, self-referential contraption like G,"
+    },
+    {
+      "start": 930.09674,
+      "end": 936.33673,
+      "text": "or are there ordinary, natural math questions that turn out to be unprovable? Crucial question,"
+    },
+    {
+      "start": 936.73672,
+      "end": 942.31674,
+      "text": "because at first glance, G does look like a logician's stunt, a sentence built for the"
+    },
+    {
+      "start": 942.31674,
+      "end": 947.87674,
+      "text": "sole purpose of tripping the system, and for a while you could hope incompleteness only ever"
+    },
+    {
+      "start": 947.87674,
+      "end": 955.21674,
+      "text": "infected these weird, self-referential statements, leaving all normal mathematics safe. But no,"
+    },
+    {
+      "start": 955.63673,
+      "end": 961.9967300000001,
+      "text": "it reaches genuine natural mathematics. The most famous example is the continuum hypothesis,"
+    },
+    {
+      "start": 962.69673,
+      "end": 968.79672,
+      "text": "a very basic-sounding question about the sizes of infinity, whether there is any size of infinity"
+    },
+    {
+      "start": 968.79672,
+      "end": 975.01672,
+      "text": "strictly between the counting numbers and the real numbers. Gerdel, and later Paul Cohen,"
+    },
+    {
+      "start": 975.01672,
+      "end": 981.77673,
+      "text": "together showed that this question can be neither proved nor disproved from the standard axioms of set theory."
+    },
+    {
+      "start": 982.61673,
+      "end": 997.07507,
+      "text": "It is genuinely undecidable and there is nothing artificial about it It the kind of thing a curious student might ask There are also natural statements in ordinary number theory clean claims about sequences of whole numbers"
+    },
+    {
+      "start": 997.07507,
+      "end": 1000.55508,
+      "text": "that are true but cannot be proved within basic arithmetic."
+    },
+    {
+      "start": 1001.8151,
+      "end": 1005.29507,
+      "text": "So incompleteness is not quarantined to trick sentences."
+    },
+    {
+      "start": 1006.4751,
+      "end": 1007.4350999999999,
+      "text": "Once you know to look,"
+    },
+    {
+      "start": 1007.4350999999999,
+      "end": 1010.6951,
+      "text": "you find real, natural mathematical questions"
+    },
+    {
+      "start": 1010.6951,
+      "end": 1013.5951,
+      "text": "sitting permanently beyond the reach of the axioms."
+    },
+    {
+      "start": 1013.5951,
+      "end": 1018.13507,
+      "text": "G was just the first, cleanest key that opened the door"
+    },
+    {
+      "start": 1018.13507,
+      "end": 1020.0351,
+      "text": "That's genuinely unsettling"
+    },
+    {
+      "start": 1020.0351,
+      "end": 1023.7350799999999,
+      "text": "And you said there's a second theorem that's even worse"
+    },
+    {
+      "start": 1023.7350799999999,
+      "end": 1027.17508,
+      "text": "How do you top there are truths you can never prove?"
+    },
+    {
+      "start": 1027.3151,
+      "end": 1029.9951,
+      "text": "The second incompleteness theorem turns the knife"
+    },
+    {
+      "start": 1029.9951,
+      "end": 1032.89508,
+      "text": "And it's aimed straight at the heart of Hilbert's dream"
+    },
+    {
+      "start": 1032.89508,
+      "end": 1036.33508,
+      "text": "Remember, the other thing Hilbert desperately wanted"
+    },
+    {
+      "start": 1036.33508,
+      "end": 1038.2151,
+      "text": "Was a guarantee of consistency"
+    },
+    {
+      "start": 1038.2151,
+      "end": 1042.7751,
+      "text": "An ironclad proof that mathematics will never contradict itself"
+    },
+    {
+      "start": 1042.7751,
+      "end": 1045.4151,
+      "text": "never prove both a thing and its opposite."
+    },
+    {
+      "start": 1046.5351,
+      "end": 1048.85507,
+      "text": "That's the security the whole program was for."
+    },
+    {
+      "start": 1049.7751,
+      "end": 1051.2950700000001,
+      "text": "G\u00f6del's second theorem says,"
+    },
+    {
+      "start": 1051.95508,
+      "end": 1056.33508,
+      "text": "A consistent formal system of this kind cannot prove its own consistency."
+    },
+    {
+      "start": 1056.9951,
+      "end": 1061.2151,
+      "text": "The system is incapable of certifying that it will never contradict itself."
+    },
+    {
+      "start": 1061.7751,
+      "end": 1064.23508,
+      "text": "If it could prove its own consistency,"
+    },
+    {
+      "start": 1064.83508,
+      "end": 1067.3751,
+      "text": "that very fact would let you derive a contradiction."
+    },
+    {
+      "start": 1067.7950700000001,
+      "end": 1071.0750699999999,
+      "text": "So any system that proves, I am consistent,"
+    },
+    {
+      "start": 1071.0750699999999,
+      "end": 1073.5351,
+      "text": "is thereby actually inconsistent."
+    },
+    {
+      "start": 1073.5351,
+      "end": 1076.95508,
+      "text": "The only systems that can vouch for their own consistency"
+    },
+    {
+      "start": 1076.95508,
+      "end": 1078.45508,
+      "text": "are the broken ones."
+    },
+    {
+      "start": 1078.45508,
+      "end": 1079.95508,
+      "text": "Then how do we even do"
+    },
+    {
+      "start": 1080.0,
+      "end": 1084.5,
+      "text": "Trust arithmetic, if it can never prove it won't contradict itself."
+    },
+    {
+      "start": 1085.24,
+      "end": 1086.7,
+      "text": "Should that keep me up at night?"
+    },
+    {
+      "start": 1086.8799996,
+      "end": 1087.5,
+      "text": "It shouldn't."
+    },
+    {
+      "start": 1087.96,
+      "end": 1090.16,
+      "text": "And teasing apart why is worth doing."
+    },
+    {
+      "start": 1090.719999,
+      "end": 1095.299999,
+      "text": "Because the theorem is often misheard as, so maybe math is secretly broken."
+    },
+    {
+      "start": 1096.24,
+      "end": 1097.82,
+      "text": "Here's the real situation."
+    },
+    {
+      "start": 1098.72,
+      "end": 1103.039999,
+      "text": "You can't get an absolute self-contained guarantee from inside the system."
+    },
+    {
+      "start": 1103.8,
+      "end": 1104.939999,
+      "text": "That door is closed."
+    },
+    {
+      "start": 1105.539999,
+      "end": 1107.0,
+      "text": "But you're not left with nothing."
+    },
+    {
+      "start": 1107.0,
+      "end": 1112.74,
+      "text": "you can prove the consistency of ordinary arithmetic from a somewhat stronger system."
+    },
+    {
+      "start": 1113.74,
+      "end": 1116.579998,
+      "text": "The logician Gerhard Gensen did exactly that,"
+    },
+    {
+      "start": 1117.1,
+      "end": 1120.98,
+      "text": "using a form of reasoning that reaches a little beyond ordinary arithmetic."
+    },
+    {
+      "start": 1122.2,
+      "end": 1128.3,
+      "text": "The catch, of course, is that this stronger system's own consistency is then unprovable within IT."
+    },
+    {
+      "start": 1129.02,
+      "end": 1132.26,
+      "text": "So you've pushed the question up a level, not made it vanish."
+    },
+    {
+      "start": 1133.079998,
+      "end": 1135.899998,
+      "text": "So where does our confidence actually come from?"
+    },
+    {
+      "start": 1136.739998,
+      "end": 1137.339996,
+      "text": "Two places."
+    },
+    {
+      "start": 1138.12,
+      "end": 1144.52,
+      "text": "From those relative consistency proofs which tie arithmetic's trustworthiness to other well-understood systems."
+    },
+    {
+      "start": 1145.299995,
+      "end": 1148.14,
+      "text": "And, in plain practice, from track record."
+    },
+    {
+      "start": 1149.079994,
+      "end": 1154.299995,
+      "text": "People have been doing arithmetic for thousands of years, pushing it under every conceivable load,"
+    },
+    {
+      "start": 1154.7,
+      "end": 1156.899994,
+      "text": "and no contradiction has ever turned up."
+    },
+    {
+      "start": 1157.5,
+      "end": 1162.42,
+      "text": "What G\u00f6del denied us is a final certificate signed by the system itself."
+    },
+    {
+      "start": 1162.42,
+      "end": 1174.81837,
+      "text": "What he pointedly did not do is give any reason to believe arithmetic is actually inconsistent We trust it the way we trust a bridge that has held under every load ever placed on it"
+    },
+    {
+      "start": 1175.57837,
+      "end": 1177.83836,
+      "text": "Not because we have a proof it can never fail,"
+    },
+    {
+      "start": 1178.278366,
+      "end": 1182.29837,
+      "text": "but because the alternative is idle worry with nothing behind it."
+    },
+    {
+      "start": 1182.3983699999999,
+      "end": 1186.418365,
+      "text": "So a sound system can never issue itself a clean bill of health."
+    },
+    {
+      "start": 1186.79837,
+      "end": 1190.558365,
+      "text": "It can be consistent, but it can never prove that it is."
+    },
+    {
+      "start": 1190.738365,
+      "end": 1193.67837,
+      "text": "Exactly. And that's what finished Hilbert's programme."
+    },
+    {
+      "start": 1194.57837,
+      "end": 1199.43837,
+      "text": "The dream was to secure all of mathematics on a foundation provably free of contradiction,"
+    },
+    {
+      "start": 1200.15837,
+      "end": 1202.43837,
+      "text": "using only safe, finite reasoning."
+    },
+    {
+      "start": 1203.61836,
+      "end": 1207.33836,
+      "text": "G\u00f6del showed that a system can never provide that guarantee about itself."
+    },
+    {
+      "start": 1208.1383700000001,
+      "end": 1211.17838,
+      "text": "You'd always have to step outside it, to some larger system,"
+    },
+    {
+      "start": 1211.17838,
+      "end": 1216.67838,
+      "text": "whose own consistency is then in question, and so on, with no final resting place."
+    },
+    {
+      "start": 1217.59836,
+      "end": 1219.6383700000001,
+      "text": "There is no self-certifying foundation."
+    },
+    {
+      "start": 1219.6383700000001,
+      "end": 1224.95837,
+      "text": "Mathematics cannot pull itself up by its own bootstraps to absolute security."
+    },
+    {
+      "start": 1226.09836,
+      "end": 1228.65837,
+      "text": "The most exacting subject humans have ever built"
+    },
+    {
+      "start": 1228.65837,
+      "end": 1232.33836,
+      "text": "turns out to be unable to fully justify itself from within."
+    },
+    {
+      "start": 1232.47836,
+      "end": 1235.77837,
+      "text": "You keep qualifying it, powerful enough for arithmetic."
+    },
+    {
+      "start": 1236.55836,
+      "end": 1241.55836,
+      "text": "Is there any formal system that escapes this, that actually is complete?"
+    },
+    {
+      "start": 1241.93837,
+      "end": 1244.99837,
+      "text": "Yes, and the escape route is deeply illuminating"
+    },
+    {
+      "start": 1244.99837,
+      "end": 1247.71837,
+      "text": "about where the incompleteness really comes from."
+    },
+    {
+      "start": 1247.71837,
+      "end": 1251.39838,
+      "text": "If you weaken the system enough, it can be complete."
+    },
+    {
+      "start": 1252.27837,
+      "end": 1253.57837,
+      "text": "Here's the striking example."
+    },
+    {
+      "start": 1254.33838,
+      "end": 1267.67673,
+      "text": "Take arithmetic with only addition You got the whole numbers and you allowed to add them but you are not allowed to multiply That system remarkably is complete and even decidable There a mechanical"
+    },
+    {
+      "start": 1267.67673,
+      "end": 1272.99673,
+      "text": "procedure that can settle the truth of every statement you can write in it. It's perfectly"
+    },
+    {
+      "start": 1272.99673,
+      "end": 1281.01674,
+      "text": "safe, no holes. The catastrophe arrives only when you put multiplication back in. Once a system can"
+    },
+    {
+      "start": 1281.01674,
+      "end": 1286.33673,
+      "text": "both add and multiply, it becomes powerful enough to carry out the girdle numbering encoding,"
+    },
+    {
+      "start": 1287.05673,
+      "end": 1292.71674,
+      "text": "to describe its own statements and proofs, and the instant it can do that, self-reference becomes"
+    },
+    {
+      "start": 1292.71674,
+      "end": 1298.29674,
+      "text": "possible, and incompleteness bites. So it isn't that all formal systems are doomed,"
+    },
+    {
+      "start": 1299.01672,
+      "end": 1304.87674,
+      "text": "it's that any system rich enough to do full, ordinary arithmetic is. The very expressive"
+    },
+    {
+      "start": 1304.87674,
+      "end": 1310.89673,
+      "text": "power that makes arithmetic worth having is exactly what opens the door to its own incompleteness."
+    },
+    {
+      "start": 1311.01674,
+      "end": 1313.27673,
+      "text": "The strength is the vulnerability."
+    },
+    {
+      "start": 1313.6967300000001,
+      "end": 1317.39673,
+      "text": "This is the point where I know people go off the rails with this result."
+    },
+    {
+      "start": 1317.85674,
+      "end": 1320.05673,
+      "text": "So let's do the guardrails carefully."
+    },
+    {
+      "start": 1320.6967300000001,
+      "end": 1322.53674,
+      "text": "What does this not mean?"
+    },
+    {
+      "start": 1323.05673,
+      "end": 1327.61673,
+      "text": "Because I've heard Gerdel invoked to argue all kinds of wild things."
+    },
+    {
+      "start": 1327.85674,
+      "end": 1331.7367199999999,
+      "text": "Please, this is the most misused theorem in all of science."
+    },
+    {
+      "start": 1332.2367199999999,
+      "end": 1335.53674,
+      "text": "And getting the guardrails right matters as much as the theorem."
+    },
+    {
+      "start": 1336.31674,
+      "end": 1340.53674,
+      "text": "First, it does not mean mathematics is broken or unreliable."
+    },
+    {
+      "start": 1341.01672,
+      "end": 1343.01672,
+      "text": "or that we can't trust our proofs."
+    },
+    {
+      "start": 1343.01672,
+      "end": 1359.0750699999999,
+      "text": "Everything mathematicians actually prove is exactly as solid as it ever was It means no single formal system can prove every truth not that the proofs we have are shaky Second it does not mean there are things science can never"
+    },
+    {
+      "start": 1359.0750699999999,
+      "end": 1365.3751,
+      "text": "know in some cosy, mystical sense, and it is absolutely not a license for relativism, for,"
+    },
+    {
+      "start": 1365.73508,
+      "end": 1371.6551,
+      "text": "well, everything's uncertain, so any opinion is as good as any other. It's the opposite of woolly,"
+    },
+    {
+      "start": 1371.6551,
+      "end": 1376.4951,
+      "text": "it's a razor-sharp, precisely bounded statement about formal provability."
+    },
+    {
+      "start": 1377.67508,
+      "end": 1383.7151,
+      "text": "Third, it does not say that the specific, true but unprovable sentence is unknowable to us."
+    },
+    {
+      "start": 1384.39508,
+      "end": 1389.95508,
+      "text": "We can see perfectly well, from outside the system, that G is true. That's how we proved"
+    },
+    {
+      "start": 1389.95508,
+      "end": 1396.17508,
+      "text": "the theorem. It's the system that can't prove it, not the mathematician. So the accurate headline"
+    },
+    {
+      "start": 1396.17508,
+      "end": 1402.7551,
+      "text": "is narrow and profound at once. No finite formal system of arithmetic can be both complete and"
+    },
+    {
+      "start": 1402.7551,
+      "end": 1410.17508,
+      "text": "consistent, and none can certify its own consistency. That's it. That's the whole staggering correctly"
+    },
+    {
+      "start": 1410.17508,
+      "end": 1418.2551,
+      "text": "stated result. Let me push on the word true. If G can't be proved, in what sense is it true at all?"
+    },
+    {
+      "start": 1418.8751,
+      "end": 1425.1551,
+      "text": "What does true even mean for a statement no proof can reach? That's the sharpest possible question,"
+    },
+    {
+      "start": 1425.1551,
+      "end": 1430.83508,
+      "text": "and it forces a distinction that is really the soul of the whole theorem. There are two"
+    },
+    {
+      "start": 1430.83508,
+      "end": 1438.0351,
+      "text": "notions here that people had quietly assumed were one and the same. One is provable, derivable,"
+    },
+    {
+      "start": 1438.0351,
+      "end": 1439.9751,
+      "text": "step by step, from the axioms of the theory."
+    },
+    {
+      "start": 1440.0,
+      "end": 1447.2599998,
+      "text": "by the rules, a purely mechanical game of shuffling symbols. The other is true, meaning"
+    },
+    {
+      "start": 1447.2599998,
+      "end": 1452.96,
+      "text": "it actually holds of the real whole numbers, the genuine arithmetic facts about 0 and 1"
+    },
+    {
+      "start": 1452.96,
+      "end": 1459.039999,
+      "text": "and 2 and their sums and products. G\u00f6del's result drives a wedge between these two."
+    },
+    {
+      "start": 1459.98,
+      "end": 1465.68,
+      "text": "G is true, in the sense that it correctly describes the numbers. It really is unprovable,"
+    },
+    {
+      "start": 1465.68,
+      "end": 1471.18,
+      "text": "and it says of itself precisely that. But it is not derivable within the system."
+    },
+    {
+      "start": 1472.14,
+      "end": 1476.36,
+      "text": "Truth and provability, long hoped to be the same thing, come apart."
+    },
+    {
+      "start": 1477.56,
+      "end": 1483.34,
+      "text": "Now G\u00f6del himself was a mathematical Platonist. He believed mathematical objects and truths"
+    },
+    {
+      "start": 1483.34,
+      "end": 1489.82,
+      "text": "form a real objective realm we discover rather than invent, which is exactly why he was comfortable"
+    },
+    {
+      "start": 1489.82,
+      "end": 1497.6,
+      "text": "flatly calling G true with no proof in hand. More cautious logicians phrase it as true in"
+    },
+    {
+      "start": 1497.6,
+      "end": 1503.399998,
+      "text": "the standard structure of the whole numbers to stay careful. But either way, the moral is the"
+    },
+    {
+      "start": 1503.399998,
+      "end": 1509.88,
+      "text": "same and it's the deepest thing in the paper. What is so and what can be proved are simply not"
+    },
+    {
+      "start": 1509.88,
+      "end": 1516.4,
+      "text": "identical. That distinction, that we can see G is true even though the system can't prove it,"
+    },
+    {
+      "start": 1516.4,
+      "end": 1522.08,
+      "text": "is doing a lot of work, and it's the thing people reach for when they argue human minds"
+    },
+    {
+      "start": 1522.08,
+      "end": 1537.244896,
+      "text": "beat machines Is that a legitimate move It a famous argument and you have to handle it with real care because it is contested not settled Some thinkers the physicist Roger Penrose is the best known have argued roughly"
+    },
+    {
+      "start": 1537.244896,
+      "end": 1543.1649,
+      "text": "this. Since we can see the truth of G\u00f6del's sentences that no formal system can prove,"
+    },
+    {
+      "start": 1543.1649,
+      "end": 1549.0049,
+      "text": "the human mind must be doing something beyond any formal system, beyond any computer."
+    },
+    {
+      "start": 1549.0049,
+      "end": 1555.0049,
+      "text": "It's a seductive line, but most logicians and philosophers do not accept it, and they"
+    },
+    {
+      "start": 1555.0049,
+      "end": 1561.3049,
+      "text": "have sharp objections. For instance, that our seeing G is true is itself conditional"
+    },
+    {
+      "start": 1561.3049,
+      "end": 1566.704895,
+      "text": "on assuming the system is consistent, which we can't always know, so we may not be transcending"
+    },
+    {
+      "start": 1566.704895,
+      "end": 1571.9449,
+      "text": "the system so much as making an assumption the system also could make."
+    },
+    {
+      "start": 1571.9449,
+      "end": 1577.6249,
+      "text": "I'm not going to settle that debate here, nobody has. I just want to flag it clearly,"
+    },
+    {
+      "start": 1577.6249,
+      "end": 1584.2849,
+      "text": "The leap from G\u00f6del's theorem to minds are non-computational is a real, live, philosophical"
+    },
+    {
+      "start": 1584.2849,
+      "end": 1590.88489,
+      "text": "argument, deeply disputed, and not a straightforward consequence of the mathematics. The theorem"
+    },
+    {
+      "start": 1590.88489,
+      "end": 1595.8049,
+      "text": "itself is rock solid. That particular interpretation of it is anything but."
+    },
+    {
+      "start": 1595.8049,
+      "end": 1601.2449,
+      "text": "How did the mathematical world react when G\u00f6del dropped this? Did they immediately"
+    },
+    {
+      "start": 1601.2449,
+      "end": 1603.4249,
+      "text": "grasp that the dream was dead?"
+    },
+    {
+      "start": 1603.4249,
+      "end": 1607.4249,
+      "text": "Not immediately. The reception is a story in itself."
+    },
+    {
+      "start": 1607.4249,
+      "end": 1610.4249,
+      "text": "G\u00f6del first announced the result almost in passing,"
+    },
+    {
+      "start": 1610.4249,
+      "end": 1613.4249,
+      "text": "at a conference in K\u00f6nigsberg in 1930,"
+    },
+    {
+      "start": 1613.4249,
+      "end": 1625.5098,
+      "text": "at a meeting that was with some irony partly a celebration of the very formalist programme he was about to demolish And most of the eminent people in the room simply didn register what he"
+    },
+    {
+      "start": 1625.5098,
+      "end": 1631.26979,
+      "text": "had said. It went nearly unnoticed on the day. But one person in the audience caught"
+    },
+    {
+      "start": 1631.26979,
+      "end": 1637.7098,
+      "text": "it instantly. John von Neumann, one of the sharpest minds of the century. He grasped"
+    },
+    {
+      "start": 1637.7098,
+      "end": 1642.9298,
+      "text": "the first theorem on the spot, and thinking it through on his own afterward, he independently"
+    },
+    {
+      "start": 1642.9298,
+      "end": 1649.1098,
+      "text": "reasoned his way to the second incompleteness theorem, the self-consistency result, only to"
+    },
+    {
+      "start": 1649.1098,
+      "end": 1655.2298,
+      "text": "discover that G\u00f6del had already gotten there first. Once von Neumann and a few others understood it,"
+    },
+    {
+      "start": 1655.68979,
+      "end": 1662.0698,
+      "text": "word spread quickly, and within a few years the significance was beyond dispute. Hilbert's dream"
+    },
+    {
+      "start": 1662.0698,
+      "end": 1667.90979,
+      "text": "of a complete, self-securing foundation for mathematics was finished, and the field of logic"
+    },
+    {
+      "start": 1667.90979,
+      "end": 1673.9498,
+      "text": "was permanently altered, and it set the stage directly for the Turing episode, because a"
+    },
+    {
+      "start": 1673.9498,
+      "end": 1679.0698,
+      "text": "few years later, Turing would pick up the very same self-referential weapon and carry"
+    },
+    {
+      "start": 1679.0698,
+      "end": 1680.5698,
+      "text": "it into the world of machines."
+    },
+    {
+      "start": 1680.5698,
+      "end": 1686.7298,
+      "text": "Fair. Let's connect it back to Turing, because you opened by calling Turing's work a sequel."
+    },
+    {
+      "start": 1687.3498,
+      "end": 1688.7098,
+      "text": "How do the two fit together?"
+    },
+    {
+      "start": 1689.0098,
+      "end": 1693.4498,
+      "text": "They're two faces of a single deep limitation, discovered five years apart."
+    },
+    {
+      "start": 1693.4498,
+      "end": 1702.4698,
+      "text": "Gerdel, in 1931, worked in the world of proof. He showed that truth outruns provability. There"
+    },
+    {
+      "start": 1702.4698,
+      "end": 1718.87466,
+      "text": "are true statements no proof within the system can reach Turing in 1936 working on Hilbert related decision problem recast essentially the same limitation in the world of machines and computation He showed there no mechanical"
+    },
+    {
+      "start": 1718.87466,
+      "end": 1724.9347,
+      "text": "procedure that can decide all mathematical questions. The halting problem, no algorithm"
+    },
+    {
+      "start": 1724.9347,
+      "end": 1730.9347,
+      "text": "can tell you in general whether a program will stop. And Turing's proof uses the very"
+    },
+    {
+      "start": 1730.9347,
+      "end": 1737.29468,
+      "text": "same weapon as Gerdel's. Self-reference, a machine asked about itself, doing the opposite"
+    },
+    {
+      "start": 1737.29468,
+      "end": 1744.23468,
+      "text": "of what it's told. So Gerdel bounded what proof can do. Turing bounded what computation"
+    },
+    {
+      "start": 1744.23468,
+      "end": 1749.97467,
+      "text": "can do. And underneath, it's the same crack running through the foundations, seen from"
+    },
+    {
+      "start": 1749.97467,
+      "end": 1757.4347,
+      "text": "two directions. It's why, in the Turing episode, Gerdel kept haunting the room. This is the"
+    },
+    {
+      "start": 1757.4347,
+      "end": 1763.95468,
+      "text": "room. What was G\u00f6del himself like? A person who reasons a permanent hole into the foundations of"
+    },
+    {
+      "start": 1763.95468,
+      "end": 1771.1946699999999,
+      "text": "mathematics must be unusual. Deeply unusual, and very quietly so. He was intensely precise,"
+    },
+    {
+      "start": 1771.73468,
+      "end": 1776.3946799999999,
+      "text": "sparing with words, and, as we said, a convinced Platonist about mathematics."
+    },
+    {
+      "start": 1777.3946799999999,
+      "end": 1781.57468,
+      "text": "He left Europe and settled at the Institute for Advanced Study in Princeton,"
+    },
+    {
+      "start": 1782.21466,
+      "end": 1785.51468,
+      "text": "and there he formed one of the great friendships in intellectual history"
+    },
+    {
+      "start": 1785.51468,
+      "end": 1791.57468,
+      "text": "with Albert Einstein. The two of them walked to and from the Institute together almost"
+    },
+    {
+      "start": 1791.57468,
+      "end": 1797.13467,
+      "text": "every day, deep in conversation, an odd and famous pair."
+    },
+    {
+      "start": 1797.13467,
+      "end": 1799.9947,
+      "text": "Einstein is said to have remarked, near the end of his life,"
+    },
+    {
+      "start": 1800.0,
+      "end": 1803.8,
+      "text": "He went to his office mainly for the privilege of walking home with Girdle."
+    },
+    {
+      "start": 1804.92,
+      "end": 1807.38,
+      "text": "There's a poignant side to the story too."
+    },
+    {
+      "start": 1807.83,
+      "end": 1812.63,
+      "text": "G\u00f6del's later years were shadowed by a severe and worsening paranoia"
+    },
+    {
+      "start": 1813.29,
+      "end": 1816.41,
+      "text": "but set that aside and hold the central image."
+    },
+    {
+      "start": 1816.77,
+      "end": 1825.49,
+      "text": "a soft-spoken logician, who, at twenty-five, by thinking as carefully as anyone ever has  about what a proof can and cannot do,"
+    },
+    {
+      "start": 1825.65,
+      "end": 1829.41,
+      "text": "permanently reshaped our understanding of truth itself."
+    },
+    {
+      "start": 1830.09,
+      "end": 1836.87,
+      "text": "It's a striking reminder that some of the deepest blows to our certainties come not from telescopes or colliders,"
+    },
+    {
+      "start": 1837.02,
+      "end": 1839.98,
+      "text": "but from a single person, sitting quietly,"
+    },
+    {
+      "start": 1840.11,
+      "end": 1848.15,
+      "text": "So where does this leave mathematics? It sounds like G\u00f6del closed a door forever.  He closed one specific door."
+    },
+    {
+      "start": 1848.87,
+      "end": 1856.39,
+      "text": "the door to Hilbert's particular dream of a single, complete, self-certifying formalisation of all mathematics."
+    },
+    {
+      "start": 1857.12,
+      "end": 1858.56,
+      "text": "That dream is gone."
+    },
+    {
+      "start": 1858.62,
+      "end": 1859.68,
+      "text": "permanently."
+    },
+    {
+      "start": 1860.33,
+      "end": 1862.79,
+      "text": "But mathematics itself didn't collapse."
+    },
+    {
+      "start": 1862.85,
+      "end": 1863.97,
+      "text": "It flourished."
+    },
+    {
+      "start": 1864.53,
+      "end": 1867.89,
+      "text": "What changed is our understanding of what mathematics is."
+    },
+    {
+      "start": 1868.79,
+      "end": 1873.59,
+      "text": "It's not a finite machine that can, in principle, grind out every truth."
+    },
+    {
+      "start": 1874.58,
+      "end": 1880.46,
+      "text": "It's an open, endless activity, forever larger than any formal system meant to contain it."
+    },
+    {
+      "start": 1880.94,
+      "end": 1884.94,
+      "text": "there will always be truths beyond the current axioms 'waiting'."
+    },
+    {
+      "start": 1885.11,
+      "end": 1889.19,
+      "text": "and reaching them means inventing genuinely new mathematics"
+    },
+    {
+      "start": 1889.25,
+      "end": 1891.09,
+      "text": "not just turning a crank."
+    },
+    {
+      "start": 1891.95,
+      "end": 1898.13,
+      "text": "In a strange way, G\u00f6del's result is less a limitation than a guarantee of inexhaustibility."
+    },
+    {
+      "start": 1898.73,
+      "end": 1900.81,
+      "text": "Mathematics can never be finished."
+    },
+    {
+      "start": 1900.98,
+      "end": 1902.98,
+      "text": "Never be fully automated."
+    },
+    {
+      "start": 1902.99,
+      "end": 1904.99,
+      "text": "Never be reduced to bookkeeping."
+    },
+    {
+      "start": 1905.93,
+      "end": 1914.83,
+      "text": "A 25-year-old proved, with total precision, that the world of mathematical truth is permanently bigger than any cage we can build for it."
+    },
+    {
+      "start": 1915.32,
+      "end": 1919.24,
+      "text": "and he did it by teaching arithmetic to whisper about itself,"
+    },
+    {
+      "start": 1919.67,
+      "end": 1930.79,
+      "text": "I cannot be proved. Truth outruns proof forever and no system can certify itself,  proven airtight by a sentence that talks about its own unprovability."
+    },
+    {
+      "start": 1931.19,
+      "end": 1934.99,
+      "text": "a permanent horizon drawn inside logic itself."
+    },
+    {
+      "start": 1935.21,
+      "end": 1937.13,
+      "text": "Thank you, George.  A real pleasure."
+    },
+    {
+      "start": 1937.7,
+      "end": 1938.44,
+      "text": "Mind the loop."
+    }
+  ]
+}

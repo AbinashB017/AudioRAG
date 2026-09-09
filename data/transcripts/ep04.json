@@ -1,0 +1,2650 @@
+{
+  "episode_id": "ep04",
+  "audio_path": "podcasts\\Great Papers 04 - Shannon and the Birth of Information, 1948.mp3",
+  "duration_sec": 2392.422,
+  "chunk_minutes": 6,
+  "n_chunks": 7,
+  "n_segments": 528,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.66,
+      "text": "In 1948, an engineer at Bell Labs named Claude Shannon publishes a paper with the very dry title,  A Mathematical Theory of Communication."
+    },
+    {
+      "start": 11.55,
+      "end": 16.630000000000003,
+      "text": "And in it, he does something that, when you say it out loud, sounds almost impossible."
+    },
+    {
+      "start": 17.31,
+      "end": 24.27,
+      "text": "He takes the word information, this vague, human, slippery thing, and turns it into a number."
+    },
+    {
+      "start": 24.9,
+      "end": 30.9,
+      "text": "a precise, measurable, physical quantity with a unit like length or mass."
+    },
+    {
+      "start": 31.2,
+      "end": 35.68,
+      "text": "He also, in that same paper, more or less hands us the word 'bit'."
+    },
+    {
+      "start": 35.94,
+      "end": 42.18,
+      "text": "George, before this paper, information was a figure of speech. After it, it's a science."
+    },
+    {
+      "start": 42.9,
+      "end": 58.18,
+      "text": "I want to understand how one person does that, how you put a number on information,  and why it turns out to be one of the most consequential things anyone did in the 20th century.  It's genuinely one of the great intellectual moves of the century."
+    },
+    {
+      "start": 58.62,
+      "end": 64.34,
+      "text": "And the reason it lands so hard is that Shannon didn't just measure something people already understood,"
+    },
+    {
+      "start": 64.71,
+      "end": 67.83,
+      "text": "He first had to invent what the thing even was."
+    },
+    {
+      "start": 68.52,
+      "end": 70.38,
+      "text": "So here's the plan for the hour."
+    },
+    {
+      "start": 70.77,
+      "end": 73.27,
+      "text": "We'll start with the mess he was walking into."
+    },
+    {
+      "start": 73.44,
+      "end": 76.32,
+      "text": "Communication Engineering in the 1940s,"
+    },
+    {
+      "start": 76.38,
+      "end": 80.14,
+      "text": "which was a pile of clever tricks with no unifying theory,"
+    },
+    {
+      "start": 80.76,
+      "end": 84.28,
+      "text": "Then we'll watch him make three moves that build the whole field."
+    },
+    {
+      "start": 84.78,
+      "end": 85.84,
+      "text": "Move 1."
+    },
+    {
+      "start": 86.04,
+      "end": 88.30000000000001,
+      "text": "He separates information from meaning."
+    },
+    {
+      "start": 88.38,
+      "end": 92.38,
+      "text": "which sounds like a loss and is actually the key that unlocks everything."
+    },
+    {
+      "start": 93.15,
+      "end": 94.19000000000001,
+      "text": "Move 2"
+    },
+    {
+      "start": 94.2,
+      "end": 101.2,
+      "text": "He defines the unit, the bit, and a quantity called entropy that measures how much information a source produces."
+    },
+    {
+      "start": 101.85,
+      "end": 104.35,
+      "text": "and move 3, the crown jewel."
+    },
+    {
+      "start": 104.7,
+      "end": 110.06,
+      "text": "He asks how much you can push through a noisy channel and prove something nobody believed."
+    },
+    {
+      "start": 110.37,
+      "end": 113.85000000000001,
+      "text": "that you can communicate essentially perfectly through noise."
+    },
+    {
+      "start": 114.51,
+      "end": 117.37,
+      "text": "By the end, you'll see that everything digital,"
+    },
+    {
+      "start": 117.42,
+      "end": 120.76,
+      "text": "every phone bar, every file that compresses,"
+    },
+    {
+      "start": 120.78,
+      "end": 122.88,
+      "text": "every photo from a space probe"
+    },
+    {
+      "start": 123.06,
+      "end": 135.22,
+      "text": "lives inside the two limits he drew. Start with the mess then. What did communication  engineering look like in 1948 and why did it need a Shannon? Picture the state of the art."
+    },
+    {
+      "start": 135.6,
+      "end": 141.4,
+      "text": "You had the telegraph, which is about a century old by then, sending dots and dashes down a wire,"
+    },
+    {
+      "start": 141.84,
+      "end": 145.52,
+      "text": "You had the telephone sending voices as electrical waves."
+    },
+    {
+      "start": 145.83,
+      "end": 148.57000000000002,
+      "text": "You had radio broadcasting through the air."
+    },
+    {
+      "start": 148.83,
+      "end": 150.75,
+      "text": "and each of these was its own kingdom."
+    },
+    {
+      "start": 151.26,
+      "end": 159.14,
+      "text": "with its own engineers and its own hard-won rules of thumb for squeezing signals through wires and getting them out the other end intact."
+    },
+    {
+      "start": 159.99,
+      "end": 162.39000000000001,
+      "text": "but there was no general theory tying them together."
+    },
+    {
+      "start": 163.2,
+      "end": 166.04,
+      "text": "Nobody could answer the truly basic questions."
+    },
+    {
+      "start": 166.53,
+      "end": 169.89000000000001,
+      "text": "How much can you actually send down a given telephone line?"
+    },
+    {
+      "start": 170.37,
+      "end": 173.51,
+      "text": "Is there a hard limit or can you always be cleverer?"
+    },
+    {
+      "start": 174.12,
+      "end": 177.34,
+      "text": "When noise crackles on the line and garbles your message,"
+    },
+    {
+      "start": 177.36,
+      "end": 180.58,
+      "text": "Is that just an inescapable fact you have to live with?"
+    },
+    {
+      "start": 180.63,
+      "end": 182.29,
+      "text": "Or is there a way around it?"
+    },
+    {
+      "start": 182.82,
+      "end": 193.64,
+      "text": "These questions didn't even have a language to be asked in, because there was no agreed-upon measure of the thing being sent.  Because the thing being sent, the information, wasn't defined."
+    },
+    {
+      "start": 194.31,
+      "end": 200.31,
+      "text": "You can't ask 'how much fits' if you can't say how much anything is.  Exactly."
+    },
+    {
+      "start": 200.73,
+      "end": 204.86999999999998,
+      "text": "It's like trying to do the physics of heat before anyone had the concept of temperature."
+    },
+    {
+      "start": 205.83,
+      "end": 207.79000000000002,
+      "text": "You can feel hot and cold,"
+    },
+    {
+      "start": 207.84,
+      "end": 210.56,
+      "text": "You can build a decent furnace by intuition,"
+    },
+    {
+      "start": 210.6,
+      "end": 214.12,
+      "text": "but you can't have a science of it until you've got a thermometer and a number."
+    },
+    {
+      "start": 215.19,
+      "end": 218.75,
+      "text": "Shannon's first job was to build the thermometer for information."
+    },
+    {
+      "start": 219.09,
+      "end": 223.11,
+      "text": "and his very first move toward that is the one that trips people up."
+    },
+    {
+      "start": 223.2,
+      "end": 233.95999999999998,
+      "text": "because it looks like he's throwing away the most important part.  This is the separate information from meaning move.  Tell me what that actually means, because it sounds almost perverse."
+    },
+    {
+      "start": 234.33,
+      "end": 238.55,
+      "text": "Isn't the meaning the whole point of a message?  To a human, of course it is."
+    },
+    {
+      "start": 239.25,
+      "end": 243.89,
+      "text": "But watch what Shannon says right at the top of the paper, almost as a warning label."
+    },
+    {
+      "start": 244.86,
+      "end": 246.14000000000001,
+      "text": "He says roughly:"
+    },
+    {
+      "start": 246.36,
+      "end": 253.10000000000002,
+      "text": "The fundamental problem of communication is reproducing at one point a message that was selected at another point."
+    },
+    {
+      "start": 253.8,
+      "end": 255.58,
+      "text": "and then the crucial line,"
+    },
+    {
+      "start": 255.6,
+      "end": 258.36,
+      "text": "that the meaning of the message, the semantics,"
+    },
+    {
+      "start": 258.42,
+      "end": 260.78000000000003,
+      "text": "is irrelevant to the engineering problem."
+    },
+    {
+      "start": 261.42,
+      "end": 262.7,
+      "text": "He is deliberately"
+    },
+    {
+      "start": 262.74,
+      "end": 265.24,
+      "text": "explicitly setting meaning aside,"
+    },
+    {
+      "start": 265.83,
+      "end": 270.78999999999996,
+      "text": "The telephone system does not care whether you're proposing marriage or ordering a pizza."
+    },
+    {
+      "start": 271.32,
+      "end": 277.0,
+      "text": "Its job is to take whatever symbols you chose and reproduce them faithfully at the far end."
+    },
+    {
+      "start": 277.59,
+      "end": 279.39,
+      "text": "The meaning is your business."
+    },
+    {
+      "start": 279.51,
+      "end": 282.71,
+      "text": "The faithful reproduction is the engineer's business."
+    },
+    {
+      "start": 282.87,
+      "end": 295.51,
+      "text": "and those are separable problems. Okay, but I still feel the loss there. If you ignore meaning,  what's even left to measure? What is information if it isn't the content? Here's the beautiful pivot."
+    },
+    {
+      "start": 296.01,
+      "end": 298.73,
+      "text": "Once you set meaning aside, what's left"
+    },
+    {
+      "start": 298.89,
+      "end": 302.69,
+      "text": "and what turns out to be measurable is choice and surprise."
+    },
+    {
+      "start": 303.24,
+      "end": 305.28000000000003,
+      "text": "information in Shannon's sense,"
+    },
+    {
+      "start": 305.31,
+      "end": 307.45,
+      "text": "is the resolution of uncertainty,"
+    },
+    {
+      "start": 308.01,
+      "end": 310.28999999999996,
+      "text": "Think about it from the receiver's side."
+    },
+    {
+      "start": 310.59,
+      "end": 314.39,
+      "text": "Before a message arrives, you're uncertain about what it'll say,"
+    },
+    {
+      "start": 314.58,
+      "end": 316.24,
+      "text": "There are many possibilities."
+    },
+    {
+      "start": 316.62,
+      "end": 319.74,
+      "text": "After it arrives, that uncertainty is gone."
+    },
+    {
+      "start": 319.92,
+      "end": 322.06,
+      "text": "you know which possibility it was."
+    },
+    {
+      "start": 322.65,
+      "end": 326.09,
+      "text": "Information is the amount of uncertainty that got removed."
+    },
+    {
+      "start": 326.4,
+      "end": 331.44,
+      "text": "A message that tells you something you already knew for certain carries no information."
+    },
+    {
+      "start": 331.59,
+      "end": 332.53,
+      "text": "zero,"
+    },
+    {
+      "start": 332.64,
+      "end": 334.84,
+      "text": "because it removed no uncertainty."
+    },
+    {
+      "start": 335.37,
+      "end": 339.81,
+      "text": "A message that resolves a huge range of possibilities carries a lot."
+    },
+    {
+      "start": 340.32,
+      "end": 342.65999999999997,
+      "text": "So information isn't about meaning,"
+    },
+    {
+      "start": 342.78,
+      "end": 351.26,
+      "text": "It's about how many possibilities got knocked out when the message picked one.  So a message is informative to the extent that I couldn't have predicted it."
+    },
+    {
+      "start": 351.42,
+      "end": 355.42,
+      "text": "The surprise is the information."
+    },
+    {
+      "start": 356.34,
+      "end": 358.41999999999996,
+      "text": "That's exactly the right slogan."
+    },
+    {
+      "start": 358.5,
+      "end": 360.0,
+      "text": "and it has a consequence people"
+    },
+    {
+      "start": 360.0,
+      "end": 362.26,
+      "text": "find counterintuitive at first."
+    },
+    {
+      "start": 362.97,
+      "end": 365.69,
+      "text": "A totally predictable message carries nothing."
+    },
+    {
+      "start": 366.12,
+      "end": 369.28,
+      "text": "If I have a machine that only ever prints the letter A,"
+    },
+    {
+      "start": 369.42,
+      "end": 371.94,
+      "text": "then A-A-A-A forever."
+    },
+    {
+      "start": 372.27,
+      "end": 375.75,
+      "text": "Receiving another A tells you nothing you didn't already know."
+    },
+    {
+      "start": 376.23,
+      "end": 378.69,
+      "text": "Its output is information free."
+    },
+    {
+      "start": 378.72,
+      "end": 381.08,
+      "text": "no matter how many symbols it spits out."
+    },
+    {
+      "start": 381.69,
+      "end": 384.25,
+      "text": "but a source that's genuinely unpredictable,"
+    },
+    {
+      "start": 384.27,
+      "end": 388.33,
+      "text": "that could produce many different things with real uncertainty about which,"
+    },
+    {
+      "start": 388.65,
+      "end": 390.79,
+      "text": "That's a rich source of information,"
+    },
+    {
+      "start": 391.41,
+      "end": 394.77,
+      "text": "so randomness and information are close cousins here."
+    },
+    {
+      "start": 395.28,
+      "end": 400.28,
+      "text": "The more unpredictable a source, the more information each of its symbols carries."
+    },
+    {
+      "start": 400.92,
+      "end": 414.36,
+      "text": "Now we can build the thermometer because we can start counting.  Good, let's count. You promised a unit, the bit. What is one bit exactly?  One bit is the amount of information in a single yes or no answer"
+    },
+    {
+      "start": 414.65999999999997,
+      "end": 418.04,
+      "text": "when the two possibilities were equally likely beforehand."
+    },
+    {
+      "start": 418.68,
+      "end": 422.36,
+      "text": "It's the resolution of one perfectly balanced either/or."
+    },
+    {
+      "start": 422.90999999999997,
+      "end": 426.11,
+      "text": "The cleanest way to feel it is the game of 20 questions."
+    },
+    {
+      "start": 426.96,
+      "end": 428.08,
+      "text": "I'm thinking of something."
+    },
+    {
+      "start": 428.49,
+      "end": 431.77,
+      "text": "You ask yes or no questions to pin it down."
+    },
+    {
+      "start": 432.21,
+      "end": 433.69,
+      "text": "Each good question."
+    },
+    {
+      "start": 433.83,
+      "end": 436.90999999999997,
+      "text": "one where yes and no are equally likely,"
+    },
+    {
+      "start": 437.01,
+      "end": 439.49,
+      "text": "cuts the remaining possibilities in half."
+    },
+    {
+      "start": 439.92,
+      "end": 443.64,
+      "text": "and each such halving is exactly one bit of information."
+    },
+    {
+      "start": 444.18,
+      "end": 447.24,
+      "text": "If there are two possibilities and I tell you which,"
+    },
+    {
+      "start": 447.27,
+      "end": 448.59,
+      "text": "That's one bit."
+    },
+    {
+      "start": 449.01,
+      "end": 451.97,
+      "text": "four possibilities and you need two bids."
+    },
+    {
+      "start": 452.22,
+      "end": 454.8,
+      "text": "Two good questions to nail it down."
+    },
+    {
+      "start": 455.34000000000003,
+      "end": 457.58,
+      "text": "8 possibilities, 3 bids."
+    },
+    {
+      "start": 458.07,
+      "end": 465.75,
+      "text": "Every time you double the number of possibilities, you need one more bit to specify the answer.  So a bit is a halving."
+    },
+    {
+      "start": 465.81,
+      "end": 468.05,
+      "text": "and the word itself, bit."
+    },
+    {
+      "start": 468.06,
+      "end": 469.5,
+      "text": "Where does that come from?"
+    },
+    {
+      "start": 469.62,
+      "end": 472.14,
+      "text": "It's a contraction of binary digit."
+    },
+    {
+      "start": 472.35,
+      "end": 474.55,
+      "text": "a digit that's one of two values"
+    },
+    {
+      "start": 474.57,
+      "end": 477.39,
+      "text": "which we usually write as a 0 or a 1,"
+    },
+    {
+      "start": 477.93,
+      "end": 480.65,
+      "text": "The word was suggested to Shannon by a colleague,"
+    },
+    {
+      "start": 480.72,
+      "end": 482.5,
+      "text": "the statistician John Tukey."
+    },
+    {
+      "start": 483.0,
+      "end": 487.72,
+      "text": "and Shannon put it into print in this paper, which is a big part of why it stuck."
+    },
+    {
+      "start": 488.28,
+      "end": 491.44,
+      "text": "and notice how natural the binary framing is now."
+    },
+    {
+      "start": 491.76,
+      "end": 494.5,
+      "text": "Because one bit is one yes or no,"
+    },
+    {
+      "start": 494.61,
+      "end": 499.73,
+      "text": "you can represent any information at all as a string of yes or no answers."
+    },
+    {
+      "start": 500.07,
+      "end": 502.19,
+      "text": "a string of zeros and ones,"
+    },
+    {
+      "start": 502.8,
+      "end": 506.8,
+      "text": "That's the deep reason the entire digital world speaks in binary."
+    },
+    {
+      "start": 507.3,
+      "end": 510.1,
+      "text": "It's not an arbitrary engineering convention."
+    },
+    {
+      "start": 510.39,
+      "end": 514.45,
+      "text": "It's that the atom of information is a single binary choice,"
+    },
+    {
+      "start": 514.62,
+      "end": 535.36,
+      "text": "And everything is built from those atoms.  That reframes the whole idea of digital for me.  It's not that we chose to use zeros and ones.  It's that information is made of binary choices.  So zeros and ones are just information written in its natural units.  That's precisely the shift Shannon causes."
+    },
+    {
+      "start": 536.37,
+      "end": 539.37,
+      "text": "Once information is a count of binary choices,"
+    },
+    {
+      "start": 539.46,
+      "end": 541.62,
+      "text": "a photograph, a symphony,"
+    },
+    {
+      "start": 541.6800000000001,
+      "end": 542.74,
+      "text": "a genome."
+    },
+    {
+      "start": 542.76,
+      "end": 543.7,
+      "text": "a novel."
+    },
+    {
+      "start": 543.87,
+      "end": 549.0699999999999,
+      "text": "All of them become, in principle, a number of bits comparable on one scale."
+    },
+    {
+      "start": 549.5699999999999,
+      "end": 552.81,
+      "text": "A song and a sentence can be measured in the same unit."
+    },
+    {
+      "start": 553.3199999999999,
+      "end": 558.04,
+      "text": "That common currency is what lets you build one theory for all communication"
+    },
+    {
+      "start": 558.06,
+      "end": 562.14,
+      "text": "instead of separate kingdoms for telegraph and telephone and radio,"
+    },
+    {
+      "start": 562.83,
+      "end": 565.57,
+      "text": "Now the bit measures one balance choice."
+    },
+    {
+      "start": 565.86,
+      "end": 567.74,
+      "text": "But real sources aren't balanced."
+    },
+    {
+      "start": 568.38,
+      "end": 571.2,
+      "text": "The letters of English don't come up equally often,"
+    },
+    {
+      "start": 571.3199999999999,
+      "end": 573.48,
+      "text": "E is far more common than Z."
+    },
+    {
+      "start": 573.81,
+      "end": 580.15,
+      "text": "so Shannon needs a way to measure the average information of a source whose symbols have different probabilities."
+    },
+    {
+      "start": 580.6800000000001,
+      "end": 582.9200000000001,
+      "text": "and that's the quantity he calls entropy."
+    },
+    {
+      "start": 584.13,
+      "end": 589.45,
+      "text": "That's a word borrowed from physics, from thermodynamics, heat and disorder."
+    },
+    {
+      "start": 590.19,
+      "end": 596.4300000000001,
+      "text": "Why does it show up in a paper about telephone lines?  Because the mathematics turned out to be the same shape."
+    },
+    {
+      "start": 596.46,
+      "end": 599.1,
+      "text": "and there's a famous little story about the name."
+    },
+    {
+      "start": 599.76,
+      "end": 604.74,
+      "text": "As it's told, and I'll flag that this one is probably too good to be entirely true,"
+    },
+    {
+      "start": 605.01,
+      "end": 608.13,
+      "text": "Shannon wasn't sure what to call his new quantity."
+    },
+    {
+      "start": 608.31,
+      "end": 611.1700000000001,
+      "text": "and the great mathematician John von Neumann"
+    },
+    {
+      "start": 611.19,
+      "end": 614.23,
+      "text": "told him to call it entropy for two reasons."
+    },
+    {
+      "start": 614.7,
+      "end": 615.46,
+      "text": "One,"
+    },
+    {
+      "start": 615.51,
+      "end": 619.11,
+      "text": "The same formula already appears in statistical mechanics."
+    },
+    {
+      "start": 619.35,
+      "end": 625.47,
+      "text": "And two, since nobody really understands what entropy is anyway, he'd always win an argument about it."
+    },
+    {
+      "start": 626.52,
+      "end": 629.0999999999999,
+      "text": "apocryphal or not, the name fit."
+    },
+    {
+      "start": 629.19,
+      "end": 635.19,
+      "text": "because Shannon's entropy measures exactly the thing thermodynamic entropy measures in spirit."
+    },
+    {
+      "start": 635.61,
+      "end": 636.6500000000001,
+      "text": "disorder."
+    },
+    {
+      "start": 636.6600000000001,
+      "end": 638.1,
+      "text": "unpredictability,"
+    },
+    {
+      "start": 638.1600000000001,
+      "end": 640.6800000000001,
+      "text": "the amount of uncertainty in a system,"
+    },
+    {
+      "start": 641.4,
+      "end": 647.3399999999999,
+      "text": "For a message source, entropy is the average number of bits of information each symbol carries."
+    },
+    {
+      "start": 647.5799999999999,
+      "end": 662.38,
+      "text": "the average surprise per symbol. Hold on, is it literally the same entropy as in physics,  or just the same equation that happens to wear the same name?  For decades people assumed it was just a suggestive coincidence of formulas,"
+    },
+    {
+      "start": 662.79,
+      "end": 664.95,
+      "text": "Same shape, different worlds."
+    },
+    {
+      "start": 665.52,
+      "end": 667.3,
+      "text": "but it turned out to run much deeper."
+    },
+    {
+      "start": 668.13,
+      "end": 675.1700000000001,
+      "text": "Shannon's information entropy and the physicist's thermodynamic entropy are genuinely physically connected."
+    },
+    {
+      "start": 675.75,
+      "end": 680.4300000000001,
+      "text": "The bridge is an idea called Landauer's principle from some years later."
+    },
+    {
+      "start": 681.0,
+      "end": 687.0799999999999,
+      "text": "It says that erasing one bit of information, truly discarding it, resetting a memory to blank,"
+    },
+    {
+      "start": 687.3299999999999,
+      "end": 689.8499999999999,
+      "text": "carries an unavoidable physical price."
+    },
+    {
+      "start": 690.24,
+      "end": 694.64,
+      "text": "it must dump at least a certain tiny minimum of heat into the surroundings."
+    },
+    {
+      "start": 695.22,
+      "end": 698.04,
+      "text": "Information is not a free floating abstraction,"
+    },
+    {
+      "start": 698.19,
+      "end": 701.6700000000001,
+      "text": "manipulating it has real thermodynamic consequences,"
+    },
+    {
+      "start": 701.76,
+      "end": 703.44,
+      "text": "real energy costs."
+    },
+    {
+      "start": 704.04,
+      "end": 707.1600000000001,
+      "text": "To erase a bit is to pay in heat.  That's wild."
+    },
+    {
+      "start": 707.5799999999999,
+      "end": 711.72,
+      "text": "Deleting a file has a thermodynamic cost, in principle,"
+    },
+    {
+      "start": 712.02,
+      "end": 718.14,
+      "text": "Does that connect to anything famous? It resolves a puzzle that had haunted physics for nearly a century."
+    },
+    {
+      "start": 718.53,
+      "end": 719.97,
+      "text": "Maxwell's demon."
+    },
+    {
+      "start": 720.66,
+      "end": 725.82,
+      "text": "Imagine a tiny, intelligent being guarding a door between two boxes of gas,"
+    },
+    {
+      "start": 726.06,
+      "end": 730.14,
+      "text": "letting fast molecules through one way and slow ones the other."
+    },
+    {
+      "start": 730.62,
+      "end": 732.62,
+      "text": "sorting them."
+    },
+    {
+      "start": 731.97,
+      "end": 737.53,
+      "text": "which would create a temperature difference from nothing and violate the second law of thermodynamics,"
+    },
+    {
+      "start": 737.73,
+      "end": 740.69,
+      "text": "the one that says disorder always increases."
+    },
+    {
+      "start": 741.33,
+      "end": 744.45,
+      "text": "The escape, once you take information seriously,"
+    },
+    {
+      "start": 744.54,
+      "end": 748.78,
+      "text": "is that the demon has to measure and remember which molecules are which."
+    },
+    {
+      "start": 749.19,
+      "end": 750.99,
+      "text": "It accumulates information"
+    },
+    {
+      "start": 751.2,
+      "end": 754.52,
+      "text": "and eventually it has to erase that memory to keep working."
+    },
+    {
+      "start": 754.92,
+      "end": 760.6,
+      "text": "and Landauer's principle says that erasure dumps exactly enough heat to save the second law."
+    },
+    {
+      "start": 761.67,
+      "end": 764.75,
+      "text": "The demon's bookkeeping is what pays the entropy bill."
+    },
+    {
+      "start": 765.3,
+      "end": 770.58,
+      "text": "so Shannon's entropy and thermodynamic entropy aren't lookalikes with a shared name."
+    },
+    {
+      "start": 770.7,
+      "end": 773.52,
+      "text": "They're the same quantity seen from two sides."
+    },
+    {
+      "start": 774.15,
+      "end": 775.91,
+      "text": "Information is physical."
+    },
+    {
+      "start": 776.28,
+      "end": 777.52,
+      "text": "And that idea,"
+    },
+    {
+      "start": 777.57,
+      "end": 780.03,
+      "text": "that entropy counts hidden information,"
+    },
+    {
+      "start": 780.09,
+      "end": 783.89,
+      "text": "is the very same thread that runs through a black hole's entropy."
+    },
+    {
+      "start": 783.99,
+      "end": 786.41,
+      "text": "which we talked about in another of these episodes."
+    },
+    {
+      "start": 789.78,
+      "end": 792.28,
+      "text": "Give me a coin or something I can hold."
+    },
+    {
+      "start": 794.8199999999999,
+      "end": 795.8,
+      "text": "Take a fair coin."
+    },
+    {
+      "start": 796.29,
+      "end": 798.53,
+      "text": "heads and tails equally likely."
+    },
+    {
+      "start": 798.96,
+      "end": 801.84,
+      "text": "Before the flip, you're maximally uncertain."
+    },
+    {
+      "start": 802.08,
+      "end": 804.2,
+      "text": "It's a balanced two-way choice."
+    },
+    {
+      "start": 804.5699999999999,
+      "end": 809.85,
+      "text": "so one flip of a fair coin carries exactly one bit of information by definition."
+    },
+    {
+      "start": 810.5699999999999,
+      "end": 812.35,
+      "text": "Now take a biased coin."
+    },
+    {
+      "start": 812.49,
+      "end": 816.65,
+      "text": "say it comes up heads almost every time, tails only rarely."
+    },
+    {
+      "start": 817.11,
+      "end": 819.95,
+      "text": "Now you're much less uncertain before the flip."
+    },
+    {
+      "start": 820.23,
+      "end": 822.59,
+      "text": "You can guess heads and usually be right,"
+    },
+    {
+      "start": 823.02,
+      "end": 826.14,
+      "text": "so an outcome carries less information on average,"
+    },
+    {
+      "start": 826.2,
+      "end": 829.2,
+      "text": "because most of the time it just confirms what you expected."
+    },
+    {
+      "start": 830.13,
+      "end": 833.49,
+      "text": "the entropy of that biased coin is less than one bit."
+    },
+    {
+      "start": 834.1800000000001,
+      "end": 837.22,
+      "text": "and push it to the extreme, a two-headed coin,"
+    },
+    {
+      "start": 837.27,
+      "end": 839.11,
+      "text": "heads every single time,"
+    },
+    {
+      "start": 839.58,
+      "end": 844.86,
+      "text": "Now there's no uncertainty at all, the outcome is certain and the entropy is zero,"
+    },
+    {
+      "start": 845.1,
+      "end": 846.84,
+      "text": "Flipping it tells you nothing."
+    },
+    {
+      "start": 847.23,
+      "end": 851.31,
+      "text": "so entropy runs from zero for a totally predictable source"
+    },
+    {
+      "start": 851.34,
+      "end": 856.62,
+      "text": "up to a maximum when every outcome is equally likely and you're most in the dark."
+    },
+    {
+      "start": 857.1,
+      "end": 869.52,
+      "text": "maximum uncertainty, maximum information per symbol.  So entropy is highest when things are most balanced and unpredictable,  and it drops as the source becomes lopsided and guessable."
+    },
+    {
+      "start": 870.27,
+      "end": 878.23,
+      "text": "And there's an actual formula behind this, I take it?  There is, and I'll give it to you in words, because it's short and it earns its keep."
+    },
+    {
+      "start": 879.03,
+      "end": 884.25,
+      "text": "The entropy of a source is, for each possible symbol, take its probability,"
+    },
+    {
+      "start": 884.37,
+      "end": 888.9300000000001,
+      "text": "multiply that probability by the logarithm of one over that probability"
+    },
+    {
+      "start": 889.08,
+      "end": 892.06,
+      "text": "which is a measure of how surprising that symbol is."
+    },
+    {
+      "start": 892.3199999999999,
+      "end": 895.24,
+      "text": "and then average those up across all the symbols,"
+    },
+    {
+      "start": 895.38,
+      "end": 897.8199999999999,
+      "text": "weighting by how often each occurs."
+    },
+    {
+      "start": 898.47,
+      "end": 903.09,
+      "text": "The surprising, rare symbols contribute a big per-symbol jolt,"
+    },
+    {
+      "start": 903.27,
+      "end": 905.27,
+      "text": "but happened seldom."
+    },
+    {
+      "start": 905.01,
+      "end": 908.53,
+      "text": "The common symbols happen often but each carries little."
+    },
+    {
+      "start": 909.06,
+      "end": 912.38,
+      "text": "Entropy is the properly weighted average of the surprise."
+    },
+    {
+      "start": 912.63,
+      "end": 920.23,
+      "text": "and Shannon proved that this particular formula is essentially the only one that behaves the way a sensible measure of information must,"
+    },
+    {
+      "start": 920.55,
+      "end": 922.35,
+      "text": "It's forced, not arbitrary."
+    },
+    {
+      "start": 923.34,
+      "end": 925.34,
+      "text": "That's the thermometer finished."
+    },
+    {
+      "start": 925.62,
+      "end": 928.1800000000001,
+      "text": "Now he can start proving theorems about it,"
+    },
+    {
+      "start": 928.2,
+      "end": 935.0,
+      "text": "and the first one is about squeezing messages. Squeezing, you mean compression, making a message smaller."
+    },
+    {
+      "start": 935.16,
+      "end": 940.44,
+      "text": "where does entropy come into that entropy turns out to be the exact floor of compression"
+    },
+    {
+      "start": 940.53,
+      "end": 944.21,
+      "text": "And this is Shannon's first great theorem, the source coding theorem."
+    },
+    {
+      "start": 945.06,
+      "end": 946.26,
+      "text": "Here's the setup."
+    },
+    {
+      "start": 946.83,
+      "end": 948.79,
+      "text": "A source produces messages,"
+    },
+    {
+      "start": 948.84,
+      "end": 950.9200000000001,
+      "text": "say, English text."
+    },
+    {
+      "start": 951.33,
+      "end": 953.01,
+      "text": "that text is redundant,"
+    },
+    {
+      "start": 953.0699999999999,
+      "end": 955.63,
+      "text": "It has patterns, predictabilities,"
+    },
+    {
+      "start": 956.04,
+      "end": 959.24,
+      "text": "The letter Q is almost always followed by U."
+    },
+    {
+      "start": 959.61,
+      "end": 961.01,
+      "text": "E is everywhere."
+    },
+    {
+      "start": 961.35,
+      "end": 964.31,
+      "text": "After Th, you can guess an E is coming."
+    },
+    {
+      "start": 964.89,
+      "end": 970.41,
+      "text": "All that predictability means the raw text is a wasteful way to store the actual information."
+    },
+    {
+      "start": 970.8,
+      "end": 972.56,
+      "text": "Shannon's Theorem says:"
+    },
+    {
+      "start": 972.69,
+      "end": 975.81,
+      "text": "you can compress any source down to its entropy."
+    },
+    {
+      "start": 976.14,
+      "end": 980.0999999999999,
+      "text": "down to the true number of bits of genuine information per symbol,"
+    },
+    {
+      "start": 980.4,
+      "end": 983.12,
+      "text": "and you can get as close to that floor as you like."
+    },
+    {
+      "start": 983.49,
+      "end": 986.73,
+      "text": "but you cannot go below it, not without losing information."
+    },
+    {
+      "start": 987.75,
+      "end": 997.27,
+      "text": "Entropy is the hard, unbeatable flaw. So when I zip a file and it gets smaller,  I'm squeezing out the redundancy, the predictable part."
+    },
+    {
+      "start": 997.35,
+      "end": 1008.63,
+      "text": "And the theorem says there's a limit. Once I've squeezed out all the predictability, what's left is the pure information. And that won't compress any further.  You've got it exactly."
+    },
+    {
+      "start": 1009.2,
+      "end": 1011.6800000000001,
+      "text": "and it explains things you've seen your whole life."
+    },
+    {
+      "start": 1012.35,
+      "end": 1016.4300000000001,
+      "text": "A text file zips down a lot because language is very redundant."
+    },
+    {
+      "start": 1016.61,
+      "end": 1019.25,
+      "text": "full of predictable patterns to squeeze out."
+    },
+    {
+      "start": 1019.73,
+      "end": 1028.57,
+      "text": "a file that's already been compressed, or a stream of pure random noise barely zips at all, because there's no predictability left to exploit."
+    },
+    {
+      "start": 1028.94,
+      "end": 1030.8600000000001,
+      "text": "It's already near its entropy."
+    },
+    {
+      "start": 1031.13,
+      "end": 1033.77,
+      "text": "and it tells you something almost philosophical."
+    },
+    {
+      "start": 1034.13,
+      "end": 1039.75,
+      "text": "The size of a message, its real information content, isn't how many letters it has,"
+    },
+    {
+      "start": 1039.95,
+      "end": 1041.6100000000001,
+      "text": "It's how surprising it is."
+    },
+    {
+      "start": 1041.63,
+      "end": 1043.8899999999999,
+      "text": "how far it is from being predictable,"
+    },
+    {
+      "start": 1044.3600000000001,
+      "end": 1051.2,
+      "text": "A million A's in a row is a huge file that carries almost no information and compresses to nearly nothing."
+    },
+    {
+      "start": 1051.74,
+      "end": 1057.94,
+      "text": "A much shorter string of genuinely random symbols carries more information and won't compress at all."
+    },
+    {
+      "start": 1058.43,
+      "end": 1072.75,
+      "text": "Shannon made \"amount of information\" and \"shortest possible description\" the same thing.  Is there an everyday example of coding that already does this?  Spending less effort on the common things?  The perfect one is Morse code."
+    },
+    {
+      "start": 1072.8899999999999,
+      "end": 1075.13,
+      "text": "and it predates Shannon by a full century."
+    },
+    {
+      "start": 1076.29,
+      "end": 1079.97,
+      "text": "Samuel Morse, with no theory at all, did the intuitive thing"
+    },
+    {
+      "start": 1080.0,
+      "end": 1080.96,
+      "text": "When he designed it,"
+    },
+    {
+      "start": 1081.65,
+      "end": 1088.93,
+      "text": "He looked at which letters show up most in English text and gave the most common letter, E, the shortest possible code."
+    },
+    {
+      "start": 1089.39,
+      "end": 1090.59,
+      "text": "a single dot."
+    },
+    {
+      "start": 1090.77,
+      "end": 1093.29,
+      "text": "while rare letters like Q and Z"
+    },
+    {
+      "start": 1093.32,
+      "end": 1095.88,
+      "text": "got long strings of dots and dashes."
+    },
+    {
+      "start": 1096.41,
+      "end": 1098.33,
+      "text": "Frequent symbol, shortcode."
+    },
+    {
+      "start": 1098.81,
+      "end": 1101.01,
+      "text": "Rare symbol: Longcode."
+    },
+    {
+      "start": 1101.48,
+      "end": 1103.48,
+      "text": "That's compression by instinct."
+    },
+    {
+      "start": 1103.58,
+      "end": 1107.42,
+      "text": "He was minimizing the average length without knowing why it worked."
+    },
+    {
+      "start": 1107.99,
+      "end": 1112.01,
+      "text": "Shannon's theory is what says exactly why that instinct is right,"
+    },
+    {
+      "start": 1112.04,
+      "end": 1114.42,
+      "text": "and precisely how far you can push it."
+    },
+    {
+      "start": 1114.83,
+      "end": 1124.39,
+      "text": "The systematic version, one famous method is called Huffman coding, assigns code length by probability and squeezes you right down near the entropy floor."
+    },
+    {
+      "start": 1125.48,
+      "end": 1127.16,
+      "text": "Morse hummed the tune."
+    },
+    {
+      "start": 1127.25,
+      "end": 1135.97,
+      "text": "Shannon wrote the theory of harmony underneath it. And the flip side,  English being so redundant is why my messages compress at all."
+    },
+    {
+      "start": 1136.25,
+      "end": 1140.25,
+      "text": "Can I feel that redundancy directly? Very directly."
+    },
+    {
+      "start": 1140.81,
+      "end": 1144.59,
+      "text": "Imagine writing a sentence and then deleting most of the vowels."
+    },
+    {
+      "start": 1145.04,
+      "end": 1152.8,
+      "text": "You can still read it almost effortlessly because English is so predictable that the missing letters are reconstructable from context."
+    },
+    {
+      "start": 1153.32,
+      "end": 1156.12,
+      "text": "they were carrying very little actual information"
+    },
+    {
+      "start": 1156.89,
+      "end": 1160.33,
+      "text": "Estimates put English at well over half redundant."
+    },
+    {
+      "start": 1160.67,
+      "end": 1164.83,
+      "text": "More than half of a typical message is, in the information sense,"
+    },
+    {
+      "start": 1164.99,
+      "end": 1167.79,
+      "text": "filler you could reconstruct if it were lost."
+    },
+    {
+      "start": 1168.44,
+      "end": 1174.2,
+      "text": "That redundancy is exactly what a compressor hunts down and removes to shrink a file."
+    },
+    {
+      "start": 1174.8,
+      "end": 1178.46,
+      "text": "But here's the twist that quietly sets up the rest of our story."
+    },
+    {
+      "start": 1178.85,
+      "end": 1182.93,
+      "text": "That same redundancy is what lets you read through typos."
+    },
+    {
+      "start": 1183.08,
+      "end": 1185.84,
+      "text": "or understand someone in a noisy room."
+    },
+    {
+      "start": 1186.5,
+      "end": 1190.14,
+      "text": "Redundancy is wasteful if you only care about storage."
+    },
+    {
+      "start": 1190.37,
+      "end": 1193.57,
+      "text": "but it's protective if you care about surviving errors."
+    },
+    {
+      "start": 1194.03,
+      "end": 1197.39,
+      "text": "How much redundancy to keep is a genuine tension."
+    },
+    {
+      "start": 1197.51,
+      "end": 1203.73,
+      "text": "and making that tension precise is the second half of Shannon's paper.  That's a lovely unification."
+    },
+    {
+      "start": 1203.9,
+      "end": 1209.56,
+      "text": "The information in a thing is the length of its shortest faithful description.  OK?"
+    },
+    {
+      "start": 1210.02,
+      "end": 1224.54,
+      "text": "Compression is the floor, you keep teasing a ceiling and something about noise. This is the crown jewel. Set it up for me.  Here's the setup and to feel the impact you have to first inhabit what everyone believed before Shannon."
+    },
+    {
+      "start": 1225.47,
+      "end": 1228.43,
+      "text": "Every real communication channel is noisy."
+    },
+    {
+      "start": 1228.65,
+      "end": 1234.05,
+      "text": "A phone line crackles, static garbles the radio, a scratch corrupts a disk."
+    },
+    {
+      "start": 1234.44,
+      "end": 1237.84,
+      "text": "Noise randomly flips some of your symbols on the way."
+    },
+    {
+      "start": 1238.04,
+      "end": 1239.72,
+      "text": "A zero becomes a one,"
+    },
+    {
+      "start": 1239.75,
+      "end": 1241.37,
+      "text": "A bit gets corrupted."
+    },
+    {
+      "start": 1241.73,
+      "end": 1247.93,
+      "text": "and the universal belief held by every engineer was that noise is attacks you can never fully escape."
+    },
+    {
+      "start": 1248.45,
+      "end": 1252.29,
+      "text": "You could reduce errors by shouting louder, \"More power\"."
+    },
+    {
+      "start": 1252.5,
+      "end": 1257.8600000000001,
+      "text": "or by slowing down and repeating yourself, but you could never eliminate errors entirely."
+    },
+    {
+      "start": 1258.44,
+      "end": 1261.04,
+      "text": "there was thought to be an inescapable trade-off"
+    },
+    {
+      "start": 1261.17,
+      "end": 1264.23,
+      "text": "The faster you send, the more errors you suffer."
+    },
+    {
+      "start": 1264.26,
+      "end": 1267.7,
+      "text": "and reliability could only be bought with speed or power."
+    },
+    {
+      "start": 1267.71,
+      "end": 1269.21,
+      "text": "never had for free."
+    },
+    {
+      "start": 1269.78,
+      "end": 1273.8600000000001,
+      "text": "Perfect communication over a noisy channel was considered a fantasy."
+    },
+    {
+      "start": 1283.37,
+      "end": 1287.49,
+      "text": "How could that not be true?  And this is where Shannon detonates the intuition."
+    },
+    {
+      "start": 1288.35,
+      "end": 1292.79,
+      "text": "He proves that every noisy channel has a definite number attached to it,"
+    },
+    {
+      "start": 1293.0,
+      "end": 1297.2,
+      "text": "Its capacity, a maximum rate measured in bits per second,"
+    },
+    {
+      "start": 1297.68,
+      "end": 1299.3,
+      "text": "And then comes the shock."
+    },
+    {
+      "start": 1299.42,
+      "end": 1301.76,
+      "text": "the noisy channel coding theorem,"
+    },
+    {
+      "start": 1302.3600000000001,
+      "end": 1306.54,
+      "text": "He proves that as long as you transmit at any rate below that capacity,"
+    },
+    {
+      "start": 1306.62,
+      "end": 1308.22,
+      "text": "below the channel's number,"
+    },
+    {
+      "start": 1308.33,
+      "end": 1311.79,
+      "text": "You can make the probability of error as small as you desire."
+    },
+    {
+      "start": 1312.2,
+      "end": 1313.4,
+      "text": "not smaller."
+    },
+    {
+      "start": 1313.49,
+      "end": 1315.25,
+      "text": "as small as you desire,"
+    },
+    {
+      "start": 1315.74,
+      "end": 1320.62,
+      "text": "One error in a billion, one in a trillion, one in whatever you name."
+    },
+    {
+      "start": 1320.9,
+      "end": 1326.98,
+      "text": "achievable over a noisy channel without infinite power and without slowing to a crawl,"
+    },
+    {
+      "start": 1327.47,
+      "end": 1331.01,
+      "text": "Reliable communication through noise is not a fantasy."
+    },
+    {
+      "start": 1331.34,
+      "end": 1334.78,
+      "text": "It's guaranteed as long as you stay under the capacity."
+    },
+    {
+      "start": 1335.3,
+      "end": 1337.46,
+      "text": "and the flip side is just as sharp."
+    },
+    {
+      "start": 1337.85,
+      "end": 1342.97,
+      "text": "try to transmit above capacity and reliable communication becomes impossible."
+    },
+    {
+      "start": 1343.46,
+      "end": 1345.1,
+      "text": "there's a clean threshold."
+    },
+    {
+      "start": 1345.2,
+      "end": 1353.6599999999999,
+      "text": "below it, near perfection, above it, breakdown. Wait, that genuinely sounds like it violates the intuition I just described."
+    },
+    {
+      "start": 1353.87,
+      "end": 1366.03,
+      "text": "If noise flips bits at random, how can you possibly drive the error rate to nearly zero  without just repeating yourself forever, which would slow you to nothing?  This is the heart of it."
+    },
+    {
+      "start": 1366.26,
+      "end": 1370.0,
+      "text": "And the answer is the idea of coding, of clever redundancy."
+    },
+    {
+      "start": 1370.82,
+      "end": 1374.12,
+      "text": "The naive way to fight noise is dumb repetition."
+    },
+    {
+      "start": 1374.45,
+      "end": 1377.73,
+      "text": "send everything three times, take the majority vote."
+    },
+    {
+      "start": 1378.17,
+      "end": 1381.13,
+      "text": "That works a little, but it's terribly inefficient."
+    },
+    {
+      "start": 1381.44,
+      "end": 1384.8,
+      "text": "You've cut your speed to a third and you still make errors."
+    },
+    {
+      "start": 1385.4,
+      "end": 1389.1599999999999,
+      "text": "Shannon's insight is that you should add redundancy, yes,"
+    },
+    {
+      "start": 1389.18,
+      "end": 1395.3400000000001,
+      "text": "but structured, spread out redundancy across a whole block of symbols, not crude repetition."
+    },
+    {
+      "start": 1395.66,
+      "end": 1399.44,
+      "text": "You encode your message into a longer string in a clever way."
+    },
+    {
+      "start": 1399.53,
+      "end": 1404.49,
+      "text": "so that the valid encoded messages are all very far apart from each other."
+    },
+    {
+      "start": 1404.75,
+      "end": 1414.19,
+      "text": "So different that even after noise corrupts a bunch of the symbols,  the received garble is still closer to the one message you actually sent than to any other."
+    },
+    {
+      "start": 1414.47,
+      "end": 1418.19,
+      "text": "and the receiver can figure out what you meant and correct the errors."
+    },
+    {
+      "start": 1418.7,
+      "end": 1439.98,
+      "text": "You design the code so noise can't push one valid message close enough to another to be confused.  So it's like, if I only ever send words that differ from each other in many letters, then even if a few letters get scrambled in transit, you can still tell which word I meant because no other valid word is that close."
+    },
+    {
+      "start": 1440.0,
+      "end": 1441.44,
+      "text": "exactly the right picture."
+    },
+    {
+      "start": 1441.56,
+      "end": 1444.56,
+      "text": "and it's the whole idea of error correcting codes."
+    },
+    {
+      "start": 1445.16,
+      "end": 1449.24,
+      "text": "Spread your valid messages far apart in the space of possible strings,"
+    },
+    {
+      "start": 1449.24,
+      "end": 1450.26,
+      "text": "and noise"
+    },
+    {
+      "start": 1450.29,
+      "end": 1452.21,
+      "text": "which only nudges things a little,"
+    },
+    {
+      "start": 1452.3,
+      "end": 1455.46,
+      "text": "can't carry one valid message all the way to another."
+    },
+    {
+      "start": 1456.05,
+      "end": 1460.43,
+      "text": "The receiver just snaps the noisy mess back to the nearest valid codeword."
+    },
+    {
+      "start": 1460.97,
+      "end": 1462.43,
+      "text": "And Shannon's theorem says,"
+    },
+    {
+      "start": 1462.77,
+      "end": 1466.07,
+      "text": "If you do this cleverly enough over long enough blocks,"
+    },
+    {
+      "start": 1466.1,
+      "end": 1471.7,
+      "text": "you can push the error rate towards zero while still transmitting at any rate up to capacity."
+    },
+    {
+      "start": 1472.25,
+      "end": 1479.65,
+      "text": "The longer the blocks you're willing to encode over, the closer to perfect and the closer to capacity you can get simultaneously."
+    },
+    {
+      "start": 1480.2,
+      "end": 1484.36,
+      "text": "That's the miracle: reliability and efficiency at the same time."
+    },
+    {
+      "start": 1484.46,
+      "end": 1496.7,
+      "text": "bought with cleverness instead of power. Give me the simplest real version of such a code,  so it's not just abstract. The simplest lives one step down from correcting and merely detecting."
+    },
+    {
+      "start": 1496.97,
+      "end": 1498.81,
+      "text": "and it's a single extra bit."
+    },
+    {
+      "start": 1499.01,
+      "end": 1500.21,
+      "text": "a parody bit."
+    },
+    {
+      "start": 1500.84,
+      "end": 1503.08,
+      "text": "Say you're about to send a block of bids."
+    },
+    {
+      "start": 1503.39,
+      "end": 1507.21,
+      "text": "before sending, you count the ones and tack on one more bit."
+    },
+    {
+      "start": 1507.26,
+      "end": 1510.38,
+      "text": "chosen to make the total number of ones come out even."
+    },
+    {
+      "start": 1510.86,
+      "end": 1514.3,
+      "text": "Now the receiver at the far end counts the ones."
+    },
+    {
+      "start": 1514.76,
+      "end": 1518.12,
+      "text": "If the count is odd, something got flipped in transit."
+    },
+    {
+      "start": 1518.21,
+      "end": 1522.53,
+      "text": "an error is detected instantly caught by that one extra bit."
+    },
+    {
+      "start": 1522.92,
+      "end": 1523.8,
+      "text": "That's the seed."
+    },
+    {
+      "start": 1524.6,
+      "end": 1531.32,
+      "text": "To go from detecting to actually locating and fixing the error, you add a few more cleverly placed check bits."
+    },
+    {
+      "start": 1531.56,
+      "end": 1534.38,
+      "text": "The classic scheme is called a Hamming code."
+    },
+    {
+      "start": 1534.59,
+      "end": 1542.27,
+      "text": "arranged so that when a bit flips, the particular pattern of which checks fail  literally spells out the position of the corrupted bit"
+    },
+    {
+      "start": 1542.51,
+      "end": 1543.83,
+      "text": "and you just flip it back."
+    },
+    {
+      "start": 1544.61,
+      "end": 1551.89,
+      "text": "a handful of redundant bits that carry none of your message but guard all of it and can point to exactly what broke."
+    },
+    {
+      "start": 1552.5,
+      "end": 1566.78,
+      "text": "Every heavy-duty code protecting your disk or your phone call is an elaborate descendant of that little parity idea.  There must be a catch or a cost. What do you pay for this?  You pay in two currencies, and it's worth being clear-eyed about them."
+    },
+    {
+      "start": 1567.8,
+      "end": 1570.04,
+      "text": "The first is complexity and delay."
+    },
+    {
+      "start": 1570.59,
+      "end": 1574.93,
+      "text": "The codes that get you close to capacity work over long blocks of data,"
+    },
+    {
+      "start": 1575.03,
+      "end": 1577.1100000000001,
+      "text": "so you have to gather up a big chunk"
+    },
+    {
+      "start": 1577.13,
+      "end": 1580.81,
+      "text": "encode it, send it and decode it at the far end."
+    },
+    {
+      "start": 1581.45,
+      "end": 1584.09,
+      "text": "That takes computation and it takes time."
+    },
+    {
+      "start": 1584.57,
+      "end": 1587.81,
+      "text": "You don't get the miracle for a single bit in isolation."
+    },
+    {
+      "start": 1588.1100000000001,
+      "end": 1591.23,
+      "text": "you get it in the aggregate over long streams."
+    },
+    {
+      "start": 1591.83,
+      "end": 1595.67,
+      "text": "The second cost is subtler and frankly a little maddening."
+    },
+    {
+      "start": 1596.12,
+      "end": 1611.24,
+      "text": "Shannon proved that good codes exist without telling anyone how to build one.  Hold on, he proved you can do it but not how. How do you prove something like that exists  without constructing it? With one of the slickest arguments in the subject."
+    },
+    {
+      "start": 1611.69,
+      "end": 1614.93,
+      "text": "Shannon considered choosing a code completely at random."
+    },
+    {
+      "start": 1615.23,
+      "end": 1617.53,
+      "text": "just picking the encoding by chance."
+    },
+    {
+      "start": 1617.87,
+      "end": 1624.23,
+      "text": "and he showed that the average performance over all random codes is already good enough to approach capacity."
+    },
+    {
+      "start": 1624.92,
+      "end": 1627.62,
+      "text": "and if the average random code is that good,"
+    },
+    {
+      "start": 1627.65,
+      "end": 1631.25,
+      "text": "then at least one specific code must be at least that good."
+    },
+    {
+      "start": 1631.88,
+      "end": 1634.26,
+      "text": "better than average or equal to it."
+    },
+    {
+      "start": 1634.88,
+      "end": 1638.04,
+      "text": "So a good code must exist because the average is good."
+    },
+    {
+      "start": 1638.78,
+      "end": 1642.38,
+      "text": "It's an existence proof by averaging, and it's gorgeous."
+    },
+    {
+      "start": 1642.44,
+      "end": 1644.42,
+      "text": "but it's maddening for an engineer."
+    },
+    {
+      "start": 1644.48,
+      "end": 1645.56,
+      "text": "because it says..."
+    },
+    {
+      "start": 1645.65,
+      "end": 1648.65,
+      "text": "A great code is out there and gives you no blueprint."
+    },
+    {
+      "start": 1649.76,
+      "end": 1652.24,
+      "text": "A random code is useless in practice."
+    },
+    {
+      "start": 1652.34,
+      "end": 1654.76,
+      "text": "you'd have no efficient way to decode it."
+    },
+    {
+      "start": 1655.31,
+      "end": 1658.83,
+      "text": "So Shannon drew the finish line and proved it was reachable."
+    },
+    {
+      "start": 1659.0,
+      "end": 1660.84,
+      "text": "but left the actual race"
+    },
+    {
+      "start": 1660.92,
+      "end": 1663.68,
+      "text": "building practical codes that approach the line,"
+    },
+    {
+      "start": 1663.83,
+      "end": 1670.31,
+      "text": "to everyone who came after.  And how did that race go? Did people actually reach the line he drew?"
+    },
+    {
+      "start": 1670.34,
+      "end": 1675.34,
+      "text": "It took about half a century, and it's one of the great long games in engineering."
+    },
+    {
+      "start": 1675.77,
+      "end": 1680.33,
+      "text": "Right after Shannon, people built the first real error correcting codes."
+    },
+    {
+      "start": 1680.72,
+      "end": 1686.08,
+      "text": "Richard Hamming, a colleague of Shannon's, built early ones that could correct single errors."
+    },
+    {
+      "start": 1686.6,
+      "end": 1689.96,
+      "text": "Over the following decades, the codes got better and better."
+    },
+    {
+      "start": 1690.1399999999999,
+      "end": 1692.7,
+      "text": "Families with names like Reed Solomon,"
+    },
+    {
+      "start": 1692.75,
+      "end": 1697.35,
+      "text": "which is what protects the data on a CD so it still plays through scratches."
+    },
+    {
+      "start": 1697.46,
+      "end": 1700.54,
+      "text": "and which guarded the signals from deep space probes."
+    },
+    {
+      "start": 1701.06,
+      "end": 1702.72,
+      "text": "but there was a stubborn gap."
+    },
+    {
+      "start": 1703.01,
+      "end": 1707.8899999999999,
+      "text": "Practical codes stayed frustratingly short of the Shannon limit for a long time."
+    },
+    {
+      "start": 1708.32,
+      "end": 1711.24,
+      "text": "Then in the 1990s came a breakthrough."
+    },
+    {
+      "start": 1711.5,
+      "end": 1713.6,
+      "text": "codes called turbo codes."
+    },
+    {
+      "start": 1713.63,
+      "end": 1716.21,
+      "text": "and the revival of an older idea called"
+    },
+    {
+      "start": 1716.24,
+      "end": 1718.76,
+      "text": "low-density parity check codes,"
+    },
+    {
+      "start": 1719.0,
+      "end": 1724.3600000000001,
+      "text": "that finally got within a whisker of capacity, astonishingly close to Shannon's ceiling."
+    },
+    {
+      "start": 1724.7,
+      "end": 1729.42,
+      "text": "and more recently, codes called polar codes reached it in a provable way."
+    },
+    {
+      "start": 1729.47,
+      "end": 1732.19,
+      "text": "and they're built into modern cell phone standards."
+    },
+    {
+      "start": 1732.77,
+      "end": 1737.45,
+      "text": "so the finish line Shannon drew in 1948 was genuinely reached,"
+    },
+    {
+      "start": 1737.63,
+      "end": 1744.99,
+      "text": "decades later, by people chasing the target he proved was there.  So he spent 50 years being right, essentially."
+    },
+    {
+      "start": 1745.07,
+      "end": 1751.6100000000001,
+      "text": "He drew a line on faith in the mathematics, and generations of engineers slowly climbed to it."
+    },
+    {
+      "start": 1752.06,
+      "end": 1763.02,
+      "text": "Is there a formula for where that line, the capacity, actually sits? What sets a channel's number?  There is, and for the most important case, it's clean and famous."
+    },
+    {
+      "start": 1763.46,
+      "end": 1766.58,
+      "text": "sometimes called the Shannon Hartley formula."
+    },
+    {
+      "start": 1767.09,
+      "end": 1770.77,
+      "text": "It says the capacity of a channel depends on two things:"
+    },
+    {
+      "start": 1771.05,
+      "end": 1772.17,
+      "text": "its bandwidth."
+    },
+    {
+      "start": 1772.25,
+      "end": 1775.63,
+      "text": "Roughly, the range of frequencies you're allowed to use"
+    },
+    {
+      "start": 1775.67,
+      "end": 1777.21,
+      "text": "how much room you have,"
+    },
+    {
+      "start": 1777.44,
+      "end": 1779.52,
+      "text": "and the signal-to-noise ratio"
+    },
+    {
+      "start": 1779.75,
+      "end": 1783.59,
+      "text": "how loud your signal is compared to the noise fogging it up."
+    },
+    {
+      "start": 1784.07,
+      "end": 1790.83,
+      "text": "and the capacity is the bandwidth multiplied by the logarithm of 1 plus the signal-to-noise ratio."
+    },
+    {
+      "start": 1791.3899999999999,
+      "end": 1793.31,
+      "text": "Let me unpack the shape of that."
+    },
+    {
+      "start": 1793.55,
+      "end": 1795.95,
+      "text": "more bandwidth, more capacity."
+    },
+    {
+      "start": 1796.28,
+      "end": 1799.08,
+      "text": "A wider pipe carries more, straightforwardly."
+    },
+    {
+      "start": 1800.0,
+      "end": 1804.4,
+      "text": "The dependence on signal strength is logarithmic, which is the interesting part."
+    },
+    {
+      "start": 1805.12,
+      "end": 1808.88,
+      "text": "To double the information rate by brute force, cranking up the power,"
+    },
+    {
+      "start": 1809.3,
+      "end": 1813.24,
+      "text": "you don't double the power, you have to square the signal-to-noise ratio."
+    },
+    {
+      "start": 1814.34,
+      "end": 1816.72,
+      "text": "Loudness gives you rapidly diminishing returns."
+    },
+    {
+      "start": 1817.72,
+      "end": 1822.199999,
+      "text": "Room, bandwidth, is the cheaper way to buy capacity than sheer volume."
+    },
+    {
+      "start": 1822.199999,
+      "end": 1825.76,
+      "text": "That logarithm is doing a lot of quiet work."
+    },
+    {
+      "start": 1826.380001,
+      "end": 1831.74,
+      "text": "It's why you can't just shout your way to infinite bandwidth, the returns collapse."
+    },
+    {
+      "start": 1832.0,
+      "end": 1835.44,
+      "text": "Precisely, and it shapes the whole economics of communication."
+    },
+    {
+      "start": 1836.4,
+      "end": 1843.66,
+      "text": "It's why spectrum, bandwidth, is such fiercely fought over, expensive real estate, worth billions at auction."
+    },
+    {
+      "start": 1844.04,
+      "end": 1850.72,
+      "text": "Because widening the pipe pays off linearly, while just pumping up the power pays off only logarithmically."
+    },
+    {
+      "start": 1851.6399959999999,
+      "end": 1856.659996,
+      "text": "Every engineer designing a phone network, a Wi-Fi standard, a satellite link,"
+    },
+    {
+      "start": 1857.019997,
+      "end": 1859.46,
+      "text": "is doing a dance inside this one formula,"
+    },
+    {
+      "start": 1860.319996,
+      "end": 1863.479996,
+      "text": "trading bandwidth against power, against reliability,"
+    },
+    {
+      "start": 1864.21999,
+      "end": 1866.14,
+      "text": "all bounded by Shannon's capacity."
+    },
+    {
+      "start": 1867.21999,
+      "end": 1871.119995,
+      "text": "They are, quite literally, living inside a 1948 equation."
+    },
+    {
+      "start": 1871.759995,
+      "end": 1876.84,
+      "text": "Now let's pull all the way back, because I want you to see how total the reach of this is."
+    },
+    {
+      "start": 1876.84,
+      "end": 1883.32,
+      "text": "Please, because so far this is telephone lines and codes. Make me feel how big it got."
+    },
+    {
+      "start": 1883.32,
+      "end": 1897.99837,
+      "text": "Think about what everything is bits bounded by two limits actually swallows Shannon gave us a flaw You can compress below the entropy And a ceiling You can transmit reliably above the capacity"
+    },
+    {
+      "start": 1897.99837,
+      "end": 1900.598366,
+      "text": "And essentially, all of digital technology"
+    },
+    {
+      "start": 1900.598366,
+      "end": 1903.71837,
+      "text": "lives in the gap between those two lines."
+    },
+    {
+      "start": 1903.71837,
+      "end": 1906.47836,
+      "text": "Every time your phone shows bars of signal,"
+    },
+    {
+      "start": 1906.47836,
+      "end": 1909.198364,
+      "text": "it's reporting, roughly, how much capacity"
+    },
+    {
+      "start": 1909.198364,
+      "end": 1913.8983699999999,
+      "text": "the channel to the tower has right now, a Shannon quantity."
+    },
+    {
+      "start": 1913.8983699999999,
+      "end": 1921.17837,
+      "text": "Every time a music or video file streams to you, it's been compressed toward its entropy floor, a Shannon quantity,"
+    },
+    {
+      "start": 1921.778366,
+      "end": 1927.778366,
+      "text": "and then protected with error-correcting codes so it survives the trip, Shannon's other theorem."
+    },
+    {
+      "start": 1928.29837,
+      "end": 1935.67838,
+      "text": "Every scratched CD or DVD that still plays perfectly is error correction quietly repairing the damage,"
+    },
+    {
+      "start": 1936.19836,
+      "end": 1938.31836,
+      "text": "exactly as the coding theorem promised."
+    },
+    {
+      "start": 1938.31836,
+      "end": 1944.57837,
+      "text": "Every photograph beamed back across billions of miles from a probe out past Pluto,"
+    },
+    {
+      "start": 1945.09836,
+      "end": 1947.09836,
+      "text": "arriving faint and buried in noise,"
+    },
+    {
+      "start": 1947.57837,
+      "end": 1952.69836,
+      "text": "gets through because it was encoded against a channel whose capacity Shannon taught us to compute."
+    },
+    {
+      "start": 1953.77837,
+      "end": 1956.87836,
+      "text": "Hard drives, Wi-Fi, the entire internet,"
+    },
+    {
+      "start": 1957.41837,
+      "end": 1961.17838,
+      "text": "moving unimaginable rivers of bits with near-perfect fidelity,"
+    },
+    {
+      "start": 1961.93837,
+      "end": 1966.77837,
+      "text": "all of it operates in the space Shannon defined, using the framework he built."
+    },
+    {
+      "start": 1966.77837,
+      "end": 1967.99837,
+      "text": "Who was Shannon, though?"
+    },
+    {
+      "start": 1968.31836,
+      "end": 1973.01837,
+      "text": "Was information theory his one big idea or one of several?"
+    },
+    {
+      "start": 1973.01837,
+      "end": 1987.25673,
+      "text": "Remarkably it wasn even his first foundational one About a decade earlier still a young man his master thesis showed that electrical switching circuits networks of simple relays and switches could"
+    },
+    {
+      "start": 1987.25673,
+      "end": 1995.93674,
+      "text": "carry out logic, true and false, and or, not, the operations of Boolean algebra. He showed"
+    },
+    {
+      "start": 1995.93674,
+      "end": 2000.53673,
+      "text": "that machines built from nothing but on-off switches could evaluate logical statements."
+    },
+    {
+      "start": 2000.53673,
+      "end": 2007.49673,
+      "text": "That is the theoretical bedrock under every digital circuit and every computer chip ever built,"
+    },
+    {
+      "start": 2008.11673,
+      "end": 2013.9567299999999,
+      "text": "and he laid it as a student. It's often called the most important master's thesis of the century."
+    },
+    {
+      "start": 2015.1967300000001,
+      "end": 2021.29674,
+      "text": "So one person set down two of the cornerstones of the digital age, first logic in circuits,"
+    },
+    {
+      "start": 2021.79674,
+      "end": 2028.81674,
+      "text": "then information in bits. And on the side, he was famously playful. He built a mechanical mouse"
+    },
+    {
+      "start": 2028.81674,
+      "end": 2030.77673,
+      "text": "that could learn its way through a maze."
+    },
+    {
+      "start": 2031.47673,
+      "end": 2034.99673,
+      "text": "He'd juggle while riding a unicycle through the halls of Bell Labs."
+    },
+    {
+      "start": 2035.87674,
+      "end": 2039.51672,
+      "text": "A mind that treated the deepest problems as a kind of play."
+    },
+    {
+      "start": 2039.65674,
+      "end": 2041.9567299999999,
+      "text": "Two cornerstones from one person."
+    },
+    {
+      "start": 2042.71674,
+      "end": 2046.33673,
+      "text": "Let me ask a scope question because you keep saying sending."
+    },
+    {
+      "start": 2047.13673,
+      "end": 2051.15674,
+      "text": "Does any of this apply to storing information, not just transmitting it?"
+    },
+    {
+      "start": 2051.15674,
+      "end": 2055.59674,
+      "text": "It applies identically and it's a beautiful generalisation once you see it."
+    },
+    {
+      "start": 2055.59674,
+      "end": 2062.31674,
+      "text": "A storage device \u2013 a hard drive, a disk, a memory chip \u2013 is simply a communication"
+    },
+    {
+      "start": 2062.31674,
+      "end": 2078.29507,
+      "text": "channel through time instead of through space When you save a file you are transmitting a message to your future self The noise on that channel is the slow decay of the medium a scratch a stray particle flipping a bit years down the line"
+    },
+    {
+      "start": 2079.13507,
+      "end": 2084.01508,
+      "text": "So both of Shannon's theorems apply to storage exactly as they do to a phone call."
+    },
+    {
+      "start": 2084.9151,
+      "end": 2088.1951,
+      "text": "Compress the data toward its entropy to fit more in,"
+    },
+    {
+      "start": 2088.5951,
+      "end": 2092.7751,
+      "text": "and wrap it in error-correcting codes so it survives the trip through time."
+    },
+    {
+      "start": 2093.7151,
+      "end": 2099.0351,
+      "text": "That's why a scratched disk still plays perfectly, and why your files don't quietly rot."
+    },
+    {
+      "start": 2099.9951,
+      "end": 2102.0351,
+      "text": "And you can even look at biology this way."
+    },
+    {
+      "start": 2102.85507,
+      "end": 2108.57507,
+      "text": "DNA is a message being sent across billions of years, carrying its own error-correcting machinery,"
+    },
+    {
+      "start": 2109.2551,
+      "end": 2112.79507,
+      "text": "which is a thought that ties this paper straight back to the double helix."
+    },
+    {
+      "start": 2113.3151,
+      "end": 2117.57507,
+      "text": "Channel through space, channel through time, one mathematics."
+    },
+    {
+      "start": 2117.57507,
+      "end": 2123.85507,
+      "text": "It's strange to realise that information, as a measurable thing, is younger than the automobile."
+    },
+    {
+      "start": 2124.51508,
+      "end": 2132.1950699999998,
+      "text": "That before 1948, nobody could have told you how many bits are in a sentence, because the question was meaningless."
+    },
+    {
+      "start": 2132.55508,
+      "end": 2134.2751,
+      "text": "That's the part that still stops me."
+    },
+    {
+      "start": 2135.17508,
+      "end": 2138.5351,
+      "text": "He didn't discover a law of information that was lying around waiting."
+    },
+    {
+      "start": 2138.5351,
+      "end": 2148.5351,
+      "text": "He created the very framework in which such laws could be stated, and then proved the two deepest ones, the floor and the ceiling, in the same paper."
+    },
+    {
+      "start": 2148.5351,
+      "end": 2159.9751,
+      "text": "And he did it largely alone, in one stroke, laying out a field so complete that the decades since have mostly been about filling in the engineering he left as an exercise."
+    },
+    {
+      "start": 2160.99,
+      "end": 2161.99,
+      "text": "the bit."
+    },
+    {
+      "start": 2161.77,
+      "end": 2165.17,
+      "text": "entropy, compression limits, channel capacity,"
+    },
+    {
+      "start": 2165.22,
+      "end": 2166.52,
+      "text": "Error correction."
+    },
+    {
+      "start": 2166.81,
+      "end": 2169.01,
+      "text": "That's not a contribution to a field."
+    },
+    {
+      "start": 2169.18,
+      "end": 2176.28,
+      "text": "It's the field arriving nearly whole.  One more before we wrap.  Did this framework reach beyond communication?"
+    },
+    {
+      "start": 2176.8,
+      "end": 2180.52,
+      "text": "into secrecy, codes in the cloak and dagger sense,"
+    },
+    {
+      "start": 2180.67,
+      "end": 2185.53,
+      "text": "It did, in a companion paper the very next year, 1949,"
+    },
+    {
+      "start": 2185.74,
+      "end": 2188.98,
+      "text": "where Shannon founded the mathematical theory of secrecy,"
+    },
+    {
+      "start": 2189.16,
+      "end": 2191.16,
+      "text": "of cryptography."
+    },
+    {
+      "start": 2190.6,
+      "end": 2194.14,
+      "text": "using the same move of putting a number on the intangible."
+    },
+    {
+      "start": 2194.77,
+      "end": 2198.61,
+      "text": "He asked what it would mean for a cipher to be truly unbreakable,"
+    },
+    {
+      "start": 2198.64,
+      "end": 2200.64,
+      "text": "and proved a striking result."
+    },
+    {
+      "start": 2201.37,
+      "end": 2203.65,
+      "text": "there is a perfectly secure system"
+    },
+    {
+      "start": 2203.71,
+      "end": 2205.67,
+      "text": "called the One Time Pad."
+    },
+    {
+      "start": 2206.05,
+      "end": 2207.61,
+      "text": "you combine your message"
+    },
+    {
+      "start": 2207.64,
+      "end": 2210.24,
+      "text": "with a stream of genuinely random key,"
+    },
+    {
+      "start": 2210.28,
+      "end": 2214.14,
+      "text": "that is as long as the message itself and used only once,"
+    },
+    {
+      "start": 2214.33,
+      "end": 2217.25,
+      "text": "and an eavesdropper who intercepts the transmission,"
+    },
+    {
+      "start": 2217.27,
+      "end": 2219.85,
+      "text": "learns literally nothing about the message,"
+    },
+    {
+      "start": 2220.06,
+      "end": 2223.34,
+      "text": "not with any amount of computing power, not ever."
+    },
+    {
+      "start": 2223.45,
+      "end": 2227.71,
+      "text": "because every possible message is equally consistent with what they see."
+    },
+    {
+      "start": 2228.46,
+      "end": 2231.08,
+      "text": "He also proved you can't do better than that."
+    },
+    {
+      "start": 2231.1,
+      "end": 2234.3,
+      "text": "and that the key really does have to be as long as the message."
+    },
+    {
+      "start": 2235.06,
+      "end": 2236.58,
+      "text": "Modern cryptography."
+    },
+    {
+      "start": 2236.62,
+      "end": 2240.02,
+      "text": "the mathematics protecting your bank connection at this moment,"
+    },
+    {
+      "start": 2240.13,
+      "end": 2242.05,
+      "text": "descends from that analysis."
+    },
+    {
+      "start": 2242.53,
+      "end": 2244.61,
+      "text": "Same person, same trick."
+    },
+    {
+      "start": 2244.75,
+      "end": 2246.83,
+      "text": "make the intangible measurable,"
+    },
+    {
+      "start": 2247.09,
+      "end": 2259.81,
+      "text": "turned on secrets instead of signals. Let me try to hold the whole thing in one breath.  Shannon walks into a world where communication is a pile of tricks and information is just a word."
+    },
+    {
+      "start": 2259.96,
+      "end": 2267.12,
+      "text": "He separates information from meaning so that what's left to measure is surprise, the resolution of uncertainty."
+    },
+    {
+      "start": 2267.94,
+      "end": 2275.3,
+      "text": "He defines the unit, the bit, one binary choice, and entropy, the average surprise of a source."
+    },
+    {
+      "start": 2275.77,
+      "end": 2278.15,
+      "text": "From that he proves a flaw."
+    },
+    {
+      "start": 2278.32,
+      "end": 2282.04,
+      "text": "You can compress down to the entropy and no further."
+    },
+    {
+      "start": 2282.28,
+      "end": 2283.94,
+      "text": "Then he proves a ceiling."
+    },
+    {
+      "start": 2284.53,
+      "end": 2296.93,
+      "text": "Every noisy channel has a capacity, and below it you can communicate with as little error as you want, through the noise, using clever codes. A result nobody believed possible."
+    },
+    {
+      "start": 2297.22,
+      "end": 2317.2,
+      "text": "He proves those codes exist without building them, and it takes 50 years to actually reach his line.  And the whole digital world, every bit that's stored, compressed or sent, lives between his floor and his ceiling.  That's the arc, and the thing I'd want you to carry is the shape of the achievement."
+    },
+    {
+      "start": 2318.19,
+      "end": 2320.87,
+      "text": "He made an intangible thing measurable,"
+    },
+    {
+      "start": 2320.92,
+      "end": 2323.84,
+      "text": "and the moment it was measurable it had laws."
+    },
+    {
+      "start": 2324.16,
+      "end": 2330.24,
+      "text": "hard limits as real and unbreakable as the speed of light or the second law of thermodynamics."
+    },
+    {
+      "start": 2330.85,
+      "end": 2333.33,
+      "text": "you cannot compress below the entropy."
+    },
+    {
+      "start": 2333.58,
+      "end": 2336.62,
+      "text": "You cannot transmit reliably above the capacity."
+    },
+    {
+      "start": 2337.24,
+      "end": 2341.96,
+      "text": "Those aren't engineering difficulties to be overcome by a better gadget next year."
+    },
+    {
+      "start": 2342.37,
+      "end": 2345.25,
+      "text": "their mathematical walls, true forever."
+    },
+    {
+      "start": 2345.82,
+      "end": 2349.66,
+      "text": "and yet inside those walls he showed there's astonishing freedom."
+    },
+    {
+      "start": 2350.41,
+      "end": 2354.89,
+      "text": "near perfect communication through a storm of noise if you're clever enough."
+    },
+    {
+      "start": 2355.57,
+      "end": 2359.97,
+      "text": "a floor, a ceiling and a proof that the ceiling can be reached."
+    },
+    {
+      "start": 2360.46,
+      "end": 2371.26,
+      "text": "That's the founding of the information age in one paper by one person out of essentially nothing.  Information has a floor and a ceiling and we live in between them."
+    },
+    {
+      "start": 2371.41,
+      "end": 2383.75,
+      "text": "Thanks for walking through how a quiet paper from Bell Labs turned information from a metaphor  into a measurable law-bound quantity and quietly became the physics of everything digital."
+    },
+    {
+      "start": 2384.43,
+      "end": 2392.37,
+      "text": "Next time your phone shows a full bar of signal, you'll know you're looking at a number Claude Shannon taught the world how to compute."
+    }
+  ]
+}

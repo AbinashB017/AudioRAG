@@ -1,0 +1,28 @@
+{
+  "episode_id": "ep14",
+  "episode_title": "Go\u0308del's Incompleteness Theorems, 1931",
+  "topics": [
+    "Mathematical logic",
+    "Foundations of mathematics",
+    "Formal systems and proof theory",
+    "Limits of computation and decidability",
+    "Philosophy of mathematics"
+  ],
+  "concepts": [
+    "G\u00f6del's incompleteness theorems",
+    "Completeness and consistency",
+    "Self-reference and the liar paradox",
+    "G\u00f6del numbering",
+    "Provability versus truth",
+    "Hilbert's program",
+    "Principia Mathematica",
+    "Russell's paradox",
+    "Unique prime factorization",
+    "Undecidable propositions",
+    "Continuum hypothesis",
+    "Second incompleteness theorem",
+    "Mathematical Platonism",
+    "Halting problem connection"
+  ],
+  "description": "This episode explores Kurt G\u00f6del's 1931 incompleteness theorems, which proved that any sufficiently powerful formal mathematical system contains true statements it cannot prove and cannot certify its own consistency. The discussion covers G\u00f6del's ingenious proof technique using self-reference and numerical encoding, the collapse of Hilbert's program to secure all mathematics on complete foundations, and the profound distinction between mathematical truth and provability. Essential for anyone interested in the limits of formal reasoning, the foundations of mathematics, or the philosophical implications of logical systems."
+}

@@ -1,0 +1,32 @@
+{
+  "episode_id": "ep01",
+  "episode_title": "Einstein's Special Relativity",
+  "topics": [
+    "Special Relativity",
+    "Electromagnetism and Maxwell's Equations",
+    "Space-Time Geometry",
+    "Kinematics of Moving Bodies",
+    "Energy-Mass Equivalence"
+  ],
+  "concepts": [
+    "Lorentz transformation",
+    "time dilation",
+    "length contraction",
+    "relativity of simultaneity",
+    "gamma factor",
+    "inertial reference frames",
+    "luminiferous ether",
+    "Michelson-Morley experiment",
+    "velocity addition formula",
+    "space-time interval",
+    "invariance",
+    "transverse Doppler effect",
+    "relativistic aberration",
+    "E=mc\u00b2",
+    "twin paradox",
+    "muon decay",
+    "electromagnetic field unification",
+    "Minkowski space-time"
+  ],
+  "description": "This episode provides a detailed walkthrough of Einstein's 1905 special relativity paper, explaining how two simple postulates\u2014the principle of relativity and the constancy of light speed\u2014lead to time dilation, length contraction, and the unification of space and time. It's ideal for anyone seeking a rigorous but accessible understanding of how relativity emerges from first principles, with concrete examples from muon decay to GPS satellites."
+}

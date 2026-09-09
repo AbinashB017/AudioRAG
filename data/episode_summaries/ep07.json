@@ -1,0 +1,30 @@
+{
+  "episode_id": "ep07",
+  "episode_title": "On Computable Numbers, Turing 1936",
+  "topics": [
+    "Foundations of Computer Science",
+    "Mathematical Logic",
+    "Computability Theory",
+    "History of Computing",
+    "Limits of Formal Systems"
+  ],
+  "concepts": [
+    "Turing Machine",
+    "Universal Machine",
+    "Halting Problem",
+    "Entscheidungsproblem",
+    "Computable Numbers",
+    "Church-Turing Thesis",
+    "G\u00f6del's Incompleteness Theorem",
+    "Hilbert's Program",
+    "Decidability",
+    "Cantor's Diagonal Argument",
+    "Von Neumann Architecture",
+    "Stored-Program Computer",
+    "Computational Complexity",
+    "P vs NP",
+    "Busy Beaver Numbers",
+    "Lambda Calculus"
+  ],
+  "description": "This episode explores Alan Turing's 1936 paper that invented the theoretical computer while proving fundamental limits of computation. It traces how Turing's attempt to answer Hilbert's decision problem led to the universal machine concept (the blueprint for all modern computers) and the proof that some problems, like the halting problem, are inherently unsolvable. Essential for anyone interested in the foundations of computer science, the philosophy of computation, or the mathematical limits of what machines can do."
+}

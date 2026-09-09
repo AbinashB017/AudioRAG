@@ -1,0 +1,42 @@
+{
+  "episode_id": "ep12",
+  "episode_title": "The Dirac Equation and Antimatter, 1928",
+  "topics": [
+    "Quantum Mechanics",
+    "Special Relativity",
+    "Particle Physics",
+    "Theoretical Physics",
+    "Antimatter"
+  ],
+  "concepts": [
+    "Dirac Equation",
+    "Antimatter",
+    "Positron",
+    "Electron Spin",
+    "Spin One-Half",
+    "Spinors",
+    "Wave Function",
+    "Schr\u00f6dinger Equation",
+    "Klein-Gordon Equation",
+    "Special Relativity",
+    "Space-Time Symmetry",
+    "Matrix Mechanics",
+    "Four-Component Wave Function",
+    "Negative Energy Solutions",
+    "Dirac Sea",
+    "Particle-Antiparticle Annihilation",
+    "CP Violation",
+    "Matter-Antimatter Asymmetry",
+    "Fine Structure",
+    "Quantum Field Theory",
+    "Exclusion Principle",
+    "Magnetic Moment",
+    "G-2 Factor",
+    "Cloud Chamber",
+    "Cosmic Rays",
+    "Positron Emission Tomography (PET)",
+    "Antihydrogen",
+    "Magnetic Monopoles"
+  ],
+  "description": "This episode explores Paul Dirac's 1928 derivation of a relativistic quantum equation that accidentally predicted both electron spin and the existence of antimatter. It's essential for anyone interested in how theoretical physics makes bold predictions, the unification of quantum mechanics with special relativity, and the deep mystery of why our universe contains matter rather than equal amounts of matter and antimatter."
+}

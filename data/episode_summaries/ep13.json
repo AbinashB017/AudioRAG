@@ -1,0 +1,28 @@
+{
+  "episode_id": "ep13",
+  "episode_title": "How DNA Copies Itself, Meselson-Stahl 1958",
+  "topics": [
+    "Molecular Biology",
+    "DNA Replication",
+    "Experimental Design",
+    "History of Genetics",
+    "Biochemistry"
+  ],
+  "concepts": [
+    "Semi-conservative replication",
+    "Conservative replication",
+    "Dispersive replication",
+    "Density gradient centrifugation",
+    "Nitrogen-15 isotope labeling",
+    "DNA polymerase",
+    "Base pairing rules",
+    "Double helix structure",
+    "Caesium chloride gradient",
+    "Template mechanism",
+    "PCR (Polymerase Chain Reaction)",
+    "Mutation rate",
+    "E. coli",
+    "Central dogma"
+  ],
+  "description": "This episode explores the Meselson-Stahl experiment of 1958, which definitively proved that DNA replicates semi-conservatively\u2014each new double helix contains one original strand and one newly synthesized strand. Using elegant isotope labeling and density gradient centrifugation, the experiment resolved a fundamental question about heredity and completed the century-long quest to understand how genetic information is faithfully copied and passed down through generations. Essential listening for anyone interested in molecular biology, experimental design, or the history of genetics."
+}

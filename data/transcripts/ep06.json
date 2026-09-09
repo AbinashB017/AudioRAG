@@ -1,0 +1,2075 @@
+{
+  "episode_id": "ep06",
+  "audio_path": "podcasts\\Great Papers 06 - General Relativity, Einstein 1915.mp3",
+  "duration_sec": 2028.04,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 413,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Last time we left Einstein at a kind of summit."
+    },
+    {
+      "start": 3.24,
+      "end": 14.4,
+      "text": "Special relativity had fused space and time into one thing, space-time, and the price of admission was a single stubborn rule: nothing outruns light."
+    },
+    {
+      "start": 14.61,
+      "end": 17.45,
+      "text": "And right at the end I said there was a loose thread."
+    },
+    {
+      "start": 17.88,
+      "end": 25.7,
+      "text": "that this beautiful new picture had a hole in it exactly where you'd least expect, in the most familiar force there is."
+    },
+    {
+      "start": 26.19,
+      "end": 27.25,
+      "text": "Gravity."
+    },
+    {
+      "start": 27.54,
+      "end": 33.78,
+      "text": "So let me just start there, George. Special relativity is done. It works. It's gorgeous."
+    },
+    {
+      "start": 34.38,
+      "end": 41.120000000000005,
+      "text": "What's wrong with it?  What's wrong is that it quietly excludes the two things that are most obvious about the everyday world."
+    },
+    {
+      "start": 41.76,
+      "end": 44.8,
+      "text": "and it takes Einstein another decade to fix it."
+    },
+    {
+      "start": 45.51,
+      "end": 47.35,
+      "text": "So here's the whole arc for today."
+    },
+    {
+      "start": 48.21,
+      "end": 50.07,
+      "text": "We start with the loose thread."
+    },
+    {
+      "start": 50.28,
+      "end": 52.14,
+      "text": "actually two loose threads,"
+    },
+    {
+      "start": 52.2,
+      "end": 54.84,
+      "text": "that special relativity leaves dangling."
+    },
+    {
+      "start": 55.44,
+      "end": 57.699999999999996,
+      "text": "then Einstein has a single idea."
+    },
+    {
+      "start": 57.81,
+      "end": 61.09,
+      "text": "one he later called \"the happiest thought of his life\"."
+    },
+    {
+      "start": 61.35,
+      "end": 63.61,
+      "text": "and it's almost embarrassingly simple"
+    },
+    {
+      "start": 64.05,
+      "end": 67.41,
+      "text": "A person falling off a roof feels no gravity."
+    },
+    {
+      "start": 67.92,
+      "end": 71.22,
+      "text": "We're going to take that one sentence and just squeeze it."
+    },
+    {
+      "start": 71.52,
+      "end": 78.0,
+      "text": "and out will come bending light slowing clocks and finally the punchline of the entire theory"
+    },
+    {
+      "start": 78.39,
+      "end": 80.85,
+      "text": "that gravity is not a force at all."
+    },
+    {
+      "start": 81.15,
+      "end": 83.47,
+      "text": "It's the shape of space and time."
+    },
+    {
+      "start": 84.06,
+      "end": 88.3,
+      "text": "and then we get to watch the universe agree with him three separate times."
+    },
+    {
+      "start": 88.83,
+      "end": 89.73,
+      "text": "That's the promise."
+    },
+    {
+      "start": 90.36,
+      "end": 98.03999999999999,
+      "text": "one falling person and the rest is consequence.  OK, but before we fall off any roofs, the two loose threads"
+    },
+    {
+      "start": 98.07,
+      "end": 101.19,
+      "text": "What are they? The first is gravity itself."
+    },
+    {
+      "start": 101.34,
+      "end": 104.06,
+      "text": "and it's a genuine contradiction, not a gap."
+    },
+    {
+      "start": 105.06,
+      "end": 107.36,
+      "text": "Think about Newton's law of gravity."
+    },
+    {
+      "start": 107.64,
+      "end": 110.6,
+      "text": "It's one of the most successful equations ever written."
+    },
+    {
+      "start": 110.97,
+      "end": 116.09,
+      "text": "Every mass pulls on every other mass, instantly, across any distance,"
+    },
+    {
+      "start": 116.1,
+      "end": 119.46,
+      "text": "with a force that falls off as the square of the separation."
+    },
+    {
+      "start": 120.0,
+      "end": 122.88,
+      "text": "and that word instantly is the problem."
+    },
+    {
+      "start": 123.45,
+      "end": 129.93,
+      "text": "In Newton's world, if the Sun were to suddenly vanish, the Earth would feel it let go at the very same instant."
+    },
+    {
+      "start": 130.32,
+      "end": 132.88,
+      "text": "The pool disappears everywhere at once."
+    },
+    {
+      "start": 133.41,
+      "end": 135.60999999999999,
+      "text": "but special relativity just told us."
+    },
+    {
+      "start": 135.99,
+      "end": 140.49,
+      "text": "Nothing, no signal, no influence travels faster than light."
+    },
+    {
+      "start": 141.09,
+      "end": 143.79,
+      "text": "Sunlight takes about eight minutes to reach us."
+    },
+    {
+      "start": 144.09,
+      "end": 145.23,
+      "text": "So which is it?"
+    },
+    {
+      "start": 145.44,
+      "end": 150.22,
+      "text": "Does the Earth swing free the instant the Sun disappears, or eight minutes later?"
+    },
+    {
+      "start": 150.75,
+      "end": 152.41,
+      "text": "Newton says instant."
+    },
+    {
+      "start": 152.58,
+      "end": 160.58,
+      "text": "Relativity says impossible. So gravity, as Newton wrote it, is illegal under the new rules. Flatly illegal."
+    },
+    {
+      "start": 161.16,
+      "end": 167.0,
+      "text": "It's action at a distance, with no travel time, and relativity has outlawed exactly that."
+    },
+    {
+      "start": 167.49,
+      "end": 171.49,
+      "text": "so gravity has to be rebuilt from scratch to obey the speed limit."
+    },
+    {
+      "start": 171.99,
+      "end": 173.37,
+      "text": "That's thread one."
+    },
+    {
+      "start": 173.85,
+      "end": 177.76999999999998,
+      "text": "Thread 2 is subtler and it bothered Einstein philosophically."
+    },
+    {
+      "start": 178.2,
+      "end": 183.0,
+      "text": "Special relativity gives a privileged status to a particular kind of observer,"
+    },
+    {
+      "start": 183.36,
+      "end": 185.74,
+      "text": "the ones moving at constant velocity,"
+    },
+    {
+      "start": 185.82,
+      "end": 188.06,
+      "text": "coasting, no acceleration."
+    },
+    {
+      "start": 188.64,
+      "end": 192.95999999999998,
+      "text": "Those are called inertial observers and the whole theory is written for them."
+    },
+    {
+      "start": 193.32,
+      "end": 196.06,
+      "text": "The laws look the same for everyone coasting."
+    },
+    {
+      "start": 196.53,
+      "end": 198.27,
+      "text": "but the moment you accelerate,"
+    },
+    {
+      "start": 198.33,
+      "end": 202.41000000000003,
+      "text": "You hit the gas, you spin, you feel pushed back in your seat,"
+    },
+    {
+      "start": 202.47,
+      "end": 204.03,
+      "text": "You're outside the club."
+    },
+    {
+      "start": 204.45,
+      "end": 206.73,
+      "text": "The theory has nothing to say about you,"
+    },
+    {
+      "start": 207.0,
+      "end": 209.32,
+      "text": "and Einstein found that arbitrary."
+    },
+    {
+      "start": 209.76,
+      "end": 213.51999999999998,
+      "text": "Why should the universe care whether you're coasting or accelerating?"
+    },
+    {
+      "start": 213.99,
+      "end": 218.61,
+      "text": "He wanted a relativity that worked for everyone, accelerated or not,"
+    },
+    {
+      "start": 218.94,
+      "end": 220.98,
+      "text": "hence the name he was reaching for,"
+    },
+    {
+      "start": 221.1,
+      "end": 223.1,
+      "text": "the general theory."
+    },
+    {
+      "start": 222.69,
+      "end": 233.69,
+      "text": "as opposed to the special one that only handled the special case of coasting.  And I have a feeling these two threads are secretly the same thread.  They are exactly the same thread."
+    },
+    {
+      "start": 233.73,
+      "end": 236.92999999999998,
+      "text": "and seeing that they're the same is the entire move."
+    },
+    {
+      "start": 237.57,
+      "end": 239.97,
+      "text": "Here's where the happiest thought comes in."
+    },
+    {
+      "start": 240.42,
+      "end": 246.89999999999998,
+      "text": "Einstein said the idea came to him around 1907, sitting in the patent office, and it was this:"
+    },
+    {
+      "start": 247.5,
+      "end": 249.36,
+      "text": "If a person falls freely,"
+    },
+    {
+      "start": 249.42,
+      "end": 251.22,
+      "text": "say they step off a rooftop,"
+    },
+    {
+      "start": 251.43,
+      "end": 254.43,
+      "text": "During the fall, they feel no gravity at all."
+    },
+    {
+      "start": 254.79,
+      "end": 255.87,
+      "text": "They feel weightless."
+    },
+    {
+      "start": 256.74,
+      "end": 260.3,
+      "text": "Now he couldn't ethically run that experiment, but you've seen it."
+    },
+    {
+      "start": 260.91,
+      "end": 265.63000000000005,
+      "text": "Astronauts on the space station float not because there's no gravity up there,"
+    },
+    {
+      "start": 265.86,
+      "end": 269.22,
+      "text": "Gravity at that altitude is nearly as strong as on the ground,"
+    },
+    {
+      "start": 269.43,
+      "end": 273.33,
+      "text": "but because they're in free fall, endlessly falling around the earth,"
+    },
+    {
+      "start": 273.51,
+      "end": 275.59,
+      "text": "and falling freely, they feel nothing."
+    },
+    {
+      "start": 276.21,
+      "end": 276.90999999999997,
+      "text": "No wait."
+    },
+    {
+      "start": 277.35,
+      "end": 280.89000000000004,
+      "text": "Right, that always trips people up."
+    },
+    {
+      "start": 280.92,
+      "end": 286.04,
+      "text": "The astronauts aren't beyond gravity's reach, they're falling.  They're falling."
+    },
+    {
+      "start": 286.05,
+      "end": 289.65000000000003,
+      "text": "and falling erases the sensation of gravity completely."
+    },
+    {
+      "start": 290.34,
+      "end": 293.44,
+      "text": "So Einstein turns that around into a principle,"
+    },
+    {
+      "start": 293.82,
+      "end": 300.38,
+      "text": "If falling cancels gravity, then gravity and acceleration must be, at bottom, the same thing."
+    },
+    {
+      "start": 300.84,
+      "end": 304.59999999999997,
+      "text": "because you can create the feeling of gravity by accelerating."
+    },
+    {
+      "start": 304.62,
+      "end": 306.78000000000003,
+      "text": "and you can cancel it by falling."
+    },
+    {
+      "start": 307.5,
+      "end": 310.78,
+      "text": "Let me make that concrete with his own thought experiment."
+    },
+    {
+      "start": 310.8,
+      "end": 311.92,
+      "text": "the famous elevator."
+    },
+    {
+      "start": 312.87,
+      "end": 316.03000000000003,
+      "text": "Imagine you're in a sealed box, no windows,"
+    },
+    {
+      "start": 316.05,
+      "end": 319.33,
+      "text": "and you feel your normal weight, feet pressed to the floor."
+    },
+    {
+      "start": 320.43,
+      "end": 321.27,
+      "text": "Question."
+    },
+    {
+      "start": 321.51,
+      "end": 325.51,
+      "text": "Are you standing in a building on Earth with gravity pulling you down?"
+    },
+    {
+      "start": 325.8,
+      "end": 335.14,
+      "text": "Or are you deep in empty space, far from any planet, in a rocket accelerating upward, so the floor is rushing up to meet you and pressing on your feet?"
+    },
+    {
+      "start": 336.03,
+      "end": 350.42999999999995,
+      "text": "Einstein's claim is that no experiment you can do inside that sealed box can tell the two apart.  None? I feel like I could figure it out. Drop a ball, weigh myself, something.  Try it. That's the fun."
+    },
+    {
+      "start": 350.88,
+      "end": 352.14,
+      "text": "You drop a ball."
+    },
+    {
+      "start": 352.35,
+      "end": 356.59000000000003,
+      "text": "On Earth, gravity pulls it to the floor, it accelerates downward."
+    },
+    {
+      "start": 357.0,
+      "end": 360.0,
+      "text": "In the rocket, gravity isn't touching the ball at all,"
+    },
+    {
+      "start": 360.0,
+      "end": 362.6,
+      "text": "but the floor is accelerating upward to meet it."
+    },
+    {
+      "start": 363.1599998,
+      "end": 367.8399997,
+      "text": "So from your point of view inside, the ball drops to the floor exactly the same way."
+    },
+    {
+      "start": 368.86,
+      "end": 369.679999,
+      "text": "You weigh yourself."
+    },
+    {
+      "start": 370.38,
+      "end": 373.719999,
+      "text": "Same reading, because the scale is being pushed against your feet,"
+    },
+    {
+      "start": 374.04,
+      "end": 375.5,
+      "text": "identically in both cases."
+    },
+    {
+      "start": 376.44,
+      "end": 379.1,
+      "text": "Every mechanical experiment gives the same answer."
+    },
+    {
+      "start": 380.119999,
+      "end": 381.58,
+      "text": "This is the equivalence principle."
+    },
+    {
+      "start": 381.58,
+      "end": 387.019999,
+      "text": "A uniform gravitational field is completely equivalent to an accelerating frame."
+    },
+    {
+      "start": 387.019999,
+      "end": 393.579998,
+      "text": "And notice this quietly solves thread two. The thing that made accelerated observers special"
+    },
+    {
+      "start": 393.579998,
+      "end": 398.579998,
+      "text": "was that they felt a force. But that force is now just gravity in disguise,"
+    },
+    {
+      "start": 399.15999999999997,
+      "end": 404.579998,
+      "text": "so accelerated observers aren't exotic anymore. They're on the same footing as everyone else."
+    },
+    {
+      "start": 404.699997,
+      "end": 410.339996,
+      "text": "Okay, that's a lovely piece of unification, but it feels like a philosophical mood so far."
+    },
+    {
+      "start": 410.82,
+      "end": 415.399998,
+      "text": "You promised me bending light and slowing clocks fall out of this. How?"
+    },
+    {
+      "start": 415.399998,
+      "end": 420.399998,
+      "text": "This is the part that turns the mood into physics, and it's my favourite move in all of it."
+    },
+    {
+      "start": 421.339996,
+      "end": 427.04,
+      "text": "We're going to take that sealed box, and instead of dropping a ball, we're going to shine a flashlight across it,"
+    },
+    {
+      "start": 427.36,
+      "end": 431.939995,
+      "text": "and we're going to insist the equivalence principle holds no matter what we do inside."
+    },
+    {
+      "start": 432.979996,
+      "end": 436.84000000000003,
+      "text": "Picture the accelerating rocket first, because that case is easy."
+    },
+    {
+      "start": 437.619995,
+      "end": 442.42,
+      "text": "You shine a laser horizontally from the left wall straight across toward the right wall."
+    },
+    {
+      "start": 442.42,
+      "end": 457.738365,
+      "text": "light takes a tiny sliver of time to cross During that sliver the rocket has accelerated upward The walls have moved up a hair So the beam which was aimed dead level lands on the right wall a tiny bit"
+    },
+    {
+      "start": 457.738365,
+      "end": 463.75837,
+      "text": "lower than where it started. From inside, you see the beam bend downward, curving toward"
+    },
+    {
+      "start": 463.75837,
+      "end": 469.21837,
+      "text": "the floor. Because the room moved up underneath the light while it was in flight. Exactly."
+    },
+    {
+      "start": 469.21837,
+      "end": 472.85837,
+      "text": "In the accelerating rocket, light visibly bends."
+    },
+    {
+      "start": 473.63837,
+      "end": 474.518364,
+      "text": "Now here's the hammer."
+    },
+    {
+      "start": 475.39837,
+      "end": 479.85837,
+      "text": "The equivalence principle says you cannot tell the rocket from a room sitting in gravity."
+    },
+    {
+      "start": 480.61836,
+      "end": 487.31837,
+      "text": "So if light bends in the rocket, light must bend in gravity too, by exactly the same amount."
+    },
+    {
+      "start": 488.17838,
+      "end": 489.25836000000004,
+      "text": "There's no wiggle room."
+    },
+    {
+      "start": 489.95837,
+      "end": 495.99837,
+      "text": "If gravity behaved any differently, you'd have found your experiment to tell the box's two situations apart,"
+    },
+    {
+      "start": 496.43836999999996,
+      "end": 497.79837,
+      "text": "and the principle would be dead."
+    },
+    {
+      "start": 497.79837,
+      "end": 504.21837,
+      "text": "So Einstein concludes, years before he has the full theory, that gravity bends light."
+    },
+    {
+      "start": 505.19836,
+      "end": 508.15837,
+      "text": "A ray of starlight grazing the sun should be deflected."
+    },
+    {
+      "start": 509.07837,
+      "end": 514.43837,
+      "text": "Hold on to that. It becomes one of the three great tests, and it's the one that makes him famous."
+    },
+    {
+      "start": 514.6183599999999,
+      "end": 518.99837,
+      "text": "That's genuinely startling, that you can get a real testable prediction."
+    },
+    {
+      "start": 519.63837,
+      "end": 524.19836,
+      "text": "Light bends near the sun out of a thought about a sealed elevator."
+    },
+    {
+      "start": 524.19836,
+      "end": 528.69836,
+      "text": "And there's a second one hiding in the same box, about time."
+    },
+    {
+      "start": 528.69836,
+      "end": 530.43835,
+      "text": "Let's do clocks."
+    },
+    {
+      "start": 530.43835,
+      "end": 534.19836,
+      "text": "Put one clock on the floor of the rocket and one on the ceiling"
+    },
+    {
+      "start": 534.19836,
+      "end": 546.91673,
+      "text": "and have the floor clock send a light pulse up to the ceiling every tick The rocket is accelerating upward the whole time So while each pulse is travelling up the ceiling is speeding up racing away"
+    },
+    {
+      "start": 546.91673,
+      "end": 552.05673,
+      "text": "from the light coming at it. The ceiling is effectively running from the signal, so the"
+    },
+    {
+      "start": 552.05673,
+      "end": 557.8967299999999,
+      "text": "pulses arrive stretched out. They come in slower than they left. The ceiling sees the"
+    },
+    {
+      "start": 557.8967299999999,
+      "end": 563.81674,
+      "text": "floor clock ticking slow. Now translate through equivalence. The floor is the bottom of a"
+    },
+    {
+      "start": 563.81674,
+      "end": 569.15674,
+      "text": "gravitational field deep in the well. The ceiling is higher up, weaker gravity."
+    },
+    {
+      "start": 570.2567300000001,
+      "end": 576.27673,
+      "text": "Conclusion. A clock deep in a gravitational field runs slow compared to a clock higher up."
+    },
+    {
+      "start": 576.27673,
+      "end": 583.07674,
+      "text": "So time literally runs at different rates at my feet and at my head, because my feet are"
+    },
+    {
+      "start": 583.07674,
+      "end": 588.71674,
+      "text": "microscopically deeper in Earth's gravity. Microscopically, yes, and it's been measured"
+    },
+    {
+      "start": 588.71674,
+      "end": 594.67673,
+      "text": "over height differences of less than a metre. Your head ages very slightly faster than your"
+    },
+    {
+      "start": 594.67673,
+      "end": 601.03674,
+      "text": "feet. This is gravitational time dilation, and its close cousin is gravitational redshift."
+    },
+    {
+      "start": 601.83673,
+      "end": 607.71674,
+      "text": "Light climbing out of a gravitational well loses energy, which for light means its frequency"
+    },
+    {
+      "start": 607.71674,
+      "end": 614.27673,
+      "text": "drops. It reddens. Climb out of a strong field and you redden. That's the redshift."
+    },
+    {
+      "start": 614.27673,
+      "end": 621.41675,
+      "text": "And again, we got it purely from the equivalence principle before writing down a single equation of the real theory."
+    },
+    {
+      "start": 622.67673,
+      "end": 636.5951,
+      "text": "So now Einstein is standing here with two hard predictions and a nagging thought What kind of thing is gravity really if falling makes it vanish and accelerating makes it appear And that the doorway to the big"
+    },
+    {
+      "start": 636.5951,
+      "end": 642.05508,
+      "text": "idea. I'm ready. What is gravity, really? Here's the logic that forces the answer."
+    },
+    {
+      "start": 642.9951,
+      "end": 648.55508,
+      "text": "Notice something strange about free fall that we've been leaning on. Everyone falls the"
+    },
+    {
+      "start": 648.55508,
+      "end": 654.7551000000001,
+      "text": "same way. Galileo's old point. Drop a feather and a hammer in a vacuum and they hit the"
+    },
+    {
+      "start": 654.7551000000001,
+      "end": 661.5951,
+      "text": "ground together. Heavy things, light things, a planet, a photon, they all follow the same"
+    },
+    {
+      "start": 661.5951,
+      "end": 667.6951,
+      "text": "falling path regardless of what they're made of or how much they weigh. Now think about how"
+    },
+    {
+      "start": 667.6951,
+      "end": 674.1551,
+      "text": "unusual that is. The electric force doesn't do that. A heavier charge, a different charge,"
+    },
+    {
+      "start": 674.45508,
+      "end": 681.0951,
+      "text": "responds differently. But gravity? Everything, absolutely everything, takes the identical"
+    },
+    {
+      "start": 681.0951,
+      "end": 687.57507,
+      "text": "trajectory through a given region. When a force ignores every property of the object and moves"
+    },
+    {
+      "start": 687.57507,
+      "end": 693.2350799999999,
+      "text": "everything the same way, Einstein realized you should stop thinking of it as a force acting on"
+    },
+    {
+      "start": 693.2350799999999,
+      "end": 699.2350799999999,
+      "text": "the object at all. You should think of it as a property of the arena, of space-time itself."
+    },
+    {
+      "start": 700.07507,
+      "end": 704.89508,
+      "text": "The falling paths are the same for everyone because they're not really responses to a force."
+    },
+    {
+      "start": 705.3350800000001,
+      "end": 710.7151,
+      "text": "They're just the natural grooves of a curved space-time and everything follows the grooves."
+    },
+    {
+      "start": 710.7151,
+      "end": 716.67508,
+      "text": "OK, say that again slowly because that's the pivot of the whole thing. Gravity is not"
+    },
+    {
+      "start": 716.67508,
+      "end": 717.67508,
+      "text": "a force, it's\u2026"
+    },
+    {
+      "start": 717.67508,
+      "end": 719.95508,
+      "text": "It's curvature. Here's the"
+    },
+    {
+      "start": 720.0,
+      "end": 720.66,
+      "text": "Full picture."
+    },
+    {
+      "start": 721.5,
+      "end": 724.58,
+      "text": "In special relativity, space-time was flat,"
+    },
+    {
+      "start": 724.65,
+      "end": 731.65,
+      "text": "a rigid, featureless stage, the same everywhere and things moved in straight lines unless a force pushed them."
+    },
+    {
+      "start": 732.15,
+      "end": 735.15,
+      "text": "Einstein's leap is to let the stage bend."
+    },
+    {
+      "start": 735.69,
+      "end": 738.75,
+      "text": "Mass and energy warp the spacetime around them,"
+    },
+    {
+      "start": 738.81,
+      "end": 740.09,
+      "text": "Give it curvature."
+    },
+    {
+      "start": 740.46,
+      "end": 744.04,
+      "text": "and then objects in free-fall aren't being pulled by anything,"
+    },
+    {
+      "start": 744.12,
+      "end": 745.56,
+      "text": "They're simply coasting."
+    },
+    {
+      "start": 745.59,
+      "end": 747.97,
+      "text": "moving as straight as they possibly can,"
+    },
+    {
+      "start": 748.05,
+      "end": 750.05,
+      "text": "but through a curved geometry."
+    },
+    {
+      "start": 750.72,
+      "end": 756.72,
+      "text": "On a curved surface, the straightest possible path isn't what you draw with a ruler on flat paper."
+    },
+    {
+      "start": 757.08,
+      "end": 758.2,
+      "text": "It's a curve."
+    },
+    {
+      "start": 758.76,
+      "end": 761.6,
+      "text": "We even have a word for those straightest possible paths."
+    },
+    {
+      "start": 762.3,
+      "end": 764.3,
+      "text": "geodesics."
+    },
+    {
+      "start": 764.07,
+      "end": 768.71,
+      "text": "The Earth isn't held in its orbit by a rope of force reaching out to the Sun."
+    },
+    {
+      "start": 769.2,
+      "end": 771.84,
+      "text": "The sun has curved the space-time around it,"
+    },
+    {
+      "start": 771.93,
+      "end": 776.33,
+      "text": "and the Earth is just following the straightest available path through that valley."
+    },
+    {
+      "start": 776.58,
+      "end": 786.46,
+      "text": "which happens to close back on itself into an orbit.  The image everyone reaches for is the bowling ball on a rubber sheet, the marble circling the dent."
+    },
+    {
+      "start": 786.75,
+      "end": 797.09,
+      "text": "Is that the right picture or is that a lie we tell beginners?  It's about half right and the half that's wrong is worth saying out loud because it's the half that actually matters."
+    },
+    {
+      "start": 798.15,
+      "end": 799.79,
+      "text": "What the rubber sheet gets right."
+    },
+    {
+      "start": 800.4300000000001,
+      "end": 803.67,
+      "text": "Mass makes a dip and things roll around the dip."
+    },
+    {
+      "start": 804.09,
+      "end": 807.15,
+      "text": "What it gets wrong and badly is two things:"
+    },
+    {
+      "start": 807.51,
+      "end": 809.13,
+      "text": "First, it's cheating."
+    },
+    {
+      "start": 809.28,
+      "end": 814.08,
+      "text": "The marble rolls into the dip because of real gravity, pulling it down onto the sheet."
+    },
+    {
+      "start": 814.14,
+      "end": 816.86,
+      "text": "so it's explaining gravity using gravity."
+    },
+    {
+      "start": 817.38,
+      "end": 821.38,
+      "text": "Second, and more important, the rubber sheet only bends space."
+    },
+    {
+      "start": 821.67,
+      "end": 823.31,
+      "text": "It leaves out time entirely."
+    },
+    {
+      "start": 824.19,
+      "end": 826.41,
+      "text": "And here's the thing that surprises people."
+    },
+    {
+      "start": 826.71,
+      "end": 830.31,
+      "text": "For slow-moving objects like planets and falling apples,"
+    },
+    {
+      "start": 830.4,
+      "end": 835.32,
+      "text": "Almost all of the gravity you feel comes from the curvature of time, not space."
+    },
+    {
+      "start": 835.92,
+      "end": 843.06,
+      "text": "The reason an apple falls off a branch is mainly that time itself is running very slightly slower, nearer the ground."
+    },
+    {
+      "start": 843.12,
+      "end": 847.84,
+      "text": "and the apple's straightest path through that warped time bends it downward."
+    },
+    {
+      "start": 848.55,
+      "end": 850.81,
+      "text": "so the sheet is a useful cartoon."
+    },
+    {
+      "start": 850.89,
+      "end": 854.67,
+      "text": "but the real curvature is a curvature of four-dimensional spacetime,"
+    },
+    {
+      "start": 854.76,
+      "end": 876.44,
+      "text": "with time doing most of the heavy lifting. That's a genuinely different picture than I've ever had.  The apple falls because time is bent, not just space. All right, so how do you turn  space-time bends into actual equations? What does Einstein have to invent? He needs two  pieces of machinery and I'll keep them in plain language."
+    },
+    {
+      "start": 877.11,
+      "end": 881.21,
+      "text": "The first is a way to describe the shape of space-time at every point."
+    },
+    {
+      "start": 881.46,
+      "end": 884.46,
+      "text": "How curved is it here? How curved over there?"
+    },
+    {
+      "start": 885.48,
+      "end": 888.12,
+      "text": "The object that does that is called the metric."
+    },
+    {
+      "start": 888.54,
+      "end": 891.62,
+      "text": "Think of the metric as the local ruler and clock."
+    },
+    {
+      "start": 891.99,
+      "end": 897.59,
+      "text": "At each point in spacetime it tells you how to measure real distances and real times."
+    },
+    {
+      "start": 897.63,
+      "end": 901.11,
+      "text": "and crucially, that ruler changes from place to place."
+    },
+    {
+      "start": 901.77,
+      "end": 905.29,
+      "text": "In flat spacetime, the ruler is the same everywhere."
+    },
+    {
+      "start": 905.58,
+      "end": 908.1600000000001,
+      "text": "In curved spacetime, it varies."
+    },
+    {
+      "start": 908.22,
+      "end": 910.46,
+      "text": "and that variation is the gravity."
+    },
+    {
+      "start": 911.01,
+      "end": 916.45,
+      "text": "The metric plays exactly the role that the gravitational potential played in Newton's theory."
+    },
+    {
+      "start": 916.8,
+      "end": 918.0,
+      "text": "It's the field."
+    },
+    {
+      "start": 918.39,
+      "end": 919.91,
+      "text": "So the first job is:"
+    },
+    {
+      "start": 920.0699999999999,
+      "end": 933.35,
+      "text": "Solve for the metric and you know the geometry and you know how everything falls.  So the metric is the thing you're solving for, the way in old physics you solved for a force field.  Right, it's the unknown."
+    },
+    {
+      "start": 933.99,
+      "end": 936.83,
+      "text": "and the second piece of machinery is curvature."
+    },
+    {
+      "start": 936.99,
+      "end": 942.35,
+      "text": "a precise mathematical measure built out of how the metric changes from point to point,"
+    },
+    {
+      "start": 942.39,
+      "end": 945.0899999999999,
+      "text": "of how bent the geometry actually is,"
+    },
+    {
+      "start": 945.51,
+      "end": 947.75,
+      "text": "and here I have to make good on a promise."
+    },
+    {
+      "start": 947.85,
+      "end": 950.41,
+      "text": "The caveat about the equivalence principle."
+    },
+    {
+      "start": 950.88,
+      "end": 953.64,
+      "text": "Remember I said falling cancels gravity?"
+    },
+    {
+      "start": 954.0,
+      "end": 957.36,
+      "text": "That's only true locally, in a small enough region,"
+    },
+    {
+      "start": 957.75,
+      "end": 961.59,
+      "text": "because if you and I are both falling toward the earth from far apart,"
+    },
+    {
+      "start": 961.62,
+      "end": 963.72,
+      "text": "We're each falling toward the centre,"
+    },
+    {
+      "start": 963.81,
+      "end": 966.5699999999999,
+      "text": "so our paths are very slightly converging."
+    },
+    {
+      "start": 967.02,
+      "end": 971.9,
+      "text": "Over a big enough region, two freely falling objects drift toward each other."
+    },
+    {
+      "start": 972.0,
+      "end": 976.4,
+      "text": "And no amount of, we're just falling, we feel nothing, can hide that."
+    },
+    {
+      "start": 977.28,
+      "end": 982.88,
+      "text": "That drift, that convergence of falling paths, is the true fingerprint of curvature."
+    },
+    {
+      "start": 983.13,
+      "end": 985.0899999999999,
+      "text": "It's called the tidal effect."
+    },
+    {
+      "start": 985.2,
+      "end": 988.16,
+      "text": "and it's literally what raises the ocean tides."
+    },
+    {
+      "start": 988.53,
+      "end": 991.41,
+      "text": "Uniform gravity you can cancel by falling."
+    },
+    {
+      "start": 991.65,
+      "end": 993.73,
+      "text": "Real curvature you can't."
+    },
+    {
+      "start": 994.1700000000001,
+      "end": 1003.45,
+      "text": "and curvature is what the equations are really about. Good, I'm glad you closed that loop,  because just fall and gravity disappears sounded too good."
+    },
+    {
+      "start": 1003.53,
+      "end": 1008.65,
+      "text": "So we've got the metric, the varying ruler and curvature built from it."
+    },
+    {
+      "start": 1008.69,
+      "end": 1011.3299999999999,
+      "text": "Now the famous equation, lay it on me."
+    },
+    {
+      "start": 1013.8199999999999,
+      "end": 1020.64,
+      "text": "and you can say the whole thing in one English sentence before we touch a symbol,  courtesy of the physicist John Wheeler."
+    },
+    {
+      "start": 1021.65,
+      "end": 1026.8899999999999,
+      "text": "Matter tells spacetime how to curve and spacetime tells matter how to move."
+    },
+    {
+      "start": 1027.41,
+      "end": 1029.77,
+      "text": "That's the entire theory in 12 words."
+    },
+    {
+      "start": 1030.56,
+      "end": 1033.12,
+      "text": "The equation is just that sentence made exact."
+    },
+    {
+      "start": 1033.83,
+      "end": 1035.83,
+      "text": "Written out, it's often given as:"
+    },
+    {
+      "start": 1036.05,
+      "end": 1040.01,
+      "text": "g mu nu equals 8 pi g over c to the fourth,"
+    },
+    {
+      "start": 1040.07,
+      "end": 1041.81,
+      "text": "times t mu nu."
+    },
+    {
+      "start": 1042.38,
+      "end": 1045.5,
+      "text": "Let me unpack each side because it's very clean."
+    },
+    {
+      "start": 1045.98,
+      "end": 1049.42,
+      "text": "The left side, G mu nu, is the curvature."
+    },
+    {
+      "start": 1049.7,
+      "end": 1054.9,
+      "text": "It's built from the metric and describes precisely how space-time is bent at that point."
+    },
+    {
+      "start": 1055.49,
+      "end": 1060.97,
+      "text": "The right side, team you knew, describes all the matter and energy sitting at that point."
+    },
+    {
+      "start": 1061.73,
+      "end": 1063.53,
+      "text": "and the two are set equal."
+    },
+    {
+      "start": 1064.04,
+      "end": 1067.58,
+      "text": "Curvature on the left equals matter and energy on the right."
+    },
+    {
+      "start": 1068.12,
+      "end": 1072.92,
+      "text": "Geometry equals stuff.  What are all the little moon new subscripts doing?"
+    },
+    {
+      "start": 1073.4,
+      "end": 1079.36,
+      "text": "That's the part that always looks intimidating.  They're bookkeeping and they're actually telling you something physical."
+    },
+    {
+      "start": 1080.0,
+      "end": 1094.36,
+      "text": "Space-time has four directions, three of space, one of time, so at each point there are several ways things can be curved and several ways matter can flow, along each direction and in combinations."
+    },
+    {
+      "start": 1095.08,
+      "end": 1109.199999,
+      "text": "The mu and nu are just labels running over those directions, so the single equation you see is really a compact package of several equations, one for each combination of directions, all bundled together."
+    },
+    {
+      "start": 1110.0,
+      "end": 1113.52,
+      "text": "When physicists say tensor, that's all they mean,"
+    },
+    {
+      "start": 1114.06,
+      "end": 1118.54,
+      "text": "an organised table of components that keeps track of every direction at once."
+    },
+    {
+      "start": 1119.54,
+      "end": 1121.239998,
+      "text": "You don't need to compute them today."
+    },
+    {
+      "start": 1121.82,
+      "end": 1123.78,
+      "text": "You just need to hear the sentence underneath."
+    },
+    {
+      "start": 1124.78,
+      "end": 1128.84,
+      "text": "How matter is arranged here determines how geometry curves here."
+    },
+    {
+      "start": 1128.84,
+      "end": 1133.8,
+      "text": "And that constant out front, 8 pi g over c to the fourth."
+    },
+    {
+      "start": 1134.22,
+      "end": 1135.34,
+      "text": "What's living in there?"
+    },
+    {
+      "start": 1135.8,
+      "end": 1137.76,
+      "text": "Two things, and both are meaningful."
+    },
+    {
+      "start": 1137.76,
+      "end": 1143.3,
+      "text": "The g is Newton's gravitational constant, the same one from the old law."
+    },
+    {
+      "start": 1144.0,
+      "end": 1148.14,
+      "text": "It sets how strongly matter curves spacetime, and it's a tiny number,"
+    },
+    {
+      "start": 1148.56,
+      "end": 1153.439995,
+      "text": "which is why you need something as massive as a planet or a star to make noticeable curvature."
+    },
+    {
+      "start": 1154.52,
+      "end": 1160.119995,
+      "text": "And the c to the fourth in the denominator, c being the speed of light raised to the fourth power,"
+    },
+    {
+      "start": 1160.64,
+      "end": 1164.84,
+      "text": "is an enormous number which makes the whole constant fantastically small."
+    },
+    {
+      "start": 1164.84,
+      "end": 1176.33836,
+      "text": "That the mathematical statement of the fact that space is incredibly stiff It takes a stupendous amount of mass and energy to bend it even a little"
+    },
+    {
+      "start": 1176.33836,
+      "end": 1181.878365,
+      "text": "The Sun, with a million Earths worth of mass, bends the passing starlight by an angle you"
+    },
+    {
+      "start": 1181.878365,
+      "end": 1185.01837,
+      "text": "need a careful astronomer to detect."
+    },
+    {
+      "start": 1185.01837,
+      "end": 1186.558365,
+      "text": "Space-time does not give easily."
+    },
+    {
+      "start": 1186.558365,
+      "end": 1191.95837,
+      "text": "Let's talk about the right-hand side more, the T, the matter term."
+    },
+    {
+      "start": 1191.95837,
+      "end": 1196.45837,
+      "text": "You keep saying matter and energy, not just mass. Does that matter?"
+    },
+    {
+      "start": 1196.65837,
+      "end": 1200.71837,
+      "text": "It matters enormously, and it's a direct inheritance from special relativity."
+    },
+    {
+      "start": 1201.81837,
+      "end": 1207.198364,
+      "text": "That T is called the stress-energy tensor, and the whole point is that it's not just mass."
+    },
+    {
+      "start": 1207.71837,
+      "end": 1209.33836,
+      "text": "It's everything that can gravitate."
+    },
+    {
+      "start": 1210.29837,
+      "end": 1215.79837,
+      "text": "Energy gravitates because from the last episode, we know energy and mass are the same currency."
+    },
+    {
+      "start": 1216.07837,
+      "end": 1218.65837,
+      "text": "E equals mc squared."
+    },
+    {
+      "start": 1219.59836,
+      "end": 1222.15837,
+      "text": "Momentum gravitates, pressure gravitates."
+    },
+    {
+      "start": 1222.69836,
+      "end": 1225.57837,
+      "text": "The pressure inside a star actually adds to its gravity."
+    },
+    {
+      "start": 1226.51837,
+      "end": 1231.15836,
+      "text": "Even a beam of pure light, which has no mass at all, has energy and momentum,"
+    },
+    {
+      "start": 1231.73837,
+      "end": 1234.71837,
+      "text": "so it curves spacetime and it responds to curvature."
+    },
+    {
+      "start": 1235.77837,
+      "end": 1239.03836,
+      "text": "This is a real break from Newton, where only mass pulls."
+    },
+    {
+      "start": 1239.49837,
+      "end": 1246.81836,
+      "text": "In Einstein's theory, the source of gravity is the entire inventory of energy and momentum and pressure at a point."
+    },
+    {
+      "start": 1246.81836,
+      "end": 1249.77837,
+      "text": "Everything that is anything gravitates."
+    },
+    {
+      "start": 1254.99673,
+      "end": 1260.91673,
+      "text": "some serious geometry, one master equation. But a beautiful equation that predicts nothing"
+    },
+    {
+      "start": 1260.91673,
+      "end": 1267.17673,
+      "text": "is just decoration. How does the universe weigh in? You promised me three tests."
+    },
+    {
+      "start": 1267.45674,
+      "end": 1272.27673,
+      "text": "Three tests, and they have a lovely narrative shape, because the first one isn't a prediction"
+    },
+    {
+      "start": 1272.27673,
+      "end": 1277.53673,
+      "text": "of something new. It's the resolution of an old crime that had gone cold for decades."
+    },
+    {
+      "start": 1278.81674,
+      "end": 1284.89673,
+      "text": "The planet Mercury. Mercury's orbit is an ellipse, and that ellipse slowly rotates."
+    },
+    {
+      "start": 1284.99673,
+      "end": 1291.17673,
+      "text": "The whole oval creeps around the Sun over time, so the point of closest approach, called"
+    },
+    {
+      "start": 1291.17673,
+      "end": 1295.03674,
+      "text": "the perihelion, shifts a little each orbit."
+    },
+    {
+      "start": 1295.03674,
+      "end": 1298.91673,
+      "text": "Now most of that shift, Newton explains beautifully."
+    },
+    {
+      "start": 1298.91673,
+      "end": 1301.59674,
+      "text": "It's the tug of all the other planets."
+    },
+    {
+      "start": 1301.59674,
+      "end": 1306.2367199999999,
+      "text": "But when astronomers added up every known pull, there was a leftover."
+    },
+    {
+      "start": 1306.2367199999999,
+      "end": 1312.17673,
+      "text": "A tiny residual, about 43 arc seconds per century, that nothing in Newton's universe"
+    },
+    {
+      "start": 1312.17673,
+      "end": 1313.17673,
+      "text": "could account for."
+    },
+    {
+      "start": 1313.17673,
+      "end": 1318.31674,
+      "text": "43 arcseconds per century. Put that in human terms. How big is that?"
+    },
+    {
+      "start": 1318.31674,
+      "end": 1327.7367199999999,
+      "text": "It's minute. An arcsecond is 1 36 hundredth of a degree, and this is 43 of them, accumulated over 100 years."
+    },
+    {
+      "start": 1328.75674,
+      "end": 1332.1967300000001,
+      "text": "It is the width of a small coin seen from kilometres away."
+    },
+    {
+      "start": 1333.17673,
+      "end": 1338.27673,
+      "text": "But it was rock solid, the measurement was good, and the discrepancy would not go away."
+    },
+    {
+      "start": 1338.27673,
+      "end": 1344.77673,
+      "text": "People were so sure Newton was right that they invented a whole new planet to fix it,"
+    },
+    {
+      "start": 1344.77673,
+      "end": 1358.63507,
+      "text": "an unseen world closer to the Sun than Mercury They named it Vulcan and they went looking It wasn there So this 43 arc seconds sat as an open embarrassment for about half a century"
+    },
+    {
+      "start": 1359.83508,
+      "end": 1365.8151,
+      "text": "Now here's Einstein in November of 1915. He takes his brand new field equations,"
+    },
+    {
+      "start": 1366.4351,
+      "end": 1370.4151,
+      "text": "works out how Mercury should move through the space-time curved by the Sun,"
+    },
+    {
+      "start": 1370.4151,
+      "end": 1375.4751,
+      "text": "a slightly different curvature than Newton's, because time is warped too,"
+    },
+    {
+      "start": 1376.2151,
+      "end": 1381.0150800000001,
+      "text": "and out comes the extra precession, 43 arc seconds per century,"
+    },
+    {
+      "start": 1381.6551,
+      "end": 1385.1951,
+      "text": "no fudging, no free parameters, no invented planet."
+    },
+    {
+      "start": 1385.8751,
+      "end": 1387.9951,
+      "text": "The number falls out of the geometry."
+    },
+    {
+      "start": 1389.2151,
+      "end": 1390.8551,
+      "text": "And that's a retrodiction."
+    },
+    {
+      "start": 1391.2751,
+      "end": 1394.7950700000001,
+      "text": "Technically, the number was already known, he explained it,"
+    },
+    {
+      "start": 1394.9151,
+      "end": 1396.7751,
+      "text": "rather than predicting it fresh."
+    },
+    {
+      "start": 1396.7751,
+      "end": 1400.2950700000001,
+      "text": "Exactly right, and it's worth being precise about that."
+    },
+    {
+      "start": 1400.4151,
+      "end": 1403.61508,
+      "text": "because it's a different kind of triumph than a fresh prediction."
+    },
+    {
+      "start": 1404.61508,
+      "end": 1409.67508,
+      "text": "The 43 arcseconds was sitting there, measured, unexplained, for 50 years."
+    },
+    {
+      "start": 1410.5951,
+      "end": 1411.9951,
+      "text": "Einstein didn't foresee it."
+    },
+    {
+      "start": 1412.3751,
+      "end": 1416.5951,
+      "text": "He accounted for it, exactly, with a theory built for entirely other reasons."
+    },
+    {
+      "start": 1417.45508,
+      "end": 1420.19507,
+      "text": "He wrote later that when he saw the number come out right,"
+    },
+    {
+      "start": 1420.19507,
+      "end": 1422.4351,
+      "text": "he had heart palpitations for days."
+    },
+    {
+      "start": 1423.4151,
+      "end": 1425.55508,
+      "text": "But you're correct that a sceptic could say,"
+    },
+    {
+      "start": 1426.1551,
+      "end": 1428.25507,
+      "text": "well, you knew the answer you were shooting for,"
+    },
+    {
+      "start": 1428.25507,
+      "end": 1433.0951,
+      "text": "Which is why the second test is the one that truly silenced the room."
+    },
+    {
+      "start": 1433.0951,
+      "end": 1436.61508,
+      "text": "Because that one, nobody knew the answer in advance."
+    },
+    {
+      "start": 1436.61508,
+      "end": 1439.9751,
+      "text": "It was a genuine prediction of something no one had ever measured."
+    },
+    {
+      "start": 1440.0,
+      "end": 1447.68,
+      "text": "of the starlight. Back to the elevator. Back to the elevator, now grown up. We said gravity"
+    },
+    {
+      "start": 1447.68,
+      "end": 1453.7,
+      "text": "bends light, so a star whose light just grazes the edge of the sun on its way to us should"
+    },
+    {
+      "start": 1453.7,
+      "end": 1459.039999,
+      "text": "appear slightly shifted from its true position, because its light got deflected as it skimmed"
+    },
+    {
+      "start": 1459.039999,
+      "end": 1465.56,
+      "text": "the sun's curved spacetime. Einstein calculated the angle, and here's a detail that's easy"
+    },
+    {
+      "start": 1465.56,
+      "end": 1471.199999,
+      "text": "to miss but is the whole ballgame. A crude argument that just treats light as a falling"
+    },
+    {
+      "start": 1471.199999,
+      "end": 1477.46,
+      "text": "particle in Newtonian gravity also predicts some bending. But Einstein's full theory,"
+    },
+    {
+      "start": 1477.84,
+      "end": 1483.739998,
+      "text": "with time curvature included, predicts exactly twice that amount. So the two theories make"
+    },
+    {
+      "start": 1483.739998,
+      "end": 1490.7,
+      "text": "different, specific numerical predictions. Newton's half, Einstein's double. Nature was"
+    },
+    {
+      "start": 1490.7,
+      "end": 1496.22,
+      "text": "going to have to pick a side. And you can't normally see a star right next to the sun."
+    },
+    {
+      "start": 1496.760002,
+      "end": 1503.2,
+      "text": "The sun's a blinding disk. So how do you ever measure this? You wait for the moon to turn the"
+    },
+    {
+      "start": 1503.2,
+      "end": 1510.24,
+      "text": "sun off. A total solar eclipse. The moon slides in front of the sun, the sky goes dark in the"
+    },
+    {
+      "start": 1510.24,
+      "end": 1515.14,
+      "text": "middle of the day, and for a couple of minutes you can photograph the stars sitting right next"
+    },
+    {
+      "start": 1515.14,
+      "end": 1520.9,
+      "text": "to the sun's rim. You compare their positions during the eclipse to their positions at night,"
+    },
+    {
+      "start": 1520.9,
+      "end": 1537.2849,
+      "text": "months later when the sun is elsewhere If Einstein right the stars near the rim will look nudged outward by his predicted angle This is what Arthur Eddington set out to test In 1919 just after the First World War"
+    },
+    {
+      "start": 1537.2849,
+      "end": 1543.1449,
+      "text": "he mounted expeditions to two spots along the eclipse path, an island off West Africa"
+    },
+    {
+      "start": 1543.1449,
+      "end": 1549.9649,
+      "text": "and a town in Brazil, and photographed the eclipse. And the answer? The starlight bent,"
+    },
+    {
+      "start": 1549.9649,
+      "end": 1556.62489,
+      "text": "and it bent by Einstein's amount, the full deflection, the double value, not Newton's half."
+    },
+    {
+      "start": 1557.744896,
+      "end": 1561.1449,
+      "text": "When the results were announced at a joint meeting in London that November,"
+    },
+    {
+      "start": 1561.6649,
+      "end": 1567.3249,
+      "text": "it became front-page news around the world. The headline in the Times of London was about"
+    },
+    {
+      "start": 1567.3249,
+      "end": 1573.4449,
+      "text": "a revolution in science, a new theory of the universe, Newtonian ideas overthrown."
+    },
+    {
+      "start": 1574.4849,
+      "end": 1577.8049,
+      "text": "Einstein, essentially unknown to the public the day before,"
+    },
+    {
+      "start": 1577.8049,
+      "end": 1580.6249,
+      "text": "woke up the most famous scientist alive."
+    },
+    {
+      "start": 1581.5249,
+      "end": 1583.5649,
+      "text": "A prediction pulled out of pure geometry"
+    },
+    {
+      "start": 1583.5649,
+      "end": 1587.2449,
+      "text": "about starlight you can only see when the moon blocks the sun"
+    },
+    {
+      "start": 1587.2449,
+      "end": 1588.4449,
+      "text": "came true."
+    },
+    {
+      "start": 1589.5448900000001,
+      "end": 1591.3049,
+      "text": "That's the moment general relativity"
+    },
+    {
+      "start": 1591.3049,
+      "end": 1594.9849,
+      "text": "stopped being one man's idea and became the world's."
+    },
+    {
+      "start": 1595.0649,
+      "end": 1596.6249,
+      "text": "That's a good day at the office."
+    },
+    {
+      "start": 1597.0448900000001,
+      "end": 1598.2049,
+      "text": "And the third test?"
+    },
+    {
+      "start": 1598.4049,
+      "end": 1600.9849,
+      "text": "You mentioned redshift earlier, the clocks."
+    },
+    {
+      "start": 1600.9849,
+      "end": 1603.2449,
+      "text": "The third is the gravitational redshift,"
+    },
+    {
+      "start": 1603.7449,
+      "end": 1605.60489,
+      "text": "the slowing of clocks deep in a field."
+    },
+    {
+      "start": 1605.60489,
+      "end": 1609.60489,
+      "text": "and it's the slowest to be pinned down because it's the hardest to measure."
+    },
+    {
+      "start": 1609.60489,
+      "end": 1612.60489,
+      "text": "The effect is so tiny near Earth."
+    },
+    {
+      "start": 1612.60489,
+      "end": 1627.0098,
+      "text": "It finally got a clean direct confirmation in an experiment by Pound and Rebke who sent light up a tower just a few tens of metres and measured the minuscule reddening as the light climbed out of Earth gravitational well"
+    },
+    {
+      "start": 1627.9498,
+      "end": 1634.8898,
+      "text": "The frequency dropped by exactly the predicted sliver. Three for three. The perihelion, the light"
+    },
+    {
+      "start": 1634.8898,
+      "end": 1641.8498,
+      "text": "bending, the redshift, the three classic tests, and general relativity passed all of them. And it"
+    },
+    {
+      "start": 1641.8498,
+      "end": 1647.6098,
+      "text": "has kept passing every test thrown at it for a century, often in regimes Einstein never dreamed"
+    },
+    {
+      "start": 1647.6098,
+      "end": 1654.1498,
+      "text": "of. Let's spend the last stretch there, the regimes he never dreamed of, because these equations"
+    },
+    {
+      "start": 1654.1498,
+      "end": 1660.7098,
+      "text": "turned out to contain a lot more than three tests. What else was hiding inside them? An astonishing"
+    },
+    {
+      "start": 1660.7098,
+      "end": 1668.1098,
+      "text": "amount, and much of it Einstein was uneasy about. Start with black holes. Within months of the field"
+    },
+    {
+      "start": 1668.1098,
+      "end": 1673.7898,
+      "text": "equations appearing, a physicist named Carl Schwarzschild, working remarkably from the"
+    },
+    {
+      "start": 1673.7898,
+      "end": 1679.2098,
+      "text": "trenches of the First World War, found an exact solution for the space-time around a single"
+    },
+    {
+      "start": 1679.2098,
+      "end": 1685.68979,
+      "text": "spherical mass. And that solution had something disturbing in it. If you compressed enough mass"
+    },
+    {
+      "start": 1685.68979,
+      "end": 1691.4498,
+      "text": "into a small enough region, the curvature would run away, and there'd be a surface, a boundary,"
+    },
+    {
+      "start": 1691.4498,
+      "end": 1700.4497999999999,
+      "text": "past which not even light could climb back out. A one-way membrane in space-time. That's the event horizon of a black hole,"
+    },
+    {
+      "start": 1700.4497999999999,
+      "end": 1718.97467,
+      "text": "and it the very object we spent a whole episode on where Hawking later showed those horizons glow Black holes are not an add to general relativity they sitting inside the equations from the first year And gravitational waves that the LIGO thing the detection everyone celebrated"
+    },
+    {
+      "start": 1719.4146700000001,
+      "end": 1722.6946699999999,
+      "text": "That's the one, and it's the purest possible confirmation."
+    },
+    {
+      "start": 1723.87466,
+      "end": 1729.3346999999999,
+      "text": "Einstein realised in 1916 that if space-time can bend, it can also ripple."
+    },
+    {
+      "start": 1729.3346999999999,
+      "end": 1735.6147,
+      "text": "that if you violently shake a great mass, waves of curvature should spread outward at the speed of light,"
+    },
+    {
+      "start": 1736.15466,
+      "end": 1738.95468,
+      "text": "literally stretching and squeezing space as they pass."
+    },
+    {
+      "start": 1739.8747,
+      "end": 1745.8747,
+      "text": "He predicted them, and then he doubted for years that they were real or ever detectable because they're so faint."
+    },
+    {
+      "start": 1746.9146700000001,
+      "end": 1747.81467,
+      "text": "It took a century."
+    },
+    {
+      "start": 1748.59467,
+      "end": 1754.45468,
+      "text": "In 2015, the LIGO detectors caught the ripple from two black holes spiralling together"
+    },
+    {
+      "start": 1754.45468,
+      "end": 1757.13467,
+      "text": "and merging over a billion light-years away."
+    },
+    {
+      "start": 1758.1147,
+      "end": 1763.13467,
+      "text": "The signal stretched and squeezed the detector's arms by a fraction of the width of a proton,"
+    },
+    {
+      "start": 1763.13467,
+      "end": 1767.63467,
+      "text": "and it matched the waveform the equations predicted with eerie precision."
+    },
+    {
+      "start": 1768.85468,
+      "end": 1774.8946799999999,
+      "text": "A prediction made in 1916 confirmed a hundred years later from colliding black holes,"
+    },
+    {
+      "start": 1775.4347,
+      "end": 1778.79468,
+      "text": "objects that were themselves predictions of the same equations."
+    },
+    {
+      "start": 1779.79468,
+      "end": 1783.13467,
+      "text": "The theory kept being right about things its own author doubted."
+    },
+    {
+      "start": 1783.13467,
+      "end": 1787.97467,
+      "text": "You also promised me this connects to the two other episodes in this series,"
+    },
+    {
+      "start": 1788.53467,
+      "end": 1793.09467,
+      "text": "the black holes we've done and the expanding universe we're going to do."
+    },
+    {
+      "start": 1793.09467,
+      "end": 1794.45468,
+      "text": "It's the hinge for both."
+    },
+    {
+      "start": 1795.4947,
+      "end": 1799.97467,
+      "text": "The Hawking episode lives entirely inside the horizons these equations produce."
+    },
+    {
+      "start": 1800.0,
+      "end": 1805.3399997,
+      "text": "And the Hubble episode we're heading toward, the discovery that the universe is expanding,"
+    },
+    {
+      "start": 1805.9,
+      "end": 1808.78,
+      "text": "is general relativity applied to everything at once."
+    },
+    {
+      "start": 1809.719999,
+      "end": 1815.58,
+      "text": "If you take the field equations and feed in not a star but the whole cosmos, matter spread everywhere,"
+    },
+    {
+      "start": 1816.14,
+      "end": 1818.14,
+      "text": "the equations refuse to sit still."
+    },
+    {
+      "start": 1818.9,
+      "end": 1822.48,
+      "text": "They insist the universe must be either expanding or contracting."
+    },
+    {
+      "start": 1823.359999,
+      "end": 1825.74,
+      "text": "A static universe isn't a stable solution."
+    },
+    {
+      "start": 1825.74,
+      "end": 1832.3,
+      "text": "Einstein himself hated that at first and jammed an extra term into the equations to force the"
+    },
+    {
+      "start": 1832.3,
+      "end": 1838.26,
+      "text": "universe to hold still. Then Hubble looked through a telescope and found the galaxies flying apart."
+    },
+    {
+      "start": 1838.98,
+      "end": 1843.96,
+      "text": "The universe was expanding, exactly as the untouched equations had wanted all along."
+    },
+    {
+      "start": 1844.86,
+      "end": 1851.54,
+      "text": "That extra fudge term has a modern afterlife too, in dark energy, but that's a story for another day."
+    },
+    {
+      "start": 1851.54,
+      "end": 1858.399998,
+      "text": "And the one everyday place all of this actually touches a normal person's life? You said GPS."
+    },
+    {
+      "start": 1858.819996,
+      "end": 1866.619995,
+      "text": "GPS is the one you carry in your pocket. The system works by satellites broadcasting extremely precise time signals."
+    },
+    {
+      "start": 1867.64,
+      "end": 1872.06,
+      "text": "Your phone triangulates its position from the tiny differences in arrival times."
+    },
+    {
+      "start": 1872.979996,
+      "end": 1877.32,
+      "text": "But those satellite clocks are higher up in Earth's gravitational well than you are."
+    },
+    {
+      "start": 1877.32,
+      "end": 1884.2,
+      "text": "weaker gravity, so by gravitational time dilation they tick faster than clocks on the ground."
+    },
+    {
+      "start": 1885.18,
+      "end": 1889.159996,
+      "text": "There's also a special relativity effect from their speed pulling the other way,"
+    },
+    {
+      "start": 1889.62,
+      "end": 1896.18,
+      "text": "but the gravitational one wins. If the system ignored general relativity, the clocks would drift"
+    },
+    {
+      "start": 1896.18,
+      "end": 1901.78,
+      "text": "and your position would be wrong, and the error would pile up to something like kilometres per day."
+    },
+    {
+      "start": 1902.36,
+      "end": 1907.06,
+      "text": "So every navigation satellite has Einstein's correction built into it,"
+    },
+    {
+      "start": 1907.32,
+      "end": 1926.01143,
+      "text": "applied continuously Every time your phone finds you on a map it quietly using the fact that time runs slower at your feet than in orbit That still gets me A thought about a falling elevator in 1907 is now running silently inside a billion phones"
+    },
+    {
+      "start": 1926.91143,
+      "end": 1930.97144,
+      "text": "So where does the story end? Or does it not end?"
+    },
+    {
+      "start": 1930.97144,
+      "end": 1933.93143,
+      "text": "It doesn't end. That's the fair place to close."
+    },
+    {
+      "start": 1933.93143,
+      "end": 1939.15143,
+      "text": "General relativity is, as far as we can measure, exactly right."
+    },
+    {
+      "start": 1939.83142,
+      "end": 1944.31143,
+      "text": "A hundred years of tests, from Mercury to LIGO, and it has never cracked."
+    },
+    {
+      "start": 1944.83142,
+      "end": 1951.25143,
+      "text": "But we know it can't be the final word, and the reason is the ghost from our other episodes, quantum mechanics."
+    },
+    {
+      "start": 1951.87143,
+      "end": 1957.43143,
+      "text": "General relativity describes gravity as smooth, continuous, curved geometry."
+    },
+    {
+      "start": 1958.13142,
+      "end": 1965.93143,
+      "text": "Quantum mechanics describes everything else, matter, light, forces, as grainy, probabilistic, jittery."
+    },
+    {
+      "start": 1966.79143,
+      "end": 1973.49142,
+      "text": "And in the two places where gravity gets extreme, the centre of a black hole and the very first instant of the universe,"
+    },
+    {
+      "start": 1974.05142,
+      "end": 1977.91142,
+      "text": "you need both theories at once, and they refuse to speak to each other."
+    },
+    {
+      "start": 1978.63142,
+      "end": 1981.29143,
+      "text": "The equation starts spitting out infinities."
+    },
+    {
+      "start": 1981.29143,
+      "end": 1987.61142,
+      "text": "So there's a hole at the very bottom of physics, exactly where these two triumphs are supposed to meet."
+    },
+    {
+      "start": 1988.33142,
+      "end": 1991.55142,
+      "text": "A theory of quantum gravity that nobody yet has."
+    },
+    {
+      "start": 1992.65143,
+      "end": 1997.75143,
+      "text": "Einstein spent his last 30 years looking for the unification and didn't find it."
+    },
+    {
+      "start": 1998.43143,
+      "end": 1999.29143,
+      "text": "It's still open."
+    },
+    {
+      "start": 2000.19144,
+      "end": 2001.87143,
+      "text": "Which is a fitting place to leave him."
+    },
+    {
+      "start": 2002.55142,
+      "end": 2008.51143,
+      "text": "The man who rebuilt gravity out of a falling person, handing us a problem we still haven't solved."
+    },
+    {
+      "start": 2008.51143,
+      "end": 2015.09143,
+      "text": "Gravity is not a force. It's the shape of space-time. And everything just follows the grooves."
+    },
+    {
+      "start": 2015.81143,
+      "end": 2020.63144,
+      "text": "Matter tells space-time how to curve. Space-time tells matter how to move."
+    },
+    {
+      "start": 2021.01143,
+      "end": 2025.69144,
+      "text": "And the universe signed off on it three times over. Thank you, George."
+    },
+    {
+      "start": 2025.91144,
+      "end": 2027.81143,
+      "text": "A pleasure. Fall freely."
+    }
+  ]
+}

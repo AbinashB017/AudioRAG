@@ -1,0 +1,34 @@
+{
+  "episode_id": "ep06",
+  "episode_title": "General Relativity, Einstein 1915",
+  "topics": [
+    "General Relativity",
+    "Gravitational Physics",
+    "Spacetime Geometry",
+    "History of Physics",
+    "Theoretical Physics"
+  ],
+  "concepts": [
+    "equivalence principle",
+    "spacetime curvature",
+    "gravitational time dilation",
+    "gravitational redshift",
+    "geodesics",
+    "metric tensor",
+    "stress-energy tensor",
+    "Einstein field equations",
+    "Mercury perihelion precession",
+    "gravitational lensing",
+    "event horizon",
+    "black holes",
+    "gravitational waves",
+    "LIGO",
+    "tidal effects",
+    "inertial frames",
+    "free fall",
+    "action at a distance",
+    "Schwarzschild solution",
+    "quantum gravity"
+  ],
+  "description": "This episode explores Einstein's 1915 general theory of relativity, showing how the simple observation that falling cancels gravity leads to the revolutionary idea that gravity is not a force but the curvature of spacetime itself. It covers the equivalence principle, the Einstein field equations, and the three classic experimental tests (Mercury's orbit, light bending during eclipses, and gravitational redshift), making it essential for anyone wanting to understand modern gravitational physics, cosmology, or the conceptual foundations that led to black holes and our expanding universe model."
+}

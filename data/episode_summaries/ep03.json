@@ -1,0 +1,34 @@
+{
+  "episode_id": "ep03",
+  "episode_title": "The Double Helix, Watson and Crick 1953",
+  "topics": [
+    "Molecular Biology",
+    "Genetics and Heredity",
+    "History of Science",
+    "Structural Biology",
+    "DNA Replication"
+  ],
+  "concepts": [
+    "Double helix",
+    "Base pairing",
+    "Complementary strands",
+    "Anti-parallel structure",
+    "Purines and pyrimidines",
+    "Adenine (A), Thymine (T), Guanine (G), Cytosine (C)",
+    "Chargaff's rules",
+    "X-ray diffraction",
+    "Photo 51",
+    "Hydrogen bonding",
+    "Semi-conservative replication",
+    "Sugar-phosphate backbone",
+    "Major and minor grooves",
+    "Genetic code",
+    "Codons",
+    "DNA to RNA to protein (central dogma)",
+    "Mutation",
+    "Template mechanism",
+    "Model building methodology",
+    "Rosalind Franklin's contribution"
+  ],
+  "description": "This episode explores Watson and Crick's 1953 Nature paper proposing the double helix structure of DNA, explaining how the molecule's shape simultaneously solves both problems of heredity: storing genetic information and copying it faithfully. The discussion covers the experimental clues (chemical composition, Chargaff's rules, and Franklin's X-ray diffraction), the complementary base pairing mechanism (A with T, G with C), and how this structure immediately suggested DNA's copying mechanism through strand separation and templating. Essential for anyone wanting to understand the physical and chemical foundation of modern molecular biology, genetics, and biotechnology."
+}

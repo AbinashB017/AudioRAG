@@ -1,0 +1,1805 @@
+{
+  "episode_id": "ep08",
+  "audio_path": "podcasts\\Great Papers 08 - Natural Selection, Darwin and Wallace 1858.mp3",
+  "duration_sec": 1993.115,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 359,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7599998,
+      "text": "I want to start today not with a mechanism, but with a moment of panic."
+    },
+    {
+      "start": 5.4,
+      "end": 7.62,
+      "text": "It's June of 1858."
+    },
+    {
+      "start": 8.179999,
+      "end": 13.219999,
+      "text": "A middle-aged naturalist in the English countryside opens a letter from a young colleague"
+    },
+    {
+      "start": 13.219999,
+      "end": 19.52,
+      "text": "who's off collecting beetles and birds in the islands of Southeast Asia, running a fever."
+    },
+    {
+      "start": 20.14,
+      "end": 23.6,
+      "text": "And as he reads it, the blood drains out of his face,"
+    },
+    {
+      "start": 23.6,
+      "end": 27.3,
+      "text": "because the letter contains, in a few handwritten pages,"
+    },
+    {
+      "start": 27.3,
+      "end": 34.6,
+      "text": "the exact idea he himself has been secretly nursing and not publishing for 20 years."
+    },
+    {
+      "start": 35.34,
+      "end": 41.26,
+      "text": "George, that naturalist, is Charles Darwin. The letter is from Alfred Russell Wallace,"
+    },
+    {
+      "start": 41.739998,
+      "end": 48.96,
+      "text": "and the idea is the one that reorganises all of biology. Set the scene for me. Why had Darwin"
+    },
+    {
+      "start": 48.96,
+      "end": 54.359997,
+      "text": "been sitting on this for two decades? Fear, basically, and the story is the doorway into"
+    },
+    {
+      "start": 54.36,
+      "end": 58.5,
+      "text": "the science, so let me lay it out and then tell you exactly where we're going."
+    },
+    {
+      "start": 59.82,
+      "end": 64.98,
+      "text": "Darwin had come back from his voyage on the Beagle years earlier with a head full of troubling"
+    },
+    {
+      "start": 64.98,
+      "end": 71.16,
+      "text": "observations, and by the early 1840s he had privately worked out a mechanism that could"
+    },
+    {
+      "start": 71.16,
+      "end": 77.3,
+      "text": "explain how living things change and diversify over time, with no need for separate acts of"
+    },
+    {
+      "start": 77.3,
+      "end": 98.4449,
+      "text": "creation He knew how explosive that was This is a deeply religious society The fixity of species each made as it is is close to sacred So he wrote it up privately showed a couple of trusted friends and then just waited Kept gathering evidence For nearly twenty"
+    },
+    {
+      "start": 98.4449,
+      "end": 104.384895,
+      "text": "years. And then Wallace, out in the Malay archipelago, independently thinks his way to"
+    },
+    {
+      "start": 104.384895,
+      "end": 109.98489,
+      "text": "the very same mechanism and mails it straight to Darwin, of all people, asking him to pass"
+    },
+    {
+      "start": 109.98489,
+      "end": 117.12489,
+      "text": "it along if he thinks it's any good. So here's our whole path today. First, how these two men"
+    },
+    {
+      "start": 117.12489,
+      "end": 124.204895,
+      "text": "got to the same idea and how the paper came to exist. Then the idea itself, natural selection,"
+    },
+    {
+      "start": 124.8049,
+      "end": 130.9649,
+      "text": "which I'm going to build from a handful of facts nobody can really deny. Then the part that made"
+    },
+    {
+      "start": 130.9649,
+      "end": 138.5249,
+      "text": "it dangerous. It explains breathtaking design with no designer. And finally, the one enormous"
+    },
+    {
+      "start": 138.5249,
+      "end": 143.5249,
+      "text": "thing they got wrong and how it got fixed a century later, which hands us straight to"
+    },
+    {
+      "start": 143.5249,
+      "end": 145.2849,
+      "text": "another episode in this series."
+    },
+    {
+      "start": 145.2849,
+      "end": 150.8649,
+      "text": "Let's do the human part first, because it's genuinely dramatic. Wallace's letter"
+    },
+    {
+      "start": 150.8649,
+      "end": 155.2649,
+      "text": "shows up. What does Darwin do? Does he just get scooped?"
+    },
+    {
+      "start": 155.2649,
+      "end": 161.5049,
+      "text": "He nearly does, and he agonises over it. He writes to his friends, saying his priority,"
+    },
+    {
+      "start": 161.5049,
+      "end": 167.3449,
+      "text": "his 20 years of work, is about to be smashed, but that he'd rather burn his book than behave"
+    },
+    {
+      "start": 167.3449,
+      "end": 170.3449,
+      "text": "and his friends find a middle path."
+    },
+    {
+      "start": 170.3449,
+      "end": 173.3449,
+      "text": "Two of the most eminent scientists in Britain,"
+    },
+    {
+      "start": 173.3449,
+      "end": 189.4498,
+      "text": "the geologist Charles Lyell and the botanist Joseph Hooker step in and arrange something graceful On the 1st of July 1858 at a meeting of a scientific society in London called the Linnaean"
+    },
+    {
+      "start": 189.4498,
+      "end": 195.7298,
+      "text": "Society, they have both men's work read out together on the same evening as a joint presentation."
+    },
+    {
+      "start": 196.96979,
+      "end": 203.18979,
+      "text": "Wallace's essay, and alongside it extracts from Darwin's own earlier writings that prove he'd had"
+    },
+    {
+      "start": 203.18979,
+      "end": 210.40979,
+      "text": "the idea years before, an extract from an unpublished essay of his from 1844, and a letter"
+    },
+    {
+      "start": 210.40979,
+      "end": 218.6698,
+      "text": "he'd written in 1857. Both names, same night, shared credit. That joint reading is the paper"
+    },
+    {
+      "start": 218.6698,
+      "end": 224.8498,
+      "text": "we're talking about today. Before we leave the two of them, who was Wallace? Darwin, we know."
+    },
+    {
+      "start": 225.4498,
+      "end": 230.7898,
+      "text": "Wallace is the name that gets forgotten. He's worth knowing because his path to the idea is"
+    },
+    {
+      "start": 230.7898,
+      "end": 237.3098,
+      "text": "different, and that difference matters. Wallace was younger, largely self-taught, with no family"
+    },
+    {
+      "start": 237.3098,
+      "end": 242.9498,
+      "text": "money behind him. He made his living as a professional specimen collector, shipping beetles"
+    },
+    {
+      "start": 242.9498,
+      "end": 248.1498,
+      "text": "and butterflies and bird skins back to England to sell to museums and wealthy naturalists."
+    },
+    {
+      "start": 248.96979,
+      "end": 254.0098,
+      "text": "He spent years in the Amazon, then lost most of that collection when his ship caught fire"
+    },
+    {
+      "start": 254.0098,
+      "end": 260.4898,
+      "text": "and sank on the voyage home. And he went straight back out, this time to the Malay archipelago,"
+    },
+    {
+      "start": 260.7898,
+      "end": 278.81467,
+      "text": "today Indonesia and Malaysia for eight years of collecting Out there he was gripped by something Darwin had also noticed the geography of life Why does one island carry creatures completely different from a near island just across a narrow strait"
+    },
+    {
+      "start": 279.9347,
+      "end": 285.97467,
+      "text": "Wallace found a sharp boundary running through the archipelago where the animal life abruptly changes character."
+    },
+    {
+      "start": 286.53467,
+      "end": 289.37466,
+      "text": "It's still called the Wallace Line to this day."
+    },
+    {
+      "start": 289.37466,
+      "end": 293.59467,
+      "text": "Wrestling with why living things are distributed the way they are"
+    },
+    {
+      "start": 293.59467,
+      "end": 296.07468,
+      "text": "what we'd call biogeography"
+    },
+    {
+      "start": 296.07468,
+      "end": 298.53467,
+      "text": "is what pushed him toward the mechanism"
+    },
+    {
+      "start": 298.53467,
+      "end": 302.51468,
+      "text": "and like Darwin, he said it came together in a flash"
+    },
+    {
+      "start": 302.51468,
+      "end": 305.35468,
+      "text": "while he was reading Malthus, sick with fever"
+    },
+    {
+      "start": 305.35468,
+      "end": 309.67468,
+      "text": "The same idea reached from the opposite side of the planet"
+    },
+    {
+      "start": 309.67468,
+      "end": 311.79468,
+      "text": "by a completely different road"
+    },
+    {
+      "start": 311.79468,
+      "end": 313.51468,
+      "text": "And I want to be careful here"
+    },
+    {
+      "start": 313.51468,
+      "end": 315.8347,
+      "text": "because most people, when they think Darwin"
+    },
+    {
+      "start": 315.8347,
+      "end": 321.53467,
+      "text": "think Origin of Species, the big book. This is not that."
+    },
+    {
+      "start": 321.8747,
+      "end": 329.01468,
+      "text": "Correct, and it's worth pinning down. This 1858 joint paper is the first public announcement of"
+    },
+    {
+      "start": 329.01468,
+      "end": 335.25467,
+      "text": "natural selection. Short, a stitched-together thing, read to a room that famously barely"
+    },
+    {
+      "start": 335.25467,
+      "end": 341.13467,
+      "text": "reacted at the time. The president of the society later said the year had produced no"
+    },
+    {
+      "start": 341.13467,
+      "end": 347.63467,
+      "text": "revolutionary discoveries. The big book, On the Origin of Species, comes the next year,"
+    },
+    {
+      "start": 347.63467,
+      "end": 354.13467,
+      "text": "1859. That's the one that lands like a bomb and sellers out its first printing in a day."
+    },
+    {
+      "start": 354.13467,
+      "end": 359.9947,
+      "text": "But the idea goes public here, in this modest joint reading. So we're at the"
+    },
+    {
+      "start": 360.0,
+      "end": 366.7799997,
+      "text": "origin point, before the explosion. Now let's get into what the idea actually is, because"
+    },
+    {
+      "start": 366.7799997,
+      "end": 372.0,
+      "text": "the beauty is how few ingredients it needs. Before the mechanism, what had Darwin actually"
+    },
+    {
+      "start": 372.0,
+      "end": 377.26,
+      "text": "seen that made him doubt species were fixed in the first place? You don't get here from"
+    },
+    {
+      "start": 377.26,
+      "end": 384.4,
+      "text": "an armchair. No, you get here from a five-year voyage around the world. In his twenties,"
+    },
+    {
+      "start": 384.4,
+      "end": 389.14,
+      "text": "Darwin sailed as the naturalist aboard a survey ship, the Beagle, and a few things he saw"
+    },
+    {
+      "start": 389.14,
+      "end": 395.15999999999997,
+      "text": "out there wouldn't let go of him. In South America, he dug up fossils of gigantic extinct"
+    },
+    {
+      "start": 395.15999999999997,
+      "end": 401.18,
+      "text": "animals, a car-sized relative of the armadillo, and he couldn't help noticing they looked"
+    },
+    {
+      "start": 401.18,
+      "end": 406.86,
+      "text": "like oversized versions of the smaller living animals of that same region, as if the local"
+    },
+    {
+      "start": 406.86,
+      "end": 412.739998,
+      "text": "creatures were modified descendants of the local ancient ones. Then came the Galapagos,"
+    },
+    {
+      "start": 412.739998,
+      "end": 418.65999999999997,
+      "text": "a cluster of young volcanic islands off the coast of Ecuador. He noticed the mockingbirds"
+    },
+    {
+      "start": 418.65999999999997,
+      "end": 424.82,
+      "text": "were subtly different from one island to the next. Later, back home, experts pointed out the"
+    },
+    {
+      "start": 424.82,
+      "end": 430.5,
+      "text": "finches differed too. Different beak shapes on different islands, each beak suited to different"
+    },
+    {
+      "start": 430.5,
+      "end": 437.04,
+      "text": "food. And that pattern nagged at him. Why would a creator fashion a slightly different bird for"
+    },
+    {
+      "start": 437.04,
+      "end": 443.26,
+      "text": "each little island rather than stock them all with the same one? It made no sense under fixed,"
+    },
+    {
+      "start": 443.26,
+      "end": 456.098366,
+      "text": "separate creation It made complete sense if a few ancestral birds had drifted out from the mainland and then diverged island by island each population adapting to what was locally available"
+    },
+    {
+      "start": 457.31837,
+      "end": 462.21837,
+      "text": "Those geographic patterns, the same creature but modified from place to place,"
+    },
+    {
+      "start": 462.21837,
+      "end": 464.69836399999997,
+      "text": "are the observations that lit the fuse."
+    },
+    {
+      "start": 464.93837,
+      "end": 469.238365,
+      "text": "OK, build it for me from the ground up. What's the first ingredient?"
+    },
+    {
+      "start": 469.238365,
+      "end": 476.53837,
+      "text": "Variation. Just look closely at any group of living things of the same kind, a field of the"
+    },
+    {
+      "start": 476.53837,
+      "end": 483.53837,
+      "text": "same wildflower, a litter of puppies, a crowd of people, and you notice that no two are identical."
+    },
+    {
+      "start": 484.738365,
+      "end": 491.15837,
+      "text": "They differ in size, in colour, in speed, in the shape of a beak, in resistance to cold,"
+    },
+    {
+      "start": 491.15837,
+      "end": 498.51837,
+      "text": "in a thousand small ways. That's the first fact, and it's completely ordinary. Everybody's seen it."
+    },
+    {
+      "start": 499.23837000000003,
+      "end": 501.39836,
+      "text": "Individuals within a species vary."
+    },
+    {
+      "start": 502.27837,
+      "end": 505.59836,
+      "text": "Darwin doesn't need to explain yet where the variation comes from."
+    },
+    {
+      "start": 506.15836,
+      "end": 507.87836,
+      "text": "He just needs you to agree it's there."
+    },
+    {
+      "start": 508.59836,
+      "end": 509.53836,
+      "text": "It always is."
+    },
+    {
+      "start": 509.65836,
+      "end": 511.35837000000004,
+      "text": "Fine. Everything varies."
+    },
+    {
+      "start": 511.81836,
+      "end": 512.6783800000001,
+      "text": "Second ingredient?"
+    },
+    {
+      "start": 513.15836,
+      "end": 513.69836,
+      "text": "Heredity."
+    },
+    {
+      "start": 514.49837,
+      "end": 516.6183599999999,
+      "text": "Those variations tend to be passed down."
+    },
+    {
+      "start": 517.63837,
+      "end": 519.57837,
+      "text": "Tall parents tend to have tall children."
+    },
+    {
+      "start": 520.41837,
+      "end": 522.59836,
+      "text": "Fast dogs tend to throw fast pups."
+    },
+    {
+      "start": 523.53836,
+      "end": 527.65836,
+      "text": "A plant that tolerates drought tends to produce offspring that tolerate drought."
+    },
+    {
+      "start": 527.65836,
+      "end": 530.65836,
+      "text": "Like begets like, roughly."
+    },
+    {
+      "start": 530.65836,
+      "end": 533.65836,
+      "text": "Again, totally familiar."
+    },
+    {
+      "start": 533.65836,
+      "end": 548.3967299999999,
+      "text": "It the whole basis of why families resemble each other and it why breeders can do what they do So offspring resemble their parents including in those small variations Hold that Heredity is the ingredient that will"
+    },
+    {
+      "start": 548.3967299999999,
+      "end": 554.09674,
+      "text": "turn out to be both essential and the one they understood least, and we'll come back to that hard."
+    },
+    {
+      "start": 554.3967299999999,
+      "end": 560.63673,
+      "text": "Variation and it's inherited. What's the third? Overproduction and it's the one with teeth."
+    },
+    {
+      "start": 560.63673,
+      "end": 566.83673,
+      "text": "Every kind of living thing produces far, far more offspring than can ever survive"
+    },
+    {
+      "start": 566.83673,
+      "end": 570.13673,
+      "text": "A single fish lays thousands of eggs"
+    },
+    {
+      "start": 570.13673,
+      "end": 572.95673,
+      "text": "An orchid throws millions of seeds"
+    },
+    {
+      "start": 572.95673,
+      "end": 578.37674,
+      "text": "Even slow breeders like elephants would, if every calf survived and bred"
+    },
+    {
+      "start": 578.37674,
+      "end": 581.85674,
+      "text": "Bury the planet in elephants within a few thousand years"
+    },
+    {
+      "start": 581.85674,
+      "end": 584.81674,
+      "text": "Darwin actually ran that calculation"
+    },
+    {
+      "start": 584.81674,
+      "end": 589.57674,
+      "text": "But the world is not buried in elephants, or fish, or orchids"
+    },
+    {
+      "start": 590.3967299999999,
+      "end": 592.35674,
+      "text": "Populations stay roughly stable,"
+    },
+    {
+      "start": 593.31674,
+      "end": 597.85674,
+      "text": "which means the overwhelming majority of those offspring die before they reproduce."
+    },
+    {
+      "start": 599.11673,
+      "end": 600.53674,
+      "text": "Most seeds never sprout."
+    },
+    {
+      "start": 601.33673,
+      "end": 602.8967299999999,
+      "text": "Most young never make it."
+    },
+    {
+      "start": 603.7567300000001,
+      "end": 607.81674,
+      "text": "There is a constant, ferocious shortage of room and food and light,"
+    },
+    {
+      "start": 608.29672,
+      "end": 610.31674,
+      "text": "and far more contenders than places."
+    },
+    {
+      "start": 610.45673,
+      "end": 613.31674,
+      "text": "And I know this ingredient has a specific source."
+    },
+    {
+      "start": 613.4967300000001,
+      "end": 616.9967300000001,
+      "text": "Darwin got the population part from somewhere unexpected."
+    },
+    {
+      "start": 616.9967300000001,
+      "end": 620.9967300000001,
+      "text": "He did. From an essay about people, not animals."
+    },
+    {
+      "start": 620.9967300000001,
+      "end": 637.45508,
+      "text": "A clergyman economist named Thomas Malthus had written decades earlier that human populations grow faster than the food supply can so populations are always pressing against their limits checked by hunger and disease Darwin read Malthus"
+    },
+    {
+      "start": 637.7751000000001,
+      "end": 643.5951,
+      "text": "apparently for amusement, and it detonated. He realised this pressure isn't special to humans."
+    },
+    {
+      "start": 644.29507,
+      "end": 650.0951,
+      "text": "It's true of every species, and far more brutally, because animals and plants have no way to hold"
+    },
+    {
+      "start": 650.0951,
+      "end": 655.4751,
+      "text": "back their breeding. So there's a permanent struggle for existence, Darwin's phrase,"
+    },
+    {
+      "start": 655.9150999999999,
+      "end": 661.3551,
+      "text": "not necessarily fang and claw combat, but a constant competition to be among the few that"
+    },
+    {
+      "start": 661.3551,
+      "end": 667.63507,
+      "text": "survive and breed. And Wallace, remarkably, credited the very same Malthus essay for"
+    },
+    {
+      "start": 667.63507,
+      "end": 673.7551000000001,
+      "text": "sparking his own version. Two people, the same unlikely book, the same idea."
+    },
+    {
+      "start": 673.7551000000001,
+      "end": 679.13507,
+      "text": "So now I've got variation, heredity and a savage shortage of survival slots."
+    },
+    {
+      "start": 679.13507,
+      "end": 682.6551,
+      "text": "I feel like the conclusion is about to assemble itself."
+    },
+    {
+      "start": 709.13507,
+      "end": 714.4751,
+      "text": "conditions a little better, the slightly faster gazelle that escapes the lion a little more"
+    },
+    {
+      "start": 714.4751,
+      "end": 719.9751,
+      "text": "often, the finch whose beak happens to crack the available seeds a little better, the"
+    },
+    {
+      "start": 720.0,
+      "end": 725.7,
+      "text": "bacterium that happens to shrug off the drug. They survive at a slightly higher rate, so they"
+    },
+    {
+      "start": 725.7,
+      "end": 730.88,
+      "text": "leave slightly more offspring. And because of heredity, those offspring inherit the helpful"
+    },
+    {
+      "start": 730.88,
+      "end": 737.9,
+      "text": "variation. So the next generation has a bit more of it. That's the whole engine. Darwin called it"
+    },
+    {
+      "start": 737.9,
+      "end": 744.279999,
+      "text": "natural selection. Nature, through the simple fact of differential survival, selects which"
+    },
+    {
+      "start": 744.279999,
+      "end": 751.439999,
+      "text": "variations get passed on. But that's a tiny effect in one generation, surely. The faster gazelle"
+    },
+    {
+      "start": 751.439999,
+      "end": 758.96,
+      "text": "leaves a couple more calves, so what? So nothing, in one generation. And that's the ingredient people"
+    },
+    {
+      "start": 758.96,
+      "end": 764.699997,
+      "text": "always leave out, the fourth one that isn't a fact about biology, but a fact about time."
+    },
+    {
+      "start": 765.62,
+      "end": 770.239998,
+      "text": "You don't run this for one generation, you run it for thousands, tens of thousands,"
+    },
+    {
+      "start": 770.239998,
+      "end": 777.48,
+      "text": "millions of generations. And a tiny bias, compounded over an immensity of time, is overwhelming."
+    },
+    {
+      "start": 778.679996,
+      "end": 784.72,
+      "text": "A 1% survival edge, repeated across 100,000 generations, doesn't nudge a population."
+    },
+    {
+      "start": 785.5,
+      "end": 790.78,
+      "text": "It transforms it. The favourable variations accumulate, generation on generation,"
+    },
+    {
+      "start": 791.34,
+      "end": 796.5,
+      "text": "until the descendants barely resemble the ancestors. Give it enough time and enough"
+    },
+    {
+      "start": 796.5,
+      "end": 802.46,
+      "text": "accumulated change and a population can drift so far from where it started and from its cousins"
+    },
+    {
+      "start": 802.46,
+      "end": 817.238365,
+      "text": "on the other side of a mountain range that they can no longer interbreed And now you have two species where there was one Adaptation and eventually new species built grain by grain by this blind sieve running for ages"
+    },
+    {
+      "start": 817.43837,
+      "end": 824.01837,
+      "text": "This whole engine runs on enormous stretches of time, millions of generations. Did anyone"
+    },
+    {
+      "start": 824.01837,
+      "end": 828.018364,
+      "text": "even know the Earth was old enough for that in 1858?"
+    },
+    {
+      "start": 828.57837,
+      "end": 832.4583700000001,
+      "text": "That was a live and serious fight, and it nearly sank the theory."
+    },
+    {
+      "start": 832.4583700000001,
+      "end": 838.79837,
+      "text": "Darwin needed the earth to be staggeringly old, hundreds of millions of years at least,"
+    },
+    {
+      "start": 838.79837,
+      "end": 845.97836,
+      "text": "for a slow sieve to build all this diversity. And the geologists were on his side. His mentor,"
+    },
+    {
+      "start": 846.13837,
+      "end": 851.43837,
+      "text": "Charles Lyle, had argued powerfully that the earth's landscapes are shaped by tiny changes"
+    },
+    {
+      "start": 851.43837,
+      "end": 858.59836,
+      "text": "piling up over immense time. Deep time, mountains raised and valleys carved grain by grain."
+    },
+    {
+      "start": 859.53836,
+      "end": 862.59836,
+      "text": "That's the very logic Darwin borrowed and applied to life."
+    },
+    {
+      "start": 863.49837,
+      "end": 867.89836,
+      "text": "But then one of the most respected physicists of the century, Lord Kelvin,"
+    },
+    {
+      "start": 868.39836,
+      "end": 874.71837,
+      "text": "calculated the age of the Earth from how long a once molten planet would take to cool to its present state,"
+    },
+    {
+      "start": 875.25836,
+      "end": 881.25836,
+      "text": "and he got only tens of millions of years, far, far too short for Darwin's mechanism to work."
+    },
+    {
+      "start": 881.75836,
+      "end": 885.69836,
+      "text": "It was a sharp, quantitative objection from a giant of physics,"
+    },
+    {
+      "start": 885.69836,
+      "end": 889.19836,
+      "text": "and Darwin worried about it for the rest of his life."
+    },
+    {
+      "start": 889.19836,
+      "end": 894.19836,
+      "text": "What neither man knew is that the Earth has a hidden furnace inside it,"
+    },
+    {
+      "start": 894.19836,
+      "end": 907.97673,
+      "text": "radioactivity steadily generating heat which Kelvin calculation left out entirely because it hadn been discovered yet Once radioactivity was found the estimate exploded The Earth"
+    },
+    {
+      "start": 907.97673,
+      "end": 914.11673,
+      "text": "turned out to be about four and a half billion years old, oceans of time, vastly more than"
+    },
+    {
+      "start": 914.11673,
+      "end": 920.3967299999999,
+      "text": "the mechanism ever needed. The objection dissolved, but only decades after both men were gone."
+    },
+    {
+      "start": 920.3967299999999,
+      "end": 924.7567300000001,
+      "text": "Let's sit on the word blind, because I think that's the whole scandal of this."
+    },
+    {
+      "start": 925.3967299999999,
+      "end": 933.69673,
+      "text": "You keep describing a process that produces exquisite fit, beaks, eyes, wings, but with nobody aiming at anything."
+    },
+    {
+      "start": 933.97673,
+      "end": 938.01674,
+      "text": "That's the revolution in one line. Design without a designer."
+    },
+    {
+      "start": 938.95673,
+      "end": 945.79674,
+      "text": "Before Darwin and Wallace, the fit of living things to their world was the single best argument that a designer existed."
+    },
+    {
+      "start": 946.53674,
+      "end": 948.77673,
+      "text": "The classic version is the watchmaker."
+    },
+    {
+      "start": 949.65674,
+      "end": 953.2567300000001,
+      "text": "If you found a watch on a heath, its gears meshing to a purpose,"
+    },
+    {
+      "start": 953.7567300000001,
+      "end": 955.43674,
+      "text": "you'd never think it assembled itself."
+    },
+    {
+      "start": 956.19673,
+      "end": 957.51674,
+      "text": "You'd infer a watchmaker."
+    },
+    {
+      "start": 958.31674,
+      "end": 960.73672,
+      "text": "And an eye is far more intricate than a watch."
+    },
+    {
+      "start": 961.41673,
+      "end": 964.01672,
+      "text": "So an eye, surely, implies an eye maker."
+    },
+    {
+      "start": 965.01672,
+      "end": 967.13673,
+      "text": "Natural selection dissolves that inference."
+    },
+    {
+      "start": 967.8967299999999,
+      "end": 970.33673,
+      "text": "It shows how you get the watch with no watchmaker."
+    },
+    {
+      "start": 971.11673,
+      "end": 974.51672,
+      "text": "Because the sieve, running on random variation over deep time,"
+    },
+    {
+      "start": 974.51672,
+      "end": 980.7567,
+      "text": "keeps the accidents that see a little better and discards the rest, step after step after step,"
+    },
+    {
+      "start": 981.2567,
+      "end": 995.3751,
+      "text": "and the accumulation of kept accidents builds an eye No foresight no plan no goal just variation proposing and death disposing for a very long time The appearance of design is real"
+    },
+    {
+      "start": 996.05508,
+      "end": 997.5951,
+      "text": "The designer is not required."
+    },
+    {
+      "start": 997.7751000000001,
+      "end": 1002.51508,
+      "text": "The thing that helps me believe it is that we already do a fast version of it ourselves."
+    },
+    {
+      "start": 1003.11508,
+      "end": 1003.4951,
+      "text": "Breeding."
+    },
+    {
+      "start": 1003.79507,
+      "end": 1006.17508,
+      "text": "And that's precisely the on-ramp Darwin uses."
+    },
+    {
+      "start": 1007.01508,
+      "end": 1010.7751000000001,
+      "text": "It's the first thing in the argument because everyone already believes it."
+    },
+    {
+      "start": 1011.57507,
+      "end": 1012.8550700000001,
+      "text": "Look at what breeders do."
+    },
+    {
+      "start": 1012.8550700000001,
+      "end": 1016.95508,
+      "text": "Every breed of dog, from the wolf in a few thousand years"
+    },
+    {
+      "start": 1016.95508,
+      "end": 1019.17508,
+      "text": "A Chihuahua and a Great Dane"
+    },
+    {
+      "start": 1019.17508,
+      "end": 1023.9951,
+      "text": "Same species, both sculpted by people choosing which animals get to breed"
+    },
+    {
+      "start": 1023.9951,
+      "end": 1025.8151,
+      "text": "All our crops"
+    },
+    {
+      "start": 1025.8151,
+      "end": 1029.5351,
+      "text": "A scrawny wild grass turned into fat ears of corn"
+    },
+    {
+      "start": 1029.5351,
+      "end": 1034.4951,
+      "text": "A bitter little weed turned into cabbage, broccoli, kale and cauliflower"
+    },
+    {
+      "start": 1034.4951,
+      "end": 1038.4951,
+      "text": "All from one plant, just by selecting who reproduces"
+    },
+    {
+      "start": 1038.4951,
+      "end": 1040.45508,
+      "text": "Pigeon fanciers"
+    },
+    {
+      "start": 1040.45508,
+      "end": 1042.4951,
+      "text": "Darwin bred pigeons himself"
+    },
+    {
+      "start": 1042.4951,
+      "end": 1048.33508,
+      "text": "turn one wild rock pigeon into a menagerie of wildly different birds in a few decades."
+    },
+    {
+      "start": 1049.33508,
+      "end": 1052.7551,
+      "text": "This is artificial selection and nobody disputes it works"
+    },
+    {
+      "start": 1052.7551,
+      "end": 1055.2151,
+      "text": "because a human is visibly doing the choosing."
+    },
+    {
+      "start": 1056.33508,
+      "end": 1058.45508,
+      "text": "Darwin's move is devastatingly simple."
+    },
+    {
+      "start": 1059.23508,
+      "end": 1060.17508,
+      "text": "Take away the human."
+    },
+    {
+      "start": 1061.0750699999999,
+      "end": 1063.0351,
+      "text": "Let the environment do the choosing instead."
+    },
+    {
+      "start": 1063.89508,
+      "end": 1068.2151,
+      "text": "Let survival and reproduction be the selector rather than a breeder's hand."
+    },
+    {
+      "start": 1068.2151,
+      "end": 1074.9751,
+      "text": "land. Same lever, exactly the same lever, but now with no chooser and with all of geological"
+    },
+    {
+      "start": 1074.9751,
+      "end": 1079.9751,
+      "text": "time instead of a few decades. If a breeder can remake a pigeon in"
+    },
+    {
+      "start": 1080.0,
+      "end": 1084.56,
+      "text": "30 years, imagine what the struggle for existence can do in 30 million."
+    },
+    {
+      "start": 1084.7599998,
+      "end": 1092.4,
+      "text": "Let me push the hardest case at you, the eye. It's the classic objection. An eye only works"
+    },
+    {
+      "start": 1092.4,
+      "end": 1099.06,
+      "text": "fully assembled, so what use is half an eye? A blurry, half-built eye seems worthless,"
+    },
+    {
+      "start": 1099.66,
+      "end": 1104.439999,
+      "text": "so how does a blind sieve ever build one gradually? It's the classic objection,"
+    },
+    {
+      "start": 1104.439999,
+      "end": 1108.8,
+      "text": "and it has a clean answer, because half an eye is the wrong picture."
+    },
+    {
+      "start": 1109.779999,
+      "end": 1114.46,
+      "text": "The right question is whether every intermediate stage is useful, and it is."
+    },
+    {
+      "start": 1115.32,
+      "end": 1119.079998,
+      "text": "Start with nothing more than a patch of light-sensitive cells on the skin."
+    },
+    {
+      "start": 1119.98,
+      "end": 1122.14,
+      "text": "Is that useful? Enormously."
+    },
+    {
+      "start": 1122.76,
+      "end": 1126.679996,
+      "text": "Even just telling light from dark lets an animal sense day and night,"
+    },
+    {
+      "start": 1127.1,
+      "end": 1129.699997,
+      "text": "or notice the shadow of a predator passing overhead."
+    },
+    {
+      "start": 1130.46,
+      "end": 1133.359997,
+      "text": "Now cup that flat patch slightly inward."
+    },
+    {
+      "start": 1134.16,
+      "end": 1136.16,
+      "text": "Useful again and in a new way."
+    },
+    {
+      "start": 1136.94,
+      "end": 1141.86,
+      "text": "A cup tells you which direction the light is coming from because the walls shade one side."
+    },
+    {
+      "start": 1142.920002,
+      "end": 1150.28,
+      "text": "Deepen the cup toward a small opening, a pinhole, and you get a crude focused image, exactly like a pinhole camera."
+    },
+    {
+      "start": 1150.88,
+      "end": 1155.48,
+      "text": "Then stretch a layer of transparent tissue across the opening to protect it."
+    },
+    {
+      "start": 1156.2,
+      "end": 1160.66,
+      "text": "Thicken part of that layer and you have the beginnings of a lens that sharpens the picture."
+    },
+    {
+      "start": 1160.66,
+      "end": 1178.3983699999999,
+      "text": "Every single step is a small improvement on the one before each giving its owner a real survival edge and each is just one small heritable variation away from the last And here the clincher Every one of those stages is sitting in some living animal"
+    },
+    {
+      "start": 1178.3983699999999,
+      "end": 1186.29837,
+      "text": "right now. Flatworms with bare eye spots, mollusks with eye cups, a creature with a genuine pinhole"
+    },
+    {
+      "start": 1186.29837,
+      "end": 1193.378365,
+      "text": "eye, others with full lenses. The eye was never one impossible leap. It's a long staircase,"
+    },
+    {
+      "start": 1193.378365,
+      "end": 1196.49837,
+      "text": "and living species are standing on every step."
+    },
+    {
+      "start": 1196.61836,
+      "end": 1201.11836,
+      "text": "There's a phrase everyone attaches to this, survival of the fittest."
+    },
+    {
+      "start": 1201.778366,
+      "end": 1206.198364,
+      "text": "Is that Darwin's? And is it a good summary or a trap?"
+    },
+    {
+      "start": 1206.33836,
+      "end": 1208.77837,
+      "text": "It's a bit of a trap, and it's worth diffusing."
+    },
+    {
+      "start": 1209.33836,
+      "end": 1211.85837,
+      "text": "The phrase isn't originally Darwin's."
+    },
+    {
+      "start": 1212.43837,
+      "end": 1214.81836,
+      "text": "It was coined by the philosopher Herbert Spencer,"
+    },
+    {
+      "start": 1215.41837,
+      "end": 1218.49837,
+      "text": "and Darwin only adopted it later, somewhat reluctantly."
+    },
+    {
+      "start": 1219.11836,
+      "end": 1221.25836,
+      "text": "And it misleads people in two ways."
+    },
+    {
+      "start": 1222.09836,
+      "end": 1226.51837,
+      "text": "First, fittest sounds like strongest or fastest, almost ruthless."
+    },
+    {
+      "start": 1227.39836,
+      "end": 1228.05836,
+      "text": "Gym fitness."
+    },
+    {
+      "start": 1228.89836,
+      "end": 1229.79837,
+      "text": "That's not the meaning."
+    },
+    {
+      "start": 1230.59836,
+      "end": 1235.69836,
+      "text": "Fittest means best fitting, best matched to this particular environment right now."
+    },
+    {
+      "start": 1236.57837,
+      "end": 1240.19836,
+      "text": "In a cold climate, the fittest might be the fattest and slowest."
+    },
+    {
+      "start": 1240.75836,
+      "end": 1244.6383700000001,
+      "text": "On a small island, the fittest bird might be the one that can't fly"
+    },
+    {
+      "start": 1244.6383700000001,
+      "end": 1246.71837,
+      "text": "and so doesn't get blown out to sea."
+    },
+    {
+      "start": 1247.73837,
+      "end": 1249.85837,
+      "text": "Fitness is about fit to circumstances,"
+    },
+    {
+      "start": 1249.85837,
+      "end": 1269.07674,
+      "text": "and circumstances change so the fittest is a moving target not a fixed ideal Second the slogan can sound circular Who survives The fittest Who are the fittest Those who survive The escape from the circle is heredity plus prediction"
+    },
+    {
+      "start": 1269.93674,
+      "end": 1274.97673,
+      "text": "Fitness is about traits that reliably help across a whole population and get passed on,"
+    },
+    {
+      "start": 1275.57674,
+      "end": 1280.77673,
+      "text": "not about who happened to get lucky in one storm. Here's something that always seemed to flat out"
+    },
+    {
+      "start": 1280.77673,
+      "end": 1288.55673,
+      "text": "contradict the theory to me, the peacock's tail. That huge, gaudy, heavy thing must make it easier"
+    },
+    {
+      "start": 1288.55673,
+      "end": 1294.89673,
+      "text": "to spot and harder to escape. Survival should have deleted it. Why is it there?"
+    },
+    {
+      "start": 1295.2367199999999,
+      "end": 1301.41673,
+      "text": "Darwin worried about precisely this. He wrote that the sight of a peacock's tail made him feel sick,"
+    },
+    {
+      "start": 1301.91673,
+      "end": 1308.29674,
+      "text": "exactly because it seemed to defy his own idea. And the resolution is a second selective force"
+    },
+    {
+      "start": 1308.29674,
+      "end": 1314.43674,
+      "text": "he worked out called sexual selection. The key is to notice that survival is not actually"
+    },
+    {
+      "start": 1314.43674,
+      "end": 1321.35674,
+      "text": "the goal, it's only a means. The real currency is offspring left behind. And you can leave"
+    },
+    {
+      "start": 1321.35674,
+      "end": 1328.33673,
+      "text": "more offspring in two different ways, by surviving longer or by mating more. Those two can pull"
+    },
+    {
+      "start": 1328.33673,
+      "end": 1334.71674,
+      "text": "in opposite directions. The peacock's tail is a genuine survival handicap, but peahens"
+    },
+    {
+      "start": 1334.71674,
+      "end": 1340.79675,
+      "text": "humans strongly prefer males with big, vivid tails, so a male with a spectacular one mates"
+    },
+    {
+      "start": 1340.79675,
+      "end": 1356.3751,
+      "text": "far more often and passes on both the tail and the preference for it The trait spreads because it wins at mating even while it loses a little at surviving and the mating payoff more than covers the risk That where a great deal of nature"
+    },
+    {
+      "start": 1356.3751,
+      "end": 1362.0150800000001,
+      "text": "extravagance comes from. The antlers, the elaborate birdsong, the ridiculous colours."
+    },
+    {
+      "start": 1363.0150800000001,
+      "end": 1366.9351,
+      "text": "It isn't survival of the fittest so much as reproduction of the most attractive."
+    },
+    {
+      "start": 1368.1551,
+      "end": 1373.39508,
+      "text": "Selection cares only about who leaves more descendants, and charming a mate counts just"
+    },
+    {
+      "start": 1373.39508,
+      "end": 1378.63507,
+      "text": "as much as escaping a predator. And the other misconception I want you to kill is the ladder."
+    },
+    {
+      "start": 1379.2751,
+      "end": 1385.3151,
+      "text": "The idea that evolution is climbing towards something and we're the top rung. Kill it we"
+    },
+    {
+      "start": 1385.3151,
+      "end": 1390.6951,
+      "text": "should, because it's the most persistent error and Darwin and Wallace's idea has none of it."
+    },
+    {
+      "start": 1391.4351,
+      "end": 1398.45508,
+      "text": "There is no goal, no ladder, no arrow pointing at humans. Natural selection has no foresight."
+    },
+    {
+      "start": 1398.45508,
+      "end": 1403.4751,
+      "text": "It can't select for what will be useful later, only for what helps right now."
+    },
+    {
+      "start": 1404.3551,
+      "end": 1408.1551,
+      "text": "It doesn't aim at complexity. Plenty of lineages get simpler."
+    },
+    {
+      "start": 1409.05508,
+      "end": 1413.9951,
+      "text": "It doesn't aim at us. The right picture isn't a ladder at all. It's a tree."
+    },
+    {
+      "start": 1414.83508,
+      "end": 1421.7551,
+      "text": "A single trunk of early life, branching and branching, every living thing today sitting at the tip of one twig."
+    },
+    {
+      "start": 1422.33508,
+      "end": 1425.4751,
+      "text": "All of us cousins connected back through shared ancestors."
+    },
+    {
+      "start": 1425.4751,
+      "end": 1431.7151,
+      "text": "ancestors. You and an oak tree and a mushroom and a bacterium share a common ancestor if"
+    },
+    {
+      "start": 1431.7151,
+      "end": 1433.4351,
+      "text": "you go back far enough."
+    },
+    {
+      "start": 1433.4351,
+      "end": 1439.9751,
+      "text": "That's the deep claim underneath natural selection. Common descent, the whole of life as one in"
+    },
+    {
+      "start": 1440.0,
+      "end": 1446.2599998,
+      "text": "family tree with a single root. Not a march upward, a bush spreading outward."
+    },
+    {
+      "start": 1446.5,
+      "end": 1451.82,
+      "text": "One more piece of the mechanism before we get to the whole. You keep saying new species,"
+    },
+    {
+      "start": 1452.24,
+      "end": 1457.779999,
+      "text": "almost casually. How does one species actually become two? Where's the moment it splits?"
+    },
+    {
+      "start": 1458.3,
+      "end": 1463.8,
+      "text": "There usually isn't a moment, and that's the key to it. The commonest root is geography."
+    },
+    {
+      "start": 1464.74,
+      "end": 1468.14,
+      "text": "Take a single species and cut its range in two with a barrier."
+    },
+    {
+      "start": 1468.939999,
+      "end": 1474.5,
+      "text": "A river shifts course, a mountain range rises, a few birds get blown out to an island."
+    },
+    {
+      "start": 1475.46,
+      "end": 1478.44,
+      "text": "Now you have two populations that can no longer interbreed,"
+    },
+    {
+      "start": 1478.98,
+      "end": 1484.039997,
+      "text": "living in somewhat different environments, and each is accumulating its own random variations."
+    },
+    {
+      "start": 1485.0,
+      "end": 1489.399998,
+      "text": "Selection pushes each one its own way, generation after generation,"
+    },
+    {
+      "start": 1489.399998,
+      "end": 1494.039997,
+      "text": "and they drift apart, in size, in colour, in behaviour,"
+    },
+    {
+      "start": 1494.64,
+      "end": 1496.739998,
+      "text": "in the signals they use to court a mate."
+    },
+    {
+      "start": 1497.8,
+      "end": 1499.719997,
+      "text": "For a long stretch they're merely varieties."
+    },
+    {
+      "start": 1500.539997,
+      "end": 1503.159996,
+      "text": "If you reunited them, they could still interbreed."
+    },
+    {
+      "start": 1503.859997,
+      "end": 1506.079994,
+      "text": "But past enough divergence they can't."
+    },
+    {
+      "start": 1506.88,
+      "end": 1511.579994,
+      "text": "Their bodies or their courtship rituals or their breeding seasons no longer line up,"
+    },
+    {
+      "start": 1512.079994,
+      "end": 1515.64,
+      "text": "and even placed side by side, they simply don't mix anymore."
+    },
+    {
+      "start": 1515.64,
+      "end": 1523.56,
+      "text": "At that point they're two species, and there was never a single dividing instant, just accumulation past a threshold."
+    },
+    {
+      "start": 1524.62,
+      "end": 1534.884895,
+      "text": "The Galapagos finches are the textbook case again One ancestral finch many islands and today more than a dozen distinct species that no longer cross"
+    },
+    {
+      "start": 1535.7649,
+      "end": 1543.8649,
+      "text": "That's the deep reframing. Species aren't fixed, eternal kinds. Their populations caught in the act of drifting apart."
+    },
+    {
+      "start": 1543.8649,
+      "end": 1552.244896,
+      "text": "Alright, you promised me at the top there was one enormous thing they got wrong. This all sounds airtight. Where's the hole?"
+    },
+    {
+      "start": 1552.244896,
+      "end": 1556.9049,
+      "text": "The hole is right at the centre, and to their credit, they knew something was missing."
+    },
+    {
+      "start": 1557.98489,
+      "end": 1559.90489,
+      "text": "The whole mechanism runs on heredity."
+    },
+    {
+      "start": 1560.6449,
+      "end": 1565.1849,
+      "text": "Variations have to be passed to offspring, reliably, or the whole thing collapses."
+    },
+    {
+      "start": 1566.3249,
+      "end": 1570.7649000000001,
+      "text": "But Darwin and Wallace had no correct idea of how heredity actually works."
+    },
+    {
+      "start": 1571.4449,
+      "end": 1571.7649000000001,
+      "text": "None."
+    },
+    {
+      "start": 1572.4449,
+      "end": 1576.7649000000001,
+      "text": "And the theory people did believe at the time was actively poisonous to their argument."
+    },
+    {
+      "start": 1576.7649000000001,
+      "end": 1579.6649,
+      "text": "It was called blending inheritance."
+    },
+    {
+      "start": 1579.6649,
+      "end": 1586.6449,
+      "text": "The notion that offspring are an average, a blend, of their two parents, like mixing two paint colours."
+    },
+    {
+      "start": 1586.8449,
+      "end": 1590.7449,
+      "text": "And why is blending fatal? It sounds harmless enough."
+    },
+    {
+      "start": 1590.9249,
+      "end": 1598.4849,
+      "text": "Because if inheritance is blending, then any new advantageous variation gets diluted by half every single generation."
+    },
+    {
+      "start": 1599.66489,
+      "end": 1603.2449,
+      "text": "Say one animal is born with a genuinely helpful new trait."
+    },
+    {
+      "start": 1603.7449,
+      "end": 1607.3449,
+      "text": "It mates with an ordinary partner and the offspring are a blend."
+    },
+    {
+      "start": 1607.62491,
+      "end": 1609.2649000000001,
+      "text": "The trait is halved."
+    },
+    {
+      "start": 1609.66489,
+      "end": 1627.9298,
+      "text": "Next generation halved again Within a handful of generations the useful novelty is washed out to nothing like a drop of ink stirred into a bucket long before selection can do anything with it Critics pounced on exactly this and Darwin never had a satisfying answer"
+    },
+    {
+      "start": 1628.8698,
+      "end": 1634.1498,
+      "text": "He needed a mechanism where a variation could be preserved intact, not averaged away,"
+    },
+    {
+      "start": 1634.8298,
+      "end": 1637.8098,
+      "text": "passed on whole and able to hide and reappear."
+    },
+    {
+      "start": 1638.4498,
+      "end": 1642.98979,
+      "text": "And that mechanism existed, and was even being discovered in his own lifetime,"
+    },
+    {
+      "start": 1642.98979,
+      "end": 1644.3898,
+      "text": "and he never knew it."
+    },
+    {
+      "start": 1644.3898,
+      "end": 1646.8698,
+      "text": "This is the Mendel story, isn't it?"
+    },
+    {
+      "start": 1646.8698,
+      "end": 1654.12979,
+      "text": "It is. While Darwin was alive, a monk named Gregor Mendel, breeding pea plants in a monastery garden,"
+    },
+    {
+      "start": 1654.68979,
+      "end": 1660.7298,
+      "text": "worked out that inheritance is not a blend at all. It's particulate. Traits are carried by discrete"
+    },
+    {
+      "start": 1660.7298,
+      "end": 1666.90979,
+      "text": "units, what we now call genes, that pass from parent to offspring whole, without averaging."
+    },
+    {
+      "start": 1667.9498,
+      "end": 1672.8498,
+      "text": "A trait can be masked in one generation and pop back up unchanged in the next."
+    },
+    {
+      "start": 1673.6098,
+      "end": 1674.6698000000001,
+      "text": "Nothing gets diluted."
+    },
+    {
+      "start": 1675.62979,
+      "end": 1678.0898,
+      "text": "That's exactly the missing gear Darwin needed."
+    },
+    {
+      "start": 1678.8498,
+      "end": 1681.02979,
+      "text": "It defeats the blending objection completely."
+    },
+    {
+      "start": 1682.18979,
+      "end": 1686.7098,
+      "text": "Mendel published in the 1860s, and it sank almost without trace."
+    },
+    {
+      "start": 1687.6498,
+      "end": 1689.1498,
+      "text": "Darwin apparently never read it."
+    },
+    {
+      "start": 1689.96979,
+      "end": 1693.0498,
+      "text": "The two halves of the answer sat unconnected for decades."
+    },
+    {
+      "start": 1693.3498,
+      "end": 1698.6298,
+      "text": "It wasn't until the early 20th century that biologists rediscovered Mendel"
+    },
+    {
+      "start": 1698.6298,
+      "end": 1703.6298,
+      "text": "and fused his particulate heredity with Darwin and Wallace's natural selection"
+    },
+    {
+      "start": 1703.6298,
+      "end": 1718.2747,
+      "text": "into a single framework the modern synthesis That the moment the theory becomes truly complete Selection provides the direction Genes provide the durable non inheritance it needs to work"
+    },
+    {
+      "start": 1718.45468,
+      "end": 1724.47467,
+      "text": "So the 1858 paper is a mechanism with a missing part, and the part shows up later."
+    },
+    {
+      "start": 1725.0547000000001,
+      "end": 1729.6946699999999,
+      "text": "But even the missing part, genes, that's still not the physical thing."
+    },
+    {
+      "start": 1730.35468,
+      "end": 1732.63467,
+      "text": "What genes are made of comes even later."
+    },
+    {
+      "start": 1732.63467,
+      "end": 1737.53467,
+      "text": "And that's the handoff I want to end on, because it links straight to another episode we've done."
+    },
+    {
+      "start": 1738.4347,
+      "end": 1743.07468,
+      "text": "Mendel gave us that heredity is particulate, that there are these units, genes."
+    },
+    {
+      "start": 1743.87466,
+      "end": 1745.29468,
+      "text": "But what is a gene physically?"
+    },
+    {
+      "start": 1746.13467,
+      "end": 1751.79468,
+      "text": "What molecule carries it, and how does it copy itself so faithfully, generation after generation,"
+    },
+    {
+      "start": 1752.3946799999999,
+      "end": 1754.9947,
+      "text": "which is the very thing natural selection depends on?"
+    },
+    {
+      "start": 1755.6147,
+      "end": 1761.7747,
+      "text": "That question stayed open until the middle of the 20th century, when the structure of DNA was worked out."
+    },
+    {
+      "start": 1761.7747,
+      "end": 1767.31467,
+      "text": "the double helix, two strands that can unzip and each template a perfect copy."
+    },
+    {
+      "start": 1768.21466,
+      "end": 1773.01468,
+      "text": "That's the physical machine of heredity that Darwin and Wallace needed and couldn't have imagined."
+    },
+    {
+      "start": 1773.73468,
+      "end": 1779.81467,
+      "text": "We did a whole episode on that paper, so you can read the arc across a century as one long relay."
+    },
+    {
+      "start": 1780.95468,
+      "end": 1787.9347,
+      "text": "1858, Darwin and Wallace give you the logic, variation, selection, descent, but no carrier."
+    },
+    {
+      "start": 1787.9347,
+      "end": 1793.75467,
+      "text": "Mendel gives you the units and DNA a hundred years on gives you the molecule"
+    },
+    {
+      "start": 1793.75467,
+      "end": 1799.9947,
+      "text": "that stores and copies them. Three pieces, three eras, one theory of life. You've given"
+    },
+    {
+      "start": 1800.0,
+      "end": 1805.7599998,
+      "text": "the logic and the mechanism. What's the direct evidence it actually happened in the deep past,"
+    },
+    {
+      "start": 1805.7599998,
+      "end": 1812.059999,
+      "text": "not just that it could have? Several independent lines, and the strong part is that they agree with"
+    },
+    {
+      "start": 1812.059999,
+      "end": 1818.88,
+      "text": "each other. The fossil record shows life changing systematically over time, simpler forms in the"
+    },
+    {
+      "start": 1818.88,
+      "end": 1825.22,
+      "text": "older, deeper rocks, and long sequences where you can watch a single lineage transform step by step."
+    },
+    {
+      "start": 1825.22,
+      "end": 1830.96,
+      "text": "and it contains transitional forms, creatures caught between two major groups."
+    },
+    {
+      "start": 1831.92,
+      "end": 1835.48,
+      "text": "The most famous one surfaced just after The Origin was published."
+    },
+    {
+      "start": 1836.62,
+      "end": 1840.42,
+      "text": "Archaeopteryx, a fossil that's part dinosaur and part bird."
+    },
+    {
+      "start": 1841.219997,
+      "end": 1845.12,
+      "text": "It has feathers and wings, but also teeth and a long bony tail."
+    },
+    {
+      "start": 1845.94,
+      "end": 1848.379997,
+      "text": "Exactly the in-between the theory demanded."
+    },
+    {
+      "start": 1849.52,
+      "end": 1852.859997,
+      "text": "Even more striking, the theory lets you predict where to look."
+    },
+    {
+      "start": 1853.86,
+      "end": 1859.86,
+      "text": "Biologists reasoned that the transition from fish to land animal should sit in rocks of a particular age,"
+    },
+    {
+      "start": 1860.5,
+      "end": 1865.46,
+      "text": "went to rocks of exactly that age in the Canadian Arctic and pulled out Tiktaalik,"
+    },
+    {
+      "start": 1866.02,
+      "end": 1869.68,
+      "text": "a fish with the beginnings of a neck and sturdy, limb-like fins."
+    },
+    {
+      "start": 1870.68,
+      "end": 1875.36,
+      "text": "You don't get to make a prediction that specific unless the underlying history is real."
+    },
+    {
+      "start": 1875.86,
+      "end": 1879.4,
+      "text": "And then the tree of life makes its own testable claim."
+    },
+    {
+      "start": 1879.4,
+      "end": 1886.4,
+      "text": "species should fall into a nested pattern of shared features inherited from common ancestors."
+    },
+    {
+      "start": 1886.4,
+      "end": 1891.4,
+      "text": "When we finally learned to read DNA directly, a century after this paper,"
+    },
+    {
+      "start": 1891.4,
+      "end": 1902.98857,
+      "text": "the family tree the molecules draw matched the tree already drawn from bones and fossils Different methods built on totally different evidence converging on the same tree"
+    },
+    {
+      "start": 1902.98857,
+      "end": 1907.22857,
+      "text": "And the reason to believe all this isn't just the fossils and the tree."
+    },
+    {
+      "start": 1907.22857,
+      "end": 1909.94857,
+      "text": "You said we can actually watch it happen now."
+    },
+    {
+      "start": 1910.58857,
+      "end": 1915.22857,
+      "text": "We watch it constantly, on human timescales, which Darwin never got to see."
+    },
+    {
+      "start": 1915.22857,
+      "end": 1921.78857,
+      "text": "Bacteria evolving resistance to antibiotics is natural selection in a hospital over weeks."
+    },
+    {
+      "start": 1921.78857,
+      "end": 1926.18857,
+      "text": "The drug is the environment, it kills the susceptible bacteria,"
+    },
+    {
+      "start": 1926.748566,
+      "end": 1932.50858,
+      "text": "the few with a resistant variation survive and multiply, and soon the whole population is"
+    },
+    {
+      "start": 1932.50858,
+      "end": 1938.58856,
+      "text": "resistant. That's why we're running out of working antibiotics, with a selective pressure."
+    },
+    {
+      "start": 1939.46857,
+      "end": 1945.06857,
+      "text": "The flu vaccine has to be redesigned every year because the virus is evolving away from last"
+    },
+    {
+      "start": 1945.06857,
+      "end": 1951.00858,
+      "text": "year's version in real time. Insects evolve resistance to pesticides. That's"
+    },
+    {
+      "start": 1951.00858,
+      "end": 1957.42856,
+      "text": "variation, selection and heredity playing out in a field in a season. The 1858"
+    },
+    {
+      "start": 1957.42856,
+      "end": 1962.34857,
+      "text": "mechanism isn't a story about the deep past you have to take on faith. It's"
+    },
+    {
+      "start": 1962.34857,
+      "end": 1967.22858,
+      "text": "happening in your gut and in the clinic and in the crops right now, fast enough"
+    },
+    {
+      "start": 1967.22858,
+      "end": 1973.02856,
+      "text": "to measure. Design with no designer. All of life as one branching tree and a"
+    },
+    {
+      "start": 1973.02856,
+      "end": 1980.46857,
+      "text": "mechanism you can watch reshape a population inside a year. Variation proposes, death disposes,"
+    },
+    {
+      "start": 1980.96857,
+      "end": 1987.42856,
+      "text": "and deep time does the rest, and a hundred years later the double helix shows up to supply the"
+    },
+    {
+      "start": 1987.42856,
+      "end": 1992.8285700000001,
+      "text": "one part they were missing. Thank you, George. My pleasure. Mind the branches."
+    }
+  ]
+}

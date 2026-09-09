@@ -1,0 +1,1945 @@
+{
+  "episode_id": "ep12",
+  "audio_path": "podcasts\\Great Papers 12 - The Dirac Equation and Antimatter, 1928.mp3",
+  "duration_sec": 1980.759,
+  "chunk_minutes": 6,
+  "n_chunks": 6,
+  "n_segments": 387,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.2999997,
+      "text": "Imagine you set out to do something modest and technical. You want to fix a known flaw in an"
+    },
+    {
+      "start": 6.2999997,
+      "end": 13.5,
+      "text": "equation, not overthrow physics, just tidy up an inconsistency. And in the course of that repair job,"
+    },
+    {
+      "start": 13.74,
+      "end": 20.16,
+      "text": "two of the strangest things in the universe fall out of your pen, uninvited. You accidentally"
+    },
+    {
+      "start": 20.16,
+      "end": 27.199999,
+      "text": "explain why electrons spin, and you accidentally predict the existence of a whole shadow world of"
+    },
+    {
+      "start": 27.199999,
+      "end": 34.579998,
+      "text": "antimatter that nobody had ever seen. George, that's what happened to a young, famously quiet"
+    },
+    {
+      "start": 34.579998,
+      "end": 42.64,
+      "text": "English physicist named Paul Dirac in 1928. Where does this start? What's the flaw he's trying to"
+    },
+    {
+      "start": 42.64,
+      "end": 48.199997,
+      "text": "fix? He's trying to reconcile the two greatest theories of the early 20th century, which,"
+    },
+    {
+      "start": 48.699997,
+      "end": 54.359997,
+      "text": "embarrassingly, didn't get along. And this is the perfect episode to sit at the crossroads of"
+    },
+    {
+      "start": 54.36,
+      "end": 60.94,
+      "text": "things we've already done, because it needs all of them. So here's the whole arc. We start with a"
+    },
+    {
+      "start": 60.94,
+      "end": 66.98,
+      "text": "mismatch. Quantum mechanics, the wave function we did a whole episode on, was built ignoring"
+    },
+    {
+      "start": 66.98,
+      "end": 73.36,
+      "text": "Einstein's relativity, and that's a problem. Dirac sets out to write down one equation that"
+    },
+    {
+      "start": 73.36,
+      "end": 79.28,
+      "text": "obeys both quantum mechanics and special relativity at the same time. To make it work,"
+    },
+    {
+      "start": 79.28,
+      "end": 81.659996,
+      "text": "he's forced into a piece of strange mathematics."
+    },
+    {
+      "start": 82.659996,
+      "end": 83.46,
+      "text": "And then the magic."
+    },
+    {
+      "start": 84.32,
+      "end": 97.9049,
+      "text": "Out of that equation with no extra assumptions tumbles the electron spin the very thing we had to just assume by hand in our Stern episode and then even more astonishingly a prediction of antimatter"
+    },
+    {
+      "start": 98.744896,
+      "end": 103.0449,
+      "text": "And four years later, someone finds the antimatter exactly as predicted."
+    },
+    {
+      "start": 103.9049,
+      "end": 108.7849,
+      "text": "So, a repair job that accidentally uncovers half the contents of the universe."
+    },
+    {
+      "start": 109.1049,
+      "end": 110.7649,
+      "text": "Let's start with the mismatch."
+    },
+    {
+      "start": 110.7649,
+      "end": 114.744896,
+      "text": "Quantum mechanics ignores relativity. How does that happen?"
+    },
+    {
+      "start": 115.0049,
+      "end": 120.3249,
+      "text": "It happens because they were built for different worlds, by different people, at slightly different times."
+    },
+    {
+      "start": 120.76489,
+      "end": 124.76489,
+      "text": "From the wave function episode, remember Schrodinger's equation,"
+    },
+    {
+      "start": 125.5449,
+      "end": 129.6849,
+      "text": "the master equation that tells you how a quantum particle's wave function evolves."
+    },
+    {
+      "start": 130.60489,
+      "end": 136.1249,
+      "text": "It's fantastically successful. It gives you the atom, the energy levels, the chemistry."
+    },
+    {
+      "start": 137.1449,
+      "end": 140.90489,
+      "text": "But Schrodinger's equation has relativity's rules baked out of it."
+    },
+    {
+      "start": 141.7449,
+      "end": 144.4649,
+      "text": "Special relativity, from our Einstein episode,"
+    },
+    {
+      "start": 144.9249,
+      "end": 148.2249,
+      "text": "insists that space and time be treated on an equal footing,"
+    },
+    {
+      "start": 148.8449,
+      "end": 150.4249,
+      "text": "woven into one space-time,"
+    },
+    {
+      "start": 150.8649,
+      "end": 154.82489,
+      "text": "and that nothing about the laws should single out time as different from space."
+    },
+    {
+      "start": 155.4849,
+      "end": 159.0049,
+      "text": "But Schr\u00f6dinger's equation treats time and space very differently."
+    },
+    {
+      "start": 159.82489,
+      "end": 164.3449,
+      "text": "It has, loosely, one rate of change in time and two in space,"
+    },
+    {
+      "start": 164.3449,
+      "end": 166.8449,
+      "text": "and asymmetry relativity forbids."
+    },
+    {
+      "start": 167.88489,
+      "end": 170.4649,
+      "text": "So Schr\u00f6dinger's equation is non-relativistic."
+    },
+    {
+      "start": 170.9049,
+      "end": 173.06491,
+      "text": "It's the slow speed approximation."
+    },
+    {
+      "start": 173.06491,
+      "end": 185.0898,
+      "text": "And for a lot of purposes that fine presumably Most things aren moving near the speed of light For a lot of purposes it perfectly fine yes But there are two reasons it not good enough"
+    },
+    {
+      "start": 185.8298,
+      "end": 190.4498,
+      "text": "The practical one. Electrons inside atoms, especially heavy atoms,"
+    },
+    {
+      "start": 190.9298,
+      "end": 196.7298,
+      "text": "actually move fast enough that relativistic effects show up in the fine details of atomic spectra."
+    },
+    {
+      "start": 197.04979,
+      "end": 199.0298,
+      "text": "You can measure the discrepancy."
+    },
+    {
+      "start": 199.96979,
+      "end": 201.98979,
+      "text": "But the deeper reason is a matter of principle."
+    },
+    {
+      "start": 201.98979,
+      "end": 213.74979,
+      "text": "If special relativity is a true and fundamental description of space-time, and every test says it is, then a fundamental law of nature has no business violating it."
+    },
+    {
+      "start": 214.62979,
+      "end": 218.6098,
+      "text": "A quantum theory that ignores relativity is, at best, unfinished."
+    },
+    {
+      "start": 219.8098,
+      "end": 221.3698,
+      "text": "Dirac found that intolerable."
+    },
+    {
+      "start": 221.3698,
+      "end": 228.8698,
+      "text": "He wanted the real thing, a single equation for the electron that was fully quantum and fully relativistic,"
+    },
+    {
+      "start": 229.4298,
+      "end": 234.7098,
+      "text": "with space and time entering on the same footing, obeying Einstein's rules exactly."
+    },
+    {
+      "start": 234.90979,
+      "end": 239.3698,
+      "text": "So he's not the first to try this, I assume. Was there a previous attempt?"
+    },
+    {
+      "start": 239.52979,
+      "end": 244.2098,
+      "text": "There was, and it's worth a beat because its failure shows what Dirac was up against."
+    },
+    {
+      "start": 244.2098,
+      "end": 251.6698,
+      "text": "The natural first move is to start from Einstein's famous relation between energy, momentum and mass."
+    },
+    {
+      "start": 252.4298,
+      "end": 257.80978,
+      "text": "The full version of E equals mc squared, which for a moving particle reads"
+    },
+    {
+      "start": 257.80978,
+      "end": 264.7298,
+      "text": "energy squared equals momentum times c squared plus mc squared squared."
+    },
+    {
+      "start": 265.36978,
+      "end": 277.07468,
+      "text": "It a clean relativistic statement so you take that and turn it into a quantum wave equation in the standard way The result is called the Klein equation"
+    },
+    {
+      "start": 277.07468,
+      "end": 278.9347,
+      "text": "And it has problems."
+    },
+    {
+      "start": 278.9347,
+      "end": 283.85468,
+      "text": "Because energy appears squared, the equation ends up second order in time."
+    },
+    {
+      "start": 283.85468,
+      "end": 288.97467,
+      "text": "It has two time derivatives, and when you try to interpret it as a quantum theory, you"
+    },
+    {
+      "start": 288.97467,
+      "end": 291.41467,
+      "text": "get nonsense."
+    },
+    {
+      "start": 291.41467,
+      "end": 296.63467,
+      "text": "that can come out negative, which is meaningless, since a probability below zero doesn't mean"
+    },
+    {
+      "start": 296.63467,
+      "end": 303.19467,
+      "text": "anything. And on top of that, it didn't naturally describe the electron's spin. So the obvious"
+    },
+    {
+      "start": 303.19467,
+      "end": 308.57468,
+      "text": "relativistic equation was sick. Negative probabilities. Yeah, that's a deal-breaker."
+    },
+    {
+      "start": 309.13467,
+      "end": 315.2747,
+      "text": "So what does Dirac do differently? He makes one stubborn demand, and everything flows from it."
+    },
+    {
+      "start": 315.2747,
+      "end": 322.47467,
+      "text": "He says, the trouble comes from the equation being second order in time, those two time derivatives."
+    },
+    {
+      "start": 323.71466,
+      "end": 328.75467,
+      "text": "Schr\u00f6dinger's equation, which works, is first order in time, just one time derivative,"
+    },
+    {
+      "start": 329.3347,
+      "end": 331.63467,
+      "text": "and that's what keeps probabilities sensible."
+    },
+    {
+      "start": 332.6147,
+      "end": 337.9347,
+      "text": "So Dirac insists, I want an equation that is first order in time, like Schr\u00f6dinger."
+    },
+    {
+      "start": 338.45468,
+      "end": 342.25467,
+      "text": "But relativity demands space and time be treated symmetrically."
+    },
+    {
+      "start": 342.25467,
+      "end": 349.63467,
+      "text": "So if it's first order in time, it must also be first order in space, just one space derivative,"
+    },
+    {
+      "start": 349.63467,
+      "end": 355.9947,
+      "text": "not two. And it still has to be consistent with Einstein's energy-momentum relation."
+    },
+    {
+      "start": 355.9947,
+      "end": 359.9947,
+      "text": "Now that's a very tight set of demands, and when Dirac tried to write down"
+    },
+    {
+      "start": 360.0,
+      "end": 365.8799996,
+      "text": "such an equation, he ran into a wall. With ordinary numbers as coefficients, it's simply"
+    },
+    {
+      "start": 365.8799996,
+      "end": 373.099999,
+      "text": "impossible. You cannot make it work. Why is first order in time worth fighting so hard for?"
+    },
+    {
+      "start": 373.5,
+      "end": 378.699999,
+      "text": "It sounds like a technicality. It sounds like one, but it's really about whether the theory"
+    },
+    {
+      "start": 378.699999,
+      "end": 384.619999,
+      "text": "still makes sense as quantum mechanics at all. Here's the point. In quantum mechanics,"
+    },
+    {
+      "start": 384.619999,
+      "end": 389.98,
+      "text": "the wave function has to give you probabilities. The odds of finding the particle here or there"
+    },
+    {
+      "start": 390.0,
+      "end": 395.74,
+      "text": "and those probabilities must always be positive and must add up to a hundred percent that's"
+    },
+    {
+      "start": 395.74,
+      "end": 402.3,
+      "text": "conserved as time goes on. It turns out that having exactly one time derivative being first"
+    },
+    {
+      "start": 402.3,
+      "end": 407.54,
+      "text": "order in time is what guarantees you can define such a sensible, always positive,"
+    },
+    {
+      "start": 407.92,
+      "end": 413.76,
+      "text": "conserved probability. Schrodinger's equation has that property which is why it works as a"
+    },
+    {
+      "start": 413.76,
+      "end": 420.76,
+      "text": "quantum theory. Klein-Gordon, being second order in time, lost it. That's the deep root of those"
+    },
+    {
+      "start": 420.76,
+      "end": 427.86,
+      "text": "negative probabilities. So Dirac's insistence on first order in time wasn't fussiness about elegance."
+    },
+    {
+      "start": 428.5,
+      "end": 434.1,
+      "text": "It was a demand that his relativistic equation still be a legitimate quantum theory, that it"
+    },
+    {
+      "start": 434.1,
+      "end": 440.5,
+      "text": "still hand you probabilities you can believe. He refused to buy relativity at the price of wrecking"
+    },
+    {
+      "start": 440.5,
+      "end": 455.97836,
+      "text": "the probability interpretation That refusal is what boxed him in so tightly that only matrices could escape So it looks like a dead end How does he get around impossible This is the move that makes him famous and it genuinely startling"
+    },
+    {
+      "start": 456.598366,
+      "end": 461.25837,
+      "text": "He realised the coefficients in the equation couldn't be ordinary numbers at all."
+    },
+    {
+      "start": 461.918365,
+      "end": 467.238365,
+      "text": "They had to be matrices, little grids of numbers that follow special rules when you multiply them."
+    },
+    {
+      "start": 467.85837,
+      "end": 471.19836399999997,
+      "text": "In particular, the rule that the order of multiplication matters,"
+    },
+    {
+      "start": 471.19836399999997,
+      "end": 475.418365,
+      "text": "that A times B need not equal B times A."
+    },
+    {
+      "start": 476.37836500000003,
+      "end": 479.918365,
+      "text": "Specifically, he found he needed a set of 4 by 4 matrices."
+    },
+    {
+      "start": 481.21837,
+      "end": 483.67837,
+      "text": "Once he allowed the coefficients to be these matrices,"
+    },
+    {
+      "start": 484.21837,
+      "end": 486.65837,
+      "text": "the impossible equations snapped into existence,"
+    },
+    {
+      "start": 487.49837,
+      "end": 490.81836,
+      "text": "first order in time and space, fully relativistic"
+    },
+    {
+      "start": 490.81836,
+      "end": 493.51837,
+      "text": "and free of the negative probability disease."
+    },
+    {
+      "start": 494.27837,
+      "end": 495.79837,
+      "text": "That's the Dirac equation."
+    },
+    {
+      "start": 496.65837,
+      "end": 497.53836,
+      "text": "But here's the thing."
+    },
+    {
+      "start": 498.21837,
+      "end": 501.09836,
+      "text": "The moment you say the coefficients are 4 by 4 matrices,"
+    },
+    {
+      "start": 501.19836,
+      "end": 504.19836,
+      "text": "you've said something physical without realising it,"
+    },
+    {
+      "start": 504.81836,
+      "end": 508.61836,
+      "text": "because a 4x4 matrix acts on a thing with four components."
+    },
+    {
+      "start": 509.61836,
+      "end": 512.51837,
+      "text": "So the electron's wave function in Dirac's equation"
+    },
+    {
+      "start": 512.51837,
+      "end": 514.8783599999999,
+      "text": "isn't a single number at each point."
+    },
+    {
+      "start": 515.53836,
+      "end": 516.57837,
+      "text": "It has four pieces."
+    },
+    {
+      "start": 517.33836,
+      "end": 518.53836,
+      "text": "And Dirac had to ask,"
+    },
+    {
+      "start": 519.09836,
+      "end": 520.25836,
+      "text": "what are those four pieces?"
+    },
+    {
+      "start": 521.01837,
+      "end": 522.63837,
+      "text": "What is nature trying to tell me?"
+    },
+    {
+      "start": 522.77837,
+      "end": 524.25836,
+      "text": "Why matrices, though?"
+    },
+    {
+      "start": 524.67836,
+      "end": 527.8783599999999,
+      "text": "Give me the intuition for why ordinary numbers fail"
+    },
+    {
+      "start": 527.8783599999999,
+      "end": 530.03836,
+      "text": "and grids of numbers succeed."
+    },
+    {
+      "start": 530.03836,
+      "end": 532.03836,
+      "text": "Here's the cleanest way to feel it."
+    },
+    {
+      "start": 532.03836,
+      "end": 549.15674,
+      "text": "Einstein relation gives you energy squared To get a first order equation Dirac essentially needed to take the square root of that to find something that when you square it gives back energy squared equals momentum term squared plus mass term squared"
+    },
+    {
+      "start": 549.77673,
+      "end": 556.07674,
+      "text": "Now think about trying to take the square root of a sum of squares, like a squared plus b squared,"
+    },
+    {
+      "start": 556.43674,
+      "end": 561.87674,
+      "text": "and have it come out as a simple sum, something times a plus something times b."
+    },
+    {
+      "start": 561.87674,
+      "end": 568.27673,
+      "text": "If you square that sum with ordinary numbers, you get the a-squared and b-squared terms you want,"
+    },
+    {
+      "start": 568.79674,
+      "end": 575.83673,
+      "text": "but you also get cross-terms, an a-times-b piece and a b-times-a piece, that you need to cancel."
+    },
+    {
+      "start": 576.83673,
+      "end": 583.65674,
+      "text": "With ordinary numbers, a-times-b equals b-times-a, so those cross-terms add up and refuse to vanish."
+    },
+    {
+      "start": 584.2567300000001,
+      "end": 584.97673,
+      "text": "It's impossible."
+    },
+    {
+      "start": 584.97673,
+      "end": 588.87674,
+      "text": "But with matrices, the order of multiplication matters."
+    },
+    {
+      "start": 589.55673,
+      "end": 592.45673,
+      "text": "A times B need not equal B times A."
+    },
+    {
+      "start": 592.91673,
+      "end": 597.37674,
+      "text": "So you can choose the coefficients so the cross terms exactly cancel each other out."
+    },
+    {
+      "start": 597.95673,
+      "end": 600.61673,
+      "text": "That's the whole reason the matrices have to be there."
+    },
+    {
+      "start": 601.29672,
+      "end": 604.87674,
+      "text": "They're the price of taking the square root of relativity's energy relation."
+    },
+    {
+      "start": 605.77673,
+      "end": 609.19673,
+      "text": "And the smallest matrices that do the job are 4 by 4."
+    },
+    {
+      "start": 609.97673,
+      "end": 612.67673,
+      "text": "So the four components aren't a choice Dirac made."
+    },
+    {
+      "start": 613.2567300000001,
+      "end": 615.67673,
+      "text": "They're forced by the arithmetic of the square root."
+    },
+    {
+      "start": 615.83673,
+      "end": 616.59674,
+      "text": "Four pieces."
+    },
+    {
+      "start": 616.59674,
+      "end": 619.33673,
+      "text": "OK, I'm braced, what are they?"
+    },
+    {
+      "start": 619.41675,
+      "end": 622.57672,
+      "text": "This is where the first gift falls out, and it's beautiful."
+    },
+    {
+      "start": 623.69672,
+      "end": 638.3151,
+      "text": "Two of those four components turn out to describe the electron spin the fact that the electron behaves like a tiny magnet that can point one of two ways up or down Now cast your mind back to the Stern episode"
+    },
+    {
+      "start": 639.1551,
+      "end": 645.67508,
+      "text": "There we discovered spin experimentally, the beam of atoms splitting into two, and we simply had to"
+    },
+    {
+      "start": 645.67508,
+      "end": 651.4150999999999,
+      "text": "accept it, bolt it onto the theory by hand as an extra property the electron happens to have."
+    },
+    {
+      "start": 651.4150999999999,
+      "end": 660.55508,
+      "text": "We could describe it, but we couldn't say why the electron has spin, or why it's spin one-half, or why it's exactly the size it is."
+    },
+    {
+      "start": 661.61508,
+      "end": 669.89508,
+      "text": "Dirac didn't put spin in. He was just trying to make a relativistic equation, and spin came out on its own, forced by the mathematics."
+    },
+    {
+      "start": 671.0351,
+      "end": 677.9751,
+      "text": "The electron has to have spin one-half. It falls straight out of demanding quantum mechanics and relativity together."
+    },
+    {
+      "start": 677.9751,
+      "end": 682.13507,
+      "text": "And spin one half has that famously bizarre feature, doesn't it?"
+    },
+    {
+      "start": 682.5351,
+      "end": 685.8151,
+      "text": "You have to turn it around twice to get back to where you started."
+    },
+    {
+      "start": 685.8151,
+      "end": 689.2951,
+      "text": "It does, and it's one of the strangest facts in physics,"
+    },
+    {
+      "start": 689.7751000000001,
+      "end": 694.4951,
+      "text": "and it's sitting right there in the four-component object Dirac's equation acts on,"
+    },
+    {
+      "start": 695.07507,
+      "end": 697.19507,
+      "text": "which has a special name, a spinner."
+    },
+    {
+      "start": 698.4350999999999,
+      "end": 699.3751,
+      "text": "Here's the weirdness."
+    },
+    {
+      "start": 699.8551,
+      "end": 703.01508,
+      "text": "Take anything in the ordinary world, a book, a coin,"
+    },
+    {
+      "start": 703.01508,
+      "end": 711.29507,
+      "text": "and rotate it a full turn, 360 degrees, and it's back exactly as it was. Obviously. But"
+    },
+    {
+      "start": 711.29507,
+      "end": 717.57507,
+      "text": "a spin one-half object is not like that. Rotate it a single full turn and it is subtly not"
+    },
+    {
+      "start": 717.57507,
+      "end": 719.9751,
+      "text": "back to its original state. It's"
+    },
+    {
+      "start": 720.0,
+      "end": 726.0,
+      "text": "quantum description has flipped its sign, picked up a minus, you have to rotate it through two full"
+    },
+    {
+      "start": 726.0,
+      "end": 733.639999,
+      "text": "turns, 720 degrees, to truly return it to itself. That has no analogue in everyday objects."
+    },
+    {
+      "start": 734.299999,
+      "end": 738.98,
+      "text": "It's a genuinely quantum, genuinely relativistic property of these spinner things."
+    },
+    {
+      "start": 739.56,
+      "end": 746.22,
+      "text": "And it's not just a curiosity. That sign flip under a single rotation is deeply tied to why"
+    },
+    {
+      "start": 746.22,
+      "end": 752.52,
+      "text": "electrons obey the exclusion principle from our spin episode, why they refuse to share a state,"
+    },
+    {
+      "start": 752.98,
+      "end": 759.079998,
+      "text": "which is ultimately why matter is solid and takes up space. All of that is bound up in the four"
+    },
+    {
+      "start": 759.079998,
+      "end": 765.879997,
+      "text": "component spinner that Dirac's equation forced into existence. Wait, so spin isn't some separate"
+    },
+    {
+      "start": 765.879997,
+      "end": 771.579998,
+      "text": "weird property we have to memorize. It's a consequence of relativity. That's exactly the"
+    },
+    {
+      "start": 771.579998,
+      "end": 778.559998,
+      "text": "revelation, and physicists still find it stunning. Spin is what you get when you insist that a quantum"
+    },
+    {
+      "start": 778.559998,
+      "end": 786.38,
+      "text": "electron respect special relativity. It is not an optional extra, it's forced. And it gets better."
+    },
+    {
+      "start": 786.92,
+      "end": 792.439995,
+      "text": "The equation didn't just produce spin, it produced the correct strength of the electron's magnetism."
+    },
+    {
+      "start": 793.5799939999999,
+      "end": 798.6,
+      "text": "Experimentally, the electron is about twice as magnetic as a naive classical calculation"
+    },
+    {
+      "start": 798.6,
+      "end": 800.74,
+      "text": "of a spinning charge would suggest."
+    },
+    {
+      "start": 801.6,
+      "end": 803.78,
+      "text": "There's a factor of 2 that had been a mystery."
+    },
+    {
+      "start": 804.92,
+      "end": 818.57837,
+      "text": "Dirac equation gives that factor of 2 automatically for free So an equation Dirac wrote down to fix a relativity problem simultaneously explained the existence of spin and its precise magnetic strength"
+    },
+    {
+      "start": 819.35837,
+      "end": 822.65837,
+      "text": "two things that had been unexplained postulates the day before."
+    },
+    {
+      "start": 823.71837,
+      "end": 826.39837,
+      "text": "If that were all this paper did, it would be a landmark."
+    },
+    {
+      "start": 827.058365,
+      "end": 828.85837,
+      "text": "But that's only the first gift."
+    },
+    {
+      "start": 828.85837,
+      "end": 832.81837,
+      "text": "Did the equation actually match measurements on a real atom,"
+    },
+    {
+      "start": 832.81837,
+      "end": 836.6183599999999,
+      "text": "or was the spin thing more of an abstract triumph?"
+    },
+    {
+      "start": 837.1183599999999,
+      "end": 840.37837,
+      "text": "It matched, and precisely, in a way that clinched it."
+    },
+    {
+      "start": 841.4583700000001,
+      "end": 843.01837,
+      "text": "Go back to the hydrogen atom."
+    },
+    {
+      "start": 843.97836,
+      "end": 848.4783600000001,
+      "text": "Schr\u00f6dinger's non-relativistic equation gives you the main energy levels beautifully,"
+    },
+    {
+      "start": 849.01837,
+      "end": 850.71837,
+      "text": "the big structure of the spectrum."
+    },
+    {
+      "start": 851.63837,
+      "end": 853.49837,
+      "text": "But when experimenters looked closely,"
+    },
+    {
+      "start": 853.9783600000001,
+      "end": 856.53836,
+      "text": "each of those spectral lines was actually split"
+    },
+    {
+      "start": 856.53836,
+      "end": 860.73837,
+      "text": "into several very finely spaced lines sitting right next to each other,"
+    },
+    {
+      "start": 860.73837,
+      "end": 866.05836,
+      "text": "a delicate structure that the Plain-Schrodinger equation could not account for correctly."
+    },
+    {
+      "start": 867.17836,
+      "end": 870.1783800000001,
+      "text": "It's literally called the fine structure of the spectrum."
+    },
+    {
+      "start": 871.39836,
+      "end": 876.1783800000001,
+      "text": "When Dirac solved his equation for the hydrogen atom, those fine splittings came out,"
+    },
+    {
+      "start": 876.81836,
+      "end": 880.89836,
+      "text": "correctly, quantitatively, matching what the spectroscopists measured."
+    },
+    {
+      "start": 881.85837,
+      "end": 887.93835,
+      "text": "The relativistic corrections and the spin, working together, produced exactly the observed fine structure."
+    },
+    {
+      "start": 887.93835,
+      "end": 893.05836,
+      "text": "So this wasn't just a pretty derivation of an abstract property."
+    },
+    {
+      "start": 893.05836,
+      "end": 905.93674,
+      "text": "It made sharper predictions about real light from real atoms than any equation before it and the predictions were right That what turned heads The equation was not only more beautiful it was more correct"
+    },
+    {
+      "start": 906.11673,
+      "end": 910.13673,
+      "text": "I have a feeling the second gift is the antimatter. How does that appear?"
+    },
+    {
+      "start": 910.13673,
+      "end": 916.97673,
+      "text": "It appears as a problem, an apparent embarrassment that Dirac refused to sweep away. Remember"
+    },
+    {
+      "start": 916.97673,
+      "end": 922.3967299999999,
+      "text": "the wave function has four components. Two of them are the spin-up and spin-down of the"
+    },
+    {
+      "start": 922.3967299999999,
+      "end": 928.81674,
+      "text": "electron. But what about the other two? When Dirac looked at the full set of solutions to his"
+    },
+    {
+      "start": 928.81674,
+      "end": 934.55673,
+      "text": "equation, he found that half of them described exactly what he wanted, an ordinary electron"
+    },
+    {
+      "start": 934.55673,
+      "end": 941.55673,
+      "text": "with positive energy, but the other half were solutions with negative energy, energy less than"
+    },
+    {
+      "start": 941.55673,
+      "end": 947.43674,
+      "text": "zero. And that's deeply troubling because a particle can always shed energy and drop to a"
+    },
+    {
+      "start": 947.43674,
+      "end": 953.85674,
+      "text": "lower state. So an ordinary electron could, in principle, keep falling down into these bottomless"
+    },
+    {
+      "start": 953.85674,
+      "end": 959.95673,
+      "text": "negative energy states, radiating energy forever, which would make all matter catastrophically"
+    },
+    {
+      "start": 959.95673,
+      "end": 966.59674,
+      "text": "unstable. The negative energy solutions looked like a fatal flaw. So why not just throw them"
+    },
+    {
+      "start": 966.59674,
+      "end": 972.83673,
+      "text": "away? Say, those aren't physical, ignore them. Because you can't, mathematically. They're an"
+    },
+    {
+      "start": 972.83673,
+      "end": 978.4967300000001,
+      "text": "unavoidable part of the complete set of solutions. The equation needs all of them to be consistent."
+    },
+    {
+      "start": 979.79672,
+      "end": 997.63507,
+      "text": "Dirac was too careful to just cross them out so he wrestled with them and came up with an interpretation His first version historically famous was the idea of the Dirac Sea He imagined that all the negative energy states are already completely filled up everywhere"
+    },
+    {
+      "start": 998.0951,
+      "end": 1003.3151,
+      "text": "by an invisible ocean of electrons, and the exclusion principle from our spin episode"
+    },
+    {
+      "start": 1003.3151,
+      "end": 1009.07507,
+      "text": "keeps ordinary electrons from falling in because there's no room. And then he asked,"
+    },
+    {
+      "start": 1009.07507,
+      "end": 1014.1951,
+      "text": "What if you punched a hole in that sea, removed one negative energy electron?"
+    },
+    {
+      "start": 1014.9751,
+      "end": 1020.2751000000001,
+      "text": "The absence of a negative energy, negative charge electron would look, to us,"
+    },
+    {
+      "start": 1020.6551,
+      "end": 1024.4751,
+      "text": "like the presence of a positive energy, positive charge particle."
+    },
+    {
+      "start": 1025.23508,
+      "end": 1028.67508,
+      "text": "A hole in the sea would behave like a brand new particle."
+    },
+    {
+      "start": 1029.45508,
+      "end": 1032.4351,
+      "text": "Same mass as the electron, but opposite charge."
+    },
+    {
+      "start": 1032.4351,
+      "end": 1038.0750699999999,
+      "text": "I have to say, an infinite invisible ocean of hidden electrons filling all of space"
+    },
+    {
+      "start": 1038.0750699999999,
+      "end": 1044.3151,
+      "text": "sounds pretty baroque. Is there a cleaner way to think about the negative energy solutions?"
+    },
+    {
+      "start": 1044.83508,
+      "end": 1049.5150800000001,
+      "text": "There is, and it came later, from Richard Feynman, and it's much more elegant,"
+    },
+    {
+      "start": 1050.0951,
+      "end": 1055.5750699999999,
+      "text": "though it sounds just as strange at first. Feynman's way of reading the mathematics is this."
+    },
+    {
+      "start": 1056.25507,
+      "end": 1061.9751,
+      "text": "An antiparticle is, formally, exactly like an ordinary particle moving backward in time."
+    },
+    {
+      "start": 1061.9751,
+      "end": 1068.5351,
+      "text": "A negative energy electron running backward in time is mathematically identical to a positive"
+    },
+    {
+      "start": 1068.5351,
+      "end": 1074.31506,
+      "text": "energy positron running forward in time. So instead of an infinite filled C with holes"
+    },
+    {
+      "start": 1074.31506,
+      "end": 1079.95508,
+      "text": "in it, you just say, the same equation describes electrons going forward and anti-electron"
+    },
+    {
+      "start": 1080.0,
+      "end": 1081.32,
+      "text": "Tron's going forward."
+    },
+    {
+      "start": 1081.59,
+      "end": 1085.83,
+      "text": "and the negative energy was the maths way of encoding time reversal."
+    },
+    {
+      "start": 1086.3,
+      "end": 1089.0,
+      "text": "It's cleaner, it needs no infinite ocean,"
+    },
+    {
+      "start": 1089.06,
+      "end": 1092.62,
+      "text": "and it's the picture particle physicists actually use now."
+    },
+    {
+      "start": 1093.14,
+      "end": 1095.06,
+      "text": "but I want to be fair to Dirac,"
+    },
+    {
+      "start": 1095.21,
+      "end": 1103.37,
+      "text": "The sea was the scaffolding he had at the time, and even with that clunky picture,  the physical prediction he pulled out of it was exactly right."
+    },
+    {
+      "start": 1103.85,
+      "end": 1105.85,
+      "text": "The interpretation got tidier,"
+    },
+    {
+      "start": 1106.13,
+      "end": 1116.47,
+      "text": "The particle he predicted was real either way.  So the negative energy solutions, reinterpreted,  are secretly telling him there's another particle out there.  Exactly."
+    },
+    {
+      "start": 1117.38,
+      "end": 1120.82,
+      "text": "A twin of the electron with the opposite electric charge"
+    },
+    {
+      "start": 1121.31,
+      "end": 1123.15,
+      "text": "At first, cautiously,"
+    },
+    {
+      "start": 1123.23,
+      "end": 1125.63,
+      "text": "Dirac wondered if it might be the proton."
+    },
+    {
+      "start": 1125.9,
+      "end": 1128.6,
+      "text": "the only positive particle known at the time,"
+    },
+    {
+      "start": 1128.9,
+      "end": 1130.7,
+      "text": "But the masses were all wrong."
+    },
+    {
+      "start": 1131.06,
+      "end": 1134.0,
+      "text": "The proton is nearly 2,000 times heavier."
+    },
+    {
+      "start": 1134.57,
+      "end": 1138.73,
+      "text": "So he took the daring step, a couple of years on, of saying:"
+    },
+    {
+      "start": 1139.04,
+      "end": 1142.22,
+      "text": "No, this must be a new, undiscovered particle."
+    },
+    {
+      "start": 1142.31,
+      "end": 1146.07,
+      "text": "with precisely the electron's mass and the opposite charge."
+    },
+    {
+      "start": 1146.54,
+      "end": 1148.02,
+      "text": "an anti-electron,"
+    },
+    {
+      "start": 1148.37,
+      "end": 1150.33,
+      "text": "what we now call the positron,"
+    },
+    {
+      "start": 1150.86,
+      "end": 1153.9,
+      "text": "He predicted, from the internal logic of an equation,"
+    },
+    {
+      "start": 1154.16,
+      "end": 1158.04,
+      "text": "the existence of a form of matter nobody had ever observed,"
+    },
+    {
+      "start": 1158.6,
+      "end": 1159.58,
+      "text": "and I should flag."
+    },
+    {
+      "start": 1160.01,
+      "end": 1163.73,
+      "text": "the 'sea of holes' picture is historical scaffolding."
+    },
+    {
+      "start": 1164.09,
+      "end": 1170.57,
+      "text": "The modern way of seeing this, in quantum field theory, is cleaner and doesn't need a literal infinite ocean."
+    },
+    {
+      "start": 1171.59,
+      "end": 1173.75,
+      "text": "But the physical prediction was dead right,"
+    },
+    {
+      "start": 1174.05,
+      "end": 1188.37,
+      "text": "For the electron, there is an antiparticle.  Quick check before the discovery.  Is an antiparticle always a genuinely separate thing,  or can something be its own antiparticle?  Both happen, and the distinction is lovely."
+    },
+    {
+      "start": 1189.29,
+      "end": 1195.93,
+      "text": "For anything with electric charge, the antiparticle is unmistakably distinct because it carries the opposite charge."
+    },
+    {
+      "start": 1196.55,
+      "end": 1200.61,
+      "text": "An electron and a positron are clearly two different objects."
+    },
+    {
+      "start": 1201.05,
+      "end": 1203.13,
+      "text": "but for a particle with no charge,"
+    },
+    {
+      "start": 1203.15,
+      "end": 1206.93,
+      "text": "it becomes possible for a particle to be its own antiparticle,"
+    },
+    {
+      "start": 1207.26,
+      "end": 1209.26,
+      "text": "to look in the mirror and see itself."
+    },
+    {
+      "start": 1210.23,
+      "end": 1212.59,
+      "text": "The photon, the particle of light,"
+    },
+    {
+      "start": 1212.66,
+      "end": 1214.1,
+      "text": "is exactly that."
+    },
+    {
+      "start": 1214.37,
+      "end": 1216.37,
+      "text": "its own antiparticle."
+    },
+    {
+      "start": 1216.77,
+      "end": 1222.85,
+      "text": "and there's a live, unsolved question about one of the most abundant particles in the universe,"
+    },
+    {
+      "start": 1222.98,
+      "end": 1224.18,
+      "text": "the Neutrino."
+    },
+    {
+      "start": 1224.48,
+      "end": 1228.08,
+      "text": "a tiny, nearly massless, neutral particle."
+    },
+    {
+      "start": 1228.56,
+      "end": 1233.32,
+      "text": "Nobody yet knows whether the neutrino is its own antiparticle or not."
+    },
+    {
+      "start": 1233.99,
+      "end": 1239.19,
+      "text": "Experiments around the world are hunting for an incredibly rare radioactive process"
+    },
+    {
+      "start": 1239.27,
+      "end": 1243.79,
+      "text": "that would only be possible if the neutrino is its own antiparticle."
+    },
+    {
+      "start": 1244.01,
+      "end": 1249.35,
+      "text": "and the answer would bear directly on that matter versus antimatter mystery we just raised."
+    },
+    {
+      "start": 1250.49,
+      "end": 1252.89,
+      "text": "So Dirac opened a whole taxonomy."
+    },
+    {
+      "start": 1253.19,
+      "end": 1256.07,
+      "text": "Most particles have a distinct twin in the mirror,"
+    },
+    {
+      "start": 1256.19,
+      "end": 1259.31,
+      "text": "but a few neutral ones may be their own reflection."
+    },
+    {
+      "start": 1259.52,
+      "end": 1263.96,
+      "text": "and which camp the neutrino falls into is a real frontier question."
+    },
+    {
+      "start": 1264.44,
+      "end": 1271.4,
+      "text": "And this is the part where the universe says \"yes\", somebody finds it. Somebody finds it and fast."
+    },
+    {
+      "start": 1272.18,
+      "end": 1275.58,
+      "text": "In 1932, four years after the paper,"
+    },
+    {
+      "start": 1275.6,
+      "end": 1280.1,
+      "text": "An experimenter named Carl Anderson was photographing cosmic rays,"
+    },
+    {
+      "start": 1280.28,
+      "end": 1282.54,
+      "text": "particles raining down from space,"
+    },
+    {
+      "start": 1282.56,
+      "end": 1286.56,
+      "text": "in a device called a cloud chamber that makes their tracks visible."
+    },
+    {
+      "start": 1286.73,
+      "end": 1291.85,
+      "text": "sitting in a magnetic field that curves a particle's path according to its charge."
+    },
+    {
+      "start": 1292.4,
+      "end": 1297.3600000000001,
+      "text": "and Anderson saw tracks that curved the way an Electrons would in every respect."
+    },
+    {
+      "start": 1297.62,
+      "end": 1300.02,
+      "text": "same mass, same behavior,"
+    },
+    {
+      "start": 1300.17,
+      "end": 1304.37,
+      "text": "except they curve the opposite way, meaning positive charge."
+    },
+    {
+      "start": 1304.94,
+      "end": 1308.62,
+      "text": "a particle with the electron's mass and the opposite charge."
+    },
+    {
+      "start": 1309.05,
+      "end": 1314.39,
+      "text": "The positron, exactly as Dirac's equation demanded, falling out of the sky,"
+    },
+    {
+      "start": 1314.93,
+      "end": 1321.33,
+      "text": "antimatter was real and it had been predicted purely from mathematics before anyone laid eyes on it."
+    },
+    {
+      "start": 1322.07,
+      "end": 1325.8899999999999,
+      "text": "It's one of the great triumphs of pure theory in the history of science,"
+    },
+    {
+      "start": 1326.09,
+      "end": 1330.17,
+      "text": "Right up there with the light-bending prediction from our general relativity episode."
+    },
+    {
+      "start": 1336.59,
+      "end": 1338.19,
+      "text": "Who was Dirac?"
+    },
+    {
+      "start": 1338.24,
+      "end": 1343.3600000000001,
+      "text": "One of the most distinctive figures in the history of physics, and famously the quietest,"
+    },
+    {
+      "start": 1344.15,
+      "end": 1347.59,
+      "text": "Dirac was legendarily terse and literal-minded."
+    },
+    {
+      "start": 1347.81,
+      "end": 1350.69,
+      "text": "He spoke rarely, disliked small talk."
+    },
+    {
+      "start": 1350.72,
+      "end": 1354.24,
+      "text": "and answered questions with a precision that unnerved people."
+    },
+    {
+      "start": 1354.8600000000001,
+      "end": 1358.82,
+      "text": "A biography of him is simply titled The Strangest Man."
+    },
+    {
+      "start": 1359.75,
+      "end": 1365.19,
+      "text": "He worked, by all accounts, in near silence, moving symbols around on paper,"
+    },
+    {
+      "start": 1365.18,
+      "end": 1367.18,
+      "text": "letting the mathematics lead."
+    },
+    {
+      "start": 1367.79,
+      "end": 1373.79,
+      "text": "He shared the Nobel Prize with Schrodinger in 1933 at a strikingly young age."
+    },
+    {
+      "start": 1374.24,
+      "end": 1379.3600000000001,
+      "text": "and this same equation-first instinct led him to other bold predictions."
+    },
+    {
+      "start": 1379.76,
+      "end": 1383.1599999999999,
+      "text": "He argued, for instance, that magnetic monopoles"
+    },
+    {
+      "start": 1383.27,
+      "end": 1386.21,
+      "text": "isolated north or south magnetic poles"
+    },
+    {
+      "start": 1386.3899999999999,
+      "end": 1388.01,
+      "text": "ought to be able to exist,"
+    },
+    {
+      "start": 1388.31,
+      "end": 1391.85,
+      "text": "a prediction that remains famously unconfirmed to this day."
+    },
+    {
+      "start": 1392.84,
+      "end": 1395.36,
+      "text": "So he's a particular kind of scientist,"
+    },
+    {
+      "start": 1395.57,
+      "end": 1401.83,
+      "text": "not a tinkerer at a bench but someone who trusted that if he followed clean mathematics faithfully enough,"
+    },
+    {
+      "start": 1401.9,
+      "end": 1403.82,
+      "text": "it would deliver true physics."
+    },
+    {
+      "start": 1404.48,
+      "end": 1407.3,
+      "text": "Antimatter is the crown jewel of that approach."
+    },
+    {
+      "start": 1407.6,
+      "end": 1420.8,
+      "text": "reasoned into existence in a quiet room years before anyone saw it.  So antimatter is real. And it's not just the electron. Every particle has an antiparticle.  Everyone."
+    },
+    {
+      "start": 1421.28,
+      "end": 1423.52,
+      "text": "It turned out to be completely general."
+    },
+    {
+      "start": 1423.98,
+      "end": 1427.56,
+      "text": "The proton has an anti-proton negatively charged."
+    },
+    {
+      "start": 1428.03,
+      "end": 1430.75,
+      "text": "There are anti-neutrons, anti-quarks."
+    },
+    {
+      "start": 1431.24,
+      "end": 1432.48,
+      "text": "the whole roster."
+    },
+    {
+      "start": 1432.98,
+      "end": 1435.02,
+      "text": "Matter comes in mirror pairs,"
+    },
+    {
+      "start": 1435.23,
+      "end": 1439.97,
+      "text": "for every kind of particle an antiparticle with the same mass and opposite charge."
+    },
+    {
+      "start": 1440.0,
+      "end": 1445.5,
+      "text": "And when a particle meets its antiparticle, something dramatic happens."
+    },
+    {
+      "start": 1446.46,
+      "end": 1447.2799997,
+      "text": "They annihilate."
+    },
+    {
+      "start": 1447.94,
+      "end": 1451.82,
+      "text": "They vanish, and their entire mass converts into pure energy,"
+    },
+    {
+      "start": 1452.5199995,
+      "end": 1454.58,
+      "text": "a burst of light, of photons."
+    },
+    {
+      "start": 1455.759999,
+      "end": 1459.779999,
+      "text": "This is E equals mc squared from our relativity episode,"
+    },
+    {
+      "start": 1460.34,
+      "end": 1463.24,
+      "text": "running in the most literal, complete direction possible,"
+    },
+    {
+      "start": 1464.1,
+      "end": 1466.0,
+      "text": "mass turning entirely into energy."
+    },
+    {
+      "start": 1466.0,
+      "end": 1475.5,
+      "text": "An electron and a positron touch, and where there were two particles, there's now just a flash of gamma rays carrying all their mass energy away."
+    },
+    {
+      "start": 1476.579998,
+      "end": 1481.12,
+      "text": "Matter and antimatter don't coexist. They unmake each other into light."
+    },
+    {
+      "start": 1481.32,
+      "end": 1488.0,
+      "text": "Can we actually make antimatter and hold on to it, or is it purely something that shows up in cosmic rays?"
+    },
+    {
+      "start": 1488.2,
+      "end": 1492.5,
+      "text": "We can make it, and it's one of the more remarkable things going on in physics labs."
+    },
+    {
+      "start": 1493.5,
+      "end": 1495.84,
+      "text": "At CERN, the big European laboratory,"
+    },
+    {
+      "start": 1496.56,
+      "end": 1499.16,
+      "text": "physicists routinely produce antiprotons,"
+    },
+    {
+      "start": 1499.16,
+      "end": 1500.56,
+      "text": "and they've gone further."
+    },
+    {
+      "start": 1501.28,
+      "end": 1503.76,
+      "text": "They've built actual atoms of antihydrogen,"
+    },
+    {
+      "start": 1504.34,
+      "end": 1506.92,
+      "text": "an antiproton with a positron orbiting it,"
+    },
+    {
+      "start": 1507.46,
+      "end": 1509.92,
+      "text": "the antimatter twin of the simplest atom."
+    },
+    {
+      "start": 1510.76,
+      "end": 1514.64,
+      "text": "And they trap these anti-atoms, briefly, in magnetic bottles,"
+    },
+    {
+      "start": 1515.34,
+      "end": 1517.84,
+      "text": "because you obviously cannot let them touch the walls."
+    },
+    {
+      "start": 1518.72,
+      "end": 1521.12,
+      "text": "Long enough to study whether antimatter behaves"
+    },
+    {
+      "start": 1521.12,
+      "end": 1523.52,
+      "text": "like a perfect mirror of matter."
+    },
+    {
+      "start": 1523.52,
+      "end": 1537.48489,
+      "text": "So far it does But here the catch that keeps antimatter out of your gas tank It annihilates the instant it meets ordinary matter so you can only make and hold vanishingly tiny amounts at enormous effort and cost"
+    },
+    {
+      "start": 1538.48489,
+      "end": 1543.62489,
+      "text": "The total antimatter humanity has ever produced would light a bulb for a few minutes at most."
+    },
+    {
+      "start": 1544.6849,
+      "end": 1548.3649,
+      "text": "The science fiction antimatter engine or bomb is real physics."
+    },
+    {
+      "start": 1549.1049,
+      "end": 1553.4449,
+      "text": "The energy density is unmatched, since mass converts entirely to energy."
+    },
+    {
+      "start": 1553.4449,
+      "end": 1558.3649,
+      "text": "but making and storing it in any useful quantity is wildly beyond us."
+    },
+    {
+      "start": 1559.244896,
+      "end": 1562.5049,
+      "text": "It's the most expensive, most fragile stuff in the world."
+    },
+    {
+      "start": 1562.704895,
+      "end": 1565.3649,
+      "text": "That raises an almost unsettling question."
+    },
+    {
+      "start": 1566.064896,
+      "end": 1571.2449,
+      "text": "If every particle has an antiparticle and they annihilate on contact,"
+    },
+    {
+      "start": 1571.7249,
+      "end": 1573.8449,
+      "text": "how is there any stuff at all?"
+    },
+    {
+      "start": 1574.4649,
+      "end": 1576.7849,
+      "text": "Why isn't the universe just light?"
+    },
+    {
+      "start": 1577.1249,
+      "end": 1581.5649,
+      "text": "You have just put your finger on one of the deepest unsolved problems in all of physics"
+    },
+    {
+      "start": 1581.5649,
+      "end": 1584.32489,
+      "text": "and it's the right thing to feel unsettled by."
+    },
+    {
+      "start": 1585.2649000000001,
+      "end": 1586.60489,
+      "text": "Here's the puzzle sharpened."
+    },
+    {
+      "start": 1587.2849,
+      "end": 1590.9649,
+      "text": "Our best understanding says the Big Bang from the Hubble episode"
+    },
+    {
+      "start": 1590.9649,
+      "end": 1595.22488,
+      "text": "should have produced matter and antimatter in exactly equal amounts."
+    },
+    {
+      "start": 1595.9849,
+      "end": 1599.3649,
+      "text": "But if they were exactly equal, then as the universe cooled,"
+    },
+    {
+      "start": 1599.82489,
+      "end": 1603.2849,
+      "text": "every particle would have found its antiparticle and annihilated,"
+    },
+    {
+      "start": 1603.8049,
+      "end": 1606.16489,
+      "text": "and the cosmos would be nothing but radiation,"
+    },
+    {
+      "start": 1606.16489,
+      "end": 1612.16489,
+      "text": "a bath of light with no galaxies, no stars, no planets, no us."
+    },
+    {
+      "start": 1612.16489,
+      "end": 1625.6698000000001,
+      "text": "And yet here we are made of matter in a universe with essentially no antimatter left So something must have tipped the balance some tiny asymmetry that left a slight excess of matter over antimatter"
+    },
+    {
+      "start": 1626.3098,
+      "end": 1630.9698,
+      "text": "maybe one extra particle of matter for every billion matter-antimatter pairs."
+    },
+    {
+      "start": 1631.90979,
+      "end": 1634.76979,
+      "text": "Everything that exists, every atom in your body,"
+    },
+    {
+      "start": 1635.1698000000001,
+      "end": 1636.9498,
+      "text": "is that leftover one in a billion,"
+    },
+    {
+      "start": 1637.5298,
+      "end": 1640.18979,
+      "text": "the survivors after almost everything annihilated."
+    },
+    {
+      "start": 1640.8298,
+      "end": 1644.3298,
+      "text": "Why that imbalance exists, why matter one,"
+    },
+    {
+      "start": 1644.3298,
+      "end": 1651.6098,
+      "text": "is genuinely unknown. It's an open question at the frontier. Do we have any idea how that tiny"
+    },
+    {
+      "start": 1651.6098,
+      "end": 1657.68979,
+      "text": "excess could have come about? Or is it a total blank? We know the kind of thing that must have"
+    },
+    {
+      "start": 1657.68979,
+      "end": 1663.68979,
+      "text": "happened, and we've even glimpsed a piece of it. We just don't have enough of it. Decades ago,"
+    },
+    {
+      "start": 1663.7898,
+      "end": 1668.7898,
+      "text": "the physicist Andrei Sakharov laid out the conditions any explanation would have to satisfy,"
+    },
+    {
+      "start": 1669.4498,
+      "end": 1673.96979,
+      "text": "and one of them is that the laws of nature must treat matter and antimatter slightly"
+    },
+    {
+      "start": 1673.96979,
+      "end": 1680.5898,
+      "text": "differently, not as perfect mirror images. That difference has a name, CP violation,"
+    },
+    {
+      "start": 1681.2898,
+      "end": 1685.1498,
+      "text": "and here's the striking part. We have actually observed it in the laboratory."
+    },
+    {
+      "start": 1686.24979,
+      "end": 1690.8498,
+      "text": "Certain particles, in their decays, behave a hair differently from their antiparticles,"
+    },
+    {
+      "start": 1691.52979,
+      "end": 1697.7298,
+      "text": "measured, confirmed, real. So the seed the whole story needs genuinely exists in nature."
+    },
+    {
+      "start": 1698.2898,
+      "end": 1703.8898,
+      "text": "The trouble is quantity. The amount of that matter-antimatter difference we've found so far"
+    },
+    {
+      "start": 1703.8898,
+      "end": 1717.17468,
+      "text": "is nowhere near enough to explain the enormous imbalance we see A whole universe of matter and almost no antimatter So we know the type of mechanism we caught it operating a little and it still falls"
+    },
+    {
+      "start": 1717.17468,
+      "end": 1722.9347,
+      "text": "dramatically short. Somewhere there's more to the story, and finding it is one of the sharpest"
+    },
+    {
+      "start": 1722.9347,
+      "end": 1729.01468,
+      "text": "open problems joining particle physics to cosmology. So we are quite literally the tiny"
+    },
+    {
+      "start": 1729.01468,
+      "end": 1735.57468,
+      "text": "rounding error that didn't cancel out. That's extraordinary. Let's talk about where Dirac's"
+    },
+    {
+      "start": 1735.57468,
+      "end": 1741.4947,
+      "text": "equation leads. This can't have been a dead end. It's the opposite of a dead end. It's a doorway."
+    },
+    {
+      "start": 1742.6147,
+      "end": 1747.81467,
+      "text": "The Dirac equation was the first real success of combining quantum mechanics with special"
+    },
+    {
+      "start": 1747.81467,
+      "end": 1754.45468,
+      "text": "relativity, and following that thread led physicists to quantum field theory, the framework"
+    },
+    {
+      "start": 1754.45468,
+      "end": 1760.21466,
+      "text": "where particles are ripples in underlying fields and where creating and destroying particles,"
+    },
+    {
+      "start": 1760.21466,
+      "end": 1766.37466,
+      "text": "like the annihilation we just described, is natural. Quantum field theory is the language"
+    },
+    {
+      "start": 1766.37466,
+      "end": 1772.45468,
+      "text": "of the entire standard model of particle physics, our best current theory of all the known particles"
+    },
+    {
+      "start": 1772.45468,
+      "end": 1778.6147,
+      "text": "and forces. Every bit of that grows from the marriage Dirac performed, and the antimatter he"
+    },
+    {
+      "start": 1778.6147,
+      "end": 1786.1147,
+      "text": "predicted is now remarkably ordinary technology. If you've ever heard of a PET scan in a hospital,"
+    },
+    {
+      "start": 1786.1147,
+      "end": 1793.3747,
+      "text": "that's positron emission tomography. The P is positron, Dirac's anti-electron. A patient"
+    },
+    {
+      "start": 1793.3747,
+      "end": 1799.9947,
+      "text": "is given a tracer that emits positrons. Each positron meets an electron in the body and"
+    },
+    {
+      "start": 1800.0,
+      "end": 1804.88,
+      "text": "exactly as we described, into two gamma rays that fly out and get imaged."
+    },
+    {
+      "start": 1805.7599998,
+      "end": 1809.099999,
+      "text": "So antimatter, once a shocking prediction from an equation,"
+    },
+    {
+      "start": 1809.599999,
+      "end": 1812.179999,
+      "text": "is used every day to look inside people."
+    },
+    {
+      "start": 1812.32,
+      "end": 1818.26,
+      "text": "You said earlier the equation nailed the electron's magnetism, that factor of two."
+    },
+    {
+      "start": 1818.939999,
+      "end": 1821.119999,
+      "text": "Is that the end of that particular story?"
+    },
+    {
+      "start": 1821.3,
+      "end": 1824.96,
+      "text": "It's actually the beginning of the most precise story in all of science."
+    },
+    {
+      "start": 1825.96,
+      "end": 1830.999998,
+      "text": "Dirac's equation predicts the electron's magnetic strength as exactly a factor of two."
+    },
+    {
+      "start": 1831.82,
+      "end": 1836.48,
+      "text": "But quantum field theory, the deeper framework his equation opened the door to,"
+    },
+    {
+      "start": 1837.059998,
+      "end": 1842.079998,
+      "text": "adds a cascade of tiny corrections, so the true value is a hair more than two."
+    },
+    {
+      "start": 1842.64,
+      "end": 1848.739998,
+      "text": "That little excess is nicknamed g-2, and it has been both calculated from theory"
+    },
+    {
+      "start": 1848.739998,
+      "end": 1852.32,
+      "text": "and measured in the laboratory to an almost absurd precision."
+    },
+    {
+      "start": 1853.18,
+      "end": 1855.76,
+      "text": "The two agree to more than ten decimal places."
+    },
+    {
+      "start": 1856.92,
+      "end": 1861.02,
+      "text": "It is the most accurately verified prediction humanity has ever made,"
+    },
+    {
+      "start": 1861.84,
+      "end": 1865.34,
+      "text": "theory and experiment matching to a part in a trillion or so."
+    },
+    {
+      "start": 1866.24,
+      "end": 1868.86,
+      "text": "And that entire towering edifice of precision"
+    },
+    {
+      "start": 1868.86,
+      "end": 1872.5,
+      "text": "is built on the foundation stone of Dirac's factor of two."
+    },
+    {
+      "start": 1873.44,
+      "end": 1877.26,
+      "text": "So his equation didn't just get the electron's magnetism roughly right,"
+    },
+    {
+      "start": 1877.26,
+      "end": 1882.06,
+      "text": "it launched the single most stringently tested number in the history of physics."
+    },
+    {
+      "start": 1882.32,
+      "end": 1884.22,
+      "text": "And the number still holds."
+    },
+    {
+      "start": 1884.22,
+      "end": 1896.630615,
+      "text": "There something about Dirac method here I want to name because it unusual He trusted the mathematics over his intuition followed the equation even where it led somewhere absurd"
+    },
+    {
+      "start": 1897.05061,
+      "end": 1901.57061,
+      "text": "That was his whole style, and it's a genuine lesson about how physics can work."
+    },
+    {
+      "start": 1902.630615,
+      "end": 1908.33061,
+      "text": "Dirac had a deep conviction that if an equation is beautiful, mathematically clean, consistent,"
+    },
+    {
+      "start": 1908.33061,
+      "end": 1914.950615,
+      "text": "symmetric, that beauty is itself a signpost toward the truth, even when the equation predicts"
+    },
+    {
+      "start": 1914.950615,
+      "end": 1920.73061,
+      "text": "things that sound impossible. He didn't discard the negative energy solutions because his intuition"
+    },
+    {
+      "start": 1920.73061,
+      "end": 1926.81061,
+      "text": "rebelled. He trusted the equation and asked what it was trying to say, and it was trying to tell"
+    },
+    {
+      "start": 1926.81061,
+      "end": 1932.4506000000001,
+      "text": "him about a hidden half of the universe. He put it, in later years, roughly like this,"
+    },
+    {
+      "start": 1933.07062,
+      "end": 1938.03061,
+      "text": "that it is more important for one's equations to have beauty in them than to fit the experiment of"
+    },
+    {
+      "start": 1938.03061,
+      "end": 1943.63062,
+      "text": "the day, because if the mathematics is truly beautiful and sound, the experiments will"
+    },
+    {
+      "start": 1943.63062,
+      "end": 1950.1506,
+      "text": "eventually catch up. Antimatter is the ultimate vindication of that faith. It existed in the"
+    },
+    {
+      "start": 1950.1506,
+      "end": 1956.95062,
+      "text": "equations before it existed, for us, in the world. He reasoned a whole category of matter into being,"
+    },
+    {
+      "start": 1957.33061,
+      "end": 1963.35062,
+      "text": "and then the sky handed it over. So a quiet man tries to make one equation obey two theories at"
+    },
+    {
+      "start": 1963.35062,
+      "end": 1969.63062,
+      "text": "once, and out of that single demand fall the electron spin and an entire mirror world of"
+    },
+    {
+      "start": 1969.63062,
+      "end": 1976.75061,
+      "text": "antimatter, predicted on paper, found in cosmic rays, and now imaging patients in hospitals."
+    },
+    {
+      "start": 1977.2306,
+      "end": 1980.57062,
+      "text": "Thank you, George. A real pleasure. Mind the mirror."
+    }
+  ]
+}

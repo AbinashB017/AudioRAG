@@ -1,8 +1,8 @@
 # Secrets
 .env
 
-# Generated artifacts — all are reproducible, do not commit
-data/
+# Generated artifacts
+# data/ (Uncommented for Streamlit Cloud deployment)
 
 # Eval results — raw outputs, large, not committed
 eval/results/

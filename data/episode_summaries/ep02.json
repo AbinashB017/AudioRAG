@@ -1,0 +1,37 @@
+{
+  "episode_id": "ep02",
+  "episode_title": "How Black Holes Radiate, Hawking 1975",
+  "topics": [
+    "General Relativity",
+    "Quantum Field Theory",
+    "Black Hole Physics",
+    "Thermodynamics",
+    "Theoretical Physics",
+    "Information Theory"
+  ],
+  "concepts": [
+    "Event horizon",
+    "Hawking radiation",
+    "Bekenstein entropy",
+    "Black hole thermodynamics",
+    "Quantum vacuum",
+    "Virtual particles",
+    "Bogolyubov transformation",
+    "Surface gravity",
+    "Unruh effect",
+    "Black hole evaporation",
+    "Thermal spectrum",
+    "Blackbody radiation",
+    "Area theorem",
+    "Second law of thermodynamics",
+    "Information paradox",
+    "Holographic principle",
+    "Planck length",
+    "Primordial black holes",
+    "Analogue gravity",
+    "Negative energy",
+    "Mode mixing",
+    "Bekenstein bound"
+  ],
+  "description": "This episode explores Stephen Hawking's landmark 1975 discovery that black holes emit thermal radiation and eventually evaporate, unifying general relativity, quantum mechanics, and thermodynamics. It's essential for anyone interested in theoretical physics, black hole physics, or the foundational paradoxes that continue to shape our understanding of quantum gravity and information theory."
+}
