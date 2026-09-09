@@ -20,7 +20,7 @@ venv/
 *.swp
 
 # Raw audio files
-podcasts/
+# podcasts/ (Uncommented for Streamlit Cloud deployment to play audio)
 
 # Scratch/throwaway
 scratch/
