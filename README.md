@@ -13,8 +13,8 @@ The Fermi Podcast Companion is an interactive, grounded learning assistant that 
 ### Setup
 ```powershell
 # 1. Clone the repo and install dependencies
-git clone https://github.com/fermi-podcast-companion/fermi
-cd fermi
+git clone https://github.com/AbinashB017/AudioRAG.git
+cd AudioRAG
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
