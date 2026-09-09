@@ -48,12 +48,13 @@ def load_index():
 
 
 @st.cache_resource
-def build_audio_map(audio_dir: Path) -> dict[str, Path]:
-    """Map episode_id -> audio file path by scanning podcasts/."""
+def build_audio_map() -> dict[str, Path]:
+    """Map episode_id -> audio file path by scanning podcasts/ relative to this script."""
+    # Resolve relative to this file so it works both locally and on Streamlit Cloud
+    audio_dir = Path(__file__).parent / "podcasts"
     mapping = {}
+    from fermi.transcribe import episode_id_from_path
     for mp3 in audio_dir.glob("*.mp3"):
-        # episode_id is derived the same way as in transcribe.py
-        from fermi.transcribe import episode_id_from_path
         mapping[episode_id_from_path(mp3)] = mp3
     return mapping
 
@@ -81,12 +82,16 @@ def main():
     init_state()
 
     cfg, collection = load_index()
-    audio_map = build_audio_map(cfg.audio_dir)
+    audio_map = build_audio_map()
+
+    # Count distinct episodes in the index
+    all_meta = collection.get(include=["metadatas"])["metadatas"]
+    n_episodes = len({m["episode_id"] for m in all_meta}) if all_meta else 0
 
     st.title("🎙️ Fermi Podcast Companion")
     st.caption(
         f"Ask anything about the Great Papers podcast series. "
-        f"Index: {collection.count()} chunks across 5 episodes."
+        f"Index: {collection.count()} chunks across {n_episodes} episodes."
     )
 
     # ---- Replay a citation if one was clicked --------------------------------
