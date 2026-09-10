@@ -110,21 +110,28 @@ def main():
 
     # ---- Citation buttons (shown below the last assistant message) ----------
     if st.session_state.last_citations:
-        st.markdown("**Sources**:")
-        cols = st.columns(min(len(st.session_state.last_citations), 3))
+        st.markdown("---")
+        st.markdown("**📎 Sources**")
         for i, citation in enumerate(st.session_state.last_citations):
-            col = cols[i % len(cols)]
-            
-            # Check if this is an episode-level citation from a summary (no timestamp)
+            # Episode-level citations (recommendations) — no audio seek button
             if getattr(citation, "is_episode_level", False):
-                label = f"[{citation.ref}] {citation.episode_title[:30]}"
-                col.info(f"📚 **From**: {label}")
+                with st.container(border=True):
+                    st.markdown(f"**[{citation.ref}]** 📚 {citation.episode_title}")
+                    st.caption("Full episode reference")
             else:
-                ts = format_timestamp(citation.start_sec)
-                label = f"[{citation.ref}] {citation.episode_title[:30]}  {ts}"
-                if col.button(label, key=f"cite_{i}_{citation.chunk_id}"):
-                    st.session_state.playing = (citation.episode_id, citation.start_sec)
-                    st.rerun()
+                ts_start = format_timestamp(citation.start_sec)
+                ts_end   = format_timestamp(citation.end_sec)
+                with st.container(border=True):
+                    col_info, col_btn = st.columns([4, 1])
+                    with col_info:
+                        st.markdown(f"**[{citation.ref}]** {citation.episode_title}")
+                        st.caption(f"⏱ {ts_start} → {ts_end}")
+                        if citation.excerpt:
+                            st.markdown(f"*\"{citation.excerpt}\"*")
+                    with col_btn:
+                        if st.button("▶ Play", key=f"cite_{i}_{citation.chunk_id}"):
+                            st.session_state.playing = (citation.episode_id, citation.start_sec)
+                            st.rerun()
 
     # ---- Chat input ---------------------------------------------------------
     if prompt := st.chat_input("Ask about the podcast episodes…"):
