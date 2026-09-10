@@ -116,8 +116,15 @@ def main():
             # Episode-level citations (recommendations) — no audio seek button
             if getattr(citation, "is_episode_level", False):
                 with st.container(border=True):
-                    st.markdown(f"**[{citation.ref}]** 📚 {citation.episode_title}")
-                    st.caption("Full episode reference")
+                    col_info, col_btn = st.columns([4, 1])
+                    with col_info:
+                        st.markdown(f"**[{citation.ref}]** 📚 {citation.episode_title}")
+                        st.caption("Full episode reference")
+                    with col_btn:
+                        if st.button("▶ Play", key=f"cite_{i}_{citation.chunk_id}"):
+                            # Start playing from the beginning of the episode
+                            st.session_state.playing = (citation.episode_id, 0.0)
+                            st.rerun()
             else:
                 ts_start = format_timestamp(citation.start_sec)
                 ts_end   = format_timestamp(citation.end_sec)
